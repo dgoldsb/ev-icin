@@ -1,43 +1,66 @@
-Add a new recipe page to the Ev İçin website.
+Add a new recipe to the Ev İçin website.
 
 ## Inputs expected from the user
 
-- **Page number** — the page number in the source book (required, used in filename)
-- **Turkish text** — the original recipe text as it appears in the book (required)
+- **Page number** — the page number in the source book (required)
+- **Turkish text** — the original recipe text as it appears in the book (required). If the user provides a photo of the page, read it carefully — ingredients are often in two columns and must be merged in reading order.
 - **English translation** — translated name, ingredients, and instructions (required)
 
 ## File naming
 
-`recipes/p{PAGE_NUMBER}_{snake_case_name}.html`
+`recipes/p{PAGE_NUMBER}_{snake_case_name}.json`
 
 - Page number is zero-padded to 3 digits: page 7 → `007`, page 42 → `042`
-- Snake case name is derived from the Turkish recipe name: lowercase, spaces → underscores, normalize Turkish characters (ç→c, ş→s, ğ→g, ü→u, ö→o, ı→i)
-- Example: page 42, "Izgara Köfte" → `recipes/p042_izgara_kofte.html`
+- Snake case name derived from the Turkish recipe name: lowercase, spaces → underscores, normalize Turkish characters (ç→c, ş→s, ğ→g, ü→u, ö→o, ı→i)
+- Example: page 42, "Izgara Köfte" → `recipes/p042_izgara_kofte.json`
 
 ## Turkish text rule
 
-**Do not alter the Turkish text in any way.** Copy it exactly as provided — spelling, punctuation, line breaks, and all. Wrap each paragraph in `<p>` tags, splitting on blank lines. Do not parse, rephrase, correct, or restructure it.
+**Do not alter the Turkish text in any way.** Copy it exactly as it appears in the source — spelling, punctuation, and all. Store each paragraph or line as a separate string in the `turkish` array.
+
+## JSON structure
+
+```json
+{
+  "page": 56,
+  "slug": "p056_et_suyu",
+  "name_tr": "ET SUYU",
+  "name_en": "Meat Broth",
+  "turkish": [
+    "Ölçüler:",
+    "İstenilen miktar kemik",
+    "...",
+    "İşlemler:",
+    "1 — ..."
+  ],
+  "ingredients_en": [
+    "Ingredient one",
+    "Ingredient two"
+  ],
+  "instructions_en": [
+    "Step one.",
+    "Step two."
+  ],
+  "notes_en": "Optional note (omit field if none)",
+  "variations": [
+    {
+      "name_tr": "TANELİ SEBZE ÇORBASI",
+      "name_en": "Chunky Vegetable Soup",
+      "description_en": "Description of the variation."
+    }
+  ]
+}
+```
+
+Omit `notes_en` and `variations` if not present in the recipe.
 
 ## Steps
 
-1. Derive the filename from the page number and Turkish recipe name.
+1. Create `recipes/p{PAGE_NUMBER}_{slug}.json` with the structure above.
 
-2. Copy `recipes/_template.html` as the starting point. Replace all placeholder values:
-   - `RECIPE_NAME_TR` — Turkish recipe name
-   - `RECIPE_NAME_EN` — English recipe name
-   - `TURKISH_TEXT_VERBATIM` — the Turkish text, split into `<p>` blocks on blank lines, unmodified
-   - `PAGE_NUMBER` — the source book page number
-
-3. Fill in the English translation section with structured ingredients and instructions.
-
-4. Add a link to `index.html` inside `<ul id="recipe-list">`, in page-number order:
-   ```html
-   <li>
-     <a href="recipes/FILENAME.html">
-       <span>RECIPE_NAME_TR — RECIPE_NAME_EN</span>
-       <span class="page-num">p. PAGE_NUMBER</span>
-     </a>
-   </li>
+2. Add an entry to `index.json` in page-number order:
+   ```json
+   { "page": 56, "slug": "p056_et_suyu", "name_tr": "ET SUYU", "name_en": "Meat Broth" }
    ```
 
-5. Report the file path created.
+3. Report the file path created.

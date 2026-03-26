@@ -14,21 +14,28 @@
     <nav class="toc">
       <h2>Tarifler / Recipes</h2>
       <ul id="recipe-list">
-        <!-- recipes added here -->
-        <li>
-          <a href="recipes/p056_et_suyu.html">
-            <span>ET SUYU — Meat Broth</span>
-            <span class="page-num">p. 56</span>
-          </a>
-        </li>
-        <li>
-          <a href="recipes/p057_ezme_sebze_corbasi.html">
-            <span>EZME SEBZE ÇORBASI — Puréed Vegetable Soup</span>
-            <span class="page-num">p. 57</span>
-          </a>
-        </li>
+        <li class="loading">Loading…</li>
       </ul>
     </nav>
   </main>
+  <script>
+    fetch('index.json')
+      .then(r => r.json())
+      .then(recipes => {
+        const list = document.getElementById('recipe-list');
+        list.innerHTML = recipes.map(r => `
+          <li>
+            <a href="recipe.html?id=${r.slug}">
+              <span>${r.name_tr} — ${r.name_en}</span>
+              <span class="page-num">p. ${r.page}</span>
+            </a>
+          </li>
+        `).join('');
+      })
+      .catch(() => {
+        document.getElementById('recipe-list').innerHTML =
+          '<li class="error">Could not load recipe list.</li>';
+      });
+  </script>
 </body>
 </html>

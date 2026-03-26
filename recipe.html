@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ev İçin</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <a href="index.html" class="back-link">← Ev İçin</a>
+    <h1 id="title">…</h1>
+  </header>
+  <main id="content"></main>
+  <script>
+    const id = new URLSearchParams(window.location.search).get('id');
+
+    if (!id) {
+      document.getElementById('title').textContent = 'Recipe not found';
+    } else {
+      fetch(`recipes/${id}.json`)
+        .then(r => {
+          if (!r.ok) throw new Error('not found');
+          return r.json();
+        })
+        .then(render)
+        .catch(() => {
+          document.getElementById('title').textContent = 'Recipe not found';
+          document.getElementById('content').innerHTML =
+            '<p>Could not load this recipe.</p>';
+        });
+    }
+
+    function render(r) {
+      document.title = `${r.name_tr} — Ev İçin`;
+      document.getElementById('title').textContent = r.name_tr;
+
+      const parts = [];
+
+      // Turkish original
+      parts.push(`
+        <section class="recipe-turkish" lang="tr">
+          ${r.turkish.map(p => `<p>${p}</p>`).join('\n          ')}
+        </section>
+      `);
+
+      // English translation
+      const ingredients = r.ingredients_en.map(i => `<li>${i}</li>`).join('\n            ');
+      const instructions = r.instructions_en.map(s => `<li>${s}</li>`).join('\n            ');
+
+      let englishHTML = `
+        <section class="recipe-english" lang="en">
+          <h2>${r.name_en}</h2>
+
+          <h3>Ingredients</h3>
+          <ul>
+            ${ingredients}
+          </ul>
+
+          <h3>Instructions</h3>
+          <ol>
+            ${instructions}
+          </ol>
+      `;
+
+      if (r.notes_en) {
+        englishHTML += `\n          <p><strong>Note:</strong> ${r.notes_en}</p>`;
+      }
+
+      if (r.variations && r.variations.length > 0) {
+        r.variations.forEach(v => {
+          englishHTML += `
+          <h3>Variation: ${v.name_en} (${v.name_tr})</h3>
+          <p>${v.description_en}</p>`;
+        });
+      }
+
+      englishHTML += '\n        </section>';
+      parts.push(englishHTML);
+
+      parts.push(`<p class="page-source">p. ${r.page}</p>`);
+
+      document.getElementById('content').innerHTML = parts.join('\n');
+    }
+  </script>
+</body>
+</html>
