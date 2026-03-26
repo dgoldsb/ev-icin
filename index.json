@@ -1,4 +1,8 @@
 [
   { "page": 56, "slug": "p056_et_suyu", "name_tr": "ET SUYU", "name_en": "Meat Broth" },
-  { "page": 57, "slug": "p057_ezme_sebze_corbasi", "name_tr": "EZME SEBZE ÇORBASI", "name_en": "Puréed Vegetable Soup" }
+  { "page": 57, "page_end": 58, "slug": "p057_ezme_sebze_corbasi", "name_tr": "EZME SEBZE ÇORBASI", "name_en": "Puréed Vegetable Soup" },
+  { "page": 59, "slug": "p059_yesil_borc", "name_tr": "YEŞİL BORÇ", "name_en": "Green Borscht" },
+  { "page": 60, "slug": "p060_yogurt_corbasi", "name_tr": "YOĞURT ÇORBASI", "name_en": "Yogurt Soup" },
+  { "page": 61, "slug": "p061_kirmizi_mercimek_corbasi", "name_tr": "KIRMIZI MERCİMEK ÇORBASI", "name_en": "Red Lentil Soup" },
+  { "page": 62, "slug": "p062_domates_corbasi", "name_tr": "DOMATES ÇORBASI", "name_en": "Tomato Soup" }
 ]

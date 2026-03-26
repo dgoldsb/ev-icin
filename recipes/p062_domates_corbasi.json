@@ -1,0 +1,44 @@
+{
+  "page": 62,
+  "slug": "p062_domates_corbasi",
+  "name_tr": "DOMATES ÇORBASI",
+  "name_en": "Tomato Soup",
+  "ingredients_tr": [
+    "5 su bardağı et suyu",
+    "5 orta boy domates veya iki çorba kaşığı domates salçası",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "2 çorba kaşığı un",
+    "4 dilim bayat ekmek",
+    "3 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Un, yağ az ateşte pembeleşmeden kavrulur.",
+    "Rendelenmiş domates veya bir bardak su ile sulandırılmış domates salçası, et suyu birden konup karıştırılır. Tuz atılır.",
+    "Birkaç taşım kaynatılır. Kaşıkla ezerek tel süzgeçten süzülür. Bir taşım daha kaynatılıp ateşten alınır.",
+    "Küçük parçalara doğranarak fırında veya yağda kızartılmış ekmekle servis yapılır."
+  ],
+  "notes_tr": "Besin bilgisi: Kas dokusunun çalışması, sinirlerin uyarımı, vücutta asit, baz dengesinin sağlanmasına yardımcı olan sodyum, yiyeceklerimize lezzet veren sofra tuzunda bulunur. Fazla alınması halinde vücutta ödem görülür. Ayrıca karbonat dediğimiz yemek sodası, kabartma tozu da sodyumdan zengindir. Normal şartlarda 7.5-18 gr. sofra tuzu bireyin günlük sodyum ihtiyacını karşılar.",
+  "variations": [
+    {
+      "name_tr": "ŞAFAK ÇORBASI",
+      "name_en": "Dawn Soup",
+      "description_tr": "Domates çorbasındaki ölçü ve işlemler aynen uygulanarak çorba hazırlanır. Bir su bardağı süt, iki yumurta sarısı ile hazırlanan terbiye karıştırarak katılır. Bir taşım kaynatılıp ateşten alınır.",
+      "description_en": "Prepare the soup following the same measurements and steps as the tomato soup. Stir in a thickener made from one cup of milk whisked with two egg yolks. Bring to one boil and remove from heat."
+    }
+  ],
+  "ingredients_en": [
+    "5 cups meat broth",
+    "5 medium tomatoes or 2 tablespoons tomato paste",
+    "2 matchbox-sized pieces of butter",
+    "2 tablespoons flour",
+    "4 slices of stale bread",
+    "3 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Sauté the flour in the butter on low heat without browning.",
+    "Add the grated tomatoes or the tomato paste diluted in one cup of water, along with the meat broth, all at once. Stir and add the salt.",
+    "Bring to a few boils. Press through a fine strainer with a spoon. Bring to one more boil and remove from heat.",
+    "Serve with bread cut into small pieces and toasted in the oven or fried in oil."
+  ],
+  "notes_en": "Nutritional note: Sodium, which supports muscle function, nerve stimulation, and the body's acid-base balance, is found in table salt, which adds flavour to our food. Excess consumption causes edema in the body. Baking soda and baking powder are also rich in sodium. Under normal conditions, 7.5–18 g of table salt meets an individual's daily sodium needs."
+}

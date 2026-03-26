@@ -1,0 +1,48 @@
+{
+  "page": 61,
+  "slug": "p061_kirmizi_mercimek_corbasi",
+  "name_tr": "KIRMIZI MERCİMEK ÇORBASI",
+  "name_en": "Red Lentil Soup",
+  "ingredients_tr": [
+    "1,5 su bardağı kırmızı mercimek",
+    "2 orta boy soğan",
+    "3 kibrit kutusu büyüklüğünde yağ",
+    "1 çay kaşığı kırmızı biber",
+    "1 su bardağı süt",
+    "2 yumurta sarısı",
+    "3,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Ayıklanıp yıkanmış mercimek dört su bardağı su ile ateşe konur. Ağzı kapatılarak hafif ateşte yarım saat haşlanır.",
+    "Ayrı tencerede rendelenmiş soğan, yağın yarısı ile sararıncaya kadar kavrulur. Un konup birkaç kere de unla çevrilir.",
+    "Suyuyla birlikte haşlanmış mercimek, tuz, dört su bardağı su kavrulan soğanın üzerine ilave edilir. On beş dakika daha pişirilir.",
+    "Kaşıkla ezerek süzgeçten geçirilir. Tekrar ateşe konur. Kaynayınca çarpılmış yumurta ve süt karışımı katılır. Karıştırarak bir taşım kaynatılıp ateşten alınır.",
+    "Kalan yağ kızdırılır. Kırmızı biber konup üzerine gezdirilir."
+  ],
+  "notes_tr": "Genel bilgi: Rendelenerek yağda kavrulması gereken soğanın, kavururken tencereye yapışmasını önlemek için, rendelenmiş soğan kızdırılmış yağa atılmalı.",
+  "variations": [
+    {
+      "name_tr": "TANELİ MERCİMEK ÇORBASI",
+      "name_en": "Chunky Lentil Soup",
+      "description_tr": "Aynı ölçü ve işlemlere uyularak süzülmeden hazırlanır. Süt, yumurta sarısı ile yapılan terbiye yerine, bir limon suyu, iki yumurta sarısı ile çarpılıp, yarım su bardağı soğuk su karıştırılmış terbiye, ince kıyılmış maydanoz katılır.",
+      "description_en": "Prepare with the same measurements and steps but do not strain. Instead of the milk and egg yolk mixture, use a thickener of one lemon's juice whisked with two egg yolks and half a cup of cold water. Add finely chopped parsley."
+    }
+  ],
+  "ingredients_en": [
+    "1.5 cups red lentils",
+    "2 medium onions",
+    "3 matchbox-sized pieces of butter",
+    "1 teaspoon red pepper",
+    "1 cup milk",
+    "2 egg yolks",
+    "3.5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Place the sorted and washed lentils in a pot with four cups of water. Cover and cook on low heat for half an hour.",
+    "In a separate pot, sauté the grated onion in half the butter until golden. Add flour and stir a few times.",
+    "Add the cooked lentils with their water, the salt, and four cups of water to the sautéed onion. Cook for a further fifteen minutes.",
+    "Press through a strainer with a spoon. Return to heat. Once boiling, add the whisked egg yolk and milk mixture. Stir and bring to one boil, then remove from heat.",
+    "Heat the remaining butter. Add the red pepper and drizzle over the soup."
+  ],
+  "notes_en": "General note: To prevent grated onion from sticking to the pot while sautéing, always add it to already-heated butter."
+}

@@ -1,0 +1,46 @@
+{
+  "page": 60,
+  "slug": "p060_yogurt_corbasi",
+  "name_tr": "YOĞURT ÇORBASI",
+  "name_en": "Yogurt Soup",
+  "ingredients_tr": [
+    "2 su bardağı yoğurt",
+    "Yarım su bardağı pirinç",
+    "1 yumurta",
+    "1 çorba kaşığı un",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "1 çorba kaşığı kuru nane veya kekik",
+    "1 çay kaşığı kırmızı biber",
+    "3,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Yumurta, un, yoğurt, ayıklanıp yıkanmış pirinç, çorba tenceresinde iyice karıştırılır. Dört su bardağı su ilave edilerek öteşe konur.",
+    "Kaynayıncaya kadar sürekli karıştırılır. Kaynamağa başlayınca dört su bardağı kaynar su, tuz ilave edilir. Kapak kapatılarak hafif ateşte pirinçler uzayıncaya kadar pişirilir.",
+    "Ocaktan alınır. Üzerine ufalanmış kuru nane serpilir. Kızdırılmış kırmızı biberli yağ gezdirilir."
+  ],
+  "notes_tr": "Not: Tencereye konan malzeme kaynayıncaya kadar, karıştırılmadan ateş üzerinde kaynamağa terkedilirse, yoğurt kesilir, sulanır, çorba bozulur. Genel bilgi: Pürtüklü yoğurt güvenli sayılmaz. Normal kıvamda, ekşimsi tatta ve düzgün yoğurtta mikrop bulunmaz.",
+  "variations": [
+    {
+      "name_tr": "PİRİNÇSİZ YOĞURT ÇORBASI",
+      "name_en": "Yogurt Soup without Rice",
+      "description_tr": "Su miktarı toplam altı bardağa indirilip, un miktarı iki buçuk çorba kaşığına çıkarılır. Diğer ölçü ve işlemler aynen uygulanarak pirinç konmadan pişirilir.",
+      "description_en": "Reduce the total water to six cups and increase the flour to two and a half tablespoons. Follow the same measurements and steps but omit the rice."
+    }
+  ],
+  "ingredients_en": [
+    "2 cups yogurt",
+    "Half a cup of rice",
+    "1 egg",
+    "1 tablespoon flour",
+    "2 matchbox-sized pieces of butter",
+    "1 tablespoon dried mint or thyme",
+    "1 teaspoon red pepper",
+    "3.5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Combine the egg, flour, yogurt, and rinsed rice in a soup pot and mix well. Add four cups of water and put on the heat.",
+    "Stir constantly until it comes to a boil. Once boiling, add four more cups of boiling water and the salt. Cover and cook on low heat until the rice is cooked through.",
+    "Remove from heat. Sprinkle crumbled dried mint on top. Drizzle with butter heated with red pepper."
+  ],
+  "notes_en": "Note: If the mixture is left unstirred over the heat until it boils, the yogurt will curdle, become watery, and the soup will be ruined. General note: Lumpy yogurt is not considered safe. Yogurt that is normally thick, slightly sour, and smooth contains no harmful bacteria."
+}
