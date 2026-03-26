@@ -3,15 +3,15 @@
   "slug": "p056_et_suyu",
   "name_tr": "ET SUYU",
   "name_en": "Meat Broth",
-  "turkish": [
-    "Ölçüler:",
+  "ingredients_tr": [
     "İstenilen miktar kemik",
     "1 çorba kaşığı limon suyu veya sirke",
     "1 adet havuç",
     "1 orta boy soğan",
     "1-2 dal kereviz veya bol ca maydanoz sapları",
-    "1 çay kaşığı tane karabiber",
-    "İşlemler:",
+    "1 çay kaşığı tane karabiber"
+  ],
+  "instructions_tr": [
     "1 — Yıkanmış kemik bol su ile ateşe konur. Kaynayınca üzerinde biriken köpük alınır.",
     "2 — Karabiber, sirke veya limon suyu, temizlenerek parçalara kesilmiş havuç, soğan, kereviz veya maydanoz konur. Hafif ateşte bir buçuk iki saat pişirilir.",
     "3 — Süzgeçten süzülür. İstenilen yerde kullanılır."

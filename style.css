@@ -60,6 +60,25 @@ header h1 {
   font-size: 0.9rem;
 }
 
+/* Recipe page header */
+.header-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.lang-toggle {
+  font-size: 0.85rem;
+  color: #888;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.lang-toggle:hover {
+  color: #8b4513;
+}
+
 /* Recipe page */
 .back-link {
   display: inline-block;
@@ -73,44 +92,32 @@ header h1 {
   color: #8b4513;
 }
 
-.recipe-turkish {
-  margin-bottom: 3rem;
-}
-
-.recipe-turkish h1 {
-  font-size: 1.8rem;
-  margin-bottom: 1.5rem;
-}
-
-.recipe-english {
-  border-top: 2px solid #e0ddd8;
-  padding-top: 2rem;
-  color: #444;
-}
-
-.recipe-english h2 {
-  font-size: 1.3rem;
-  color: #777;
-  margin-bottom: 1rem;
-  font-style: italic;
-  font-weight: normal;
-}
-
-.recipe-english h3 {
-  font-size: 1rem;
+.recipe-content h2 {
+  font-size: 1.1rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  color: #888;
+  margin: 2rem 0 0.5rem;
+}
+
+.recipe-content h3 {
+  font-size: 1rem;
   color: #888;
   margin: 1.5rem 0 0.5rem;
 }
 
-.recipe-english ul,
-.recipe-english ol {
+.recipe-content ul,
+.recipe-content ol {
   padding-left: 1.5rem;
 }
 
-.recipe-english li {
+.recipe-content li {
   margin-bottom: 0.3rem;
+}
+
+.recipe-note {
+  margin-top: 1.5rem;
+  color: #555;
 }
 
 .page-source {

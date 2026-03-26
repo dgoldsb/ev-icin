@@ -20,19 +20,23 @@ Add a new recipe to the Ev İçin website.
 
 ## JSON structure
 
+Both languages use the same fields, with `_tr` and `_en` suffixes. The renderer applies an identical template to both, so structure must be consistent.
+
 ```json
 {
   "page": 56,
   "slug": "p056_et_suyu",
   "name_tr": "ET SUYU",
   "name_en": "Meat Broth",
-  "turkish": [
-    "Ölçüler:",
+  "ingredients_tr": [
     "İstenilen miktar kemik",
-    "...",
-    "İşlemler:",
-    "1 — ..."
+    "1 çorba kaşığı limon suyu veya sirke"
   ],
+  "instructions_tr": [
+    "1 — Yıkanmış kemik bol su ile ateşe konur.",
+    "2 — ..."
+  ],
+  "notes_tr": "Optional Turkish note (omit field if none)",
   "ingredients_en": [
     "Ingredient one",
     "Ingredient two"
@@ -41,18 +45,19 @@ Add a new recipe to the Ev İçin website.
     "Step one.",
     "Step two."
   ],
-  "notes_en": "Optional note (omit field if none)",
+  "notes_en": "Optional English note (omit field if none)",
   "variations": [
     {
       "name_tr": "TANELİ SEBZE ÇORBASI",
       "name_en": "Chunky Vegetable Soup",
-      "description_en": "Description of the variation."
+      "description_tr": "Turkish description.",
+      "description_en": "English description."
     }
   ]
 }
 ```
 
-Omit `notes_en` and `variations` if not present in the recipe.
+Omit `notes_tr`, `notes_en`, and `variations` if not present in the recipe.
 
 ## Steps
 

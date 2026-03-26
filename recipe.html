@@ -9,11 +9,25 @@
 <body>
   <header>
     <a href="index.html" class="back-link">← Ev İçin</a>
-    <h1 id="title">…</h1>
+    <div class="header-row">
+      <h1 id="title">…</h1>
+      <a id="lang-toggle" class="lang-toggle"></a>
+    </div>
   </header>
   <main id="content"></main>
   <script>
-    const id = new URLSearchParams(window.location.search).get('id');
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    const lang = params.get('lang') === 'en' ? 'en' : 'tr';
+    const suffix = lang === 'tr' ? '_tr' : '_en';
+
+    document.documentElement.lang = lang;
+
+    function toggleURL() {
+      const next = new URLSearchParams(window.location.search);
+      lang === 'tr' ? next.set('lang', 'en') : next.delete('lang');
+      return `?${next.toString()}`;
+    }
 
     if (!id) {
       document.getElementById('title').textContent = 'Recipe not found';
@@ -26,61 +40,58 @@
         .then(render)
         .catch(() => {
           document.getElementById('title').textContent = 'Recipe not found';
-          document.getElementById('content').innerHTML =
-            '<p>Could not load this recipe.</p>';
+          document.getElementById('content').innerHTML = '<p>Could not load this recipe.</p>';
         });
     }
 
     function render(r) {
-      document.title = `${r.name_tr} — Ev İçin`;
-      document.getElementById('title').textContent = r.name_tr;
+      const name = r[`name${suffix}`];
+      const ingredients = r[`ingredients${suffix}`];
+      const instructions = r[`instructions${suffix}`];
+      const notes = r[`notes${suffix}`];
 
-      const parts = [];
+      document.title = `${name} — Ev İçin`;
+      document.getElementById('title').textContent = name;
 
-      // Turkish original
-      parts.push(`
-        <section class="recipe-turkish" lang="tr">
-          ${r.turkish.map(p => `<p>${p}</p>`).join('\n          ')}
-        </section>
-      `);
+      const toggle = document.getElementById('lang-toggle');
+      toggle.href = toggleURL();
+      toggle.textContent = lang === 'tr' ? 'English' : 'Türkçe';
 
-      // English translation
-      const ingredients = r.ingredients_en.map(i => `<li>${i}</li>`).join('\n            ');
-      const instructions = r.instructions_en.map(s => `<li>${s}</li>`).join('\n            ');
+      const headings = lang === 'tr'
+        ? { ingredients: 'Malzemeler', instructions: 'İşlemler', note: 'Not', variation: 'Çeşit' }
+        : { ingredients: 'Ingredients', instructions: 'Instructions', note: 'Note', variation: 'Variation' };
 
-      let englishHTML = `
-        <section class="recipe-english" lang="en">
-          <h2>${r.name_en}</h2>
-
-          <h3>Ingredients</h3>
+      let html = `
+        <section class="recipe-content">
+          <h2>${headings.ingredients}</h2>
           <ul>
-            ${ingredients}
+            ${ingredients.map(i => `<li>${i}</li>`).join('\n            ')}
           </ul>
 
-          <h3>Instructions</h3>
+          <h2>${headings.instructions}</h2>
           <ol>
-            ${instructions}
+            ${instructions.map(s => `<li>${s}</li>`).join('\n            ')}
           </ol>
       `;
 
-      if (r.notes_en) {
-        englishHTML += `\n          <p><strong>Note:</strong> ${r.notes_en}</p>`;
+      if (notes) {
+        html += `\n          <p class="recipe-note"><strong>${headings.note}:</strong> ${notes}</p>`;
       }
 
       if (r.variations && r.variations.length > 0) {
         r.variations.forEach(v => {
-          englishHTML += `
-          <h3>Variation: ${v.name_en} (${v.name_tr})</h3>
-          <p>${v.description_en}</p>`;
+          const vname = v[`name${suffix}`];
+          const vdesc = v[`description${suffix}`];
+          html += `
+          <h3>${headings.variation}: ${vname}</h3>
+          <p>${vdesc}</p>`;
         });
       }
 
-      englishHTML += '\n        </section>';
-      parts.push(englishHTML);
+      html += `\n        </section>
+        <p class="page-source">p. ${r.page}</p>`;
 
-      parts.push(`<p class="page-source">p. ${r.page}</p>`);
-
-      document.getElementById('content').innerHTML = parts.join('\n');
+      document.getElementById('content').innerHTML = html;
     }
   </script>
 </body>

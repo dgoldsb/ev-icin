@@ -3,8 +3,7 @@
   "slug": "p057_ezme_sebze_corbasi",
   "name_tr": "EZME SEBZE ÇORBASI",
   "name_en": "Puréed Vegetable Soup",
-  "turkish": [
-    "Ölçüler:",
+  "ingredients_tr": [
     "8 su bardağı et suyu veya su",
     "2 çorba kaşığı pirinç",
     "1 çorba kaşığı un",
@@ -19,16 +18,23 @@
     "1-2 dal lahana yaprağı",
     "1 orta boy patates",
     "1 orta boy pırasa",
-    "4 çay kaşığı tuz",
-    "İşlemler:",
+    "4 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
     "1 — Sebzeler yıkanır, ayıklanır, doğranır.",
     "2 — İnce doğranmış soğan yağla hafif pembeleştirilir. Un konup birkaç kere karıştırılır.",
     "3 — İlk et suyu veya soğuk su birden ilave edilir. Hazırlanmış sebzeler, ayıklanıp yıkanmış pirinç katılır. Sebzeler yumuşayıncaya kadar hafif ateşte pişirilir.",
     "4 — Süzgece alınır. Ezerek başka tencereye geçirilir. Tekrar ateşe konur. Tuzu atılıp kaynatılır.",
-    "5 — Yumurta sarıları çatalla çarpılır. Soğuk süt katılır. Kaynayan çorbaya karıştırarak ilave edilir. Kaynama derecesinde ateşten alınır.",
-    "Not: Sebze çorbası her mevsim sebzeleri ile aynı şekilde hazırlanır. Sebze çeşidi istenildiği kadar artırılabilir.",
-    "TANELİ SEBZE ÇORBASI:",
-    "Sebzelerin sert olanları küçük küplere, yaprak olanlar küçük parçalara doğranıp süzmeden aynı şekilde yapılır."
+    "5 — Yumurta sarıları çatalla çarpılır. Soğuk süt katılır. Kaynayan çorbaya karıştırarak ilave edilir. Kaynama derecesinde ateşten alınır."
+  ],
+  "notes_tr": "Sebze çorbası her mevsim sebzeleri ile aynı şekilde hazırlanır. Sebze çeşidi istenildiği kadar artırılabilir.",
+  "variations": [
+    {
+      "name_tr": "TANELİ SEBZE ÇORBASI",
+      "name_en": "Chunky Vegetable Soup",
+      "description_tr": "Sebzelerin sert olanları küçük küplere, yaprak olanlar küçük parçalara doğranıp süzmeden aynı şekilde yapılır.",
+      "description_en": "Cut the firmer vegetables into small cubes and the leafy vegetables into small pieces. Prepare in the same way but do not strain."
+    }
   ],
   "ingredients_en": [
     "8 cups meat broth or water",
@@ -54,12 +60,5 @@
     "Transfer to a strainer and press through into another pot. Return to heat, season with salt, and bring to a boil.",
     "Beat the egg yolks with a fork. Stir in the cold milk. Add to the boiling soup while stirring. Remove from heat just as it reaches boiling point."
   ],
-  "notes_en": "Vegetable soup can be made the same way with whatever vegetables are in season. The variety of vegetables can be increased as desired.",
-  "variations": [
-    {
-      "name_tr": "TANELİ SEBZE ÇORBASI",
-      "name_en": "Chunky Vegetable Soup",
-      "description_en": "Cut the firmer vegetables into small cubes and the leafy vegetables into small pieces. Prepare in the same way but do not strain."
-    }
-  ]
+  "notes_en": "Vegetable soup can be made the same way with whatever vegetables are in season. The variety of vegetables can be increased as desired."
 }
