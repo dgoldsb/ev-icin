@@ -16,7 +16,7 @@ Add a new recipe to the Ev İçin website.
 
 ## Turkish text rule
 
-**Do not alter the Turkish text in any way.** Copy it exactly as it appears in the source — spelling, punctuation, and all. Store each paragraph or line as a separate string in the `turkish` array.
+Copy Turkish text exactly as it appears in the source — spelling, punctuation, and all — with one exception: **remove the leading step number from each instruction** (e.g. "1 — " or "2 — ") before storing in `instructions_tr`. The `<ol>` element provides numbering automatically; keeping it in the text would duplicate it.
 
 ## JSON structure
 

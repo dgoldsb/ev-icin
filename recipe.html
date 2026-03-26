@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <a href="index.html" class="back-link">← Ev İçin</a>
+    <nav class="page-nav" id="page-nav" aria-label="Recipe navigation"></nav>
     <div class="header-row">
       <h1 id="title">…</h1>
       <a id="lang-toggle" class="lang-toggle"></a>
@@ -29,15 +29,24 @@
       return `?${next.toString()}`;
     }
 
+    function recipeURL(slug) {
+      const next = new URLSearchParams();
+      next.set('id', slug);
+      if (lang === 'en') next.set('lang', 'en');
+      return `?${next.toString()}`;
+    }
+
     if (!id) {
       document.getElementById('title').textContent = 'Recipe not found';
     } else {
-      fetch(`recipes/${id}.json`)
-        .then(r => {
-          if (!r.ok) throw new Error('not found');
-          return r.json();
+      Promise.all([
+        fetch(`recipes/${id}.json`).then(r => { if (!r.ok) throw new Error(); return r.json(); }),
+        fetch('index.json').then(r => r.json())
+      ])
+        .then(([recipe, index]) => {
+          render(recipe);
+          renderNav(index);
         })
-        .then(render)
         .catch(() => {
           document.getElementById('title').textContent = 'Recipe not found';
           document.getElementById('content').innerHTML = '<p>Could not load this recipe.</p>';
@@ -92,6 +101,23 @@
         <p class="page-source">p. ${r.page}</p>`;
 
       document.getElementById('content').innerHTML = html;
+    }
+
+    function renderNav(index) {
+      const i = index.findIndex(r => r.slug === id);
+      const prev = index[i - 1] ?? null;
+      const next = index[i + 1] ?? null;
+
+      const prevLink = prev
+        ? `<a class="page-nav-arrow" href="${recipeURL(prev.slug)}" title="p. ${prev.page}">←</a>`
+        : `<span class="page-nav-arrow page-nav-disabled">←</span>`;
+
+      const nextLink = next
+        ? `<a class="page-nav-arrow" href="${recipeURL(next.slug)}" title="p. ${next.page}">→</a>`
+        : `<span class="page-nav-arrow page-nav-disabled">→</span>`;
+
+      document.getElementById('page-nav').innerHTML =
+        `${prevLink}<a class="page-nav-index" href="index.html">Ev İçin</a>${nextLink}`;
     }
   </script>
 </body>
