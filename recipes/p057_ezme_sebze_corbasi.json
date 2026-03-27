@@ -23,7 +23,7 @@
   "instructions_tr": [
     "Sebzeler yıkanır, ayıklanır, doğranır.",
     "İnce doğranmış soğan yağla hafif pembeleştirilir. Un konup birkaç kere karıştırılır.",
-    "İlk et suyu veya soğuk su birden ilave edilir. Hazırlanmış sebzeler, ayıklanıp yıkanmış pirinç katılır. Sebzeler yumuşayıncaya kadar hafif ateşte pişirilir.",
+    "Ilık et suyu veya soğuk su birden ilave edilir. Hazırlanmış sebzeler, ayıklanıp yıkanmış pirinç katılır. Sebzeler yumuşayıncaya kadar hafif ateşte pişirilir.",
     "Süzgece alınır. Ezerek başka tencereye geçirilir. Tekrar ateşe konur. Tuzu atılıp kaynatılır.",
     "Yumurta sarıları çatalla çarpılır. Soğuk süt katılır. Kaynayan çorbaya karıştırarak ilave edilir. Kaynama derecesinde ateşten alınır."
   ],
@@ -38,8 +38,8 @@
     {
       "name_tr": "EZME BEZELYE ÇORBASI",
       "name_en": "Puréed Pea Soup",
-      "description_tr": "Sebze çorbasındaki sebzeler yerine iki su bardağı iç bezelye ve bir orta boy patates kullanılır. Pirinç konmadan, diğer ölçü ve işlemler aynen uygulanarak hazırlanır.",
-      "description_en": "Replace the vegetables with two cups of shelled peas and one medium potato. Prepare in the same way, omitting the rice."
+      "description_tr": "Sebze çorbasındaki sebzeler yerine iki su bardağı iç bezelye, bir küçük havuç, bir orta boy patates kullanılır. Pirinç konmadan, diğer ölçü ve işlemler aynen uygulanarak hazırlanır.",
+      "description_en": "Replace the vegetables with two cups of shelled peas, one small carrot, and one medium potato. Prepare in the same way, omitting the rice."
     }
   ],
   "ingredients_en": [
@@ -62,7 +62,7 @@
   "instructions_en": [
     "Wash, clean, and chop the vegetables.",
     "Gently sauté the finely chopped onion in butter until just softened and pale pink. Add the flour and stir a few times.",
-    "Add the meat broth or cold water all at once. Add the prepared vegetables and the rinsed rice. Cook on low heat until the vegetables are tender.",
+    "Add the lukewarm meat broth or cold water all at once. Add the prepared vegetables and the rinsed rice. Cook on low heat until the vegetables are tender.",
     "Transfer to a strainer and press through into another pot. Return to heat, season with salt, and bring to a boil.",
     "Beat the egg yolks with a fork. Stir in the cold milk. Add to the boiling soup while stirring. Remove from heat just as it reaches boiling point."
   ],

@@ -1,0 +1,52 @@
+{
+  "page": 80,
+  "slug": "p080_pirzola_pane",
+  "name_tr": "PİRZOLA PANE",
+  "name_en": "Breaded Lamb Cutlets",
+  "ingredients_tr": [
+    "12 adet yağsız koyun veya kuzu pirzolası",
+    "Yarım su bardağı kaşar peyniri rendesi",
+    "Yarım su bardağı un",
+    "1 su bardağı galeta tozu",
+    "1 çay kaşığı karabiber",
+    "1 su bardağı kızartmalık yağ",
+    "Tuz",
+    "3 yumurta"
+  ],
+  "instructions_tr": [
+    "Akı sarısı karışıncaya kadar çarpılmış yumurtaya, yarım çay kaşığı karabiber, kaşar peyniri rendesi konup karıştırılır.",
+    "Karabiber, tuz serpilmiş pirzolalar una balanıp, yumurtalı karışıma sonra galetaya batırılır. Elle düzeltilerek kızgın yağda kızartılır. Kağıt yayılmış tepsiye alınır.",
+    "Servis tabağına sıralanır. Araları maydanoz dalları ile süslenir. Kızarmış patatesle sıcak olarak servis yapılır."
+  ],
+  "variations": [
+    {
+      "name_tr": "BİFTEK PANE (şinitsel)",
+      "name_en": "Breaded Beef Steak (Schnitzel)",
+      "description_tr": "Birer kişilik parçalara kesilerek, ince dövülmüş dana etine, aynı ölçü ve işlemler uygulanarak şinitsel yapılır.",
+      "description_en": "Cut veal into individual portions, pound thin, and prepare using the same quantities and method to make schnitzel."
+    },
+    {
+      "name_tr": "CİĞER PANE",
+      "name_en": "Breaded Liver",
+      "description_tr": "Yıkanıp zarları soyulmuş, yarım parmak incelikte dilimlere kesilmiş kuzu veya koyun ciğerine, aynı ölçü ve işlemler uygulanarak hazırlanır.",
+      "description_en": "Wash the lamb or mutton liver, remove the membrane, and cut into slices half a finger thick. Prepare using the same quantities and method."
+    }
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Yarım kilo kuru fasulye veya diğer bakliyat, yaklaşık yarım kilo etle aynı ölçüde protein taşır. Mönüde et yoksa protein ihtiyacı rahatlıkla ucuza sağlanan baklagillerle karşılanabilir.",
+  "ingredients_en": [
+    "12 lean lamb or mutton cutlets",
+    "½ cup grated kaşar cheese",
+    "½ cup flour",
+    "1 cup breadcrumbs",
+    "1 teaspoon black pepper",
+    "1 cup frying oil",
+    "Salt",
+    "3 eggs"
+  ],
+  "instructions_en": [
+    "Beat the eggs until yolk and white are combined. Add half a teaspoon of black pepper and the grated kaşar cheese and stir.",
+    "Sprinkle the cutlets with black pepper and salt. Coat in flour, dip in the egg mixture, then coat in breadcrumbs. Press to even out, then fry in hot oil. Transfer to a paper-lined tray.",
+    "Arrange on a serving dish. Garnish with sprigs of parsley between the cutlets. Serve hot with fried potatoes."
+  ],
+  "notes_en": "NUTRITIONAL NOTE: Half a kilo of dried beans or other legumes carries roughly the same amount of protein as half a kilo of meat. If there is no meat on the menu, protein needs can easily and cheaply be met with legumes."
+}

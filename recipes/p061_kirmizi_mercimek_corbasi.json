@@ -10,6 +10,7 @@
     "1 çay kaşığı kırmızı biber",
     "1 su bardağı süt",
     "2 yumurta sarısı",
+    "1 çorba kaşığı un",
     "3,5 çay kaşığı tuz"
   ],
   "instructions_tr": [
@@ -19,7 +20,7 @@
     "Kaşıkla ezerek süzgeçten geçirilir. Tekrar ateşe konur. Kaynayınca çarpılmış yumurta ve süt karışımı katılır. Karıştırarak bir taşım kaynatılıp ateşten alınır.",
     "Kalan yağ kızdırılır. Kırmızı biber konup üzerine gezdirilir."
   ],
-  "notes_tr": "Genel bilgi: Rendelenerek yağda kavrulması gereken soğanın, kavururken tencereye yapışmasını önlemek için, rendelenmiş soğan kızdırılmış yağa atılmalı.",
+  "notes_tr": "GENEL BİLGİ: Rendelenerek yağda kavrulması gereken soğanın, kavururken tencereye yapışmasını önlemek için, rendelenmiş soğan kızdırılmış yağa atılmalı.",
   "variations": [
     {
       "name_tr": "TANELİ MERCİMEK ÇORBASI",
@@ -35,6 +36,7 @@
     "1 teaspoon red pepper",
     "1 cup milk",
     "2 egg yolks",
+    "1 tablespoon flour",
     "3.5 teaspoons salt"
   ],
   "instructions_en": [
@@ -44,5 +46,5 @@
     "Press through a strainer with a spoon. Return to heat. Once boiling, add the whisked egg yolk and milk mixture. Stir and bring to one boil, then remove from heat.",
     "Heat the remaining butter. Add the red pepper and drizzle over the soup."
   ],
-  "notes_en": "General note: To prevent grated onion from sticking to the pot while sautéing, always add it to already-heated butter."
+  "notes_en": "GENERAL NOTE: To prevent grated onion from sticking to the pot while sautéing, always add it to already-heated butter."
 }

@@ -1,0 +1,44 @@
+{
+  "page": 66,
+  "slug": "p066_yalanci_iskembe_corbasi",
+  "name_tr": "YALANCI İŞKEMBE ÇORBASI",
+  "name_en": "Mock Tripe Soup",
+  "ingredients_tr": [
+    "6 su bardağı et suyu",
+    "2 çorba kaşığı un",
+    "1,5 kibrit kutusu büyüklüğünde yağ",
+    "Yarım çay kaşığı kırmızı biber",
+    "2 yumurta",
+    "Yarım su bardağı sirke",
+    "3-4 diş sarmısak",
+    "3 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Un bir su bardağı soğuk suda ezilir. Tel süzgeçten ölçülü et suyuna ezilerek geçirilir. Tuz atılır.",
+    "Ateşe konur. Karıştırarak iki-üç taşım kaynatılır.",
+    "Yumurtalar bütün olarak bir tabağa kırılır. Çatalla çözülünceye kadar çarpılır.",
+    "Kaynamakta olan çorba suyuna karıştırarak yavaş yavaş dökülür. Yumurta aklarının parça parça pişerek, işkembe görünümü vermesi sağlanır.",
+    "İki-üç taşım kaynatılıp ateşten alınır. Üzerine kızdırılmış kırmızı biberli yağ gezdirilir.",
+    "Sarmısaklı sirke ile servis yapılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Yiyecek alışverişinde aldanmamak, sağlığı bozmamak, alınan yiyeceğin besin değerinden yeterince yararlanabilmek için yiyeceklerin iyi ve kötü özelliklerini bilerek alışveriş yapmalı.",
+  "notes_en": "GENERAL NOTE: To avoid being misled when food shopping, to protect one's health, and to get the most nutritional value from food, one should shop with knowledge of the good and bad qualities of different foods.",
+  "ingredients_en": [
+    "6 cups meat broth",
+    "2 tablespoons flour",
+    "1.5 matchbox-sized pieces of butter",
+    "½ teaspoon red pepper",
+    "2 eggs",
+    "½ cup vinegar",
+    "3–4 cloves garlic",
+    "3 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Mash the flour into one cup of cold water. Pass through a fine-mesh strainer into the measured meat broth. Add salt.",
+    "Place on the heat. Bring to a boil two or three times, stirring.",
+    "Break the whole eggs into a plate. Beat with a fork until fully dissolved.",
+    "Pour slowly into the boiling soup while stirring. Allow the egg whites to cook in pieces, giving the appearance of tripe.",
+    "Bring to a boil two or three more times and remove from heat. Drizzle with hot red pepper butter.",
+    "Serve with garlic vinegar."
+  ]
+}

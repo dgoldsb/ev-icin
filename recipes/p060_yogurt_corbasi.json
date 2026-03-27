@@ -18,7 +18,10 @@
     "Kaynayıncaya kadar sürekli karıştırılır. Kaynamağa başlayınca dört su bardağı kaynar su, tuz ilave edilir. Kapak kapatılarak hafif ateşte pirinçler uzayıncaya kadar pişirilir.",
     "Ocaktan alınır. Üzerine ufalanmış kuru nane serpilir. Kızdırılmış kırmızı biberli yağ gezdirilir."
   ],
-  "notes_tr": "Not: Tencereye konan malzeme kaynayıncaya kadar, karıştırılmadan ateş üzerinde kaynamağa terkedilirse, yoğurt kesilir, sulanır, çorba bozulur. Genel bilgi: Pürtüklü yoğurt güvenli sayılmaz. Normal kıvamda, ekşimsi tatta ve düzgün yoğurtta mikrop bulunmaz.",
+  "notes_tr": [
+    "Not: Tencereye konan malzeme kaynayıncaya kadar, karıştırılmadan ateş üzerinde kaynamağa terkedilirse, yoğurt kesilir, sulanır, çorba bozulur.",
+    "GENEL BİLGİ: Pürtüklü yoğurt güvenli sayılmaz. Normal kıvamda, ekşimsi tatta ve düzgün yoğurtta mikrop bulunmaz."
+  ],
   "variations": [
     {
       "name_tr": "PİRİNÇSİZ YOĞURT ÇORBASI",
@@ -42,5 +45,8 @@
     "Stir constantly until it comes to a boil. Once boiling, add four more cups of boiling water and the salt. Cover and cook on low heat until the rice is cooked through.",
     "Remove from heat. Sprinkle crumbled dried mint on top. Drizzle with butter heated with red pepper."
   ],
-  "notes_en": "Note: If the mixture is left unstirred over the heat until it boils, the yogurt will curdle, become watery, and the soup will be ruined. General note: Lumpy yogurt is not considered safe. Yogurt that is normally thick, slightly sour, and smooth contains no harmful bacteria."
+  "notes_en": [
+    "Note: If the mixture is left unstirred over the heat until it boils, the yogurt will curdle, become watery, and the soup will be ruined.",
+    "GENERAL NOTE: Lumpy yogurt is not considered safe. Yogurt that is normally thick, slightly sour, and smooth contains no harmful bacteria."
+  ]
 }

@@ -1,0 +1,62 @@
+{
+  "page": 64,
+  "slug": "p064_terbiyeli_iskembe_corbasi",
+  "name_tr": "TERBİYELİ İŞKEMBE ÇORBASI",
+  "name_en": "Tripe Soup with Egg and Lemon",
+  "ingredients_tr": [
+    "1 kg. koyun veya dana işkembesi",
+    "1 baş soğan",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "3 çorba kaşığı un",
+    "1 çay kaşığı kırmızı biber",
+    "2 yumurta sarısı",
+    "1 limon suyu",
+    "6-7 diş sarmısak",
+    "Yarım su bardağı sirke",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Temizlenmiş işkembe parçalara bölünerek bol su ile ateşe konur. Kaynayınca üzerinde biriken köpük alınır. Soyulup dörde bölünmüş soğan, iki diş sarmısak, bir çorba kaşığı limon suyu konur. Kısık ateşte işkembe yumuşayıncaya kadar pişirilir.",
+    "Ilınınca üzerinde biriken yağ alınır. İşkembe küçük parçalara doğranır. On su bardağı işkembe suyu ile ateşe konur. Dört çay kaşığı tuz atılır.",
+    "Un, yumurta sarıları, limon suyu karıştırılır. Yarım bardak soğuk su ile sulandırılır.",
+    "Sofraya alınacağı zaman terbiye, kaynamakta olan çorbaya sürekli karıştırarak tel süzgeçten geçirilir. Bir taşım kaynatılıp ateşten alınır.",
+    "Üzerine kızdırılmış kırmızı biberli tereyağı gezdirilir.",
+    "Dövülmüş sarmısak sirkeye katılır. Çorbanın yanında servis yapılır."
+  ],
+  "notes_tr": "KİRLİ İŞKEMBENİN TEMİZLENMESİ: İşkembe ters çevrilir. Birkaç kere yıkanır. Üzerini örtecek kadar soğuk su ile ateşe konur. Su iyice ısınıp üzerindeki pürtüklü kısım soyulmağa başlayınca sudan çıkarılır. Bıçakla kazınır, yıkanır.",
+  "variations": [
+    {
+      "name_tr": "TUZLAMA",
+      "name_en": "Tripe with Garlic Vinegar",
+      "description_tr": "Pişirilmiş işkembe büyük parçalara kesilir. Üzerine sarmısaklı sirke dökülür.",
+      "description_en": "Cut the cooked tripe into large pieces. Pour garlic-infused vinegar over them."
+    },
+    {
+      "name_tr": "BEYİNLİ ÇORBA",
+      "name_en": "Brain Soup",
+      "description_tr": "İşkembe yerine, pişirilerek küçük parçalara bölünmüş beyin kullanılır. Terbiyeli işkembe çorbasındaki diğer ölçü ve işlemler aynen uygulanır.",
+      "description_en": "Replace the tripe with cooked brain cut into small pieces. Follow the same quantities and method as for the tripe soup."
+    }
+  ],
+  "ingredients_en": [
+    "1 kg. lamb or beef tripe",
+    "1 head of onion",
+    "2 matchbox-sized pieces of butter",
+    "3 tablespoons flour",
+    "1 teaspoon red pepper",
+    "2 egg yolks",
+    "juice of 1 lemon",
+    "6–7 cloves garlic",
+    "½ cup vinegar",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Cut the cleaned tripe into pieces and place in a pot with plenty of water. When it comes to a boil, skim off the foam. Add the onion (peeled and quartered), two cloves of garlic, and a tablespoon of lemon juice. Cook on low heat until the tripe is tender.",
+    "Once cooled slightly, skim off the fat that collects on top. Cut the tripe into small pieces. Return to the heat with ten cups of the cooking liquid. Add four teaspoons of salt.",
+    "Mix together the flour, egg yolks, and lemon juice. Thin with half a cup of cold water.",
+    "Just before serving, pass the liaison through a fine-mesh strainer into the boiling soup, stirring constantly. Bring to a boil once and remove from heat.",
+    "Drizzle with hot red pepper butter.",
+    "Mix crushed garlic into vinegar. Serve alongside the soup."
+  ],
+  "notes_en": "CLEANING DIRTY TRIPE: Turn the tripe inside out. Rinse several times. Place in a pot and cover with cold water. Heat until the water is hot and the rough inner lining begins to peel away, then remove from water. Scrape with a knife and rinse."
+}

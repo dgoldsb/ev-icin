@@ -84,7 +84,8 @@
       `;
 
       if (notes) {
-        html += `\n          <p class="recipe-note">${notes}</p>`;
+        const notesArr = Array.isArray(notes) ? notes : [notes];
+        html += notesArr.map(n => `\n          <p class="recipe-note">${n}</p>`).join('');
       }
 
       if (r.variations && r.variations.length > 0) {

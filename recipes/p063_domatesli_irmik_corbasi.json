@@ -1,0 +1,50 @@
+{
+  "page": 63,
+  "slug": "p063_domatesli_irmik_corbasi",
+  "name_tr": "DOMATESLİ İRMİK ÇORBASI",
+  "name_en": "Tomato Semolina Soup",
+  "ingredients_tr": [
+    "6 su bardağı et suyu",
+    "3 çorba kaşığı ince irmik",
+    "3 orta boy olgun domates",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "2 yumurta sarısı",
+    "1 su bardağı süt",
+    "3 dilim bayat ekmek",
+    "3,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Domatesler yıkanır. Birkaç parçaya bölünüp yarım bardak su ile beş dakika ağzı kapalı olarak haşlanır.",
+    "Kaşık yardımıyla ezilerek tel süzgeçten çorba tenceresine geçirilir. Üzerine ölçülü et suyu ilave edilip ateşe konur.",
+    "Kaynayınca karıştırarak azar azar irmik akıtılır. Hafif ateşte yirmi dakika pişirilir. Tuz konur.",
+    "Çarpılmış yumurta sarıları sütle karıştırılır. Kaynamakta olan çorbaya karıştırarak ilave edilir. Kaynama derecesinde ateşten alınır.",
+    "Küçük parçalara kesilmiş ekmek yağda kızartılır. Çorba ile servis yapılır."
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Dengeli beslenme ile vücut gelişir, korunur, sağlıklı yaşama şansı artar. Dengeli beslenme, bireyin içinde bulunduğu durum ve şartlara uygun olarak, ihtiyacı olan besinlerden yeterince almasıdır.",
+  "notes_en": "NUTRITIONAL NOTE: A balanced diet helps the body develop, stay protected, and increases the chance of healthy living. A balanced diet means getting enough of the nutrients one needs, suited to one's circumstances and conditions.",
+  "variations": [
+    {
+      "name_tr": "SADE İRMİK ÇORBASI",
+      "name_en": "Plain Semolina Soup",
+      "description_tr": "Domates kullanılmadan aynı ölçü ve işlemlere uyularak hazırlanır.",
+      "description_en": "Prepare using the same quantities and method, but without tomatoes."
+    }
+  ],
+  "ingredients_en": [
+    "6 cups meat broth",
+    "3 tablespoons fine semolina",
+    "3 medium ripe tomatoes",
+    "2 matchbox-sized pieces of butter",
+    "2 egg yolks",
+    "1 cup milk",
+    "3 slices stale bread",
+    "3.5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Wash the tomatoes. Cut into pieces and cook covered with half a cup of water for five minutes.",
+    "Press through a fine-mesh strainer into the soup pot using a spoon. Add the measured meat broth and place on the heat.",
+    "When it comes to a boil, pour in the semolina in a thin stream while stirring. Cook on low heat for twenty minutes. Add salt.",
+    "Beat the egg yolks with the milk. Stir into the boiling soup. Remove from heat just as it reaches boiling point.",
+    "Fry the bread cut into small pieces in butter. Serve alongside the soup."
+  ]
+}

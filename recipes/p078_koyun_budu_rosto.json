@@ -1,0 +1,54 @@
+{
+  "page": 78,
+  "slug": "p078_koyun_budu_rosto",
+  "name_tr": "KOYUN BUDU ROSTO",
+  "name_en": "Roast Leg of Mutton",
+  "ingredients_tr": [
+    "Yarım kilo koyun budu",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "2 çorba kaşığı limon suyu",
+    "2 çay kaşığı patates nişastası",
+    "2 defne yaprağı",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Butun iki yanı tuz, karabiber, limon suyuyla iyice ovulur.",
+    "Sığabileceği büyüklükte bir tencereye yağla birlikte konur. Hafif ateşte arasıra çevirerek kendi suyuyla pişirilip pembe renkte kızartılır.",
+    "İki su bardağı kaynar su, defne yaprağı konur. Kapak kapatılarak az ateşte, et yumuşayıncaya, suyunu çekip yağına kalıncaya kadar pişirilir.",
+    "Ateşten alınır. El dayanacak kadar soğuyunca etler fazla parçalanmadan kemiklerinden ayrılır. Bir parmak kalınlığında dilimlere kesilip servis tabağına yerleştirilir.",
+    "Nişasta az suda eritilip, üzerine su konarak bir su bardağına tamamlanır. Rostonun piştiği tenceredeki yağın fazlası alınıp bir buçuk kaşık bırakılır. Eritilen nişasta tencereye konur. Karıştırarak bir taşım kaynatılır. Servis tabağındaki rostonun üzerine gezdirerek dökülür.",
+    "Kenarlarına sebze soteleri, patates püresi veya tavası konur."
+  ],
+  "variations": [
+    {
+      "name_tr": "KUZU BUDU ROSTO",
+      "name_en": "Roast Leg of Lamb",
+      "description_tr": "Bir kuzu buduna yukardaki işlemler aynen uygulanarak, rosto fırında pişirilebilir. Bir bardak su ile sulandırılmış bir çorba kaşığı domates salçası, rostonun piştiği tepsideki yağa konur. Bir-iki taşım kaynatılır. Her iki rostoya da nişastalı salça yerine hazırlanan domatesli salça kullanılabilir.",
+      "description_en": "Apply the same method to a leg of lamb; the roast can be cooked in the oven. Add a tablespoon of tomato paste thinned with a cup of water to the roasting juices. Bring to a boil once or twice. A tomato sauce can be used in place of the starch-thickened sauce for both roasts."
+    },
+    {
+      "name_tr": "SARMA ROSTO",
+      "name_en": "Rolled Roast",
+      "description_tr": "Sarma rosto veya nuar, birkaç yerinden delinip, yukardaki işlemler aynen uygulanarak rosto yapılır.",
+      "description_en": "Pierce a rolled roast or silverside in several places and roast following the same method."
+    }
+  ],
+  "ingredients_en": [
+    "½ kg leg of mutton",
+    "2 matchbox-sized pieces of butter",
+    "2 tablespoons lemon juice",
+    "2 teaspoons potato starch",
+    "2 bay leaves",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Rub both sides of the joint thoroughly with salt, black pepper, and lemon juice.",
+    "Place in a pot just large enough to fit it, together with the butter. Cook on low heat, turning occasionally, until it browns to a pink colour in its own juices.",
+    "Add two cups of boiling water and the bay leaves. Cover and cook on low heat until the meat is tender and the liquid has been absorbed, leaving only the fat.",
+    "Remove from heat. Once cool enough to handle, separate the meat from the bones without breaking it apart too much. Cut into finger-thick slices and arrange on a serving dish.",
+    "Dissolve the starch in a little water and top up to one cup. Remove most of the fat from the pot, leaving about one and a half tablespoons. Add the dissolved starch to the pot. Bring to a boil once, stirring. Pour over the roast on the serving dish.",
+    "Serve surrounded by sautéed vegetables, mashed potatoes, or fried potatoes."
+  ]
+}

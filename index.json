@@ -4,5 +4,18 @@
   { "page": 59, "slug": "p059_yesil_borc", "name_tr": "YEŞİL BORÇ", "name_en": "Green Borscht" },
   { "page": 60, "slug": "p060_yogurt_corbasi", "name_tr": "YOĞURT ÇORBASI", "name_en": "Yogurt Soup" },
   { "page": 61, "slug": "p061_kirmizi_mercimek_corbasi", "name_tr": "KIRMIZI MERCİMEK ÇORBASI", "name_en": "Red Lentil Soup" },
-  { "page": 62, "slug": "p062_domates_corbasi", "name_tr": "DOMATES ÇORBASI", "name_en": "Tomato Soup" }
+  { "page": 62, "slug": "p062_domates_corbasi", "name_tr": "DOMATES ÇORBASI", "name_en": "Tomato Soup" },
+  { "page": 63, "slug": "p063_domatesli_irmik_corbasi", "name_tr": "DOMATESLİ İRMİK ÇORBASI", "name_en": "Tomato Semolina Soup" },
+  { "page": 64, "page_end": 65, "slug": "p064_terbiyeli_iskembe_corbasi", "name_tr": "TERBİYELİ İŞKEMBE ÇORBASI", "name_en": "Tripe Soup with Egg and Lemon" },
+  { "page": 66, "slug": "p066_yalanci_iskembe_corbasi", "name_tr": "YALANCI İŞKEMBE ÇORBASI", "name_en": "Mock Tripe Soup" },
+  { "page": 67, "slug": "p067_sogan_corbasi", "name_tr": "SOĞAN ÇORBASI", "name_en": "Onion Soup" },
+  { "page": 68, "slug": "p068_patates_corbasi", "name_tr": "PATATES ÇORBASI", "name_en": "Potato Soup" },
+  { "page": 69, "page_end": 70, "slug": "p069_balik_corbasi", "name_tr": "BALIK ÇORBASI", "name_en": "Fish Soup" },
+  { "page": 71, "slug": "p071_kofteli_un_corbasi", "name_tr": "KÖFTELİ UN ÇORBASI", "name_en": "Flour Soup with Meatballs" },
+  { "page": 74, "slug": "p074_tarhana_corbasi", "name_tr": "TARHANA ÇORBASI", "name_en": "Tarhana Soup" },
+  { "page": 75, "slug": "p075_mantar_corbasi", "name_tr": "MANTAR ÇORBASI", "name_en": "Mushroom Soup" },
+  { "page": 76, "slug": "p076_dugun_corbasi", "name_tr": "DÜĞÜN ÇORBASI", "name_en": "Wedding Soup" },
+  { "page": 77, "slug": "p077_kereviz_corbasi", "name_tr": "KEREVİZ ÇORBASI", "name_en": "Celery Soup" },
+  { "page": 78, "page_end": 79, "slug": "p078_koyun_budu_rosto", "name_tr": "KOYUN BUDU ROSTO", "name_en": "Roast Leg of Mutton" },
+  { "page": 80, "slug": "p080_pirzola_pane", "name_tr": "PİRZOLA PANE", "name_en": "Breaded Lamb Cutlets" }
 ]
