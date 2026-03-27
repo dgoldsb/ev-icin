@@ -17,6 +17,12 @@ Then open [http://localhost:8000](http://localhost:8000).
 1. Push the repository to GitHub.
 2. Go to **Settings → Pages**.
 3. Under **Source**, select the `main` branch and `/ (root)` folder.
-4. Save. GitHub will provide a URL like `https://{username}.github.io/{repo}/`.
+4. Save. The site will be available at `https://dgoldsb.github.io/ev-icin/`.
 
 No build step required — the site is plain HTML, CSS, and JS.
+
+The site is live at [https://dgoldsb.github.io/ev-icin/](https://dgoldsb.github.io/ev-icin/).
+
+## TODO
+
+- [ ] Favouriting recipes (store favourites in `localStorage`, show on index page)

@@ -49,7 +49,7 @@ Both languages use the same fields, with `_tr` and `_en` suffixes. The renderer 
     "Yıkanmış kemik bol su ile ateşe konur.",
     "..."
   ],
-  "notes_tr": "Optional Turkish note (omit field if none)",
+  "notes_tr": "Not: Optional Turkish note, including its label (omit field if none)",
   "ingredients_en": [
     "Ingredient one",
     "Ingredient two"
@@ -58,7 +58,7 @@ Both languages use the same fields, with `_tr` and `_en` suffixes. The renderer 
     "Step one.",
     "Step two."
   ],
-  "notes_en": "Optional English note (omit field if none)",
+  "notes_en": "Note: Optional English note, including its label (omit field if none)",
   "variations": [
     {
       "name_tr": "TANELİ SEBZE ÇORBASI",

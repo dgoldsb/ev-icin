@@ -94,9 +94,29 @@ header h1 {
   margin: 1.5rem 0 0.5rem;
 }
 
-.recipe-content ul,
-.recipe-content ol {
+.recipe-content ul {
   padding-left: 1.5rem;
+  columns: 2;
+}
+
+@media (max-width: 480px) {
+  .recipe-content ul {
+    columns: 1;
+  }
+}
+
+.recipe-content ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: step;
+}
+
+.recipe-content ol li {
+  counter-increment: step;
+}
+
+.recipe-content ol li::before {
+  content: counter(step) " \2014  ";
 }
 
 .recipe-content li {
