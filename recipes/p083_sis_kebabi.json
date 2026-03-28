@@ -1,0 +1,52 @@
+{
+  "page": 83,
+  "slug": "p083_sis_kebabi",
+  "name_tr": "ŞİŞ KEBABI",
+  "name_en": "Shish Kebab",
+  "ingredients_tr": [
+    "500 gr. şişlik koyun kuşbaşı et",
+    "1 kahve fincanı süt",
+    "1 kahve fincanı zeytinyağı",
+    "2 orta boy soğan",
+    "1 çorba kaşığı kekik",
+    "1 çay kaşığı karabiber",
+    "2 orta boy domates",
+    "4 sivri biber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Rendelenmiş soğan, süt, zeytinyağı, kekik, karabiber karıştırılır.",
+    "Şişlik etin üzerine hazırlanan terbiye yayılır. Et bununla ovulur. Buz dolabına kaldırılarak sekiz-on saat bekletilir.",
+    "Izgara yapılacağı zaman, domates, biber şişe geçecek büyüklükte doğranır.",
+    "Et dolaptan çıkarılır. Yağlanmış şişlere fazla sıkıştırmadan et, domates, et, biber olarak geçirilir. Tuz ekilir.",
+    "Izgarada, orta ısıda her iki yüzü kızartılır. Sıcak servis yapılır."
+  ],
+  "notes_tr": [
+    "GENEL BİLGİ: Izgara yaparken ısı ne çok fazla ne de az olmalı. Orta ısı ile, fazla besin kaybı olmadan, sertleşmeden içinin pişmesi sağlanır.",
+    "Izgarada etleri sık çevirme, etlerin fazla su kaybedip sertleşmesine neden olacağından, parçaların bir yüzü iyice piştikten sonra, diğer yanı çevrilmeli. Et piştikten sonra tuzu ekilmeli.",
+    "Et ızgaraları en iyi alevsiz kömür ateşinde yapılır."
+  ],
+  "ingredients_en": [
+    "500 gr. cubed lamb for skewering",
+    "1 coffee cup milk",
+    "1 coffee cup olive oil",
+    "2 medium onions",
+    "1 tablespoon thyme",
+    "1 teaspoon black pepper",
+    "2 medium tomatoes",
+    "4 long green peppers",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Mix together the grated onion, milk, olive oil, thyme, and black pepper.",
+    "Spread the marinade over the meat and rub it in well. Refrigerate for eight to ten hours.",
+    "When ready to grill, cut the tomatoes and peppers into pieces large enough to thread onto skewers.",
+    "Remove the meat from the refrigerator. Thread onto oiled skewers in alternating order: meat, tomato, meat, pepper — without packing too tightly. Season with salt.",
+    "Grill over medium heat, turning to cook both sides. Serve hot."
+  ],
+  "notes_en": [
+    "GENERAL NOTE: When grilling, heat should be neither too high nor too low. Medium heat ensures the meat cooks through without losing too much moisture or becoming tough.",
+    "Turning the meat too frequently causes it to lose moisture and toughen. Turn each piece only once the first side is fully cooked. Add salt only after cooking.",
+    "Meat is best grilled over flameless charcoal."
+  ]
+}

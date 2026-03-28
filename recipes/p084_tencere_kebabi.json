@@ -1,0 +1,42 @@
+{
+  "page": 84,
+  "slug": "p084_tencere_kebabi",
+  "name_tr": "TENCERE KEBABI",
+  "name_en": "Pot Kebab",
+  "ingredients_tr": [
+    "1 kg. kuşbaşı doğranmış koyun but eti",
+    "2 orta boy soğan",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "3 orta boy domates veya 1 çorba kaşığı domates salçası",
+    "1 çay kaşığı karabiber",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan ve yağla bir tencerede kısa süre kavrulur. Kapak kapatılarak kısık ateşte, et bıraktığı suyu çekinceye kadar pişirilir.",
+    "Soyularak fındık büyüklüğünde doğranmış domates veya sulandırılmış salça konur. Kısa süre de bununla kavrulur. İki su bardağı sıcak su ilave edilir. Kaynayınca ateşi kısılarak, et yumuşayıncaya kadar pişirilir.",
+    "Ocaktan inmesine yakın tuz ve karabiber konur. Pişince etin suyu yemeğin yarısında olmalı.",
+    "Küçük kuşbaşı doğranıp, yağda kızartılmış patatesle servis yapılır."
+  ],
+  "ingredients_en": [
+    "1 kg. cubed lamb leg",
+    "2 medium onions",
+    "2 matchbox-sized pieces of fat (butter or margarine)",
+    "3 medium tomatoes or 1 tablespoon tomato paste",
+    "1 teaspoon black pepper",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Sauté the meat with the finely chopped onion and fat in a pot for a short time. Cover and cook over low heat until the meat releases and reabsorbs its juices.",
+    "Add the peeled and roughly chopped tomatoes or diluted tomato paste. Sauté briefly. Add 2 cups of hot water. Bring to a boil, then reduce heat and simmer until the meat is tender.",
+    "Add salt and black pepper shortly before taking off the heat. When done, the cooking liquid should come to about half the level of the meat.",
+    "Serve with small cubed potatoes fried in oil."
+  ],
+  "variations": [
+    {
+      "name_tr": "BAHÇİVAN KEBABI",
+      "name_en": "Gardener's Kebab",
+      "description_tr": "Tencere kebabındaki aynı ölçü ve işlemlere uyularak kebap hazırlanır. Farklı olarak soğanla birlikte, halkalara doğranmış üç-dört sivri biber konur. Ocaktan inmesine yakın, küçük kuşbaşı doğranmış bir orta boy havuç, yarım su bardağı ayıklanmış bezelye ilave edilir.",
+      "description_en": "Prepare using the same quantities and method as Pot Kebab. The difference: add 3–4 long green peppers, sliced into rings, along with the onion. Shortly before taking off the heat, add 1 medium carrot cut into small cubes and half a cup of shelled peas."
+    }
+  ]
+}

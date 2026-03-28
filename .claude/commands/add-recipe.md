@@ -13,6 +13,18 @@ Apple's text copy from photos is not pretty — line breaks fall mid-word, numbe
 - Two-column layouts appear as interleaved lines; merge left column top-to-bottom, then right column top-to-bottom
 - Include general-knowledge sections at the end (BESİN BİLGİSİ, GENEL BİLGİ) in `notes_tr`, with their label, just like any other note
 
+### Quantity confirmation workflow
+
+OCR often garbles quantities — numbers appear on their own lines, merge with adjacent text, or are dropped entirely. **Always confirm every ingredient quantity with the user before writing the file**, even ones that look unambiguous. Present them as a table:
+
+| # | Ingredient | Value read |
+|---|---|---|
+| 1 | et | 500 gr. |
+| 2 | soğan | 2 orta boy |
+...
+
+Wait for the user to confirm or correct before creating the JSON.
+
 ## Detecting continuations
 
 Before creating a new file, check whether the page is a **continuation** of the previous recipe rather than a new one. Signs of a continuation:

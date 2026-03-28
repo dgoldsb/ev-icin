@@ -1,0 +1,48 @@
+{
+  "page": 85,
+  "slug": "p085_bugu_kebabi",
+  "name_tr": "BUĞU KEBABI",
+  "name_en": "Steamed Kebab",
+  "ingredients_tr": [
+    "1 kg. kuşbaşı koyun eti",
+    "1 kibrit kutusu büyüklüğünde yağ",
+    "3 orta boy domates",
+    "1 su bardağı arpacık soğanı veya 4-5 küçük kuru soğan",
+    "2-3 diş sarmısak",
+    "1 çay kaşığı karabiber",
+    "2 çay kaşığı kekik",
+    "2 adet defne yaprağı",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Sarmısak, arpacık soğanı soyulur. Domatesin kabukları soyulup küçük doğranır.",
+    "Kapağı iyi kapanan tencereye yağ, et, domates, soğan, sarmısak, defne yaprağı, kekik, karabiber, tuz konup, kapak kapatılır.",
+    "Çok hafif ateşte, kendi suyu ile, kapağı açılmadan bir buçuk saat pişirilir."
+  ],
+  "notes_tr": [
+    "Not: İstenirse tencerenin kapak kenarları, hamurla sıvanarak buhar kaybı önlenir. En iyisi düdüklü tencerede yapmaktır.",
+    "GENEL BİLGİ: Düdüklü tencerede yiyecekler az su ile pişirildiğinden, sertleşmeyip kolay pişer. Pişme süresi kısa olduğundan yakıttan tasarruf edilir. Hava ile teması olmadığından, yiyeceklerin oksidasyonu önlenir, vitamin kaybı en aza iner.",
+    "Düdüklü tencere kullanırken, tencerenin buhar çıkış borusu tıkalı olmamalı. Tencere az ısılı ateşe, içi fazla doldurulmadan konmalı. Pişme işlemi bitince içindeki buhar iyice çıkmadan kapak açılmamalı. Temizliği yapılan basınçlı tencerenin, kapağı kapatılmayıp üzerine ters çevrilerek bırakılmalı."
+  ],
+  "ingredients_en": [
+    "1 kg. cubed lamb",
+    "1 matchbox-sized piece of fat (butter or margarine)",
+    "3 medium tomatoes",
+    "1 cup pearl onions or 4–5 small dry onions",
+    "2–3 cloves garlic",
+    "1 teaspoon black pepper",
+    "2 teaspoons thyme",
+    "2 bay leaves",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Peel the garlic and pearl onions. Peel and finely chop the tomatoes.",
+    "Place the fat, meat, tomatoes, onions, garlic, bay leaves, thyme, black pepper, and salt into a tight-lidded pot. Close the lid.",
+    "Cook over very low heat in its own steam, without opening the lid, for one and a half hours."
+  ],
+  "notes_en": [
+    "Note: If desired, seal the edges of the pot lid with dough to prevent steam from escaping. Best made in a pressure cooker.",
+    "GENERAL NOTE: In a pressure cooker, food cooks with little water and stays tender. The shorter cooking time saves fuel. With no air contact, oxidation is prevented and vitamin loss is minimised.",
+    "When using a pressure cooker: the steam valve must not be blocked; do not overfill the pot; do not open the lid before all steam has escaped. After cleaning, store the lid upside down on the pot — do not lock it closed."
+  ]
+}

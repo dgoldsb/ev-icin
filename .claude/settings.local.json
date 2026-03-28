@@ -15,7 +15,21 @@
       "Bash(python3 -c \"from PIL import Image; print\\(''ok''\\)\")",
       "Bash(pip3 install:*)",
       "Bash(python3:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(ls ~/Downloads/IMG_81*.jpg)",
+      "Bash(cp ~/Downloads/IMG_8125.HEIC /Users/dylangoldsborough/Repositories/ev-icin/images/)",
+      "Bash(swift /Users/dylangoldsborough/Repositories/ev-icin/ocr.swift /Users/dylangoldsborough/Repositories/ev-icin/images/IMG_8125.HEIC)",
+      "Bash(xcode-select -p)",
+      "Bash(swift --version)",
+      "Bash(xcrun --show-sdk-path)",
+      "Bash(swiftc /Users/dylangoldsborough/Repositories/ev-icin/ocr.swift -o /Users/dylangoldsborough/Repositories/ev-icin/ocr)",
+      "Bash(/Users/dylangoldsborough/Repositories/ev-icin/ocr /Users/dylangoldsborough/Repositories/ev-icin/images/IMG_8125.HEIC)",
+      "Bash(tesseract --list-langs)",
+      "Bash(brew install:*)",
+      "Bash(tesseract /tmp/test_ocr.png stdout -l tur)",
+      "Bash(cp /private/tmp/test_ocr.png ~/Desktop/test_ocr.png)",
+      "Bash(tesseract ~/Desktop/test_ocr.png stdout -l tur)",
+      "Bash(tesseract ~/Desktop/test_ocr.png stdout -l tur --psm 1)"
     ]
   }
 }

@@ -40,6 +40,10 @@ Example: page 42, "Izgara Köfte" → `recipes/p042_izgara_kofte.json`
 
 The book often prints ingredients in two columns. When reading from a photo, merge them in reading order (left column top-to-bottom, then right column) before storing.
 
+### Number formatting
+
+Use the book's notation verbatim. Fractions appear as `1,5` (comma decimal), not `1½` or `1.5`. Reproduce this exactly in both `_tr` and `_en` fields.
+
 ## Skills
 
 - `/add-recipe` — scaffold a new recipe page

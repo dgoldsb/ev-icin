@@ -17,5 +17,11 @@
   { "page": 76, "slug": "p076_dugun_corbasi", "name_tr": "DÜĞÜN ÇORBASI", "name_en": "Wedding Soup" },
   { "page": 77, "slug": "p077_kereviz_corbasi", "name_tr": "KEREVİZ ÇORBASI", "name_en": "Celery Soup" },
   { "page": 78, "page_end": 79, "slug": "p078_koyun_budu_rosto", "name_tr": "KOYUN BUDU ROSTO", "name_en": "Roast Leg of Mutton" },
-  { "page": 80, "slug": "p080_pirzola_pane", "name_tr": "PİRZOLA PANE", "name_en": "Breaded Lamb Cutlets" }
+  { "page": 80, "slug": "p080_pirzola_pane", "name_tr": "PİRZOLA PANE", "name_en": "Breaded Lamb Cutlets" },
+  { "page": 81, "slug": "p081_kaplamis_pirzola", "name_tr": "KAPLANMIŞ PİRZOLA", "name_en": "Coated Lamb Chops" },
+  { "page": 82, "slug": "p082_soslu_pirzola", "name_tr": "SOSLU PİRZOLA", "name_en": "Chops in Sauce" },
+  { "page": 83, "slug": "p083_sis_kebabi", "name_tr": "ŞİŞ KEBABI", "name_en": "Shish Kebab" },
+  { "page": 84, "slug": "p084_tencere_kebabi", "name_tr": "TENCERE KEBABI", "name_en": "Pot Kebab" },
+  { "page": 85, "slug": "p085_bugu_kebabi", "name_tr": "BUĞU KEBABI", "name_en": "Steamed Kebab" },
+  { "page": 86, "slug": "p086_sebzeli_koyun_haslamasi", "name_tr": "SEBZELİ KOYUN HAŞLAMASI", "name_en": "Boiled Mutton with Vegetables" }
 ]

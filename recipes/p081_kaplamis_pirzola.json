@@ -1,0 +1,52 @@
+{
+  "page": 81,
+  "slug": "p081_kaplamis_pirzola",
+  "name_tr": "KAPLANMIŞ PİRZOLA",
+  "name_en": "Coated Lamb Chops",
+  "ingredients_tr": [
+    "10-12 adet koyun veya kuzu pirzolası",
+    "1 kibrit kutusu büyüklüğünde margarin",
+    "1 kahve fincanı kaşar peyniri rendesi",
+    "3 orta boy patates",
+    "2 çorba kaşığı un",
+    "3 yumurta",
+    "1,5 su bardağı galeta tozu",
+    "1,5 su bardağı kızartmalık sıvı yağ (zeytinyağı, ayçiçek yağı)",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Pirzolalar tuzlanır. Karabiber ekilir. Küçük bir tepsiye sıralanır. Margarin konur. Az ateşte, suyunu bırakıp çekinceye kadar, iki yüzü çevrilerek pişirilir. Yağı süzülüp soğumağa bırakılır.",
+    "Patatesler haşlanır, soyulur, ezilerek püre yapılır. Çarpılmış yumurta, kaşar peyniri rendesi, un, yarım çay kaşığı tuz, karabiber konup karıştırılır.",
+    "Soğuyan pirzolalar karışıma batırılarak iki yüzü kaplanır. Galeta tozuna bulanıp elle düzeltilir.",
+    "Kızdırılmış yağda kızartılır. Kâğıt yayılmış tepsiye alınır. Yağını bıraktıktan sonra servis tabağına sıralanır. Maydanoz dalları ile süslenir."
+  ],
+  "notes_tr": "Not: Bayat ekmekler fırında kızartılıp badem makinasından çekilerek galeta tozu hazırlanabilir.",
+  "ingredients_en": [
+    "10–12 lamb or mutton chops",
+    "Matchbox-sized piece of margarine",
+    "1 coffee cup grated kashar cheese",
+    "3 medium potatoes",
+    "2 tablespoons flour",
+    "3 eggs",
+    "1,5 cups breadcrumbs",
+    "1,5 cups frying oil (olive oil or sunflower oil)",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Season the chops with salt and pepper. Arrange in a small pan and add the margarine. Cook over low heat, turning both sides, until the juices are released and absorbed. Drain and set aside to cool.",
+    "Boil the potatoes, peel, and mash into a purée. Mix in the beaten eggs, grated cheese, flour, half a teaspoon of salt, and black pepper.",
+    "Dip the cooled chops in the coating mixture, covering both sides. Roll in breadcrumbs and smooth with your hands.",
+    "Fry in hot oil until golden. Transfer to a paper-lined tray. Once the fat drains, arrange on a serving platter and garnish with parsley sprigs."
+  ],
+  "notes_en": "Note: Homemade breadcrumbs can be made by toasting stale bread in the oven and grinding it through a nut grinder.",
+  "variations": [
+    {
+      "name_tr": "BEŞAMEL SALÇALI PİRZOLA",
+      "name_en": "Lamb Chops with Béchamel Sauce",
+      "description_tr": "İki çorba kaşığı un, bir kibrit kutusu büyüklüğünde margarinle hafif pembeleştirilir. Bir buçuk su bardağı soğuk süt, yarım çay kaşığı tuz konur. Karıştırarak bir iki taşım kaynatılır. Soğuyunca çarpılmış iki yumurta, bir çorba kaşığı kaşar peyniri rendesi katılır. Kaplanmış pirzoladaki ölçü ve işlemler uygulanarak hazırlanan pirzolalar, patates püresi yerine bu salça ile kaplanarak kızartılır.",
+      "description_en": "Lightly brown 2 tablespoons of flour in a matchbox-sized piece of margarine. Add 1,5 cups cold milk and half a teaspoon of salt. Stir and bring to a brief boil. Once cooled, mix in 2 beaten eggs and 1 tablespoon grated kashar cheese. Using the same measurements and steps as the main recipe, coat the chops in this béchamel sauce instead of the potato purée and fry."
+    }
+  ]
+}

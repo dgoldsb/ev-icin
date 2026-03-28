@@ -1,0 +1,50 @@
+{
+  "page": 86,
+  "slug": "p086_sebzeli_koyun_haslamasi",
+  "name_tr": "SEBZELİ KOYUN HAŞLAMASI",
+  "name_en": "Boiled Mutton with Vegetables",
+  "ingredients_tr": [
+    "1 kg. kemikli koyun parça eti",
+    "2 orta boy soğan",
+    "3 orta boy patates",
+    "1 kahve fincanı limon suyu",
+    "1 çay kaşığı tane karabiber",
+    "1 orta boy havuç",
+    "1 orta boy kereviz",
+    "2 yumurta sarısı",
+    "3 çay kaşığı tuz",
+    "5-6 dal maydanoz"
+  ],
+  "instructions_tr": [
+    "Et, üzerini geçecek kadar su ile ateşe konur. Kaynayınca köpüğü alınır. Soğan, tane karabiber, havuç konur. Kapak kapatılarak et yarı yumuşayıncaya kadar hafif ateşte pişirilir.",
+    "Yıkanıp soyularak küçük kuşbaşı doğranmış kereviz, patates, tuz ilave edilir. Sebzeler yumuşayıncaya kadar pişirilir.",
+    "Ocaktan alınırken etin suyu, yüzeye yakın kalmış olmalı.",
+    "Çarpılmış yumurta sarısı, limon suyu karıştırılır. Yarım bardak soğuk su ile sulandırılır. Karıştırarak ete katılır. Kaynama derecesinde ateşten alınır. Üzerine kıyılmış maydanoz serpilir."
+  ],
+  "ingredients_en": [
+    "1 kg. bone-in mutton pieces",
+    "2 medium onions",
+    "3 medium potatoes",
+    "1 coffee cup lemon juice",
+    "1 teaspoon whole black peppercorns",
+    "1 medium carrot",
+    "1 medium celeriac",
+    "2 egg yolks",
+    "3 teaspoons salt",
+    "5–6 sprigs parsley"
+  ],
+  "instructions_en": [
+    "Cover the meat with water and bring to a boil. Skim off the foam. Add the onions, peppercorns, and carrot. Cover and cook over low heat until the meat is half-tender.",
+    "Add the washed, peeled, and roughly cubed celeriac and potatoes, along with the salt. Cook until the vegetables are soft.",
+    "When done, the broth should have reduced to just cover the surface of the meat.",
+    "Whisk the egg yolks with the lemon juice and dilute with half a cup of cold water. Stir into the pot and remove from heat just as it reaches a boil. Sprinkle with chopped parsley and serve."
+  ],
+  "variations": [
+    {
+      "name_tr": "KUZU KAPAMA",
+      "name_en": "Braised Lamb with Greens",
+      "description_tr": "Bir kilo kemikli kuzu parça etine, bir kibrit kutusu büyüklüğünde margarin, yaprak yaprak koparılarak, kat kat yayılmış bir demet pazı, bir marul, küçük doğranmış on beş adet yeşil soğan, bir havuç konur. Bir su bardağı su, tuz ile hafif ateşte et yumuşayıncaya kadar pişirilir. Servis tabağına alınıp üzerine kıyılmış dereotu serpilir.",
+      "description_en": "Place 1 kilo of bone-in lamb pieces in a pot with a matchbox-sized piece of margarine, one bunch of chard separated leaf by leaf and layered in, one head of lettuce, 15 finely chopped spring onions, and one carrot. Add 1 cup of water and salt. Cook over low heat until the meat is tender. Transfer to a serving dish and sprinkle with chopped dill."
+    }
+  ]
+}
