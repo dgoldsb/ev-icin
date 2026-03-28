@@ -29,7 +29,12 @@
       "Bash(tesseract /tmp/test_ocr.png stdout -l tur)",
       "Bash(cp /private/tmp/test_ocr.png ~/Desktop/test_ocr.png)",
       "Bash(tesseract ~/Desktop/test_ocr.png stdout -l tur)",
-      "Bash(tesseract ~/Desktop/test_ocr.png stdout -l tur --psm 1)"
+      "Bash(tesseract ~/Desktop/test_ocr.png stdout -l tur --psm 1)",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(echo \"=== $f ===\")",
+      "Read(//Users/dylangoldsborough/Repositories/ev-icin/recipes/**)",
+      "Bash(done)"
     ]
   }
 }

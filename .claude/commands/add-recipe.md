@@ -38,6 +38,11 @@ Before creating a new file, check whether the page is a **continuation** of the 
 - Update the `page_end` field in `index.json` for that recipe (add it if not present)
 - Do not add a new entry to `index.json`
 
+## Name conventions
+
+- `name_tr` — store exactly as it appears in the book: **ALL CAPS** (e.g. `"ET SUYU"`)
+- `name_en` — store in **title case** (e.g. `"Meat Broth"`); the index page uppercases it automatically for display consistency
+
 ## File naming (new recipes only)
 
 `recipes/p{PAGE_NUMBER}_{snake_case_name}.json`
@@ -93,19 +98,32 @@ Both languages use the same fields, with `_tr` and `_en` suffixes. The renderer 
 
 Omit `notes_tr`, `notes_en`, and `variations` if not present in the recipe.
 
+## Tags
+
+Every `index.json` entry must include a `"tags"` array. Infer the tag from the ingredients:
+
+- `"meat"` — recipe requires meat, poultry, or offal (including meat broth with no water alternative)
+- `"fish"` — recipe requires fish or seafood
+- `"vegetarian"` — no meat or fish; dairy and eggs are fine. If the recipe offers "et suyu **veya su**" (broth or water), tag it vegetarian since it can be made without meat.
+- `"vegan"` — no animal products at all (no meat, fish, dairy, or eggs)
+
+Use a single-element array in most cases: `"tags": ["meat"]`. Multiple tags are allowed for edge cases.
+
 ## Steps
 
 1. Determine if this is a continuation (see above). If so, update the existing recipe and stop.
 
 2. Otherwise, create `recipes/p{PAGE_NUMBER}_{slug}.json` with the structure above.
 
-3. Add an entry to `index.json` in page-number order. For single-page recipes:
+3. Determine the tag from the ingredients (see Tags above).
+
+4. Add an entry to `index.json` in page-number order, always including `"tags"`. For single-page recipes:
    ```json
-   { "page": 56, "slug": "p056_et_suyu", "name_tr": "ET SUYU", "name_en": "Meat Broth" }
+   { "page": 56, "slug": "p056_et_suyu", "name_tr": "ET SUYU", "name_en": "Meat Broth", "tags": ["meat"] }
    ```
    For recipes that span multiple pages, include `page_end`:
    ```json
-   { "page": 57, "page_end": 58, "slug": "p057_ezme_sebze_corbasi", "name_tr": "EZME SEBZE ÇORBASI", "name_en": "Puréed Vegetable Soup" }
+   { "page": 57, "page_end": 58, "slug": "p057_ezme_sebze_corbasi", "name_tr": "EZME SEBZE ÇORBASI", "name_en": "Puréed Vegetable Soup", "tags": ["vegetarian"] }
    ```
 
-4. Report the file path created.
+5. Report the file path created.

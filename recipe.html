@@ -18,14 +18,20 @@
   <script>
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
-    const lang = params.get('lang') === 'en' ? 'en' : 'tr';
+    let lang;
+    if (params.has('lang')) {
+      lang = params.get('lang') === 'en' ? 'en' : 'tr';
+    } else {
+      try { lang = localStorage.getItem('evicin-lang') || 'tr'; } catch (e) { lang = 'tr'; }
+    }
+    try { localStorage.setItem('evicin-lang', lang); } catch (e) {}
     const suffix = lang === 'tr' ? '_tr' : '_en';
 
     document.documentElement.lang = lang;
 
     function toggleURL() {
       const next = new URLSearchParams(window.location.search);
-      lang === 'tr' ? next.set('lang', 'en') : next.delete('lang');
+      next.set('lang', lang === 'tr' ? 'en' : 'tr');
       return `?${next.toString()}`;
     }
 
@@ -60,7 +66,7 @@
       const notes = r[`notes${suffix}`];
 
       document.title = `${name} — Ev İçin`;
-      document.getElementById('title').textContent = name;
+      document.getElementById('title').textContent = lang === 'en' ? name.toUpperCase() : name;
 
       const toggle = document.getElementById('lang-toggle');
       toggle.href = toggleURL();

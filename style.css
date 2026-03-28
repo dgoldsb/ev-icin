@@ -67,6 +67,84 @@ header h1 {
   font-size: 0.9rem;
 }
 
+/* Index page controls */
+.toc-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.lang-switcher {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.lang-btn {
+  font-family: inherit;
+  background: transparent;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #888;
+  padding: 0.2rem 0.5rem;
+}
+
+.lang-btn.active {
+  color: #1a1a1a;
+  border-color: #888;
+  font-weight: bold;
+}
+
+.lang-btn:hover:not(.active) {
+  color: #8b4513;
+}
+
+.diet-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.filter-btn {
+  font-family: inherit;
+  background: transparent;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #888;
+  padding: 0.2rem 0.6rem;
+}
+
+.filter-btn.active {
+  background: #1a1a1a;
+  color: #faf8f4;
+  border-color: #1a1a1a;
+}
+
+.filter-btn:hover:not(.active) {
+  color: #8b4513;
+  border-color: #8b4513;
+}
+
+.toc-empty {
+  padding: 1rem 0;
+  color: #aaa;
+  font-style: italic;
+  border-bottom: none;
+}
+
+@media (max-width: 480px) {
+  .toc-controls {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
 /* Recipe page header */
 .header-row {
   display: flex;

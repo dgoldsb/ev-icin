@@ -12,25 +12,99 @@
   </header>
   <main>
     <nav class="toc">
-      <h2>Tarifler / Recipes</h2>
+      <div class="toc-controls">
+        <div class="lang-switcher">
+          <button id="btn-tr" class="lang-btn active" aria-pressed="true">TR</button>
+          <button id="btn-en" class="lang-btn" aria-pressed="false">EN</button>
+        </div>
+        <div class="diet-filters" role="group" aria-label="Diet filter">
+          <button class="filter-btn active" data-filter="all">Tümü</button>
+          <button class="filter-btn" data-filter="meat">Et</button>
+          <button class="filter-btn" data-filter="fish">Balık</button>
+          <button class="filter-btn" data-filter="vegetarian">Vejetaryen</button>
+          <button class="filter-btn" data-filter="vegan">Vegan</button>
+        </div>
+      </div>
+      <h2 id="toc-heading">Tarifler</h2>
       <ul id="recipe-list">
         <li class="loading">Loading…</li>
       </ul>
     </nav>
   </main>
   <script>
+    let allRecipes = [];
+    let currentLang = 'tr';
+    let currentFilter = 'all';
+
+    const filterLabels = {
+      all:         { tr: 'Tümü',       en: 'All' },
+      meat:        { tr: 'Et',         en: 'Meat' },
+      fish:        { tr: 'Balık',      en: 'Fish' },
+      vegetarian:  { tr: 'Vejetaryen', en: 'Vegetarian' },
+      vegan:       { tr: 'Vegan',      en: 'Vegan' },
+    };
+
+    try {
+      currentLang = localStorage.getItem('evicin-lang') || 'tr';
+    } catch (e) {}
+
+    function render() {
+      const heading = document.getElementById('toc-heading');
+      heading.textContent = currentLang === 'tr' ? 'Tarifler' : 'Recipes';
+
+      const visible = currentFilter === 'all'
+        ? allRecipes
+        : allRecipes.filter(r => (r.tags || []).includes(currentFilter));
+
+      const list = document.getElementById('recipe-list');
+      if (visible.length === 0) {
+        list.innerHTML = '<li class="toc-empty">No recipes found for this filter.</li>';
+        return;
+      }
+      list.innerHTML = visible.map(r => `
+        <li>
+          <a href="recipe.html?id=${r.slug}">
+            <span>${currentLang === 'tr' ? r.name_tr : r.name_en.toUpperCase()}</span>
+            <span class="page-num">p. ${r.page}</span>
+          </a>
+        </li>
+      `).join('');
+    }
+
+    function setLang(lang) {
+      currentLang = lang;
+      try { localStorage.setItem('evicin-lang', lang); } catch (e) {}
+      document.getElementById('btn-tr').classList.toggle('active', lang === 'tr');
+      document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+      document.getElementById('btn-tr').setAttribute('aria-pressed', lang === 'tr');
+      document.getElementById('btn-en').setAttribute('aria-pressed', lang === 'en');
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        const key = btn.dataset.filter;
+        btn.textContent = filterLabels[key][lang];
+      });
+      render();
+    }
+
+    document.getElementById('btn-tr').addEventListener('click', () => setLang('tr'));
+    document.getElementById('btn-en').addEventListener('click', () => setLang('en'));
+
+    document.querySelector('.diet-filters').addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentFilter = btn.dataset.filter;
+      render();
+    });
+
+    // Apply persisted language to button state before fetch
+    setLang(currentLang);
+
     fetch('index.json')
       .then(r => r.json())
       .then(recipes => {
-        const list = document.getElementById('recipe-list');
-        list.innerHTML = recipes.map(r => `
-          <li>
-            <a href="recipe.html?id=${r.slug}">
-              <span>${r.name_tr} — ${r.name_en}</span>
-              <span class="page-num">p. ${r.page}</span>
-            </a>
-          </li>
-        `).join('');
+        allRecipes = recipes;
+        render();
       })
       .catch(() => {
         document.getElementById('recipe-list').innerHTML =
