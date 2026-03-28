@@ -26,3 +26,5 @@ The site is live at [https://dgoldsb.github.io/ev-icin/](https://dgoldsb.github.
 ## TODO
 
 - [ ] Favouriting recipes (store favourites in `localStorage`, show on index page)
+- [ ] Macro calculation per recipe — build a small ingredient database (`ingredients.json`) mapping common ingredients to macros (kcal, protein, fat, carbs per 100g); the set of ingredients across these recipes is limited enough to cover manually. Recipe page would look up each ingredient and display a nutrition summary.
+- [ ] Add partner's personal recipes in the same style, extending the book beyond the original source.

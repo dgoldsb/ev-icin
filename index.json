@@ -23,5 +23,13 @@
   { "page": 83, "slug": "p083_sis_kebabi", "name_tr": "ŞİŞ KEBABI", "name_en": "Shish Kebab", "tags": ["meat"] },
   { "page": 84, "slug": "p084_tencere_kebabi", "name_tr": "TENCERE KEBABI", "name_en": "Pot Kebab", "tags": ["meat"] },
   { "page": 85, "slug": "p085_bugu_kebabi", "name_tr": "BUĞU KEBABI", "name_en": "Steamed Kebab", "tags": ["meat"] },
-  { "page": 86, "slug": "p086_sebzeli_koyun_haslamasi", "name_tr": "SEBZELİ KOYUN HAŞLAMASI", "name_en": "Boiled Mutton with Vegetables", "tags": ["meat"] }
+  { "page": 86, "slug": "p086_sebzeli_koyun_haslamasi", "name_tr": "SEBZELİ KOYUN HAŞLAMASI", "name_en": "Boiled Mutton with Vegetables", "tags": ["meat"] },
+  { "page": 87, "page_end": 88, "slug": "p087_kuru_kofte", "name_tr": "KURU KÖFTE", "name_en": "Pan-Fried Meatballs", "tags": ["meat"] },
+  { "page": 89, "page_end": 90, "slug": "p089_rulo_kofte", "name_tr": "RULO KÖFTE", "name_en": "Meatball Roll", "tags": ["meat"] },
+  { "page": 91, "slug": "p091_kadin_budu_kofte", "name_tr": "KADIN BUDU KÖFTE", "name_en": "Lady's Thigh Meatballs", "tags": ["meat"] },
+  { "page": 92, "page_end": 93, "slug": "p092_icli_kofte", "name_tr": "İÇLİ KÖFTE", "name_en": "Stuffed Meatballs", "tags": ["meat"] },
+  { "page": 94, "slug": "p094_cig_kofte", "name_tr": "ÇİĞ KÖFTE", "name_en": "Raw Meatballs", "tags": ["meat"] },
+  { "page": 95, "slug": "p095_surpriz_kofte", "name_tr": "SÜRPRİZ KÖFTE", "name_en": "Surprise Meatballs", "tags": ["meat"] },
+  { "page": 96, "slug": "p096_izmir_koftesi", "name_tr": "İZMİR KÖFTESİ", "name_en": "Izmir Meatballs", "tags": ["meat"] },
+  { "page": 97, "slug": "p097_terbiyeli_kofte", "name_tr": "TERBİYELİ KÖFTE", "name_en": "Meatballs with Egg and Lemon Sauce", "tags": ["meat"] }
 ]

@@ -1,0 +1,54 @@
+{
+  "page": 97,
+  "slug": "p097_terbiyeli_kofte",
+  "name_tr": "TERBİYELİ KÖFTE",
+  "name_en": "Meatballs with Egg and Lemon Sauce",
+  "ingredients_tr": [
+    "500 gr. az yağlı kıyma",
+    "1 orta boy soğan",
+    "2 yumurta sarısı",
+    "1,5 çorba kaşığı un",
+    "3 çorba kaşığı limon suyu",
+    "1 çay kaşığı karabiber",
+    "7-8 dal maydanoz yaprağı",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Rendelenmiş soğan, ince kıyılmış maydanoz, karabiber, bir buçuk çay kaşığı tuz kıymaya katılarak yoğrulur.",
+    "İki fındık büyüklüğünde parçalar alınarak yuvarlanır. Un serpilmiş tepside salanarak köfteler una bulanır.",
+    "Bir tencereye üç su bardağı su konur. İki çay kaşığı tuz atılır. Kaynayınca köfteler salınır. Üzerinde biriken köpük alınıp ateşi kısılarak beş dakika pişirilir.",
+    "Çarpılmış yumurta sarılarına limon suyu katılır. Yarım su bardağı soğuk su ile sulandırılır. Kaynayan köfteye yavaş yavaş, karıştırarak ilave edilir. Bir iki dakika karıştırarak pişirilir. Kaynamadan ateşten alınır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Bütün yemeklere terbiye hazırlarken, iki yumurta sarısı yerine, çatalla iyice çarpılmış bir bütün yumurta kullanılabilir.",
+  "ingredients_en": [
+    "500 gr. lean ground meat",
+    "1 medium onion",
+    "2 egg yolks",
+    "1,5 tablespoons flour",
+    "3 tablespoons lemon juice",
+    "1 teaspoon black pepper",
+    "7–8 sprigs parsley",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Add the grated onion, finely chopped parsley, black pepper, and one and a half teaspoons of salt to the meat. Knead well.",
+    "Take hazelnut-sized portions and roll into balls. Toss in a flour-dusted tray to coat.",
+    "Bring 3 cups of water and 2 teaspoons of salt to a boil in a pot. Drop in the meatballs. Skim off any foam, reduce heat, and cook for five minutes.",
+    "Beat the egg yolks with the lemon juice and dilute with half a cup of cold water. Pour slowly into the simmering meatballs, stirring constantly. Stir and cook for one to two minutes. Remove from heat before it comes to a full boil."
+  ],
+  "notes_en": "GENERAL NOTE: When making egg-and-lemon sauce for any dish, one whole egg beaten well with a fork can be used instead of two egg yolks.",
+  "variations": [
+    {
+      "name_tr": "PİRİNÇLİ KÖFTE",
+      "name_en": "Meatballs with Rice",
+      "description_tr": "Köfte hamuruna bir kahve fincanı ayıklanıp yıkanmış pirinç katılarak hazırlanır.",
+      "description_en": "Prepare the same mixture but add 1 coffee cup of cleaned and washed rice to the meat before kneading."
+    },
+    {
+      "name_tr": "MAYDANOZLU KÖFTE",
+      "name_en": "Parsley-Coated Meatballs",
+      "description_tr": "Terbiyeli köftedeki ölçü ve işlemlere uyularak yapılır. Bunda köfteler un yerine ince kıyılmış bir demet maydanoza bulanır.",
+      "description_en": "Follow the same quantities and method as Terbiyeli Köfte, but coat the meatballs in finely chopped parsley instead of flour."
+    }
+  ]
+}

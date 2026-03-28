@@ -1,0 +1,54 @@
+{
+  "page": 96,
+  "slug": "p096_izmir_koftesi",
+  "name_tr": "İZMİR KÖFTESİ",
+  "name_en": "Izmir Meatballs",
+  "ingredients_tr": [
+    "500 gr. az yağlı kıyma",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "3 orta boy domates veya 1 çorba kaşığı domates salçası",
+    "3-4 sivri biber",
+    "2 orta boy patates",
+    "1 orta boy soğan",
+    "4-5 dal maydanoz",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Patatesler yıkanır, soyulur, yarım parmak kalınlığında dilimlere kesilir. Yağlanmış küçük bir tepsiye sıralanır.",
+    "Ayıklanıp ince kıyılmış maydanoz, rendelenmiş soğan, karabiber, bir buçuk çay kaşığı tuz, kıymaya katılıp yoğrulur. Islak avuç arasında yuvarlak yassı köfteler yapılır.",
+    "Hazırlanan köfteler tepsideki patateslerin üzerine dizilir. Her köftenin üzerine bir domates dilimi, aralarına sivri biber yerleştirilir. Kalan yağ parça parça konur. Bir su bardağı su, yarım çay kaşığı tuz ilave edilip, hafif ateşte yarım saat pişirilir."
+  ],
+  "notes_tr": [
+    "Not: İstenirse patates, köfte ve sivri biber önce yağda kızartılıp sonra pişirilir.",
+    "GENEL BİLGİ: Pişmekte olan yemeğe soğuk su konmaz. Gerektiğinde ocakta hazır bulundurulan kaynar su kullanılır."
+  ],
+  "ingredients_en": [
+    "500 gr. lean ground meat",
+    "2 matchbox-sized pieces of fat (butter or margarine)",
+    "3 medium tomatoes or 1 tablespoon tomato paste",
+    "3–4 long green peppers",
+    "2 medium potatoes",
+    "1 medium onion",
+    "4–5 sprigs parsley",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Wash, peel, and slice the potatoes into half-finger-thick rounds. Arrange in a small greased baking tray.",
+    "Add the cleaned and finely chopped parsley, grated onion, black pepper, and one and a half teaspoons of salt to the meat and knead. Shape into flat round patties between wet palms.",
+    "Arrange the meatballs on top of the potatoes. Place a tomato slice on each meatball and tuck green peppers between them. Dot with the remaining fat. Add 1 cup of water and half a teaspoon of salt, and cook over low heat for half an hour."
+  ],
+  "notes_en": [
+    "Note: If preferred, the potatoes, meatballs, and peppers can be fried in oil first before baking.",
+    "GENERAL NOTE: Never add cold water to a dish that is cooking. When additional liquid is needed, use boiling water kept ready on the stove."
+  ],
+  "variations": [
+    {
+      "name_tr": "SALÇALI KÖFTE",
+      "name_en": "Meatballs in Tomato Sauce",
+      "description_tr": "Köfteler İzmir köftesinde olduğu gibi hazırlanır. Patates konmadan tepsiye sıralanır. Üzerine rendelenmiş domates yayılır. Kıyılmış iki diş sarmısak, iki çay kaşığı kekik, yarım çay kaşığı tuz serpiştirilir, aynı miktar yağ ve su konarak pişirilir. Yine İzmir köftesinde olduğu gibi istenirse önce yağda kızartılıp sonra pişirilir.",
+      "description_en": "Prepare the meatballs as for İzmir Meatballs. Arrange in a tray without potatoes. Spread grated tomato over the top. Sprinkle with 2 cloves of minced garlic, 2 teaspoons of thyme, and half a teaspoon of salt. Add the same amount of fat and water as the main recipe and bake. As with İzmir Meatballs, the patties can be fried first if preferred."
+    }
+  ]
+}

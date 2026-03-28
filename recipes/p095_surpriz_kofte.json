@@ -1,0 +1,38 @@
+{
+  "page": 95,
+  "slug": "p095_surpriz_kofte",
+  "name_tr": "SÜRPRİZ KÖFTE",
+  "name_en": "Surprise Meatballs",
+  "ingredients_tr": [
+    "500 gr. yağsız kıyma",
+    "2 çay kaşığı kimyon",
+    "1 çay kaşığı karabiber",
+    "1 çay kaşığı kırmızı biber",
+    "3 kibrit kutusu büyüklüğünde margarin",
+    "4 diş sarmısak",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Karabiber, kırmızı biber, kimyon, ölçülü tuzla dövülmüş sarmısak, kıymaya katılıp sekiz-on dakika yoğrulur.",
+    "Üç parmak eninde yuvarlanarak rulo yapılır. Yağlı kâğıda sarılıp buzlukta yarı dondurulur.",
+    "Yarı donmuş olarak buzluktan alınan rulo köfte, keskin bir bıçakla, bir parmak kalınlığında dilimlere kesilir. Kâğıtları çıkarılır.",
+    "Kızgın yağda kızartılır. İstenirse teflon tavada hafif ateşte az yağla kızartılabilir."
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Et, kıyma halinde çabuk bozulur. Buz dolabında saklansa da iki günden fazla bekletilmeyip kullanılmalı. Kıyma miktarı çoksa, bir defada kullanılacak parçalar halinde buzlukta dondurulup, kullanmadan birkaç saat önce buzluktan indirilmeli. Donmuş et çözüldükten sonra tekrar dondurulmamalı. Buz dolabından yararlanmak imkânı yoksa kıyma kavrularak saklanmalı.",
+  "ingredients_en": [
+    "500 gr. lean ground meat",
+    "2 teaspoons cumin",
+    "1 teaspoon black pepper",
+    "1 teaspoon red pepper",
+    "3 matchbox-sized pieces of margarine",
+    "4 cloves garlic",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Combine the black pepper, red pepper, cumin, measured salt, and crushed garlic with the meat. Knead for eight to ten minutes.",
+    "Roll into a log three fingers wide. Wrap in greaseproof paper and half-freeze in the freezer.",
+    "Remove the half-frozen log from the freezer and slice with a sharp knife into finger-thick rounds. Remove the paper.",
+    "Fry in hot oil. If preferred, cook in a non-stick pan over low heat with a little oil."
+  ],
+  "notes_en": "NUTRITIONAL NOTE: Ground meat spoils quickly. Even refrigerated, it should be used within two days. If you have a large quantity, freeze it in single-use portions and defrost a few hours before needed. Never refreeze thawed meat. If refrigeration is not available, the meat should be cooked and stored that way."
+}

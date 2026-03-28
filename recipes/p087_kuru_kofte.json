@@ -1,0 +1,60 @@
+{
+  "page": 87,
+  "slug": "p087_kuru_kofte",
+  "name_tr": "KURU KÖFTE",
+  "name_en": "Pan-Fried Meatballs",
+  "ingredients_tr": [
+    "500 gr. yağsız kıyma",
+    "100 gr. ince çekilmiş kuyruk yağı",
+    "1 dilim bayat ekmek içi",
+    "1 çay kaşığı karabiber",
+    "1 su bardağı kızartmalık sıvı yağ",
+    "2 orta boy soğan",
+    "2 çay kaşığı kimyon",
+    "4-5 dal maydanoz",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Rendelenmiş soğan, çekilmiş kuyruk yağı, ince kıyılmış maydanoz yaprağı, ıslatılıp sıkılmış bayat ekmek içi, karabiber, kimyon, tuz kıymaya katılıp, sekiz-on dakika iyice yoğrulur.",
+    "Ceviz büyüklüğünde parçalar alınır. Yuvarlak, uzun veya yassı olarak şekillendirilir.",
+    "Kızdırılmış yağda, orta ısıda kızartılır."
+  ],
+  "notes_tr": [
+    "Not: Parçalanmaması için kızartırken köfteler sertleşmeden çevrilmemeli.",
+    "Köfte hamuruna bayat ekmek içi yerine, haşlanıp ezilmiş patates, kuyruk yağı yerine iki çorba kaşığı zeytinyağı konabilir.",
+    "Izgara köftenin hamuru, içine ekmek konmadan aynı şekilde hazırlanır.",
+    "BESİN BİLGİSİ: Sebze ve meyvalardaki vitaminlerin çoğu, kabuğa yakın yerde olduğundan, soyularak yenen meyvalar çok ince soyulmalı. Gerekmedikce, meyvalar soyulmayıp kabuğu ile yenmali.",
+    "Marulun dışa yakın yapraklarında göbekten daha fazla vitamin bulunduğundan, kıvırcık salata ve marulun üstten bir sıra yaprakları atılıp kalan yapraklar değerlendirilmelidir."
+  ],
+  "ingredients_en": [
+    "500 gr. lean ground meat",
+    "100 gr. finely ground tail fat",
+    "1 slice stale bread (inside only)",
+    "1 teaspoon black pepper",
+    "1 cup frying oil",
+    "2 medium onions",
+    "2 teaspoons cumin",
+    "4–5 sprigs parsley",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Add the grated onion, ground tail fat, finely chopped parsley, soaked and squeezed bread, black pepper, cumin, and salt to the meat. Knead thoroughly for eight to ten minutes.",
+    "Take walnut-sized portions and shape into rounds, ovals, or patties.",
+    "Fry in hot oil over medium heat."
+  ],
+  "notes_en": [
+    "Note: Do not turn the meatballs while frying until they have firmed up, or they will fall apart.",
+    "Boiled mashed potato can be used instead of bread in the mixture, and 2 tablespoons of olive oil instead of tail fat.",
+    "For grilled köfte, prepare the same mixture without the bread.",
+    "NUTRITIONAL NOTE: Most vitamins in vegetables and fruit are found close to the skin, so fruit that is peeled should be peeled as thinly as possible. Where not necessary, fruit should be eaten unpeeled.",
+    "The outer leaves of lettuce and curly salad contain more vitamins than the heart, so only the topmost row of leaves should be discarded — the rest should be used."
+  ],
+  "variations": [
+    {
+      "name_tr": "SICAK MEZELİK BİLYE KÖFTE",
+      "name_en": "Hot Cheese Meatball Bites",
+      "description_tr": "Kuru köftenin hamuruna, bayat ekmek yerine bir su bardağı rendelenmiş kaşar peyniri, bir yumurta konur. İyice yoğrulur. İki fındık büyüklüğünde parçalar alınıp yuvarlanır. Galeta tozuna bulanarak kızartılır. Sıcak sıcak servis yapılır.",
+      "description_en": "Use the Kuru Köfte mixture but replace the bread with 1 cup of grated kashar cheese and add 1 egg. Knead well. Roll into hazelnut-sized balls, coat in breadcrumbs, and fry. Serve immediately while hot."
+    }
+  ]
+}
