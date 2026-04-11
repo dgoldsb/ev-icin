@@ -1,0 +1,38 @@
+{
+  "page": 107,
+  "slug": "p107_tavuk_yahnisi",
+  "name_tr": "TAVUK YAHNİSİ",
+  "name_en": "Chicken Stew",
+  "ingredients_tr": [
+    "1 tavuk",
+    "1 kibrit kutusu büyüklüğünde yağ",
+    "1 orta boy soğan",
+    "3 orta boy domates veya Yarım çorba kaşığı domates salçası",
+    "2–3 diş sarmısak",
+    "1 çay kaşığı karabiber",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Tavuk temizlenir, alazlanır, yıkanır. Keskin bıçakla birer kişilik parçalara kesilir.",
+    "İnce doğranmış soğan, hafif ateşte yağla fazla sararmadan kavrulur. Rendelenmiş domates konur. Suyunu çekinceye kadar pişirilir.",
+    "Tavuğun parçaları, soğanlı salçalı karışıma konup, her yanı hafif ateşte çevire çevire yağdan geçirilir.",
+    "Üç su bardağı su, ayıklanmış sarmısak, karabiber konur. Kapağı örtülerek kısık ateşte yumuşayıncaya kadar pişirilir. İneceğine yakın tuzu atılır. Sade pilavla servis yapılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Her cins et, tavuk yarım çorba kaşığı tuzla karıştırılmış bir limon suyu ile oğuşturulup bir saat bekletildikten sonra pişirilirse, pişirme süresi kısalır, daha lezzetli olur.",
+  "ingredients_en": [
+    "1 chicken",
+    "1 matchbox-sized piece of fat (butter or margarine)",
+    "1 medium onion",
+    "3 medium tomatoes or half a tablespoon of tomato paste",
+    "2–3 cloves garlic",
+    "1 teaspoon black pepper",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Clean the chicken, singe over a flame, and wash. Cut into individual portions with a sharp knife.",
+    "Sauté the finely chopped onion in the fat over low heat without browning. Add the grated tomato. Cook until the liquid evaporates.",
+    "Add the chicken pieces to the onion-tomato mixture and turn over low heat to coat on all sides in the fat.",
+    "Add three cups of water, the peeled garlic cloves, and black pepper. Cover and cook over low heat until tender. Add salt towards the end. Serve with plain rice pilaf."
+  ],
+  "notes_en": "GENERAL NOTE: All types of meat and chicken, when rubbed with lemon juice mixed with half a tablespoon of salt and left to rest for an hour before cooking, will cook more quickly and taste better."
+}

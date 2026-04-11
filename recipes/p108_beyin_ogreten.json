@@ -1,0 +1,62 @@
+{
+  "page": 108,
+  "slug": "p108_beyin_ogreten",
+  "name_tr": "BEYİN OGRETEN",
+  "name_en": "Brain Gratin",
+  "ingredients_tr": [
+    "2 adet dana veya 4 koyun beyni",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "1 kuru soğan",
+    "2 defne yaprağı",
+    "Yarım su bardağı kaşar peyniri rendesi",
+    "2 çorba kaşığı un",
+    "2,5 su bardağı süt",
+    "Yarım çay kaşığı kırmızı biber",
+    "Yarım çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Bir süre soğuk suda bırakılan beyinlerin zarları, ince akan su altında soyularak çıkarılır.",
+    "Kaynayan suya bütün olarak konur. Dörde bölünmüş soğan, defne yaprağı, tuz ilave edilir. Yirmi dakika haşlanır. Süzülerek sudan çıkarılır.",
+    "Yağla un az ateşte pembeleşmeden kavrulur. Soğuk süt birden konup karıştırılır. Bir çay kaşığı tuz ilave edilerek bir dakika pişirilir.",
+    "Ateşten alınır. Ilınınca kaşar peynirinin yarısı, kırmızı biber katılır.",
+    "Fırına girebilecek bir kap yağlanır. Hazırlanan salçanın üçte biri yayılır. Üzerine beyinler yerleştirilir. Karabiber ekilir. Kalan salça üzerine yayılır. Kalan kaşar peyniri serpiştirilir.",
+    "Kızdırılmış fırına konur. Üzeri pembeleşinceye kadar pişirilir. Fırından alınıp sıcak sıcak servis yapılır."
+  ],
+  "notes_tr": [
+    "Not: Beyin suyu atılmayıp çorbalara kullanılarak değerlendirilmeli.",
+    "GENEL BİLGİ: Beyin temizlenirken zarının kolay çıkması için bir süre soğuk suda bırakılır. Sonra ince akan su altında temizlenir."
+  ],
+  "ingredients_en": [
+    "2 beef brains or 4 lamb brains",
+    "2 matchbox-sized pieces of fat (butter or margarine)",
+    "1 onion",
+    "2 bay leaves",
+    "Half a cup of grated kaşar cheese",
+    "2 tablespoons flour",
+    "2,5 cups milk",
+    "Half a teaspoon of red pepper",
+    "Half a teaspoon of black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Soak the brains in cold water for a while, then carefully peel away the membrane under gently running water.",
+    "Place whole into boiling water. Add the quartered onion, bay leaves, and salt. Boil for twenty minutes. Drain and remove from the water.",
+    "Cook the fat and flour over low heat without browning. Add cold milk all at once and stir. Add one teaspoon of salt and cook for one minute.",
+    "Remove from heat. Once slightly cooled, stir in half the grated kaşar cheese and the red pepper.",
+    "Grease an ovenproof dish. Spread one third of the sauce on the bottom. Arrange the brains on top. Sprinkle with black pepper. Spread the remaining sauce over the top. Scatter the remaining kaşar cheese.",
+    "Place in a preheated oven. Bake until the top is golden. Remove from the oven and serve hot."
+  ],
+  "notes_en": [
+    "Note: Do not discard the brain cooking liquid — it can be put to use in soups.",
+    "GENERAL NOTE: To make it easier to peel away the membrane when cleaning brains, leave them in cold water for a while first, then clean under gently running water."
+  ],
+  "variations": [
+    {
+      "name_tr": "TAVUK OGRETEN",
+      "name_en": "Chicken Gratin",
+      "description_tr": "Beyin yerine haşlanarak küçük parçalara ayrılmış bir tavuk eti kullanılır. Diğer ölçü ve işlemler aynen uygulanır.",
+      "description_en": "Use one boiled chicken, shredded into small pieces, in place of the brains. All other quantities and steps remain the same."
+    }
+  ]
+}

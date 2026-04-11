@@ -1,0 +1,50 @@
+{
+  "page": 98,
+  "slug": "p098_bulgur_koftesi",
+  "name_tr": "BULGUR KÖFTESİ",
+  "name_en": "Bulgur Meatballs",
+  "ingredients_tr": [
+    "2 su bardağı ince bulgur",
+    "Yarım su bardağı un",
+    "2 su bardağı yoğurt",
+    "1 orta boy soğan",
+    "3–4 diş sarmısak",
+    "2 kibrit kutusu büyüklüğünde tereyağı",
+    "2 çay kaşığı kimyon",
+    "2 çay kaşığı pul biber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Bulgurun üzerine bir buçuk su bardağı kaynar su konur. Kapak kapatılarak on dakika kabarmağa bırakılır.",
+    "Kabaran bulgura un, rendelenmiş soğan, bir çay kaşığı kırmızı biber, kimyon, iki çay kaşığı tuz konur. Beş dakika yoğrulur. İyice özleşince bir buçuk fındık büyüklüğünde yuvarlaklar yapılır. Parmakla ortalarına bastırılarak çukurlaştirılır.",
+    "Beş su bardağı suya, iki çay kaşığı tuz atılıp kaynatılır. Hazırlanan köfteler ilave edilir. Beş dakika kaynatılıp ateşten alınır.",
+    "İki-üç kaşık suyu ile tabaklara alınır. Üzerine sarmısaklı yoğurt dökülür. Kızdırılmış kırmızı biberli tereyağı gezdirilir."
+  ],
+  "ingredients_en": [
+    "2 cups fine bulgur",
+    "Half a cup of flour",
+    "2 cups yogurt",
+    "1 medium onion",
+    "3–4 cloves garlic",
+    "2 matchbox-sized pieces of butter",
+    "2 teaspoons cumin",
+    "2 teaspoons red pepper flakes",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Pour one and a half cups of boiling water over the bulgur. Cover and leave to swell for ten minutes.",
+    "Add the flour, grated onion, one teaspoon red pepper, cumin, and two teaspoons of salt to the swollen bulgur. Knead for five minutes. Once the mixture comes together, shape into balls slightly larger than a hazelnut. Press a finger into the centre of each to make a dimple.",
+    "Bring five cups of water and two teaspoons of salt to a boil. Drop in the prepared meatballs. Boil for five minutes, then remove from heat.",
+    "Plate with two or three spoonfuls of the cooking liquid. Spoon garlic yogurt over the top. Drizzle with hot butter infused with red pepper."
+  ],
+  "notes_tr": "GENEL BİLGİ: Yiyeceklerin kokusu, görünümü, tadı, yemek arasında ölçülü olarak alınan su, mide salgısını uyarır. İştahı açar.",
+  "notes_en": "GENERAL NOTE: The smell, appearance, and taste of food, along with water taken in moderate amounts during a meal, stimulate the stomach's digestive secretions and increase the appetite.",
+  "variations": [
+    {
+      "name_tr": "SAMISAKLI KÖFTE",
+      "name_en": "Samisakli Meatballs",
+      "description_tr": "İnce kıyılmış dört sivri biber, bir kahve fincanı zeytinyağında hafif kavrulur. Kabukları soyularak küçük doğranmış dört orta boy domates, bir çay kaşığı tuzla dövülmüş on diş sarmısak konur. Hafif ateşte domatesler eriyinceye kadar pişirilir. İki çay kaşığı kimyon, üç çorba kaşığı limon suyu, bir çay kaşığı pul biber konur. Bir-iki taşım kaynatılıp indirilir. Yukarıdaki ölçü ve işlemlere uyularak hazırlanıp, suyundan süzülerek alınan köftelerin üzerine, sarmısaklı yoğurt ve tereyağı yerine, bu domatesli sos dökülür.",
+      "description_en": "Lightly fry four finely chopped long green peppers in one coffee cup of olive oil. Add four medium tomatoes, peeled and finely diced, and ten cloves of garlic pounded with one teaspoon of salt. Cook over low heat until the tomatoes dissolve. Add two teaspoons of cumin, three tablespoons of lemon juice, and one teaspoon of red pepper flakes. Bring to a boil once or twice, then remove from heat. Prepare the meatballs according to the quantities and steps above, drain them from their cooking liquid, and pour this tomato sauce over them in place of the garlic yogurt and butter."
+    }
+  ]
+}

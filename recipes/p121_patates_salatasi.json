@@ -1,0 +1,42 @@
+{
+  "page": 121,
+  "slug": "p121_patates_salatasi",
+  "name_tr": "PATATES SALATASI",
+  "name_en": "Potato Salad",
+  "ingredients_tr": [
+    "5 adet orta boy patates",
+    "1 orta boy kuru soğan",
+    "4 çorba kaşığı zeytinyağı",
+    "4 çorba kaşığı limon suyu",
+    "4–5 dal maydanoz",
+    "1 çay kaşığı kırmızı biber",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Rendelenmiş soğan, zeytinyağı, limon, kırmızı biber, tuz haşlanarak ezilmiş patatese karıştırılıp püre yapılır.",
+    "Şekilli kalıp veya kaseye konup hafifçe bastırılır. Salata tabağına ters çevrilir. Üzeri zeytin ve maydanoz yaprakları ile süslenir."
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Karbonhidratlar diye isimlendirilen şeker, nişasta türü yiyeceklerden, günde en az 100-125 gr. alınması zorunludur. Bu miktar hücrelerin, özellikle beyin dokusunun enerji ihtiyacı, vücut sıvılarındaki asidite oranının normal düzeyde kalması, suyun vücutta tutulması için gereklidir.",
+  "ingredients_en": [
+    "5 medium potatoes",
+    "1 medium dry onion",
+    "4 tablespoons olive oil",
+    "4 tablespoons lemon juice",
+    "4–5 sprigs parsley",
+    "1 teaspoon red pepper",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Mix the grated onion, olive oil, lemon juice, red pepper, and salt into the boiled and mashed potatoes to make a purée.",
+    "Press lightly into a shaped mould or bowl. Turn out onto a salad plate. Garnish with olives and parsley leaves."
+  ],
+  "notes_en": "NUTRITIONAL NOTE: It is essential to consume at least 100–125 gr. of carbohydrates — sugars and starches — per day. This amount is necessary to meet the energy needs of cells (especially brain tissue), maintain normal acidity levels in body fluids, and retain water in the body.",
+  "variations": [
+    {
+      "name_tr": "ENGİNAR SALATASI",
+      "name_en": "Artichoke Salad",
+      "description_tr": "Enginarlar temizlenir. Bir tatlı kaşığı un ve tuz konmuş suda haşlanır. Salata tabağına sıralanır. İçlerine krema pompası ile şekilli sıkılarak veya kaşıkla düzgün olarak patates salatası konur. Üzeri maydanoz dalları, haşlanmış bezelye veya zeytinle süslenir.",
+      "description_en": "Clean the artichokes. Boil in water with one dessertspoon of flour and salt. Arrange on a salad plate. Fill the centres with potato salad, piped decoratively with a piping bag or spooned in neatly. Garnish with parsley sprigs, boiled peas, or olives."
+    }
+  ]
+}

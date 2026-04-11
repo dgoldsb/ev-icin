@@ -1,0 +1,42 @@
+{
+  "page": 120,
+  "slug": "p120_karnabahar_salatasi",
+  "name_tr": "KARNABAHAR SALATASI",
+  "name_en": "Cauliflower Salad",
+  "ingredients_tr": [
+    "1 küçük boy karnabahar",
+    "3 çorba kaşığı limon suyu",
+    "3 çorba kaşığı zeytinyağı",
+    "1 tatlı kaşığı un",
+    "Yarım çay kaşığı karabiber",
+    "5–6 dal maydanoz yaprağı",
+    "Yarım çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Karnabahar yıkanıp parçalara ayrılır. Kaynamakta olan suya konur. Soğuk suda ezilmiş un ilave edilir. Hafif ateşte fazla ezilmeden haşlanır.",
+    "Zeytinyağı, limon suyu, tuz, karabiber bir bardakta çatalla çarpılır. Servis tabağına yerleştirilen karnabaharların üzerine gezdirerek dökülür. Üzerine kıyılmış maydanoz serpilir."
+  ],
+  "notes_tr": "GENEL BİLGİ: Karnabahar satın alırken orta ve küçük boyda olanı seçilmeli. Lezzetli olur, çabuk pişer. Kokusunu alması, renginin beyaz kalması için, karnabahar ve lahana pişerken, suyuna bir kahve fincanı süt, bir kesme şeker veya soğuk suda ezilmiş bir tatlı kaşığı un konur. Karnabahar ve lahana pişerken, tencereye konan bir tutam maydanoz da kokusunu hafifletir.",
+  "ingredients_en": [
+    "1 small cauliflower",
+    "3 tablespoons lemon juice",
+    "3 tablespoons olive oil",
+    "1 dessertspoon flour",
+    "Half a teaspoon of black pepper",
+    "5–6 sprigs parsley",
+    "Half a teaspoon of salt"
+  ],
+  "instructions_en": [
+    "Wash the cauliflower and separate into florets. Place in boiling water. Add the flour dissolved in cold water. Boil over low heat until just tender without overcooking.",
+    "Beat the olive oil, lemon juice, salt, and black pepper together with a fork in a glass. Pour over the cauliflower arranged on a serving plate. Sprinkle with chopped parsley."
+  ],
+  "notes_en": "GENERAL NOTE: When buying cauliflower, choose medium or small heads — they taste better and cook more quickly. To prevent odour and keep the colour white, add one coffee cup of milk, a lump of sugar, or one dessertspoon of flour dissolved in cold water to the cooking water. A small bunch of parsley added to the pot while cauliflower or cabbage is cooking also reduces the smell.",
+  "variations": [
+    {
+      "name_tr": "SOĞAN SALATASI",
+      "name_en": "Onion Salad",
+      "description_tr": "İnce yarım halkalara doğranmış üç kuru soğan, ince kıyılmış bir demet maydanoz karıştırılır. Dört çorba kaşığı zeytinyağı, dört çorba kaşığı limon suyu, üç çay kaşığı sumak, bir çay kaşığı kırmızı biber, bir çay kaşığı tuz ağzı kapalı bir şişede çarpılıp soğan, maydanoz karışımının üzerine gezdirerek dökülür.",
+      "description_en": "Mix three dry onions, thinly sliced into half-rings, with one bunch of finely chopped parsley. Shake together four tablespoons of olive oil, four tablespoons of lemon juice, three teaspoons of sumac, one teaspoon of red pepper, and one teaspoon of salt in a sealed bottle. Pour over the onion and parsley mixture."
+    }
+  ]
+}

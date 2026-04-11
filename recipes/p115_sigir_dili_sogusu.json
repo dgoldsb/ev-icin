@@ -1,0 +1,58 @@
+{
+  "page": 115,
+  "slug": "p115_sigir_dili_sogusu",
+  "name_tr": "SIĞIR DİLİ SÖĞÜŞÜ",
+  "name_en": "Cold Beef Tongue",
+  "ingredients_tr": [
+    "1 sığır dili",
+    "2 orta boy soğan",
+    "1 küçük havuç",
+    "2–3 dal kereviz",
+    "1 defne yaprağı",
+    "1 çay kaşığı tane karabiber",
+    "5–6 dal maydanoz",
+    "4 orta boy haşlanmış patates",
+    "1 domates",
+    "Yarım çay kaşığı kırmızı biber",
+    "3 çorba kaşığı limon suyu",
+    "3 çorba kaşığı zeytinyağı",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Dil yıkanır. Üzerini örtecek kadar su ile ateşe konur. Bir süre kaynama derecesinde ateşte bırakılır. Yüzeyi soyulmağa başlayınca ateşten alınıp, pürtüklü deri bıçakla kazınarak çıkarılır.",
+    "Tekrar üzerini geçecek kadar su ile ateşe konur. Kaynayınca üzerinde biriken köpükler alınır. Dörde bölünmüş bir soğan, birkaç parçaya kesilmiş havuç, kereviz dalları, tane karabiber, defne yaprağı konur. Hafif ateşte yumuşayıncaya kadar pişirilir. İneceğine yakın tuz atılır.",
+    "Soğuyunca yarım parmak incelikte dilimlere kesilir. Servis tabağına yerleştirilir.",
+    "İnce yarım halkalara doğranmış bir soğan, yarım çay kaşığı tuz ve kırmızı biberle biraz ovulur. İnce kıyılmış maydanoz, haşlanarak ince dilimlenmiş patatesle karıştırılır.",
+    "Patates salatası servis tabağındaki dilin çevresine konur. Üzerine limon suyu, zeytinyağı, yarım çay kaşığı tuz karıştırılmış sos gezdirilir. İnce yarım dairelere kesilmiş domates dilimleri söğüş dilin aralarına sıralanır."
+  ],
+  "ingredients_en": [
+    "1 beef tongue",
+    "2 medium onions",
+    "1 small carrot",
+    "2–3 sprigs celery",
+    "1 bay leaf",
+    "1 teaspoon whole black peppercorns",
+    "5–6 sprigs parsley",
+    "4 medium boiled potatoes",
+    "1 tomato",
+    "Half a teaspoon of red pepper",
+    "3 tablespoons lemon juice",
+    "3 tablespoons olive oil",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Wash the tongue. Place in a pot with enough water to cover and bring to heat. Leave at simmering point for a while. When the surface begins to peel, remove from heat and scrape off the rough skin with a knife.",
+    "Return to the pot with enough fresh water to cover. Bring to a boil and skim off the foam. Add a quartered onion, the carrot cut into several pieces, celery sprigs, whole peppercorns, and the bay leaf. Cook over low heat until tender. Add salt towards the end.",
+    "Once cooled, slice into half-finger-thick rounds. Arrange on a serving plate.",
+    "Rub the remaining onion, thinly sliced into half-rings, with half a teaspoon of salt and the red pepper. Mix with the finely chopped parsley and the boiled potatoes, thinly sliced.",
+    "Arrange the potato salad around the tongue on the serving plate. Drizzle with a dressing of lemon juice, olive oil, and half a teaspoon of salt. Tuck thinly sliced tomato half-rounds between the tongue slices."
+  ],
+  "variations": [
+    {
+      "name_tr": "MAYONEZLİ SIĞIR DİLİ",
+      "name_en": "Beef Tongue with Mayonnaise",
+      "description_tr": "Haşlanıp ince dilimlenerek tabağa yerleştirilen dilin üzeri mayonezle kaplanır. Yanına yine patates veya rus salatası konur. Salata yaprakları veya domatesle süslenir.",
+      "description_en": "Arrange the boiled and thinly sliced tongue on a plate and coat with mayonnaise. Serve with potato salad or Russian salad on the side. Garnish with lettuce leaves or tomato."
+    }
+  ]
+}

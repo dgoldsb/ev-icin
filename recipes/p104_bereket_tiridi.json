@@ -1,0 +1,54 @@
+{
+  "page": 104,
+  "slug": "p104_bereket_tiridi",
+  "name_tr": "BEREKET TİRİDİ",
+  "name_en": "Abundance Tirit",
+  "ingredients_tr": [
+    "250 gr. kıyma",
+    "1 orta boy soğan",
+    "3 orta boy domates veya 1 çorba kaşığı domates salçası",
+    "2–3 sivri biber",
+    "2 su bardağı et suyu",
+    "2 su bardağı yoğurt",
+    "3 kibrit kutusu büyüklüğünde yağ",
+    "6 dilim bayat ekmek",
+    "3 diş sarmısak",
+    "Yarım çay kaşığı karabiber",
+    "Yarım çay kaşığı kırmızı biber",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "İnce doğranmış soğan, sivri biber, yağın yarısı ile hafif ateşte sararmadan kavrulur. Kıyma konur. Bıraktığı suyu çekinceye kadar pişirilir.",
+    "Kabukları soyularak küçük doğranmış domates veya yarım bardak su ile sulandırılmış salça, karabiber, tuz konur. Kısık ateşte on dakika pişirilir.",
+    "Fırında kızartılmış ekmek dilimleri tepsiye dizilir. Hazırlanan kıyma ekmeklerin üzerine kaşıkla yayılır. Kaynar et suyu gezdirilir. Sarmısaklı yoğurt dökülür.",
+    "Kalan yağ kızdırılır. Kırmızı biber konur. Yemeğin üzerine gezdirerek dökülür. Hazır sofraya alınır. Bekletilmeden servisi yapılır."
+  ],
+  "ingredients_en": [
+    "250 gr. minced meat",
+    "1 medium onion",
+    "3 medium tomatoes or 1 tablespoon tomato paste",
+    "2–3 long green peppers",
+    "2 cups meat broth",
+    "2 cups yogurt",
+    "3 matchbox-sized pieces of fat (butter or margarine)",
+    "6 slices stale bread",
+    "3 cloves garlic",
+    "Half a teaspoon of black pepper",
+    "Half a teaspoon of red pepper",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Sauté the finely chopped onion and green peppers in half the fat over low heat without browning. Add the minced meat. Cook until it releases and reabsorbs its juices.",
+    "Add the peeled and finely chopped tomatoes, or the tomato paste diluted in half a cup of water, along with the black pepper and salt. Cook over low heat for ten minutes.",
+    "Arrange the oven-toasted bread slices in a tray. Spoon the prepared meat mixture over the bread. Drizzle with boiling meat broth. Pour garlic yogurt over the top.",
+    "Heat the remaining fat. Add the red pepper. Drizzle over the dish. Bring to the table immediately and serve without delay."
+  ],
+  "variations": [
+    {
+      "name_tr": "KOLAY KEBAP",
+      "name_en": "Easy Kebab",
+      "description_tr": "Kıymasız, aynı ölçü ve işlemler uygulanarak tirit hazırlanır. Biftekle pratik döner yapılıp kızartılır. Hazırlanan tiridin üzerine yayılır. Üzerine kızdırılmış kırmızı biberli tereyağı gezdirilir.",
+      "description_en": "Prepare the tirit using the same quantities and steps but without the minced meat. Make and fry a Pratik Döner using steak. Lay the slices over the prepared tirit. Drizzle with hot butter infused with red pepper."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "page": 102,
+  "slug": "p102_salcali_biftek",
+  "name_tr": "SALÇALI BİFTEK",
+  "name_en": "Steak in Tomato Sauce",
+  "ingredients_tr": [
+    "750 gr. biftek",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "1 orta boy kereviz veya 2–3 dal kereviz yaprağı",
+    "1 orta boy havuç",
+    "1 orta boy soğan",
+    "1 çorba kaşığı salça",
+    "Yarım çorba kaşığı un",
+    "2 adet defne yaprağı",
+    "2 diş sarmısak",
+    "1 çay kaşığı karabiber",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Biftekler bir tepsiye sıralanır. Yağ konur. Hafif ateşte suyunu bırakıp yağına kalıncaya kadar alt üst edilerek kızartılır. Bir tencereye sıralanır.",
+    "Küçük parçalara doğranmış havuç, kereviz, soğan, sarmısak etin kızardığı yağda kavrulur. Un konup bir iki kere çevrilir. Salça ilave edilir.",
+    "Hazırlanan harç bifteklerin üzerine yayılır. İki su bardağı kaynar su, defne yaprağı konur. Hafif ateşte, gerekirse kaynar su ilave edilerek biftekler yumuşayıncaya kadar pişirilir. İneceğine yakın karabiber, tuz konur."
+  ],
+  "notes_tr": "Not: İstenirse harcına, salça ile yarım bardak kırmızı şarap katılır.",
+  "notes_en": "Note: If desired, half a cup of red wine can be added to the sauce along with the tomato paste.",
+  "ingredients_en": [
+    "750 gr. steak",
+    "2 matchbox-sized pieces of margarine",
+    "1 medium celeriac or 2–3 sprigs celery leaves",
+    "1 medium carrot",
+    "1 medium onion",
+    "1 tablespoon tomato paste",
+    "Half a tablespoon of flour",
+    "2 bay leaves",
+    "2 cloves garlic",
+    "1 teaspoon black pepper",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Arrange the steaks in a baking tray. Add the fat. Fry over low heat, turning, until the meat releases its juices and the liquid reduces to just the fat. Transfer to a pot.",
+    "Sauté the finely chopped carrot, celeriac, onion, and garlic in the fat the meat was fried in. Add the flour and turn once or twice. Add the tomato paste.",
+    "Spread the prepared mixture over the steaks. Add two cups of boiling water and the bay leaves. Cook over low heat, adding boiling water as needed, until the steaks are tender. Season with black pepper and salt towards the end."
+  ],
+  "variations": [
+    {
+      "name_tr": "ET SALATASI",
+      "name_en": "Meat Salad",
+      "description_tr": "250 gr. haşlanmış, yağsız dana veya tavuk göğüs eti küçük parçalara kıyılır. Yarım çay kaşığı tuzla dövülmüş iki diş sarmısak, üç çorba kaşığı sirke, iki çorba kaşığı zeytinyağı ile çarpılır. Etin üzerine dökülüp karıştırılır. Salata tabağına alınır. Kıyılmış maydanoz, dereotu, süslü kesilmiş turşu dilimleri ile süslenir.",
+      "description_en": "Finely chop 250 gr. of boiled lean beef or chicken breast into small pieces. Beat together two cloves of garlic pounded with half a teaspoon of salt, three tablespoons of vinegar, and two tablespoons of olive oil. Pour over the meat and mix well. Arrange on a salad plate. Garnish with chopped parsley, dill, and decoratively sliced pickles."
+    }
+  ]
+}

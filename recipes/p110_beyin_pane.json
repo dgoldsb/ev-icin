@@ -1,0 +1,56 @@
+{
+  "page": 110,
+  "slug": "p110_beyin_pane",
+  "name_tr": "BEYİN PANE",
+  "name_en": "Breaded Brain",
+  "ingredients_tr": [
+    "2 adet dana veya 4 koyun beyni",
+    "1,5 su bardağı kızartmalık sıvı yağ",
+    "1 adet soğan",
+    "4 yumurta",
+    "3 çorba kaşığı un",
+    "Yarım su bardağı kaşar peyniri rendesi",
+    "1 su bardağı galeta tozu",
+    "2 defne yaprağı",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Bir süre soğuk suda bırakılan beyinlerin zarları, ince akan su altında soyularak çıkarılır.",
+    "Dörde bölünmüş soğan, defne yaprağı, tuz konmuş kaynar suya beyinler konur. Yirmi dakika haşlanır.",
+    "Soğuyunca suyundan çıkarılır. Bir buçuk parmak kalınlıkta, boyuna dilimlenir. Tuz, karabiber, kaşar peyniri rendesi serpilir.",
+    "Hazırlanan beyin dilimleri önce una, sonra akı sarısı karışıncaya kadar çarpılmış yumurtaya, daha sonra galetaya batırılıp elle hafif yassıltılır.",
+    "Kızgın yağda kızartılır. Kâğıt yayılmış tepsiye çıkarılır.",
+    "Servis tabağına sıralanır. Limon dilimleri maydanoz yaprakları ile süslenir."
+  ],
+  "notes_tr": "GENEL BİLGİ: Yiyecekler galeta tozuna batırılarak yağda kızartılırken, galeta tozunun içine yarım limon kabuğu rendelenirse, kızartmanın getirdiği ağırlık giderilir, lezzeti artar.",
+  "ingredients_en": [
+    "2 beef brains or 4 lamb brains",
+    "1,5 cups frying oil",
+    "1 onion",
+    "4 eggs",
+    "3 tablespoons flour",
+    "Half a cup of grated kaşar cheese",
+    "1 cup breadcrumbs",
+    "2 bay leaves",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Soak the brains in cold water for a while, then carefully peel away the membrane under gently running water.",
+    "Place the brains in boiling water with the quartered onion, bay leaves, and salt. Boil for twenty minutes.",
+    "Once cooled, remove from the water. Slice lengthways into one-and-a-half-finger-thick slices. Sprinkle with salt, black pepper, and grated kaşar cheese.",
+    "Dip the prepared brain slices first in flour, then in egg beaten until yolk and white are fully combined, then in breadcrumbs. Press gently flat with your hand.",
+    "Fry in hot oil. Transfer to a paper-lined tray.",
+    "Arrange on a serving plate. Garnish with lemon slices and parsley leaves."
+  ],
+  "notes_en": "GENERAL NOTE: When breadcrumb-coating foods for frying, grating half a lemon's zest into the breadcrumbs reduces the heaviness of the fried coating and improves the flavour.",
+  "variations": [
+    {
+      "name_tr": "BEYİN TAVA",
+      "name_en": "Pan-Fried Brain",
+      "description_tr": "Aynı işlemlere uyularak haşlanıp dilimlenen beyinlere tuz, karabiber ekilir. Una bulanıp, çarpılmış yumurtaya batırıldıktan sonra kızartılır.",
+      "description_en": "Follow the same steps to boil and slice the brains. Sprinkle with salt and black pepper. Coat in flour, dip in beaten egg, then fry."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "page": 119,
+  "slug": "p119_kereviz_yapragi_salatasi",
+  "name_tr": "KEREVİZ YAPRAĞI SALATASI",
+  "name_en": "Celery Leaf Salad",
+  "ingredients_tr": [
+    "5–6 dal kereviz yaprağı",
+    "1 adet küçük soğan",
+    "1,5 çorba kaşığı limon suyu",
+    "2 çorba kaşığı zeytinyağı",
+    "3–4 adet siyah zeytin",
+    "Yarım çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Yıkanmış kereviz yaprakları, ince kıyılarak bir kavanoza konur. Üzerine rendelenmiş soğan, limon suyu, zeytinyağı, tuz ilave edilir.",
+    "Kavanozun kapağı kapatılarak iyice çalkalanır. Salata tabağına alınır. Zeytin veya ince dilimlenmiş domatesle süslenir."
+  ],
+  "ingredients_en": [
+    "5–6 sprigs celery leaves",
+    "1 small onion",
+    "1,5 tablespoons lemon juice",
+    "2 tablespoons olive oil",
+    "3–4 black olives",
+    "Half a teaspoon of salt"
+  ],
+  "instructions_en": [
+    "Finely chop the washed celery leaves and place in a jar. Add the grated onion, lemon juice, olive oil, and salt.",
+    "Close the jar and shake well. Transfer to a salad plate. Garnish with olives or thinly sliced tomato."
+  ],
+  "variations": [
+    {
+      "name_tr": "KEREVİZ SALATASI",
+      "name_en": "Celeriac Salad",
+      "description_tr": "Yıkanıp talaş kısmı temizleninceye kadar soyulmuş bir orta boy kereviz, orta kalınlıkta rendelenir. Bir kavanoza konur. Üzerine bir buçuk çorba kaşığı limon suyu, iki çorba kaşığı zeytinyağı, ince kıyılmış üç-dört dal dereotu, yarım çay kaşığı tuz ilave edilir. Kavanozun kapağı kapatılarak iyice çalkalanır. Salata tabağına alınır. Üzerine sarmısaklı yoğurt dökülür.",
+      "description_en": "Wash and peel a medium celeriac until all the rough patches are removed. Grate on a medium grater and place in a jar. Add one and a half tablespoons of lemon juice, two tablespoons of olive oil, three to four finely chopped sprigs of dill, and half a teaspoon of salt. Close the jar and shake well. Transfer to a salad plate. Spoon garlic yogurt over the top."
+    }
+  ]
+}
