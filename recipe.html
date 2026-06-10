@@ -72,17 +72,33 @@
       toggle.href = toggleURL();
       toggle.textContent = lang === 'tr' ? 'English' : 'Türkçe';
 
+      // Section-intro pages carry no recipe scaffolding — just a title and body paragraphs.
+      if (r.kind === 'section') {
+        const body = r[`body${suffix}`] || [];
+        document.getElementById('content').innerHTML = `
+        <section class="recipe-content section-intro">
+          ${body.map(p => `<p>${p}</p>`).join('\n          ')}
+        </section>
+        <p class="page-source">p. ${r.page}</p>`;
+        return;
+      }
+
       const headings = lang === 'tr'
         ? { ingredients: 'Malzemeler', instructions: 'İşlemler', note: 'Not', variation: 'Çeşit' }
         : { ingredients: 'Ingredients', instructions: 'Instructions', note: 'Note', variation: 'Variation' };
 
+      const hasIngredients = Array.isArray(ingredients) && ingredients.length > 0;
       let html = `
-        <section class="recipe-content">
+        <section class="recipe-content">`;
+      if (hasIngredients) {
+        html += `
           <h2>${headings.ingredients}</h2>
           <ul>
             ${ingredients.map(i => `<li>${i}</li>`).join('\n            ')}
           </ul>
-
+`;
+      }
+      html += `
           <h2>${headings.instructions}</h2>
           <ol>
             ${instructions.map(s => `<li>${s}</li>`).join('\n            ')}

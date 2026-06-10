@@ -1,0 +1,57 @@
+{
+  "page": 218,
+  "page_end": 219,
+  "slug": "p218_sebzeli_pilav",
+  "name_tr": "SEBZELİ PİLAV",
+  "name_en": "Vegetable Pilaf",
+  "ingredients_tr": [
+    "1 su bardağı pirinç",
+    "2 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "4 adet, biri acı sivri biber",
+    "2 orta boy soğan",
+    "2 orta boy domates",
+    "7-8 dal maydanoz",
+    "2,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Pirinç ayıklanır, yıkanır, ılık suda bir saat ıslatılır.",
+    "İnce doğranmış soğan, sivri biber, yağla sararmadan kavrulur.",
+    "Kabuğu soyularak küçük doğranmış domates katılır. Domates ezilinceye kadar kavrulur.",
+    "İki buçuk bardak su, kıyılmış maydanoz, tuz konur. Kaynayınca süzülmüş pirinç ilave edilir.",
+    "Bir dakika harlı ateşte kaynatılır. Ateşi kısılarak dört dakika orta, dört dakika hafif ateşte pişirilir. Ocaktan alınır.",
+    "Diğer pilavlar gibi kuru olmayıp, biraz sulu kalan pilav bekletilmeden servis yapılır."
+  ],
+  "notes_tr": [
+    "Not: Bu pilav bir defa da tüketilecek miktarda yapılmalı.",
+    "BESİN BİLGİSİ: A vitamini, organları saran epitel doku, göz sağlığı, büyüme için gereklidir. Hastalıklara karşı vücudun direncini korur. A vitamini tereyağı, balıkyağı, yumurta sarısı, turuncu ve yeşil renkli sebzelerde bulunur. Yiyeceklerin madensel kaplarda saklanması, güneşe, ışığa açık bırakılması A vitamininin kaybına neden olur."
+  ],
+  "ingredients_en": [
+    "1 cup rice",
+    "2 matchbox-sized pieces of butter or margarine",
+    "4 long green peppers, one of them hot",
+    "2 medium onions",
+    "2 medium tomatoes",
+    "7-8 sprigs parsley",
+    "2,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the rice and soak in warm water for one hour.",
+    "Sauté the finely chopped onion and long green peppers in the fat without browning.",
+    "Add the peeled, finely chopped tomato. Sauté until the tomato breaks down.",
+    "Add two and a half glasses of water, the chopped parsley, and salt. Once boiling, add the drained rice.",
+    "Boil one minute on high heat. Lower the heat and cook four minutes on medium and four minutes on low. Remove from heat.",
+    "Unlike other pilafs, this one stays a little moist rather than dry; serve it without letting it stand."
+  ],
+  "notes_en": [
+    "Note: This pilaf should be made in an amount to be eaten in one sitting.",
+    "NUTRITIONAL NOTE: Vitamin A is necessary for the epithelial tissue covering the organs, eye health, and growth. It maintains the body's resistance to illness. Vitamin A is found in butter, fish oil, egg yolk, and orange and green vegetables. Storing food in metal containers and leaving it exposed to sun and light causes loss of vitamin A."
+  ],
+  "variations": [
+    {
+      "name_tr": "PATLICANLI PİLAV",
+      "name_en": "Eggplant Pilaf",
+      "description_tr": "İki adet çekirdeksiz patlıcan alaca soyulur. Küçük parçalara doğranır. Zeytinyağında kızartılır. Pişirilmiş sade pilava katılır. Üzerine kıyılmış dereotu serpilir.",
+      "description_en": "Two seedless eggplants are peeled in stripes. Cut into small pieces. Fried in olive oil. Mixed into cooked plain pilaf. Chopped dill is sprinkled over the top."
+    }
+  ]
+}

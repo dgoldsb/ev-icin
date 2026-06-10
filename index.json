@@ -1093,5 +1093,222 @@
     "tags": [
       "vegan"
     ]
+  },
+  {
+    "page": 210,
+    "page_end": 211,
+    "slug": "p210_sade_pilav",
+    "name_tr": "SADE PİLAV (Kavurma)",
+    "name_en": "Plain Rice Pilaf (Toasted Method)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 212,
+    "slug": "p212_domatesli_pilav",
+    "name_tr": "DOMATESLİ PİLAV (Salma)",
+    "name_en": "Tomato Pilaf (Drop Method)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 213,
+    "page_end": 214,
+    "slug": "p213_ic_pilav",
+    "name_tr": "İÇ PİLAV",
+    "name_en": "İç Pilav (Stuffing Pilaf with Liver)",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 215,
+    "slug": "p215_kebapli_pilav",
+    "name_tr": "KEBAPLI PİLAV",
+    "name_en": "Pilaf with Kebab",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 217,
+    "slug": "p217_hamsili_pilav",
+    "name_tr": "HAMSİLİ PİLAV",
+    "name_en": "Anchovy Pilaf",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 218,
+    "page_end": 219,
+    "slug": "p218_sebzeli_pilav",
+    "name_tr": "SEBZELİ PİLAV",
+    "name_en": "Vegetable Pilaf",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 220,
+    "slug": "p220_hamburger",
+    "name_tr": "HAMBURGER",
+    "name_en": "Hamburger",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 221,
+    "slug": "p221_pizza",
+    "name_tr": "PİZZA",
+    "name_en": "Pizza",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 223,
+    "slug": "p223_ancuezli_kanepe",
+    "name_tr": "ANÇÜEZLİ KANEPE",
+    "name_en": "Anchovy Canapé",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 223,
+    "slug": "p223_beyinli_kanepe",
+    "name_tr": "BEYİNLİ KANEPE",
+    "name_en": "Brain Canapé",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 223,
+    "slug": "p223_kanepeler",
+    "name_tr": "KANEPELER",
+    "name_en": "Canapés",
+    "kind": "section"
+  },
+  {
+    "page": 223,
+    "slug": "p223_zeytin_ezmeli_kanepe",
+    "name_tr": "ZEYTİN EZMELİ KANEPE",
+    "name_en": "Olive Paste Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 224,
+    "slug": "p224_cesitli_malzeme_ile_kanepe",
+    "name_tr": "ÇEŞİTLİ MALZEME İLE KANEPE",
+    "name_en": "Canapé with Assorted Toppings",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 224,
+    "slug": "p224_karidesli_kanepe",
+    "name_tr": "KARİDESLİ KANEPE",
+    "name_en": "Shrimp Canapé",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 224,
+    "slug": "p224_mayonezli_kanepe",
+    "name_tr": "MAYONEZLİ KANEPE",
+    "name_en": "Mayonnaise Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 224,
+    "slug": "p224_yogurtlu_kanepe",
+    "name_tr": "YOĞURTLU KANEPE",
+    "name_en": "Yogurt Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 225,
+    "slug": "p225_peynirli_kanepe",
+    "name_tr": "PEYNİRLİ KANEPE",
+    "name_en": "Cheese Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 225,
+    "slug": "p225_peynirli_sicak_kanepe",
+    "name_tr": "PEYNİRLİ SICAK KANEPE",
+    "name_en": "Hot Cheese Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 226,
+    "slug": "p226_firinda_makarna",
+    "name_tr": "FIRINDA MAKARNA",
+    "name_en": "Baked Macaroni",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 227,
+    "slug": "p227_makarna_ogreten",
+    "name_tr": "MAKARNA ÖĞRETEN",
+    "name_en": "Macaroni au Gratin",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 228,
+    "slug": "p228_karidesli_makarna",
+    "name_tr": "KARİDESLİ MAKARNA",
+    "name_en": "Shrimp Macaroni",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 229,
+    "slug": "p229_kuskus_pilavi",
+    "name_tr": "KUSKUS PİLAVI",
+    "name_en": "Couscous Pilaf",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 230,
+    "slug": "p230_sosisli_makarna",
+    "name_tr": "SOSİSLI MAKARNA",
+    "name_en": "Sausage Macaroni",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 231,
+    "slug": "p231_kolay_manti",
+    "name_tr": "KOLAY MANTI",
+    "name_en": "Easy Mantı",
+    "tags": [
+      "meat"
+    ]
   }
 ]

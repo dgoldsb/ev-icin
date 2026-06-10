@@ -62,7 +62,7 @@
         return;
       }
       list.innerHTML = visible.map(r => `
-        <li>
+        <li${r.kind === 'section' ? ' class="toc-section"' : ''}>
           <a href="recipe.html?id=${r.slug}">
             <span>${currentLang === 'tr' ? r.name_tr : r.name_en.toUpperCase()}</span>
             <span class="page-num">p. ${r.page}</span>

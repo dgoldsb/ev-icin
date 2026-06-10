@@ -1,0 +1,44 @@
+{
+  "page": 215,
+  "slug": "p215_kebapli_pilav",
+  "name_tr": "KEBAPLI PİLAV",
+  "name_en": "Pilaf with Kebab",
+  "ingredients_tr": [
+    "1 tertip sade pilav",
+    "500 gr. kuşbaşı koyun eti",
+    "1 orta boy soğan",
+    "1 kibrit kutusu büyüklüğünde yağ",
+    "2 domates veya yarım çorba kaşığı salça",
+    "1 çay kaşığı karabiber",
+    "Yarım su bardağı bezelye",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan, yağla ateşe konur. Birkaç kere karıştırılıp ateşi kısılır. Kapağı kapatılarak et bıraktığı suyu çekinceye kadar pişirilir.",
+    "Kabuğu soyularak küçük doğranmış domates veya ezilmiş salça konur. Biraz da onunla kavrulur. İki su bardağı kaynar su, bir buçuk çay kaşığı tuz, karabiber katılır. Hafif ateşte et yumuşayıp, suyunu çekinceye kadar pişirilir.",
+    "Sade pilav pişirilir. Ortası delik, büyük bir pasta kalıbına konup biraz bastırılır. Yuvarlak, büyük servis tabağına ters çevrilir. Hazırlanan kebap sıcak olarak ortasına doldurulur. Kenarları haşlanmış veya konserve, bezelye ile süslenir."
+  ],
+  "ingredients_en": [
+    "1 batch plain pilaf",
+    "500 gr. cubed mutton",
+    "1 medium onion",
+    "1 matchbox-sized piece of fat",
+    "2 tomatoes or half a tablespoon tomato paste",
+    "1 teaspoon black pepper",
+    "Half cup peas",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Put the meat, finely chopped onion, and fat over the heat. Stir a few times and lower the heat. Cover and cook until the meat reabsorbs its released liquid.",
+    "Add the peeled, finely chopped tomato or the mashed paste. Sauté a little with it. Add two cups of boiling water, one and a half teaspoons of salt, and black pepper. Cook over low heat until the meat softens and reabsorbs its liquid.",
+    "Cook the plain pilaf. Pack it into a large ring mold and press lightly. Turn out onto a large round serving plate. Fill the center with the prepared kebab, hot. Garnish the edges with boiled or canned peas."
+  ],
+  "variations": [
+    {
+      "name_tr": "PİLAVLI TAS KEBABI",
+      "name_en": "Tas Kebab with Pilaf",
+      "description_tr": "Yukarıda hazırlanan kebap, ateşe dayanıklı, eti alabilecek büyüklükte bir kâseye tek tek alınarak doldurulur. Pilavın yapılacağı tencereye ters çevrilerek yerleştirilir. Üzerine temiz bir ağırlık konur. Etin yağına iki buçuk su bardağı su, iki kibrit kutusu büyüklüğünde yağ, iki çay kaşığı tuz konur. Kaynayınca kebabın konduğu tencereye süzülür. Bir saat ılık suda ıslatılıp süzülmüş iki su bardağı pirinç ilave edilir. Tencerenin kapağı kapatılarak domatesli pilav gibi pişirilir. Kâse kaldırılıp tencereden servis yapılır.",
+      "description_en": "The kebab prepared above is placed piece by piece into a heatproof bowl large enough to hold the meat. It is turned upside down into the pot where the pilaf will be made. A clean weight is placed on top. To the meat's fat, add two and a half cups of water, two matchbox-sized pieces of fat, and two teaspoons of salt. Once boiling, strain it into the pot holding the kebab. Add two cups of rice soaked in warm water for one hour and drained. Cover the pot and cook like tomato pilaf. Lift off the bowl and serve from the pot."
+    }
+  ]
+}

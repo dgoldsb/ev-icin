@@ -1,0 +1,61 @@
+{
+  "page": 213,
+  "page_end": 214,
+  "slug": "p213_ic_pilav",
+  "name_tr": "İÇ PİLAV",
+  "name_en": "İç Pilav (Stuffing Pilaf with Liver)",
+  "ingredients_tr": [
+    "Yarım kuzu karaciğeri",
+    "4 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "1 adet küçük haşlanmış havuç",
+    "Yarım su bardağı konserve veya haşlanmış iç bezelye",
+    "2 su bardağı pirinç",
+    "1 kahve fincanı kuş üzümü",
+    "1 kahve fincanı çam fıstığı",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Pirinç ayıklanır, yıkanır, ılık suda bir saat ıslatılır.",
+    "Ciğer yıkanır, zarı soyulur, çok küçük küplere doğranır.",
+    "Yarım kaşık yağla fıstık, kısık ateşte, hafif pembeleştirilir. Ciğer konur. Birkaç kere karıştırılır. Bezelye, zar şeklinde doğranmış havuç, ayıklanıp yıkanmış kuş üzümü ilave edilir. Biraz da onlarla kavrulur. Karabiber, yarım çay kaşığı tuz konup ateşten alınır.",
+    "Süzülmüş pirinç, kalan yağla sade pilavda olduğu gibi kavrulur. İki buçuk su bardağı kaynar su, iki buçuk çay kaşığı tuz konur. Bir kere karıştırılıp kapağı kapatılır.",
+    "Bir dakika harlı, dört dakika orta, dört dakika hafif ateşte pişirilir.",
+    "Ocaktan alınır. Ciğerli harç katılır. Karıştırılıp kapağı kapatılır.",
+    "Arasıra kapakta biriken su dışarı akıtılarak on beş dakika demlendirilir. Tellendirilerek servis tabağına alınır."
+  ],
+  "ingredients_en": [
+    "Half a lamb's liver",
+    "4 matchbox-sized pieces of butter or margarine",
+    "1 small boiled carrot",
+    "Half cup canned or boiled peas",
+    "2 cups rice",
+    "1 coffee cup currants",
+    "1 coffee cup pine nuts",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the rice and soak in warm water for one hour.",
+    "Wash the liver, peel off the membrane, and dice into very small cubes.",
+    "Lightly brown the pine nuts in half a spoon of fat over low heat. Add the liver. Stir a few times. Add the peas, the diced carrot, and the cleaned and washed currants. Sauté a little with them. Add black pepper and half a teaspoon of salt and remove from heat.",
+    "Sauté the drained rice in the remaining fat as for plain pilaf. Add two and a half cups of boiling water and two and a half teaspoons of salt. Stir once and cover.",
+    "Cook one minute on high, four minutes on medium, and four minutes on low heat.",
+    "Remove from heat. Add the liver mixture. Stir and cover.",
+    "Let it rest for fifteen minutes, occasionally draining off the water that collects on the lid. Fluff and transfer to a serving plate."
+  ],
+  "variations": [
+    {
+      "name_tr": "BOĞAZİÇİ PİLAVI",
+      "name_en": "Bosphorus Pilaf",
+      "description_tr": "İç pilava ciğer yerine haşlanmış ve küçük parçalara doğranmış tavuk eti, karaciğeri, katılır. Fıstık yerine haşlanarak kabukları soyulmuş badem kullanılır. Pilavın suyuna varsa bir tutam safran atılır.",
+      "description_en": "Boiled chicken meat and liver, chopped into small pieces, are added to the stuffing pilaf instead of liver. Blanched, peeled almonds are used instead of pine nuts. A pinch of saffron, if available, is added to the pilaf's water."
+    },
+    {
+      "name_tr": "YUFKALI PİLAV",
+      "name_en": "Pilaf in Pastry",
+      "description_tr": "Pilavı alabilecek büyüklükte ateşe dayanıklı cam bir kâse yağlanır. Bir yufka kenarlarından sarkacak şekilde kâseye yayılır. İçine hazırlanmış iç pilav doldurulur. Yufkanın kenarları bohça gibi pilavın üzerine toplanır. Üzeri yağlanır. Kızdırılmış fırında kızartılır. Servis tabağına ters çevrilir.",
+      "description_en": "Grease a heatproof glass bowl large enough to hold the pilaf. Spread a sheet of yufka in the bowl so the edges hang over. Fill with the prepared stuffing pilaf. Gather the edges of the yufka over the pilaf like a bundle. Brush the top with fat. Bake in a hot oven until golden. Turn out onto a serving plate."
+    }
+  ]
+}

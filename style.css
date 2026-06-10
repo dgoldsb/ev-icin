@@ -67,6 +67,18 @@ header h1 {
   font-size: 0.9rem;
 }
 
+/* Section-intro entries in the recipe list */
+.toc-section {
+  margin-top: 0.75rem;
+  border-bottom: 2px solid #8b4513;
+}
+
+.toc-section a {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #8b4513;
+}
+
 /* Index page controls */
 .toc-controls {
   display: flex;
@@ -211,6 +223,11 @@ header h1 {
 .recipe-note {
   margin-top: 1.5rem;
   color: #555;
+}
+
+.section-intro p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
 }
 
 .page-source {
