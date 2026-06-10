@@ -1,0 +1,51 @@
+{
+  "page": 210,
+  "page_end": 211,
+  "slug": "p210_sade_pilav",
+  "name_tr": "SADE PİLAV (Kavurma)",
+  "name_en": "Plain Rice Pilaf (Toasted Method)",
+  "ingredients_tr": [
+    "2 su bardağı pirinç",
+    "4 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "2,5 su bardağı et suyu veya su",
+    "2,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Pirinç ayıklanır, yıkanır, ılık suda bir saat ıslatılır.",
+    "Bir tencerede yağ, süzülmüş pirinç delikli kepçe ile, tencerenin kenarından içe doğru atılarak, pirinçler kırılmadan, sararmadan, orta ateşte, yaklaşık beş dakika kavrulur.",
+    "Ölçülü kaynar su konur. Tuz atılır. Bir kere karıştırılıp kapak kapatılır.",
+    "Bir dakika harlı, dört dakika orta, dört dakika hafif ateşte pişirilir.",
+    "Ocaktan alınıp bir kere karıştırılarak kapağı kapatılır.",
+    "Arasıra kapakta biriken su dışarı akıtılarak on dakika demlendirilir."
+  ],
+  "notes_tr": "Not: Pilavı yapılacak pirinç bir saat ılık suda bekletilerek ıslatılır. Zaman kısıtlı ise, pirinç yıkanmadan bir çorba kaşığı tuzla üzerini geçecek kadar kaynar suda on beş dakika ıslatılır. Üç-dört saat soğuk suda ıslatılmış pirincin pilavı iyi olur.",
+  "ingredients_en": [
+    "2 cups rice",
+    "4 matchbox-sized pieces of butter or margarine",
+    "2,5 cups meat broth or water",
+    "2,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the rice and soak in warm water for one hour.",
+    "In a pot, sauté the fat and the drained rice over medium heat for about five minutes — turning the rice from the edge of the pot inward with a slotted spoon, without breaking the grains and without letting them brown.",
+    "Add the measured boiling water. Add salt. Stir once and cover.",
+    "Cook one minute on high, four minutes on medium, and four minutes on low heat.",
+    "Remove from heat, stir once, and cover.",
+    "Let it rest for ten minutes, occasionally draining off the water that collects on the lid."
+  ],
+  "notes_en": "Note: The rice for pilaf is soaked by leaving it in warm water for one hour. If time is short, soak the unwashed rice for fifteen minutes in boiling water to cover with one tablespoon of salt. Rice soaked in cold water for three or four hours makes good pilaf.",
+  "variations": [
+    {
+      "name_tr": "ŞEHRİYELİ PİLAV",
+      "name_en": "Pilaf with Vermicelli",
+      "description_tr": "Sade pilavın pirinci konmadan, iki çorba kaşığı arpa veya tel şehriye yağla pembeleştirilir. Diğer işlemler aynen uygulanır.",
+      "description_en": "Before adding the rice for plain pilaf, two tablespoons of orzo or thread vermicelli are browned in the fat. The other steps are applied the same way."
+    },
+    {
+      "name_tr": "BEZELYELİ PİLAV",
+      "name_en": "Pilaf with Peas",
+      "description_tr": "Sade pilava, haşlanmış veya haşlanıp yarım kaşık tereyağı ile sote yapılmış, bir su bardağı bezelye karıştırılır.",
+      "description_en": "One cup of peas — boiled, or boiled and then sautéed with half a spoon of butter — is mixed into the plain pilaf."
+    }
+  ]
+}

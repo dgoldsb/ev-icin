@@ -19,6 +19,9 @@ interpolated from legible neighbors and may be off by one.
 - **p182 — Etli Kereviz Dolması** — `IMG_8450` is motion-blurred and
   illegible (title readable, body not). Sits between p181 (Zeytinyağlı
   Kereviz) and p183 (İmambayıldı).
+- **p194 — a turşu (pickle) recipe** — `IMG_8462` is motion-blurred and
+  illegible. Sits between p193 (Domates Biber Turşusu) and p195 (Lahana
+  Turşusu).
 
 ## Motion-blurred — illegible (zero OCR)
 

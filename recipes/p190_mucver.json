@@ -1,0 +1,50 @@
+{
+  "page": 190,
+  "slug": "p190_mucver",
+  "name_tr": "MÜCVER",
+  "name_en": "Mücver (Zucchini Fritters)",
+  "ingredients_tr": [
+    "2 orta boy kabak",
+    "1 kibrit kutusu büyüklüğünde beyaz peynir",
+    "1 orta boy kuru soğan veya dört adet yeşil soğan",
+    "Yarım su bardağı un",
+    "2 yumurta",
+    "Yarım demet maydanoz",
+    "Yarım demet dereotu",
+    "1 çay kaşığı karabiber",
+    "1 çay kaşığı tuz",
+    "1,5 su bardağı zeytinyağı"
+  ],
+  "instructions_tr": [
+    "Kabakların iki tarafı kesilir. Yıkanıp kazınır. Rendenin kalın tarafından rendelenir.",
+    "İnce doğranmış soğan, maydanoz, dereotu, karabiber, un, yumurta, ufalanmış peynir, tuz konup karıştırılır.",
+    "Kızdırılmış zeytinyağına birer kaşık konup kızartılır. Kâğıt yayılmış tepsiye çıkarılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Karnabahar yemekleri yapılırken, karnabaharın varsa yeşil yaprakları atılmayıp, birlikte pişirilmeli. Yemeğe güzel bir görünüm verdiği gibi besin değerini de artırır.",
+  "ingredients_en": [
+    "2 medium zucchini",
+    "1 matchbox-sized piece of white cheese",
+    "1 medium dry onion or four green onions",
+    "Half cup flour",
+    "2 eggs",
+    "Half bunch parsley",
+    "Half bunch dill",
+    "1 teaspoon black pepper",
+    "1 teaspoon salt",
+    "1,5 cups olive oil"
+  ],
+  "instructions_en": [
+    "Cut both ends off the zucchini. Wash and scrape. Grate on the coarse side of a grater.",
+    "Add the finely chopped onion, parsley, dill, black pepper, flour, eggs, crumbled cheese, and salt, and mix.",
+    "Drop spoonfuls into hot olive oil and fry. Lift onto a paper-lined tray."
+  ],
+  "notes_en": "GENERAL NOTE: When making cauliflower dishes, don't discard the cauliflower's green leaves if it has them — cook them along with it. They give the dish a nice appearance and also increase its nutritional value.",
+  "variations": [
+    {
+      "name_tr": "ISPANAK KÖKÜ MÜCVERİ",
+      "name_en": "Spinach-Root Mücver",
+      "description_tr": "Kumlarından iyice temizlenmiş ıspanak kökü, az suda kısa süre haşlanır. İnce kıyılır. Miktarına göre, içine iki veya üç kaşık kavrulmuş kıyma katılır. Aynı ölçü ve işlemler uygulanarak mücveri yapılır. Karnabahardan da aynı şekilde mücver hazırlanır.",
+      "description_en": "Spinach roots, thoroughly cleaned of grit, are briefly boiled in a little water. Chop finely. Depending on the amount, add two or three spoonfuls of sautéed ground meat. The mücver is made applying the same measures and steps. Mücver is also made from cauliflower the same way."
+    }
+  ]
+}

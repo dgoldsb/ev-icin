@@ -1,0 +1,28 @@
+{
+  "page": 209,
+  "slug": "p209_evde_yogurt_yapmak",
+  "name_tr": "EVDE YOĞURT YAPMAK",
+  "name_en": "Making Yogurt at Home",
+  "ingredients_tr": [
+    "1 kilo süt",
+    "1 çorba kaşığı çok ekşi olmayan yoğurt (maya)"
+  ],
+  "instructions_tr": [
+    "Süt pastörize ise bir taşım, kaynamamış ise beş dakika kaynatılır. Tencereyi sarabilecek büyüklükte havlu veya kalın örtü üzerine oturtulur.",
+    "Küçük parmak daldırıldığında hafif yakacak, ancak dayanılabilir sıcaklıkta iken, bir kilo süt için bir çorba kaşığı çok ekşi olmayan yoğurt konur.",
+    "Kapağı kapatılır. Örtünün kenarları üzerine toplanır. Üzerine bir başka havlu örtülür. Beş altı saat mayalandırılır.",
+    "Mayalanan yoğurt ağzı açık olarak buz dolabında bir gün bekletildikten sonra kullanılmalı."
+  ],
+  "notes_tr": "Not: Evde yoğurt yapmak kolay ve ekonomiktir.",
+  "ingredients_en": [
+    "1 kilo milk",
+    "1 tablespoon not-too-sour yogurt (starter)"
+  ],
+  "instructions_en": [
+    "If the milk is pasteurized, bring it to a boil once; if unboiled, boil it for five minutes. Set the pot on a towel or thick cloth large enough to wrap it.",
+    "When it is at a temperature that lightly burns but is bearable to a dipped little finger, add one tablespoon of not-too-sour yogurt per kilo of milk.",
+    "Cover. Gather the edges of the cloth over it. Cover with another towel. Let it culture for five or six hours.",
+    "The cultured yogurt should be left uncovered in the refrigerator for one day before using."
+  ],
+  "notes_en": "Note: Making yogurt at home is easy and economical."
+}

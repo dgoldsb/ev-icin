@@ -930,5 +930,168 @@
     "tags": [
       "vegetarian"
     ]
+  },
+  {
+    "page": 190,
+    "slug": "p190_mucver",
+    "name_tr": "MÜCVER",
+    "name_en": "Mücver (Zucchini Fritters)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 191,
+    "slug": "p191_kaplanmis_patlican_tava",
+    "name_tr": "KAPLANMIŞ PATLICAN TAVA",
+    "name_en": "Battered Fried Eggplant",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 192,
+    "slug": "p192_icli_patlican_tava",
+    "name_tr": "İÇLİ PATLICAN TAVA",
+    "name_en": "Stuffed Fried Eggplant",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 192,
+    "slug": "p192_kitir_kabak_tava",
+    "name_tr": "KITIR KABAK TAVA",
+    "name_en": "Crispy Fried Zucchini",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 193,
+    "slug": "p193_domates_biber_tursusu",
+    "name_tr": "DOMATES BİBER TURŞUSU",
+    "name_en": "Tomato and Pepper Pickles",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 195,
+    "slug": "p195_lahana_tursusu",
+    "name_tr": "LAHANA TURŞUSU",
+    "name_en": "Pickled Cabbage",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 196,
+    "slug": "p196_yesil_domates_tursusu",
+    "name_tr": "YEŞİL DOMATES TURŞUSU",
+    "name_en": "Green Tomato Pickles",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 197,
+    "slug": "p197_pancar_tursusu",
+    "name_tr": "PANCAR TURŞUSU",
+    "name_en": "Pickled Beets",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 199,
+    "slug": "p199_acele_ispanak_koku_tursusu",
+    "name_tr": "ACELE ISPANAK KÖKÜ TURŞUSU",
+    "name_en": "Quick Pickled Spinach Roots",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 200,
+    "slug": "p200_acele_biber_tursusu",
+    "name_tr": "ACELE BİBER TURŞUSU",
+    "name_en": "Quick Pepper Pickles",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 201,
+    "slug": "p201_sade_omlet",
+    "name_tr": "SADE OMLET",
+    "name_en": "Plain Omelet",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 202,
+    "slug": "p202_mantar_soslu_kat_kat_omlet",
+    "name_tr": "MANTAR SOSLU KAT KAT OMLET",
+    "name_en": "Layered Omelet with Mushroom Sauce",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 203,
+    "slug": "p203_cilbir",
+    "name_tr": "ÇILBIR",
+    "name_en": "Çılbır (Poached Eggs in Yogurt)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 205,
+    "slug": "p205_pastirmali_soganli_yumurta",
+    "name_tr": "PASTIRMALI SOĞANLI YUMURTA",
+    "name_en": "Eggs with Pastırma and Onion",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 206,
+    "page_end": 207,
+    "slug": "p206_sebzeli_yumurta",
+    "name_tr": "SEBZELİ YUMURTA",
+    "name_en": "Eggs with Vegetables",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 208,
+    "slug": "p208_yumurta_puresi",
+    "name_tr": "YUMURTA PÜRESİ",
+    "name_en": "Stuffed Eggs",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 209,
+    "slug": "p209_evde_yogurt_yapmak",
+    "name_tr": "EVDE YOĞURT YAPMAK",
+    "name_en": "Making Yogurt at Home",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 209,
+    "slug": "p209_makarna_ve_omletler_icin_sos",
+    "name_tr": "MAKARNA VE OMLETLER İÇİN SOS",
+    "name_en": "Sauce for Pasta and Omelets",
+    "tags": [
+      "vegan"
+    ]
   }
 ]

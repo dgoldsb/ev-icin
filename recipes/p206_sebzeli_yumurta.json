@@ -1,0 +1,59 @@
+{
+  "page": 206,
+  "page_end": 207,
+  "slug": "p206_sebzeli_yumurta",
+  "name_tr": "SEBZELİ YUMURTA",
+  "name_en": "Eggs with Vegetables",
+  "ingredients_tr": [
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "4 adet sivri biber",
+    "3 orta boy soğan",
+    "4 orta boy domates",
+    "1 çay kaşığı karabiber",
+    "Yarım çay kaşığı kırmızı biber",
+    "4 yumurta",
+    "2 diş sarmısak",
+    "2 defne yaprağı",
+    "2 çay kaşığı kekik",
+    "Yarım demet maydanoz",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "İnce yarım halkalara doğranmış soğan, ince kıyılmış sivri biber, sarmısak, yağla hafif ateşte yumuşayıncaya kadar kavrulur.",
+    "Kabuğu soyularak küçük doğranmış domates, ince kıyılmış maydanoz, kekik, defne yaprağı, kırmızı biber, yarım çay kaşığı tuz konup karıştırılır.",
+    "Kapaksız, orta ateşte, domatesin suyu yarı buharlaşıncaya kadar pişirilir. Küçük bir tepsiye alınıp yayılır.",
+    "Kaşığın ucuyla yumurta adedi kadar çukur açılır. Yumurtalar çukurlara kırılır. Üzerlerine tuz, karabiber serpilir.",
+    "Kapak kapatılır. Hafif ateşte, dibi yanmadan aklar tam, sarılar yarı pişmiş iken ocaktan alınır. Sıcak sıcak servis yapılır."
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Yumurta akının tam olarak pişirilmesi, bileşiminde bulunan biotinin vücut tarafından kullanılabilir duruma geçmesini sağlar. Bu nedenle yumurta pişirilirken akı tam olarak pişirilmeli.",
+  "ingredients_en": [
+    "2 matchbox-sized pieces of fat",
+    "4 long green peppers",
+    "3 medium onions",
+    "4 medium tomatoes",
+    "1 teaspoon black pepper",
+    "Half teaspoon red pepper",
+    "4 eggs",
+    "2 cloves garlic",
+    "2 bay leaves",
+    "2 teaspoons thyme",
+    "Half bunch parsley",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Sauté the onion cut into thin half-rings, the finely chopped long green peppers, and the garlic in the fat over low heat until they soften.",
+    "Add the peeled, finely chopped tomato, finely chopped parsley, thyme, bay leaves, red pepper, and half a teaspoon of salt, and mix.",
+    "Cook uncovered over medium heat until the tomato's liquid half evaporates. Transfer to a small tray and spread out.",
+    "Make as many hollows as there are eggs with the tip of a spoon. Crack the eggs into the hollows. Sprinkle salt and black pepper over them.",
+    "Cover. Over low heat, without burning the bottom, remove from heat when the whites are fully set and the yolks half-cooked. Serve hot."
+  ],
+  "notes_en": "NUTRITIONAL NOTE: Fully cooking the egg white makes the biotin in its composition available for the body to use. For this reason, the white should be fully cooked when cooking eggs.",
+  "variations": [
+    {
+      "name_tr": "MENEMEN",
+      "name_en": "Menemen",
+      "description_tr": "Aynı ölçü ve işlemlere uyularak harç hazırlanır. Yumurtalar bir kaba kırılır. Çatalla çarpılır. Ocaktaki harca katılıp karıştırılır. Yumurtalar yarı pişmiş iken ocaktan alınıp servis yapılır.",
+      "description_en": "The mixture is prepared following the same measures and steps. The eggs are cracked into a bowl and beaten with a fork. Added to the mixture on the stove and stirred. Removed from heat while the eggs are half-cooked and served."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "page": 201,
+  "slug": "p201_sade_omlet",
+  "name_tr": "SADE OMLET",
+  "name_en": "Plain Omelet",
+  "ingredients_tr": [
+    "2 yumurta",
+    "Yarım kibrit kutusu büyüklüğünde yağ",
+    "2-3 dal maydanoz yaprağı",
+    "Yarım çay kaşığı karabiber",
+    "Yarım çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Yumurtalar çukur bir kaba kırılır. İnce kıyılmış maydanoz, karabiber, tuz ile iki-üç dakika çarpılır.",
+    "Orta büyüklükte bir tavada yağ eritilir. Sallanarak tavanın her tarafı yağlanır.",
+    "Yağ kızınca çarpılmış yumurta karışımı tavaya dökülüp yayılır.",
+    "Yumurta pişip sulu hali kaybolunca bir tabağa çıkarılır. Ters yüz edilerek tekrar tavaya konup diğer yüzü pişirilir.",
+    "İki veya üçe katlanarak servis yapılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Omletler, ezilmiş beyaz peynir, rendelenmiş kaşar peyniri, sebze püreleri, zar şeklinde doğranmış tüm sebze soteleri, yine küçük doğranarak yağdan geçirilmiş sosis, salam, sucuk gibi yiyeceklerle hazırlanabilir. İçine konan yiyeceğin ismi ile isimlendirilir. Omlet için hazırlanan yiyecekler ya çarpılan yumurtaya katılarak omlet pişirilir, ya da pişen sade omletin arasına konarak iki veya üçe katlanıp servis yapılır. Bir yüzü pişen omletin diğer yüzünü çevirmek zor geliyorsa, sulu hali kayboluncaya kadar pişirilir. Bir ucundan kıvrılarak rülo yapılıp tabağa alınır. Omlet yapımında teflon tava ya da altı kalın tava kullanılmalı.",
+  "ingredients_en": [
+    "2 eggs",
+    "Half a matchbox-sized piece of fat",
+    "2-3 sprigs parsley",
+    "Half teaspoon black pepper",
+    "Half teaspoon salt"
+  ],
+  "instructions_en": [
+    "Crack the eggs into a deep bowl. Beat for two or three minutes with finely chopped parsley, black pepper, and salt.",
+    "Melt the fat in a medium pan. Grease the whole pan by swirling it.",
+    "When the fat is hot, pour in the beaten egg mixture and spread it.",
+    "Once the egg cooks and is no longer runny, slide it onto a plate. Flip it over, return it to the pan, and cook the other side.",
+    "Serve folded in two or three."
+  ],
+  "notes_en": "GENERAL NOTE: Omelets can be made with mashed white cheese, grated kashar cheese, vegetable purées, all kinds of diced vegetable sautés, and small-diced sausage, salami, or sucuk passed through fat. The omelet is named after whatever is put in it. The fillings prepared for an omelet are either mixed into the beaten egg before cooking, or placed inside the cooked plain omelet, which is then folded in two or three and served. If turning the second side of a one-side-cooked omelet is difficult, cook it until no longer runny, then roll it up from one end onto the plate. A nonstick pan or a thick-bottomed pan should be used for omelets."
+}
