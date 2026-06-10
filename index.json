@@ -52,5 +52,15 @@
   { "page": 121, "slug": "p121_patates_salatasi", "name_tr": "PATATES SALATASI", "name_en": "Potato Salad", "tags": ["vegan"] },
   { "page": 122, "page_end": 123, "slug": "p122_yogurtlu_patlican_salatasi", "name_tr": "YOĞURTLU PATLICAN SALATASI", "name_en": "Eggplant Salad with Yogurt", "tags": ["vegetarian"] },
   { "page": 124, "slug": "p124_patlican_salatasi", "name_tr": "PATLICAN SALATASI", "name_en": "Eggplant Salad", "tags": ["vegan"] },
-  { "page": 125, "slug": "p125_salatalik_dolmasi", "name_tr": "SALATALIK DOLMASI", "name_en": "Stuffed Cucumber", "tags": ["vegetarian"] }
+  { "page": 125, "slug": "p125_salatalik_dolmasi", "name_tr": "SALATALIK DOLMASI", "name_en": "Stuffed Cucumber", "tags": ["vegetarian"] },
+  { "page": 126, "slug": "p126_kisir", "name_tr": "KISIR", "name_en": "Kısır (Bulgur Salad)", "tags": ["vegan"] },
+  { "page": 127, "slug": "p127_mercimek_koftesi", "name_tr": "MERCİMEK KÖFTESİ", "name_en": "Red Lentil Patties", "tags": ["vegan"] },
+  { "page": 128, "slug": "p128_taze_fasulye_sotesi", "name_tr": "TAZE FASULYE SOTESİ", "name_en": "Sautéed Green Beans", "tags": ["vegetarian"] },
+  { "page": 129, "slug": "p129_mantar_sote", "name_tr": "MANTAR SOTE", "name_en": "Sautéed Mushrooms", "tags": ["vegetarian"] },
+  { "page": 130, "slug": "p130_etler_icin_sos", "name_tr": "ETLER İÇİN SOS", "name_en": "Sauce for Meats", "tags": ["vegetarian"] },
+  { "page": 134, "slug": "p134_tarama", "name_tr": "TARAMA", "name_en": "Tarama (Fish Roe Spread)", "tags": ["fish"] },
+  { "page": 135, "page_end": 136, "slug": "p135_fava", "name_tr": "FAVA", "name_en": "Fava (Broad Bean Purée)", "tags": ["vegan"] },
+  { "page": 137, "slug": "p137_humus", "name_tr": "HUMUS", "name_en": "Hummus", "tags": ["vegan"] },
+  { "page": 138, "slug": "p138_tarator", "name_tr": "TARATOR", "name_en": "Tarator (Walnut Sauce)", "tags": ["vegan"] },
+  { "page": 139, "slug": "p139_muhammara", "name_tr": "MUHAMMARA", "name_en": "Muhammara", "tags": ["vegan"] }
 ]

@@ -1,0 +1,54 @@
+{
+  "page": 130,
+  "slug": "p130_etler_icin_sos",
+  "name_tr": "ETLER İÇİN SOS",
+  "name_en": "Sauce for Meats",
+  "ingredients_tr": [
+    "1 kahve fincanı zeytinyağı",
+    "1,5 su bardağı domates rendesi veya 1 çorba kaşığı salça",
+    "Yarım su bardağı beyaz şarap veya et suyu",
+    "Yarım çay kaşığı kırmızı biber",
+    "Yarım çay kaşığı karabiber",
+    "1 orta boy soğan",
+    "1 kahve fincanı sirke",
+    "2 diş sarmısak",
+    "1-2 defne yaprağı",
+    "1 çay kaşığı kekik",
+    "1 çay kaşığı hardal",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "İnce doğranmış soğan, zeytinyağında hafif sararıncaya kadar kavrulur.",
+    "Domates rendesi veya bir buçuk bardak suda eritilmiş salça, sirke, şarap veya et suyu, kekik, defne yaprağı, hardal, tuzla dövülmüş sarmısak, kırmızı biber kavrulan soğana katılır.",
+    "Kapaksız olarak on beş dakika hafif ateşte kaynatılır. Karabiber konur."
+  ],
+  "notes_tr": "Not: Bu sos ızgara ve fırında pişirilmiş et, tavuk, balık gibi yemeklere kullanılır.",
+  "ingredients_en": [
+    "1 coffee cup olive oil",
+    "1,5 cups grated tomato or 1 tablespoon tomato paste",
+    "Half cup white wine or meat broth",
+    "Half teaspoon red pepper",
+    "Half teaspoon black pepper",
+    "1 medium onion",
+    "1 coffee cup vinegar",
+    "2 cloves garlic",
+    "1-2 bay leaves",
+    "1 teaspoon thyme",
+    "1 teaspoon mustard",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Sauté the finely chopped onion in the olive oil until lightly golden.",
+    "Add the grated tomato (or paste dissolved in one and a half glasses of water), vinegar, wine or meat broth, thyme, bay leaf, mustard, salt-crushed garlic, and red pepper to the sautéed onion.",
+    "Boil uncovered over low heat for fifteen minutes. Add the black pepper."
+  ],
+  "notes_en": "Note: This sauce is used for grilled and oven-cooked dishes such as meat, chicken, and fish.",
+  "variations": [
+    {
+      "name_tr": "SEBZE VE OMLETLER İÇİN SOS",
+      "name_en": "Sauce for Vegetables and Omelets",
+      "description_tr": "Bir çay kaşığı hardal, bir çorba kaşığı ketçapla ezilir. Çok ince kıyılmış veya rendelenmiş küçük bir salatalık turşusu, bir çay kaşığı kekik, çok az tuz konup karıştırılır. Dört çorba kaşığı mayoneze ilave edilip karıştırılır. Bu sos haşlanmış veya sote yapılmış sebzelerin üzerine dökülebildiği gibi sebzeler kürdanla sosa batırılarak da yenebilir.",
+      "description_en": "Mash one teaspoon of mustard with one tablespoon of ketchup. Add a small, very finely chopped or grated pickled cucumber, one teaspoon of thyme, and a little salt, and mix. Stir into four tablespoons of mayonnaise. This sauce can be poured over boiled or sautéed vegetables, or the vegetables can be dipped into it with a toothpick."
+    }
+  ]
+}
