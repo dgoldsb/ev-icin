@@ -1,0 +1,54 @@
+{
+  "page": 172,
+  "slug": "p172_yaz_turlusu",
+  "name_tr": "YAZ TÜRLÜSÜ",
+  "name_en": "Summer Türlü (Mixed Vegetables with Meat)",
+  "ingredients_tr": [
+    "300 gr. kuşbaşı et",
+    "3 kibrit kutusu büyüklüğünde margarin",
+    "3 orta boy domates veya bir çorba kaşığı salça",
+    "250 gr. taze fasulye",
+    "2 adet dolmalık biber",
+    "1 orta boy patlıcan",
+    "1 orta boy kabak",
+    "100 gr. bamya",
+    "2 orta boy soğan",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan, yağ bir tencerede ateşe konur. Birkaç kere karıştırılıp kapak kapatılır. Ateşi kısılarak et bıraktığı suyu çekinceye kadar pişirilir.",
+    "Kabukları soyularak küçük doğranmış domates veya salça ilave edilir. Karıştırılıp iki bardak su konur. Kaynayınca ateşi kısılır. Et yarı yumuşayıncaya kadar pişirilir.",
+    "Sebzeler yıkanır. Özelliklerine göre ayıklanır veya soyulup doğranır.",
+    "Tencereye önce geç pişen fasulye konur. Biraz pişince diğer sebzeler ilave edilip yumuşayıncaya kadar pişirilir.",
+    "Ateşten inmesine on dakika kala tuz atılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Bazı vitaminlerin kaybına neden olacağından, sebze ve meyvalar pişerken karbonat kullanılmamalı.",
+  "ingredients_en": [
+    "300 gr. cubed meat",
+    "3 matchbox-sized pieces of margarine",
+    "3 medium tomatoes or one tablespoon tomato paste",
+    "250 gr. green beans",
+    "2 peppers for stuffing",
+    "1 medium eggplant",
+    "1 medium zucchini",
+    "100 gr. okra",
+    "2 medium onions",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Put the meat, finely chopped onion, and fat in a pot over the heat. Stir a few times and cover. Lower the heat and cook until the meat reabsorbs its released liquid.",
+    "Add the peeled, finely chopped tomato or the paste. Stir and add two glasses of water. Once boiling, lower the heat. Cook until the meat is half tender.",
+    "Wash the vegetables. Trim, or peel and chop, according to each.",
+    "Put the slow-cooking beans in the pot first. Once they cook a little, add the other vegetables and cook until they soften.",
+    "Add salt ten minutes before removing from heat."
+  ],
+  "notes_en": "GENERAL NOTE: Since it causes the loss of some vitamins, baking soda should not be used when cooking vegetables and fruit.",
+  "variations": [
+    {
+      "name_tr": "KIŞ TÜRLÜSÜ",
+      "name_en": "Winter Türlü",
+      "description_tr": "İki orta kalınlıkta pırasa, iki orta boy yer elması, iki orta boy kereviz, üç orta boy patates, bir orta boy havuç kullanılıp diğer ölçü ve işlemler aynen uygulanarak yapılır.",
+      "description_en": "Made using two medium-thick leeks, two medium Jerusalem artichokes, two medium celery roots, three medium potatoes, and one medium carrot, applying all the other measures and steps the same way."
+    }
+  ]
+}

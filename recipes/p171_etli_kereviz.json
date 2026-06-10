@@ -1,0 +1,44 @@
+{
+  "page": 171,
+  "slug": "p171_etli_kereviz",
+  "name_tr": "ETLİ KEREVİZ",
+  "name_en": "Celery Root with Meat",
+  "ingredients_tr": [
+    "1 kg. kereviz",
+    "300 gr. kuşbaşı et",
+    "2 kibrit kutusu büyüklüğünde yağ",
+    "4 çorba kaşığı limon suyu",
+    "1 tatlı kaşığı un",
+    "2 yumurta sarısı",
+    "2 orta boy soğan",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan, yağ bir tencerede ateşe konur. Birkaç kere karıştırılıp kapak kapatılır. Ateşi kısılarak et bıraktığı suyu çekip yağına kalıncaya kadar kavrulur.",
+    "İki su bardağı sıcak su konur. Hafif ateşte et yumuşayıncaya kadar pişirilir. Tuz atılır.",
+    "Kerevizler yıkanır. Talaş kalmayacak şekilde soyulur. İkiye bölünüp portakal dilimi şeklinde doğranır.",
+    "Ete ilave edilir. Kereviz yumuşayıncaya kadar hafif ateşte pişirilir.",
+    "Un, yumurta sarısı, limon suyu karıştırılır. Yarım bardak soğuk su ile sulandırılır. Kaynamakta olan yemeğe tel süzgeçten süzülür.",
+    "Tencere sallanarak bir iki dakika ateşte tutulur. Kaynamadan ocaktan alınır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Sebzeler önce yıkanıp sonra ayıklanmalı. Ayıklanan sebze bekletilmeden ocağa konmalı.",
+  "ingredients_en": [
+    "1 kg. celery root",
+    "300 gr. cubed meat",
+    "2 matchbox-sized pieces of fat",
+    "4 tablespoons lemon juice",
+    "1 dessertspoon flour",
+    "2 egg yolks",
+    "2 medium onions",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Put the meat, finely chopped onion, and fat in a pot over the heat. Stir a few times and cover. Lower the heat and sauté until the meat reabsorbs its released liquid and is left in its own fat.",
+    "Add two cups of hot water. Cook over low heat until the meat softens. Add salt.",
+    "Wash the celery roots. Peel so no fibers remain. Halve and cut into orange-segment shapes.",
+    "Add to the meat. Cook over low heat until the celery softens.",
+    "Mix the flour, egg yolks, and lemon juice. Thin with half a glass of cold water. Strain through a wire sieve into the simmering dish.",
+    "Hold over the heat for a minute or two, swirling the pot. Remove from the stove before it boils."
+  ],
+  "notes_en": "GENERAL NOTE: Vegetables should be washed first, then trimmed. Trimmed vegetables should go on the stove without delay."
+}

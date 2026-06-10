@@ -1,0 +1,46 @@
+{
+  "page": 141,
+  "slug": "p141_rus_salatasi",
+  "name_tr": "RUS SALATASI",
+  "name_en": "Russian Salad",
+  "ingredients_tr": [
+    "1 tertip mayonez",
+    "5-6 adet küçük salatalık turşusu",
+    "Yarım su bardağı haşlanmış veya konserve bezelye",
+    "2 orta boy haşlanmış patates",
+    "1 orta boy haşlanmış havuç",
+    "1 adet haşlanmış yumurta",
+    "3 dilim salam",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Patates, havuç, yumurta, salatalık turşusu, salam, bezelye büyüklüğünde küplere doğranır. Bezelye, tuz katılıp karıştırılır.",
+    "Mayonezin iki kaşığı ayrılır. Kalanı doğranmış karışıma ilave edilip karıştırılır.",
+    "Servis tabağına alınıp düzeltilir. Ayrılan mayonez krema pompasına konarak salatanın üzerine şekilli sıkılır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Yağlar midede uzun süre kalarak tokluk hissi verir. Bu nedenle iştahsız kişilerin, yiyeceklerini çok yağlı veya yağda kızartılmış olanından seçmemeleri iyi olur. Çatlak yumurtaları haşlarken suyuna bir çorba kaşığı sirke, yarım çorba kaşığı tuz atılırsa dağılması önlenir.",
+  "ingredients_en": [
+    "1 batch mayonnaise",
+    "5-6 small pickled cucumbers",
+    "Half cup boiled or canned peas",
+    "2 medium boiled potatoes",
+    "1 medium boiled carrot",
+    "1 boiled egg",
+    "3 slices salami",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Dice the potato, carrot, egg, pickled cucumbers, and salami into pea-sized cubes. Add the peas and salt and mix.",
+    "Set aside two spoonfuls of the mayonnaise. Add the rest to the diced mixture and mix.",
+    "Transfer to a serving plate and smooth it out. Put the reserved mayonnaise in a cream piping bag and pipe decoratively over the salad."
+  ],
+  "notes_en": "GENERAL NOTE: Fats give a feeling of fullness by staying in the stomach a long time. For this reason it is good for those with poor appetite not to choose very oily or deep-fried foods. When boiling cracked eggs, adding a tablespoon of vinegar and half a tablespoon of salt to the water prevents them from breaking apart.",
+  "variations": [
+    {
+      "name_tr": "BLENDIRLA KOLAY MAYONEZ",
+      "name_en": "Easy Mayonnaise in a Blender",
+      "description_tr": "Bir bütün yumurta blendıra kırılır. On saniye çarpılır. Kapağı açılarak bir su bardağı zeytinyağının üçte biri konup kapatılır. Bir dakika çarpılır. Çarpmağa ara verilerek zeytinyağının ikinci üçte biri konur. Yine bir dakika çarpılır. Son olarak kalan üçte bir zeytinyağı konur. Yağ yedirilinceye kadar çarpılır. Bir çorba kaşığı limon suyu, bir çorba kaşığı sirke, bir çay kaşığı hardal, yarım çay kaşığı tuz konur. Kısa süre çarpılır. Kaşıkla kesilecek kadar koyu tutan mayonez, kullanılacak kaba alınır.",
+      "description_en": "Crack one whole egg into a blender. Blend ten seconds. Open the lid, add a third of one cup of olive oil, and close it. Blend one minute. Pause, then add the second third of the oil. Blend one minute again. Finally add the last third of the oil. Blend until the oil is incorporated. Add one tablespoon lemon juice, one tablespoon vinegar, one teaspoon mustard, and half a teaspoon salt. Blend briefly. Transfer the mayonnaise — thick enough to cut with a spoon — to the container you'll use."
+    }
+  ]
+}

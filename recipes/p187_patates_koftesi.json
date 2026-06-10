@@ -1,0 +1,55 @@
+{
+  "page": 187,
+  "page_end": 188,
+  "slug": "p187_patates_koftesi",
+  "name_tr": "PATATES KÖFTESİ",
+  "name_en": "Potato Croquettes",
+  "ingredients_tr": [
+    "6 orta boy patates",
+    "1,5 su bardağı zeytinyağı veya kızartmalık sıvı yağ",
+    "1,5 su bardağı galeta tozu",
+    "2 çorba kaşığı un",
+    "4 yumurta",
+    "1 çay kaşığı karabiber",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Patatesler yıkanıp haşlanır. Sıcakken kabukları soyulur. Çatalla ezilir.",
+    "İki bütün yumurta, un, karabiber, tuz konarak yoğrulur.",
+    "Bir ceviz büyüklüğünde parçalar alınıp şekillendirilir.",
+    "Önce una, sonra akla sarısı karışacak kadar çarpılmış yumurtaya, daha sonra galeta tozuna batırılır.",
+    "Kızdırılmış yağda kızartılıp kâğıt üzerine çıkarılır."
+  ],
+  "notes_tr": [
+    "Not: Köfteler yarım ceviz büyüklüğünde yapılıp, sıcak meze olarak ikram edilebilir.",
+    "GENEL BİLGİ: Çok alınıp saklanması gereken patates az nemli karanlık, serin yerde saklanmalı. Böylece büzülme, filizlenme, yeşillenme önlenir. Kullanılacak patatesin üzerinde tomurcuklar varsa oyularak iyice temizlenmeli. Filizlenmiş patates temizlenmeden pişirilirse zehirlenmelere neden olur."
+  ],
+  "ingredients_en": [
+    "6 medium potatoes",
+    "1,5 cups olive oil or frying oil",
+    "1,5 cups breadcrumbs",
+    "2 tablespoons flour",
+    "4 eggs",
+    "1 teaspoon black pepper",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Wash and boil the potatoes. Peel while hot. Mash with a fork.",
+    "Knead in two whole eggs, the flour, black pepper, and salt.",
+    "Take walnut-sized pieces and shape them.",
+    "Dip first in flour, then in egg beaten enough to blend white and yolk, then in breadcrumbs.",
+    "Fry in hot oil and lift onto paper."
+  ],
+  "notes_en": [
+    "Note: The croquettes can be made half a walnut in size and served as a hot meze.",
+    "GENERAL NOTE: Potatoes that must be bought in quantity and stored should be kept in a slightly humid, dark, cool place. This prevents shriveling, sprouting, and greening. If a potato to be used has buds on it, they should be dug out and cleaned thoroughly. A sprouted potato cooked without cleaning can cause poisoning."
+  ],
+  "variations": [
+    {
+      "name_tr": "İÇLİ PATATES KÖFTESİ",
+      "name_en": "Stuffed Potato Croquettes",
+      "description_tr": "Peynir, maydanoz veya az kavrulmuş kıyma, soğan, karabiber, tuz karışımı ile içler hazırlanır. Patates köftesi için hazırlanan püreden bir ceviz büyüklüğünde yuvarlanıp yassıltılır. Ortasına içlerden biri konur. Toplanıp yuvarlanarak şekillendirilir. Diğer işlemler patates köftesinin aynı uygulanır.",
+      "description_en": "Fillings are prepared from a mix of cheese and parsley, or lightly sautéed ground meat with onion, black pepper, and salt. Roll a walnut-sized piece of the potato mixture prepared for the croquettes and flatten it. Place one of the fillings in the center. Gather, roll, and shape it. The other steps are the same as for potato croquettes."
+    }
+  ]
+}

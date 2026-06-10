@@ -1,0 +1,50 @@
+{
+  "page": 184,
+  "slug": "p184_karnabahar_ogreten",
+  "name_tr": "KARNABAHAR OGRETEN",
+  "name_en": "Cauliflower au Gratin",
+  "ingredients_tr": [
+    "1 adet orta boy karnabahar",
+    "2 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "Yarım su bardağı kaşar peyniri rendesi",
+    "2 çorba kaşığı un",
+    "2,5 su bardağı süt",
+    "1 çay kaşığı karabiber",
+    "Yarım çay kaşığı kırmızı biber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Karnabahar temizlenir, yıkanır, koçanı oyularak çıkarılır. Az su ile hafif ateşte haşlanır.",
+    "Un, yağ kısık ateşte pembeleşmeden kavrulur. Soğuk süt birden konup karıştırılır. Bir çay kaşığı tuz atılır. Bir-iki dakika karıştırarak pişirilir. Ateşten alınır.",
+    "Haşlanan karnabahar parçalara bölünür. Tuz, karabiber ekilir.",
+    "Ateşe dayanıklı cam veya fırına girebilecek herhangi bir kaba, hazırlanan salçanın üçte biri konur. Karnabahar üzerine sıralanır. Kalan salça karnabaharın üzerine yayılır. Kaşar peyniri rendesi, kırmızı biber serpilir.",
+    "Kızgın fırında pembe renkte kızartılır. Sıcak sıcak sofraya alınır."
+  ],
+  "notes_tr": "Not: Kabak, patlıcan, enginar, patates, pırasa gibi sebzeler haşlanarak aynı şekilde ögretenleri hazırlanır.",
+  "ingredients_en": [
+    "1 medium cauliflower",
+    "2 matchbox-sized pieces of butter or margarine",
+    "Half cup grated kashar cheese",
+    "2 tablespoons flour",
+    "2,5 cups milk",
+    "1 teaspoon black pepper",
+    "Half teaspoon red pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the cauliflower and core it out. Parboil over low heat with a little water.",
+    "Sauté the flour and fat over low heat without letting it color. Pour in the cold milk all at once and stir. Add one teaspoon of salt. Cook one or two minutes, stirring. Remove from heat.",
+    "Break the parboiled cauliflower into pieces. Season with salt and black pepper.",
+    "Put a third of the prepared sauce in a heatproof glass or any ovenproof dish. Arrange the cauliflower on top. Spread the remaining sauce over the cauliflower. Sprinkle with grated kashar cheese and red pepper.",
+    "Brown in a hot oven until pink. Serve hot."
+  ],
+  "notes_en": "Note: Vegetables such as zucchini, eggplant, artichoke, potato, and leek are parboiled and made into gratins the same way.",
+  "variations": [
+    {
+      "name_tr": "KIYMALI SEBZE OGRETENLERİ",
+      "name_en": "Ground-Meat Vegetable Gratins",
+      "description_tr": "Kıymalı sebze yemeklerinden herhangi biri, az yağlı pişirilir. Pişerken az su konup suyu çektirilir. Haşlanmış karnabahar yerine, pişirilmiş kıymalı sebze yemeklerinden biri kullanılıp, diğer ölçü ve işlemler aynen uygulanarak kıymalı sebze ögretenleri hazırlanır.",
+      "description_en": "Cook any of the ground-meat vegetable dishes with little fat. During cooking, add a little water and let it be reabsorbed. Using one of the cooked ground-meat vegetable dishes instead of the parboiled cauliflower, and applying the other measures and steps the same way, ground-meat vegetable gratins are made."
+    }
+  ]
+}

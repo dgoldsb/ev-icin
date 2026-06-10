@@ -1,0 +1,59 @@
+{
+  "page": 163,
+  "page_end": 164,
+  "slug": "p163_etli_yaprak_sarmasi",
+  "name_tr": "ETLİ YAPRAK SARMASI",
+  "name_en": "Meat-Stuffed Vine Leaves",
+  "ingredients_tr": [
+    "500 gr. orta yağlı kıyma",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "250 gr. taze veya salamura üzüm yaprağı",
+    "3 çorba kaşığı limon suyu",
+    "1 çorba kaşığı domates salçası",
+    "2 orta boy soğan",
+    "6-7 dal dereotu",
+    "6-7 dal maydanoz",
+    "Yarım su bardağı pirinç",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Yaprak yıkanır. Taze ise kaynar suya konup bir dakika kaynatılarak ezilmeden haşlanır. Salamura ise akşamdan suya konur. Ertesi gün sıkılarak kaynar suya atılır. Yaprağın cinsine göre kaynamadan veya bir taşım kaynatılıp sudan çıkarılır. Çöpleri koparılır. Damar kısımları kesilir.",
+    "İnce doğranmış soğan, maydanoz, dereotu, ayıklanıp yıkanmış pirinç, yarım çorba kaşığı sulandırılmış salça, karabiber, yağın yarısı, limon suyu, iki çay kaşığı tuz kıymaya katılarak yoğrulur.",
+    "Hazırlanan yaprakların arasına iç konur. Küçük küçük sarılır. Dibine yaprak yayılmış tencereye sıralanır. Kalan yağ, sulandırılmış salça, yarım çay kaşığı tuz konur. Dolmaların üzerine bir tabak kapatılır. Kenarından yarım su bardağı su akıtılır.",
+    "Hafif ateşte, arasıra kaynar su ilave edilerek yaprak yumuşayıncaya kadar pişirilir. Pişince bir bardağa yakın suyu kalmalı. Sade veya yanında yoğurtla servis yapılır."
+  ],
+  "ingredients_en": [
+    "500 gr. medium-fat ground meat",
+    "2 matchbox-sized pieces of margarine",
+    "250 gr. fresh or brined vine leaves",
+    "3 tablespoons lemon juice",
+    "1 tablespoon tomato paste",
+    "2 medium onions",
+    "6-7 sprigs dill",
+    "6-7 sprigs parsley",
+    "Half cup rice",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Wash the leaves. If fresh, put in boiling water and blanch for one minute without crushing. If brined, soak in water overnight; the next day squeeze them out and drop into boiling water. Depending on the type of leaf, take them out either without boiling or after one boil. Pull off the stems. Cut out the veined parts.",
+    "Knead the finely chopped onion, parsley, dill, cleaned and washed rice, half a tablespoon of diluted tomato paste, black pepper, half the fat, lemon juice, and two teaspoons of salt into the ground meat.",
+    "Place stuffing on the prepared leaves. Roll them up small. Arrange in a pot lined with leaves. Add the remaining fat, diluted tomato paste, and half a teaspoon of salt. Cover the rolls with a plate. Pour half a cup of water down the side.",
+    "Cook over low heat, occasionally adding boiling water, until the leaves soften. When done, about a glass of liquid should remain. Serve plain or with yogurt."
+  ],
+  "variations": [
+    {
+      "name_tr": "ETLİ LAHANA SARMASI",
+      "name_en": "Meat-Stuffed Cabbage Rolls",
+      "description_tr": "Ezilmeden haşlanmış lahana yaprağı ile hazırlanan etli lahana dolmasının içine limon suyu konmaz. Yoğurtsuz yenir.",
+      "description_en": "Meat-stuffed cabbage rolls are made with cabbage leaves blanched without crushing; no lemon juice goes in them. Eaten without yogurt."
+    },
+    {
+      "name_tr": "ETLİ PAZI SARMASI",
+      "name_en": "Meat-Stuffed Chard Rolls",
+      "description_tr": "Yıkanıp sapları kesilmiş, üzerine kaynar su dökülerek yumuşatılmış pazı sarması da, aynı ölçü ve işlemlere uyularak hazırlanır. Üzerine sarmısaklı yoğurt dökülerek yenir.",
+      "description_en": "Chard rolls — made from chard washed, stems trimmed, and softened by pouring boiling water over it — are prepared following the same measures and steps. Eaten with garlic yogurt poured over."
+    }
+  ]
+}

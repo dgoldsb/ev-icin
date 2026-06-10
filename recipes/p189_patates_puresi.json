@@ -1,0 +1,38 @@
+{
+  "page": 189,
+  "slug": "p189_patates_puresi",
+  "name_tr": "PATATES PÜRESİ",
+  "name_en": "Mashed Potatoes",
+  "ingredients_tr": [
+    "7 adet orta boy patates",
+    "1 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "1 su bardağı süt",
+    "1 çay kaşığı karabiber",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Patatesler yıkanır, haşlanır, suyu süzülür.",
+    "El dayanacak sıcaklıkta iken soyulur. Ezilir veya püre makinesinden geçirilir.",
+    "Kaynar süt, tereyağı, karabiber, tuz konur. Hafif ateşte yağ eriyinceye kadar pişirilir. Soğumadan servis yapılır."
+  ],
+  "notes_tr": [
+    "Not: Aynı ölçü ve işlemler uygulanarak havuç püresi yapılır. Patates, ıspanak, havuç, bezelye gibi sebze püreleri et yemeklerinin yanında verilir.",
+    "GENEL BİLGİ: Oda ısısından daha soğuk yerde saklanan patatesler, pişirilince karamelize olup hoş olmayan bir renk oluşur. Bunu önlemek için patates önce oda ısısına alınıp bir süre bekletildikten sonra pişirilmeli. Yiyeceklerde kullanılan tuz oksidasyonu hızlandırır. Biber ise yavaşlatır. Bu nedenle et saklanacaksa tuzlamadan dondurulmalı, yemeklerin tuzu ocaktan alınacağına yakın konmalı."
+  ],
+  "ingredients_en": [
+    "7 medium potatoes",
+    "1 matchbox-sized piece of butter or margarine",
+    "1 cup milk",
+    "1 teaspoon black pepper",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Wash and boil the potatoes and drain.",
+    "Peel while still warm enough to handle. Mash or pass through a ricer.",
+    "Add the boiling milk, butter, black pepper, and salt. Cook over low heat until the butter melts. Serve before it cools."
+  ],
+  "notes_en": [
+    "Note: Carrot purée is made by applying the same measures and steps. Vegetable purées such as potato, spinach, carrot, and pea are served alongside meat dishes.",
+    "GENERAL NOTE: Potatoes stored colder than room temperature caramelize when cooked and develop an unpleasant color. To prevent this, potatoes should first be brought to room temperature and left a while before cooking. Salt used in food speeds up oxidation, while pepper slows it. For this reason, if meat is to be stored it should be frozen without salting, and the salt in dishes should be added near the end of cooking."
+  ]
+}

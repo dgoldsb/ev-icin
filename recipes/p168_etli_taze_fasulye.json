@@ -1,0 +1,52 @@
+{
+  "page": 168,
+  "slug": "p168_etli_taze_fasulye",
+  "name_tr": "ETLİ TAZE FASULYE",
+  "name_en": "Green Beans with Meat",
+  "ingredients_tr": [
+    "1 kg. taze fasulye",
+    "300 gr. kuşbaşı et",
+    "3 kibrit kutusu büyüklüğünde margarin",
+    "3 orta boy domates veya 1 çorba kaşığı salça",
+    "2 orta boy soğan",
+    "3 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan, yağ bir tencerede ateşe konur. Birkaç kere karıştırılıp kapak örtülür. Ateşi kısılarak et bıraktığı suyu çekinceye kadar pişirilir.",
+    "Kabukları soyularak küçük doğranmış domates veya salça ilave edilir. Karıştırılıp iki bardak su konur. Kaynayınca ateşi kısılır. Et yarı yumuşayıncaya kadar pişirilir.",
+    "Yıkanmış, ayıklanmış fasulye bütün veya ikiye bölünerek üzerine konur.",
+    "Kaynayınca ateşi kısılır. Gerekirse kaynar su katılarak fasulye yumuşayıncaya kadar pişirilir. İneceğine yakın tuz atılır."
+  ],
+  "notes_tr": [
+    "Not: Pişince, etli sebze yemeklerinin suyu, yemeğin üçte ikisinde kalmalı.",
+    "Etli patlıcana soğanla birlikte iki-üç sivri biber konur.",
+    "Etli kabağın, pişerken içine ya da piştikten sonra üzerine kıyılmış dereotu konur."
+  ],
+  "ingredients_en": [
+    "1 kg. green beans",
+    "300 gr. cubed meat",
+    "3 matchbox-sized pieces of margarine",
+    "3 medium tomatoes or 1 tablespoon tomato paste",
+    "2 medium onions",
+    "3 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Put the meat, finely chopped onion, and fat in a pot over the heat. Stir a few times and cover. Lower the heat and cook until the meat reabsorbs its released liquid.",
+    "Add the peeled, finely chopped tomato or the paste. Stir and add two glasses of water. Once boiling, lower the heat. Cook until the meat is half tender.",
+    "Place the washed, trimmed beans — whole or halved — on top.",
+    "Once boiling, lower the heat. Add boiling water if needed and cook until the beans soften. Add salt near the end."
+  ],
+  "notes_en": [
+    "Note: When done, the liquid of meat-and-vegetable dishes should be down to two-thirds of the dish.",
+    "For meat eggplant, add two or three long green peppers along with the onion.",
+    "For meat zucchini, add chopped dill either during cooking or over the top after cooking."
+  ],
+  "variations": [
+    {
+      "name_tr": "ETLİ BAKLA",
+      "name_en": "Broad Beans with Meat",
+      "description_tr": "Bir tatlı kaşığı un yarım bardak soğuk suda ezilir. Taze fasulyedeki ölçü ve işlemlere uyularak hazırlanan etli baklanın üzerine gezdirerek dökülür. Tencere büyüklüğünde kesilmiş yağlı kâğıt baklanın üzerine kapatılır. Kapak açılmadan hafif ateşte pişirilir.",
+      "description_en": "Dissolve a dessertspoon of flour in half a glass of cold water. Drizzle it over the broad beans with meat, prepared following the measures and steps for green beans. Cover the beans with greaseproof paper cut to the size of the pot. Cook over low heat without opening the lid."
+    }
+  ]
+}

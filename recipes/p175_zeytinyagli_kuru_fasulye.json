@@ -1,0 +1,58 @@
+{
+  "page": 175,
+  "slug": "p175_zeytinyagli_kuru_fasulye",
+  "name_tr": "ZEYTİNYAĞLI KURU FASULYE",
+  "name_en": "Olive Oil Dried Beans",
+  "ingredients_tr": [
+    "2 su bardağı kuru fasulye",
+    "Yarım su bardağı zeytinyağı",
+    "2 orta boy soğan",
+    "Yarım çorba kaşığı domates salçası",
+    "Yarım çorba kaşığı biber salçası",
+    "1 orta boy havuç",
+    "1 küçük kereviz",
+    "6-7 diş sarmısak",
+    "6-7 dal maydanoz",
+    "1 çay kaşığı şeker",
+    "2,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Fasulye ayıklanır, yıkanır, akşamdan ıslatılır.",
+    "Ertesi gün üzerini geçecek kadar su ile ateşe konur. Yarı pişmiş olarak haşlanır. Suyu süzülür.",
+    "İnce doğranmış soğan, yağla fazla sararmadan kavrulur. Küçük doğranmış kereviz, havuç, sarmısak katılır. Kısa süre kavrulup domates, biber salçası konur.",
+    "Haşlanmış fasulye, şeker, üç su bardağı kaynar su ilave edilerek hafif ateşte pişirilir.",
+    "Ateşten alınacağına yakın tuz atılır.",
+    "Soğuyunca servis tabağına alınır. Üzerine kıyılmış maydanoz serpilir."
+  ],
+  "notes_tr": "Not: Pişince suyu, yemeğin üçte birinde kalmış olmalı.",
+  "ingredients_en": [
+    "2 cups dried beans",
+    "Half cup olive oil",
+    "2 medium onions",
+    "Half tablespoon tomato paste",
+    "Half tablespoon pepper paste",
+    "1 medium carrot",
+    "1 small celery root",
+    "6-7 cloves garlic",
+    "6-7 sprigs parsley",
+    "1 teaspoon sugar",
+    "2,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the beans, and soak them overnight.",
+    "The next day, put on the heat with water to cover. Parboil until half cooked. Drain.",
+    "Sauté the finely chopped onion in the oil without browning much. Add the finely chopped celery, carrot, and garlic. Sauté briefly, then add the tomato and pepper paste.",
+    "Add the parboiled beans, sugar, and three cups of boiling water, and cook over low heat.",
+    "Add salt near the end of cooking.",
+    "Once cooled, transfer to a serving plate. Sprinkle chopped parsley over the top."
+  ],
+  "notes_en": "Note: When cooked, the liquid should be down to one-third of the dish.",
+  "variations": [
+    {
+      "name_tr": "ZEYTİNYAĞLI KURU VE TAZE BARBUNYA",
+      "name_en": "Olive Oil Dried and Fresh Borlotti Beans",
+      "description_tr": "Kuru barbunya aynı ölçü ve işlemlere uyularak yapılır. Taze barbunyanın haşlama süresi kısa olur. Haşlama suyu dökülmez.",
+      "description_en": "Dried borlotti beans are made following the same measures and steps. Fresh borlotti beans have a shorter parboiling time. Their cooking water is not poured away."
+    }
+  ]
+}

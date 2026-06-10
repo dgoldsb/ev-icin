@@ -1,66 +1,934 @@
 [
-  { "page": 56, "slug": "p056_et_suyu", "name_tr": "ET SUYU", "name_en": "Meat Broth", "tags": ["meat"] },
-  { "page": 57, "page_end": 58, "slug": "p057_ezme_sebze_corbasi", "name_tr": "EZME SEBZE ÇORBASI", "name_en": "Puréed Vegetable Soup", "tags": ["vegetarian"] },
-  { "page": 59, "slug": "p059_yesil_borc", "name_tr": "YEŞİL BORÇ", "name_en": "Green Borscht", "tags": ["meat"] },
-  { "page": 60, "slug": "p060_yogurt_corbasi", "name_tr": "YOĞURT ÇORBASI", "name_en": "Yogurt Soup", "tags": ["vegetarian"] },
-  { "page": 61, "slug": "p061_kirmizi_mercimek_corbasi", "name_tr": "KIRMIZI MERCİMEK ÇORBASI", "name_en": "Red Lentil Soup", "tags": ["vegetarian"] },
-  { "page": 62, "slug": "p062_domates_corbasi", "name_tr": "DOMATES ÇORBASI", "name_en": "Tomato Soup", "tags": ["meat"] },
-  { "page": 63, "slug": "p063_domatesli_irmik_corbasi", "name_tr": "DOMATESLİ İRMİK ÇORBASI", "name_en": "Tomato Semolina Soup", "tags": ["meat"] },
-  { "page": 64, "page_end": 65, "slug": "p064_terbiyeli_iskembe_corbasi", "name_tr": "TERBİYELİ İŞKEMBE ÇORBASI", "name_en": "Tripe Soup with Egg and Lemon", "tags": ["meat"] },
-  { "page": 66, "slug": "p066_yalanci_iskembe_corbasi", "name_tr": "YALANCI İŞKEMBE ÇORBASI", "name_en": "Mock Tripe Soup", "tags": ["meat"] },
-  { "page": 67, "slug": "p067_sogan_corbasi", "name_tr": "SOĞAN ÇORBASI", "name_en": "Onion Soup", "tags": ["meat"] },
-  { "page": 68, "slug": "p068_patates_corbasi", "name_tr": "PATATES ÇORBASI", "name_en": "Potato Soup", "tags": ["vegetarian"] },
-  { "page": 69, "page_end": 70, "slug": "p069_balik_corbasi", "name_tr": "BALIK ÇORBASI", "name_en": "Fish Soup", "tags": ["fish"] },
-  { "page": 71, "slug": "p071_kofteli_un_corbasi", "name_tr": "KÖFTELİ UN ÇORBASI", "name_en": "Flour Soup with Meatballs", "tags": ["meat"] },
-  { "page": 74, "slug": "p074_tarhana_corbasi", "name_tr": "TARHANA ÇORBASI", "name_en": "Tarhana Soup", "tags": ["vegetarian"] },
-  { "page": 75, "slug": "p075_mantar_corbasi", "name_tr": "MANTAR ÇORBASI", "name_en": "Mushroom Soup", "tags": ["vegetarian"] },
-  { "page": 76, "slug": "p076_dugun_corbasi", "name_tr": "DÜĞÜN ÇORBASI", "name_en": "Wedding Soup", "tags": ["meat"] },
-  { "page": 77, "slug": "p077_kereviz_corbasi", "name_tr": "KEREVİZ ÇORBASI", "name_en": "Celery Soup", "tags": ["vegetarian"] },
-  { "page": 78, "page_end": 79, "slug": "p078_koyun_budu_rosto", "name_tr": "KOYUN BUDU ROSTO", "name_en": "Roast Leg of Mutton", "tags": ["meat"] },
-  { "page": 80, "slug": "p080_pirzola_pane", "name_tr": "PİRZOLA PANE", "name_en": "Breaded Lamb Cutlets", "tags": ["meat"] },
-  { "page": 81, "slug": "p081_kaplamis_pirzola", "name_tr": "KAPLANMIŞ PİRZOLA", "name_en": "Coated Lamb Chops", "tags": ["meat"] },
-  { "page": 82, "slug": "p082_soslu_pirzola", "name_tr": "SOSLU PİRZOLA", "name_en": "Chops in Sauce", "tags": ["meat"] },
-  { "page": 83, "slug": "p083_sis_kebabi", "name_tr": "ŞİŞ KEBABI", "name_en": "Shish Kebab", "tags": ["meat"] },
-  { "page": 84, "slug": "p084_tencere_kebabi", "name_tr": "TENCERE KEBABI", "name_en": "Pot Kebab", "tags": ["meat"] },
-  { "page": 85, "slug": "p085_bugu_kebabi", "name_tr": "BUĞU KEBABI", "name_en": "Steamed Kebab", "tags": ["meat"] },
-  { "page": 86, "slug": "p086_sebzeli_koyun_haslamasi", "name_tr": "SEBZELİ KOYUN HAŞLAMASI", "name_en": "Boiled Mutton with Vegetables", "tags": ["meat"] },
-  { "page": 87, "page_end": 88, "slug": "p087_kuru_kofte", "name_tr": "KURU KÖFTE", "name_en": "Pan-Fried Meatballs", "tags": ["meat"] },
-  { "page": 89, "page_end": 90, "slug": "p089_rulo_kofte", "name_tr": "RULO KÖFTE", "name_en": "Meatball Roll", "tags": ["meat"] },
-  { "page": 91, "slug": "p091_kadin_budu_kofte", "name_tr": "KADIN BUDU KÖFTE", "name_en": "Lady's Thigh Meatballs", "tags": ["meat"] },
-  { "page": 92, "page_end": 93, "slug": "p092_icli_kofte", "name_tr": "İÇLİ KÖFTE", "name_en": "Stuffed Meatballs", "tags": ["meat"] },
-  { "page": 94, "slug": "p094_cig_kofte", "name_tr": "ÇİĞ KÖFTE", "name_en": "Raw Meatballs", "tags": ["meat"] },
-  { "page": 95, "slug": "p095_surpriz_kofte", "name_tr": "SÜRPRİZ KÖFTE", "name_en": "Surprise Meatballs", "tags": ["meat"] },
-  { "page": 96, "slug": "p096_izmir_koftesi", "name_tr": "İZMİR KÖFTESİ", "name_en": "Izmir Meatballs", "tags": ["meat"] },
-  { "page": 97, "slug": "p097_terbiyeli_kofte", "name_tr": "TERBİYELİ KÖFTE", "name_en": "Meatballs with Egg and Lemon Sauce", "tags": ["meat"] },
-  { "page": 98, "page_end": 99, "slug": "p098_bulgur_koftesi", "name_tr": "BULGUR KÖFTESİ", "name_en": "Bulgur Meatballs", "tags": ["vegetarian"] },
-  { "page": 100, "page_end": 101, "slug": "p100_hunkar_begendi", "name_tr": "HÜNKÂR BEĞENDİ", "name_en": "Sultan's Delight", "tags": ["meat"] },
-  { "page": 102, "slug": "p102_salcali_biftek", "name_tr": "SALÇALI BİFTEK", "name_en": "Steak in Tomato Sauce", "tags": ["meat"] },
-  { "page": 103, "slug": "p103_pratik_doner", "name_tr": "PRATİK DÖNER", "name_en": "Practical Döner", "tags": ["meat"] },
-  { "page": 104, "slug": "p104_bereket_tiridi", "name_tr": "BEREKET TİRİDİ", "name_en": "Abundance Tirit", "tags": ["meat"] },
-  { "page": 105, "slug": "p105_suslu_sogus", "name_tr": "SÜSLÜ SÖĞÜŞ", "name_en": "Dressed Cold Cuts", "tags": ["meat"] },
-  { "page": 106, "slug": "p106_cerkez_tavugu", "name_tr": "ÇERKEZ TAVUĞU", "name_en": "Circassian Chicken", "tags": ["meat"] },
-  { "page": 107, "slug": "p107_tavuk_yahnisi", "name_tr": "TAVUK YAHNİSİ", "name_en": "Chicken Stew", "tags": ["meat"] },
-  { "page": 108, "page_end": 109, "slug": "p108_beyin_ogreten", "name_tr": "BEYİN OGRETEN", "name_en": "Brain Gratin", "tags": ["meat"] },
-  { "page": 110, "slug": "p110_beyin_pane", "name_tr": "BEYİN PANE", "name_en": "Breaded Brain", "tags": ["meat"] },
-  { "page": 111, "page_end": 112, "slug": "p111_ciger_sarma", "name_tr": "CİĞER SARMA", "name_en": "Liver Wraps", "tags": ["meat"] },
-  { "page": 113, "slug": "p113_arnavut_cigeri", "name_tr": "ARNAVUT CİĞERİ", "name_en": "Albanian Liver", "tags": ["meat"] },
-  { "page": 114, "slug": "p114_ciger_sote", "name_tr": "CİĞER SOTE", "name_en": "Liver Sauté", "tags": ["meat"] },
-  { "page": 115, "page_end": 116, "slug": "p115_sigir_dili_sogusu", "name_tr": "SIĞIR DİLİ SÖĞÜŞÜ", "name_en": "Cold Beef Tongue", "tags": ["meat"] },
-  { "page": 117, "page_end": 118, "slug": "p117_terbiyeli_paca", "name_tr": "TERBİYELİ PAÇA", "name_en": "Trotters with Egg and Lemon Sauce", "tags": ["meat"] },
-  { "page": 119, "slug": "p119_kereviz_yapragi_salatasi", "name_tr": "KEREVİZ YAPRAĞI SALATASI", "name_en": "Celery Leaf Salad", "tags": ["vegan"] },
-  { "page": 120, "slug": "p120_karnabahar_salatasi", "name_tr": "KARNABAHAR SALATASI", "name_en": "Cauliflower Salad", "tags": ["vegan"] },
-  { "page": 121, "slug": "p121_patates_salatasi", "name_tr": "PATATES SALATASI", "name_en": "Potato Salad", "tags": ["vegan"] },
-  { "page": 122, "page_end": 123, "slug": "p122_yogurtlu_patlican_salatasi", "name_tr": "YOĞURTLU PATLICAN SALATASI", "name_en": "Eggplant Salad with Yogurt", "tags": ["vegetarian"] },
-  { "page": 124, "slug": "p124_patlican_salatasi", "name_tr": "PATLICAN SALATASI", "name_en": "Eggplant Salad", "tags": ["vegan"] },
-  { "page": 125, "slug": "p125_salatalik_dolmasi", "name_tr": "SALATALIK DOLMASI", "name_en": "Stuffed Cucumber", "tags": ["vegetarian"] },
-  { "page": 126, "slug": "p126_kisir", "name_tr": "KISIR", "name_en": "Kısır (Bulgur Salad)", "tags": ["vegan"] },
-  { "page": 127, "slug": "p127_mercimek_koftesi", "name_tr": "MERCİMEK KÖFTESİ", "name_en": "Red Lentil Patties", "tags": ["vegan"] },
-  { "page": 128, "slug": "p128_taze_fasulye_sotesi", "name_tr": "TAZE FASULYE SOTESİ", "name_en": "Sautéed Green Beans", "tags": ["vegetarian"] },
-  { "page": 129, "slug": "p129_mantar_sote", "name_tr": "MANTAR SOTE", "name_en": "Sautéed Mushrooms", "tags": ["vegetarian"] },
-  { "page": 130, "slug": "p130_etler_icin_sos", "name_tr": "ETLER İÇİN SOS", "name_en": "Sauce for Meats", "tags": ["vegetarian"] },
-  { "page": 134, "slug": "p134_tarama", "name_tr": "TARAMA", "name_en": "Tarama (Fish Roe Spread)", "tags": ["fish"] },
-  { "page": 135, "page_end": 136, "slug": "p135_fava", "name_tr": "FAVA", "name_en": "Fava (Broad Bean Purée)", "tags": ["vegan"] },
-  { "page": 137, "slug": "p137_humus", "name_tr": "HUMUS", "name_en": "Hummus", "tags": ["vegan"] },
-  { "page": 138, "slug": "p138_tarator", "name_tr": "TARATOR", "name_en": "Tarator (Walnut Sauce)", "tags": ["vegan"] },
-  { "page": 139, "slug": "p139_muhammara", "name_tr": "MUHAMMARA", "name_en": "Muhammara", "tags": ["vegan"] }
+  {
+    "page": 56,
+    "slug": "p056_et_suyu",
+    "name_tr": "ET SUYU",
+    "name_en": "Meat Broth",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 57,
+    "page_end": 58,
+    "slug": "p057_ezme_sebze_corbasi",
+    "name_tr": "EZME SEBZE ÇORBASI",
+    "name_en": "Puréed Vegetable Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 59,
+    "slug": "p059_yesil_borc",
+    "name_tr": "YEŞİL BORÇ",
+    "name_en": "Green Borscht",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 60,
+    "slug": "p060_yogurt_corbasi",
+    "name_tr": "YOĞURT ÇORBASI",
+    "name_en": "Yogurt Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 61,
+    "slug": "p061_kirmizi_mercimek_corbasi",
+    "name_tr": "KIRMIZI MERCİMEK ÇORBASI",
+    "name_en": "Red Lentil Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 62,
+    "slug": "p062_domates_corbasi",
+    "name_tr": "DOMATES ÇORBASI",
+    "name_en": "Tomato Soup",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 63,
+    "slug": "p063_domatesli_irmik_corbasi",
+    "name_tr": "DOMATESLİ İRMİK ÇORBASI",
+    "name_en": "Tomato Semolina Soup",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 64,
+    "page_end": 65,
+    "slug": "p064_terbiyeli_iskembe_corbasi",
+    "name_tr": "TERBİYELİ İŞKEMBE ÇORBASI",
+    "name_en": "Tripe Soup with Egg and Lemon",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 66,
+    "slug": "p066_yalanci_iskembe_corbasi",
+    "name_tr": "YALANCI İŞKEMBE ÇORBASI",
+    "name_en": "Mock Tripe Soup",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 67,
+    "slug": "p067_sogan_corbasi",
+    "name_tr": "SOĞAN ÇORBASI",
+    "name_en": "Onion Soup",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 68,
+    "slug": "p068_patates_corbasi",
+    "name_tr": "PATATES ÇORBASI",
+    "name_en": "Potato Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 69,
+    "page_end": 70,
+    "slug": "p069_balik_corbasi",
+    "name_tr": "BALIK ÇORBASI",
+    "name_en": "Fish Soup",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 71,
+    "slug": "p071_kofteli_un_corbasi",
+    "name_tr": "KÖFTELİ UN ÇORBASI",
+    "name_en": "Flour Soup with Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 74,
+    "slug": "p074_tarhana_corbasi",
+    "name_tr": "TARHANA ÇORBASI",
+    "name_en": "Tarhana Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 75,
+    "slug": "p075_mantar_corbasi",
+    "name_tr": "MANTAR ÇORBASI",
+    "name_en": "Mushroom Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 76,
+    "slug": "p076_dugun_corbasi",
+    "name_tr": "DÜĞÜN ÇORBASI",
+    "name_en": "Wedding Soup",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 77,
+    "slug": "p077_kereviz_corbasi",
+    "name_tr": "KEREVİZ ÇORBASI",
+    "name_en": "Celery Soup",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 78,
+    "page_end": 79,
+    "slug": "p078_koyun_budu_rosto",
+    "name_tr": "KOYUN BUDU ROSTO",
+    "name_en": "Roast Leg of Mutton",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 80,
+    "slug": "p080_pirzola_pane",
+    "name_tr": "PİRZOLA PANE",
+    "name_en": "Breaded Lamb Cutlets",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 81,
+    "slug": "p081_kaplamis_pirzola",
+    "name_tr": "KAPLANMIŞ PİRZOLA",
+    "name_en": "Coated Lamb Chops",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 82,
+    "slug": "p082_soslu_pirzola",
+    "name_tr": "SOSLU PİRZOLA",
+    "name_en": "Chops in Sauce",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 83,
+    "slug": "p083_sis_kebabi",
+    "name_tr": "ŞİŞ KEBABI",
+    "name_en": "Shish Kebab",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 84,
+    "slug": "p084_tencere_kebabi",
+    "name_tr": "TENCERE KEBABI",
+    "name_en": "Pot Kebab",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 85,
+    "slug": "p085_bugu_kebabi",
+    "name_tr": "BUĞU KEBABI",
+    "name_en": "Steamed Kebab",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 86,
+    "slug": "p086_sebzeli_koyun_haslamasi",
+    "name_tr": "SEBZELİ KOYUN HAŞLAMASI",
+    "name_en": "Boiled Mutton with Vegetables",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 87,
+    "page_end": 88,
+    "slug": "p087_kuru_kofte",
+    "name_tr": "KURU KÖFTE",
+    "name_en": "Pan-Fried Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 89,
+    "page_end": 90,
+    "slug": "p089_rulo_kofte",
+    "name_tr": "RULO KÖFTE",
+    "name_en": "Meatball Roll",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 91,
+    "slug": "p091_kadin_budu_kofte",
+    "name_tr": "KADIN BUDU KÖFTE",
+    "name_en": "Lady's Thigh Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 92,
+    "page_end": 93,
+    "slug": "p092_icli_kofte",
+    "name_tr": "İÇLİ KÖFTE",
+    "name_en": "Stuffed Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 94,
+    "slug": "p094_cig_kofte",
+    "name_tr": "ÇİĞ KÖFTE",
+    "name_en": "Raw Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 95,
+    "slug": "p095_surpriz_kofte",
+    "name_tr": "SÜRPRİZ KÖFTE",
+    "name_en": "Surprise Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 96,
+    "slug": "p096_izmir_koftesi",
+    "name_tr": "İZMİR KÖFTESİ",
+    "name_en": "Izmir Meatballs",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 97,
+    "slug": "p097_terbiyeli_kofte",
+    "name_tr": "TERBİYELİ KÖFTE",
+    "name_en": "Meatballs with Egg and Lemon Sauce",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 98,
+    "page_end": 99,
+    "slug": "p098_bulgur_koftesi",
+    "name_tr": "BULGUR KÖFTESİ",
+    "name_en": "Bulgur Meatballs",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 100,
+    "page_end": 101,
+    "slug": "p100_hunkar_begendi",
+    "name_tr": "HÜNKÂR BEĞENDİ",
+    "name_en": "Sultan's Delight",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 102,
+    "slug": "p102_salcali_biftek",
+    "name_tr": "SALÇALI BİFTEK",
+    "name_en": "Steak in Tomato Sauce",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 103,
+    "slug": "p103_pratik_doner",
+    "name_tr": "PRATİK DÖNER",
+    "name_en": "Practical Döner",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 104,
+    "slug": "p104_bereket_tiridi",
+    "name_tr": "BEREKET TİRİDİ",
+    "name_en": "Abundance Tirit",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 105,
+    "slug": "p105_suslu_sogus",
+    "name_tr": "SÜSLÜ SÖĞÜŞ",
+    "name_en": "Dressed Cold Cuts",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 106,
+    "slug": "p106_cerkez_tavugu",
+    "name_tr": "ÇERKEZ TAVUĞU",
+    "name_en": "Circassian Chicken",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 107,
+    "slug": "p107_tavuk_yahnisi",
+    "name_tr": "TAVUK YAHNİSİ",
+    "name_en": "Chicken Stew",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 108,
+    "page_end": 109,
+    "slug": "p108_beyin_ogreten",
+    "name_tr": "BEYİN OGRETEN",
+    "name_en": "Brain Gratin",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 110,
+    "slug": "p110_beyin_pane",
+    "name_tr": "BEYİN PANE",
+    "name_en": "Breaded Brain",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 111,
+    "page_end": 112,
+    "slug": "p111_ciger_sarma",
+    "name_tr": "CİĞER SARMA",
+    "name_en": "Liver Wraps",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 113,
+    "slug": "p113_arnavut_cigeri",
+    "name_tr": "ARNAVUT CİĞERİ",
+    "name_en": "Albanian Liver",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 114,
+    "slug": "p114_ciger_sote",
+    "name_tr": "CİĞER SOTE",
+    "name_en": "Liver Sauté",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 115,
+    "page_end": 116,
+    "slug": "p115_sigir_dili_sogusu",
+    "name_tr": "SIĞIR DİLİ SÖĞÜŞÜ",
+    "name_en": "Cold Beef Tongue",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 117,
+    "page_end": 118,
+    "slug": "p117_terbiyeli_paca",
+    "name_tr": "TERBİYELİ PAÇA",
+    "name_en": "Trotters with Egg and Lemon Sauce",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 119,
+    "slug": "p119_kereviz_yapragi_salatasi",
+    "name_tr": "KEREVİZ YAPRAĞI SALATASI",
+    "name_en": "Celery Leaf Salad",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 120,
+    "slug": "p120_karnabahar_salatasi",
+    "name_tr": "KARNABAHAR SALATASI",
+    "name_en": "Cauliflower Salad",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 121,
+    "slug": "p121_patates_salatasi",
+    "name_tr": "PATATES SALATASI",
+    "name_en": "Potato Salad",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 122,
+    "page_end": 123,
+    "slug": "p122_yogurtlu_patlican_salatasi",
+    "name_tr": "YOĞURTLU PATLICAN SALATASI",
+    "name_en": "Eggplant Salad with Yogurt",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 124,
+    "slug": "p124_patlican_salatasi",
+    "name_tr": "PATLICAN SALATASI",
+    "name_en": "Eggplant Salad",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 125,
+    "slug": "p125_salatalik_dolmasi",
+    "name_tr": "SALATALIK DOLMASI",
+    "name_en": "Stuffed Cucumber",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 126,
+    "slug": "p126_kisir",
+    "name_tr": "KISIR",
+    "name_en": "Kısır (Bulgur Salad)",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 127,
+    "slug": "p127_mercimek_koftesi",
+    "name_tr": "MERCİMEK KÖFTESİ",
+    "name_en": "Red Lentil Patties",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 128,
+    "slug": "p128_taze_fasulye_sotesi",
+    "name_tr": "TAZE FASULYE SOTESİ",
+    "name_en": "Sautéed Green Beans",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 129,
+    "slug": "p129_mantar_sote",
+    "name_tr": "MANTAR SOTE",
+    "name_en": "Sautéed Mushrooms",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 130,
+    "slug": "p130_etler_icin_sos",
+    "name_tr": "ETLER İÇİN SOS",
+    "name_en": "Sauce for Meats",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 134,
+    "slug": "p134_tarama",
+    "name_tr": "TARAMA",
+    "name_en": "Tarama (Fish Roe Spread)",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 135,
+    "page_end": 136,
+    "slug": "p135_fava",
+    "name_tr": "FAVA",
+    "name_en": "Fava (Broad Bean Purée)",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 137,
+    "slug": "p137_humus",
+    "name_tr": "HUMUS",
+    "name_en": "Hummus",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 138,
+    "slug": "p138_tarator",
+    "name_tr": "TARATOR",
+    "name_en": "Tarator (Walnut Sauce)",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 139,
+    "slug": "p139_muhammara",
+    "name_tr": "MUHAMMARA",
+    "name_en": "Muhammara",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 140,
+    "slug": "p140_mayonez",
+    "name_tr": "MAYONEZ",
+    "name_en": "Mayonnaise",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 141,
+    "slug": "p141_rus_salatasi",
+    "name_tr": "RUS SALATASI",
+    "name_en": "Russian Salad",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 142,
+    "page_end": 143,
+    "slug": "p142_mayonezli_balik",
+    "name_tr": "MAYONEZLİ BALIK",
+    "name_en": "Fish with Mayonnaise",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 144,
+    "slug": "p144_firinda_balik",
+    "name_tr": "FIRINDA BALIK",
+    "name_en": "Baked Fish",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 145,
+    "slug": "p145_mantar_soslu_balik_izgara",
+    "name_tr": "MANTAR SOSLU BALIK IZGARA",
+    "name_en": "Grilled Fish with Mushroom Sauce",
+    "tags": [
+      "fish"
+    ],
+    "page_end": 146
+  },
+  {
+    "page": 147,
+    "slug": "p147_balik_bugulamasi",
+    "name_tr": "BALIK BUĞULAMASI",
+    "name_en": "Steamed Fish",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 148,
+    "slug": "p148_kagitta_balik",
+    "name_tr": "KÂĞITTA BALIK",
+    "name_en": "Fish in Paper",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 149,
+    "slug": "p149_lakerda",
+    "name_tr": "LAKERDA",
+    "name_en": "Lakerda (Salt-Cured Bonito)",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 150,
+    "slug": "p150_karides_guvec",
+    "name_tr": "KARİDES GÜVEÇ",
+    "name_en": "Shrimp Casserole",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 151,
+    "slug": "p151_karides_tava",
+    "name_tr": "KARİDES TAVA",
+    "name_en": "Fried Shrimp",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 152,
+    "slug": "p152_karides_salatasi",
+    "name_tr": "KARİDES SALATASI",
+    "name_en": "Shrimp Salad",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 153,
+    "slug": "p153_midye_salatasi",
+    "name_tr": "MİDYE SALATASI",
+    "name_en": "Mussel Salad",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 154,
+    "slug": "p154_midye_pilakisi",
+    "name_tr": "MİDYE PİLAKİSİ",
+    "name_en": "Mussel Pilaki",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 155,
+    "slug": "p155_midye_tava",
+    "name_tr": "MİDYE TAVA",
+    "name_en": "Fried Mussels",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 156,
+    "page_end": 157,
+    "slug": "p156_midye_dolmasi",
+    "name_tr": "MİDYE DOLMASI",
+    "name_en": "Stuffed Mussels",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "page": 158,
+    "slug": "p158_zeytinyagli_biber_dolmasi",
+    "name_tr": "ZEYTİNYAĞLI BİBER DOLMASI",
+    "name_en": "Olive Oil Stuffed Peppers",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 161,
+    "page_end": 162,
+    "slug": "p161_etli_kabak_dolmasi",
+    "name_tr": "ETLİ KABAK DOLMASI",
+    "name_en": "Meat-Stuffed Zucchini",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 163,
+    "slug": "p163_etli_yaprak_sarmasi",
+    "name_tr": "ETLİ YAPRAK SARMASI",
+    "name_en": "Meat-Stuffed Vine Leaves",
+    "tags": [
+      "meat"
+    ],
+    "page_end": 164
+  },
+  {
+    "page": 165,
+    "slug": "p165_kofteli_biber_kozlemesi",
+    "name_tr": "KÖFTELİ BİBER KÖZLEMESİ",
+    "name_en": "Roasted Stuffed Peppers",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 166,
+    "slug": "p166_reyhanli_kabak",
+    "name_tr": "REYHANLI KABAK",
+    "name_en": "Zucchini with Basil",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 167,
+    "slug": "p167_karniyarik",
+    "name_tr": "KARNIYARIK",
+    "name_en": "Karnıyarık (Stuffed Eggplant)",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 168,
+    "slug": "p168_etli_taze_fasulye",
+    "name_tr": "ETLİ TAZE FASULYE",
+    "name_en": "Green Beans with Meat",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 169,
+    "slug": "p169_etli_taze_bamya",
+    "name_tr": "ETLİ TAZE BAMYA",
+    "name_en": "Okra with Meat",
+    "tags": [
+      "meat"
+    ],
+    "page_end": 170
+  },
+  {
+    "page": 171,
+    "slug": "p171_etli_kereviz",
+    "name_tr": "ETLİ KEREVİZ",
+    "name_en": "Celery Root with Meat",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 172,
+    "slug": "p172_yaz_turlusu",
+    "name_tr": "YAZ TÜRLÜSÜ",
+    "name_en": "Summer Türlü (Mixed Vegetables with Meat)",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 173,
+    "slug": "p173_kiymali_semizotu",
+    "name_tr": "KIYMALI SEMİZOTU",
+    "name_en": "Purslane with Ground Meat",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 175,
+    "slug": "p175_zeytinyagli_kuru_fasulye",
+    "name_tr": "ZEYTİNYAĞLI KURU FASULYE",
+    "name_en": "Olive Oil Dried Beans",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 176,
+    "slug": "p176_zeytinyagli_taze_fasulye",
+    "name_tr": "ZEYTİNYAĞLI TAZE FASULYE",
+    "name_en": "Olive Oil Green Beans",
+    "tags": [
+      "vegan"
+    ],
+    "page_end": 177
+  },
+  {
+    "page": 178,
+    "slug": "p178_zeytinyagli_bakla",
+    "name_tr": "ZEYTİNYAĞLI BAKLA",
+    "name_en": "Olive Oil Broad Beans",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 179,
+    "slug": "p179_zeytinyagli_enginar",
+    "name_tr": "ZEYTİNYAĞLI ENGİNAR",
+    "name_en": "Olive Oil Artichokes",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 181,
+    "slug": "p181_zeytinyagli_kereviz",
+    "name_tr": "ZEYTİNYAĞLI KEREVİZ",
+    "name_en": "Olive Oil Celery Root",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 183,
+    "slug": "p183_imambayildi",
+    "name_tr": "İMAMBAYILDI",
+    "name_en": "İmam Bayıldı",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 184,
+    "slug": "p184_karnabahar_ogreten",
+    "name_tr": "KARNABAHAR OGRETEN",
+    "name_en": "Cauliflower au Gratin",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 185,
+    "slug": "p185_ispanak_suflesi",
+    "name_tr": "ISPANAK SÜFLESİ",
+    "name_en": "Spinach Soufflé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 186,
+    "slug": "p186_ispanak_puresi",
+    "name_tr": "ISPANAK PÜRESİ",
+    "name_en": "Spinach Purée",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 187,
+    "page_end": 188,
+    "slug": "p187_patates_koftesi",
+    "name_tr": "PATATES KÖFTESİ",
+    "name_en": "Potato Croquettes",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 189,
+    "slug": "p189_patates_puresi",
+    "name_tr": "PATATES PÜRESİ",
+    "name_en": "Mashed Potatoes",
+    "tags": [
+      "vegetarian"
+    ]
+  }
 ]

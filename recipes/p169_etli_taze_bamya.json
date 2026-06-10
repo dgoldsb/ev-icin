@@ -1,0 +1,53 @@
+{
+  "page": 169,
+  "page_end": 170,
+  "slug": "p169_etli_taze_bamya",
+  "name_tr": "ETLİ TAZE BAMYA",
+  "name_en": "Okra with Meat",
+  "ingredients_tr": [
+    "500 gr. taze bamya",
+    "250 gr. kuşbaşı et",
+    "3 kibrit kutusu büyüklüğünde yağ",
+    "1 kahve fincanı limon suyu",
+    "2 orta boy soğan",
+    "4 orta boy domates",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Et, ince doğranmış soğan, yağ bir tencerede ateşe konur. Birkaç kere karıştırılıp kapak örtülür. Ateşi kısılarak et bıraktığı suyu çekinceye kadar pişirilir.",
+    "Kabukları soyularak küçük doğranmış domates katılır. Karıştırarak bir-iki dakika pişirilir. İki bardak su konur.",
+    "Kaynayınca ateşi kısılır. Et yumuşayıncaya kadar pişirilir. Limon suyu, tuz konur.",
+    "Bamya yıkanır, süzülür, başları koni şeklinde kesilir. Bekletilmeden kaynamakta olan ete ilave edilir. Kaynayınca ateşi kısılır. Hafif ateşte bamya yumuşayıncaya kadar pişirilir."
+  ],
+  "notes_tr": [
+    "Not: Salyalı olmaması için bamya pişerken kaşık sokulmamalı.",
+    "GENEL BİLGİ: Sebze ve meyvalar uzun süre açıkta hava temasında veya su içinde bırakılmamalı. Dalından koparılmış sebze ve meyvalar kuru ortamda suyunu kaybederek solar. Fazla sulu ortamda ise kontrolsüz su çeker. Bitki hücreleri çatlayıp hücredeki su dışarı çıkar. Böylece yiyeceğin bozulmasına, besin kaybına neden olur."
+  ],
+  "notes_en": [
+    "Note: To keep okra from getting slimy, don't put a spoon in while it cooks.",
+    "GENERAL NOTE: Vegetables and fruit should not be left exposed to air or sitting in water for long. Picked vegetables and fruit lose moisture and wilt in a dry environment, while in an overly wet one they take up water uncontrollably. The plant cells burst and the water in them escapes. This spoils the food and causes nutrient loss."
+  ],
+  "ingredients_en": [
+    "500 gr. fresh okra",
+    "250 gr. cubed meat",
+    "3 matchbox-sized pieces of fat",
+    "1 coffee cup lemon juice",
+    "2 medium onions",
+    "4 medium tomatoes",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Put the meat, finely chopped onion, and fat in a pot over the heat. Stir a few times and cover. Lower the heat and cook until the meat reabsorbs its released liquid.",
+    "Add the peeled, finely chopped tomato. Cook one or two minutes, stirring. Add two glasses of water.",
+    "Once boiling, lower the heat. Cook until the meat softens. Add the lemon juice and salt.",
+    "Wash and drain the okra and cut the tops into a cone shape. Add to the simmering meat without delay. Once boiling, lower the heat. Cook over low heat until the okra softens."
+  ],
+  "variations": [
+    {
+      "name_tr": "ETLİ KURU BAMYA",
+      "name_en": "Dried Okra with Meat",
+      "description_tr": "Kurutulmuş bamya, ipinden sıyrılarak çıkarılır. Kuru bez arasında oğuşturarak varsa sert tüyleri giderilir. Yıkanıp haşlanır. Domates yoksa bir çorba kaşığı salça ile taze bamya gibi pişirilir.",
+      "description_en": "Slide the dried okra off its string. Rub between a dry cloth to remove any tough fuzz. Wash and parboil. If there are no tomatoes, cook like fresh okra with a tablespoon of tomato paste."
+    }
+  ]
+}

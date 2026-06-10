@@ -1,0 +1,57 @@
+{
+  "page": 176,
+  "page_end": 177,
+  "slug": "p176_zeytinyagli_taze_fasulye",
+  "name_tr": "ZEYTİNYAĞLI TAZE FASULYE",
+  "name_en": "Olive Oil Green Beans",
+  "ingredients_tr": [
+    "1 kg. taze fasulye",
+    "Yarım su bardağı zeytinyağı",
+    "3 orta boy soğan",
+    "4 orta boy domates",
+    "1 çay kaşığı şeker",
+    "3 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Fasulye yıkanır, ayıklanır, bir tencereye konur.",
+    "İnce doğranmış soğan, kabukları soyularak küçük doğranmış domates, fasulyenin üzerine yayılır. Şeker konur. Yağ sebzelerin üzerine gezdirilir. Tencerenin kapağı kapatılır.",
+    "Ocağın ateşi önce kandil kadar hafif yakılır. Sebzeler suyunu bırakınca, ateşi biraz artırılarak yine hafif ateşte kendi suyu ile yumuşayıncaya kadar pişirilir.",
+    "İnmeden on dakika önce tuzu atılır. Suyu yemeğin üçte birinden az kalmış olmalı."
+  ],
+  "notes_tr": "Diğer zeytinyağlı taze sebze yemekleri, bazı küçük değişikliklerle, yukarıdaki işlemlere uyularak hazırlanır.",
+  "ingredients_en": [
+    "1 kg. green beans",
+    "Half cup olive oil",
+    "3 medium onions",
+    "4 medium tomatoes",
+    "1 teaspoon sugar",
+    "3 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Wash and trim the beans and put them in a pot.",
+    "Spread the finely chopped onion and the peeled, finely chopped tomato over the beans. Add the sugar. Drizzle the oil over the vegetables. Cover the pot.",
+    "Light the stove very low at first. Once the vegetables release their liquid, raise the heat a little and cook over low heat in their own juices until they soften.",
+    "Add the salt ten minutes before removing from heat. The liquid should be less than one-third of the dish."
+  ],
+  "notes_en": "Other olive oil fresh-vegetable dishes are prepared, with some small changes, following the steps above.",
+  "variations": [
+    {
+      "name_tr": "ZEYTİNYAĞLI PIRASA",
+      "name_en": "Olive Oil Leeks",
+      "description_tr": "Soğan, domates konmayıp küçük doğranmış bir havuç ilave edilir. Ocaktan inmesine on beş dakika kala, ayıklanmış yıkanmış bir çorba kaşığı pirinç konur. Pirinç su çekeceğinden gerekiyorsa kaynar su ilave edilir. Yerken üzerine limon sıkılır.",
+      "description_en": "Onion and tomato are left out and one finely chopped carrot is added. Fifteen minutes before removing from heat, add one tablespoon of cleaned, washed rice. Since the rice absorbs water, add boiling water if needed. Squeeze lemon over it when eating."
+    },
+    {
+      "name_tr": "ZEYTİNYAĞLI KABAK",
+      "name_en": "Olive Oil Zucchini",
+      "description_tr": "Zeytinyağlı kabağa bir soğan, iki domates kullanılır. Ayrıca iki diş sarmısak konur. Üzerine kıyılmış dereotu serpilir.",
+      "description_en": "For olive oil zucchini, one onion and two tomatoes are used. Two cloves of garlic are also added. Chopped dill is sprinkled over the top."
+    },
+    {
+      "name_tr": "ZEYTİNYAĞLI YER ELMASI",
+      "name_en": "Olive Oil Jerusalem Artichokes",
+      "description_tr": "Domatessiz, bir soğanla, sıcak su katılarak pişirilir. Küçük doğranmış yarım havuç konur. Ocaktan inmesine on beş dakika kala, ayıklanıp yıkanmış bir çorba kaşığı pirinç ilave edilir. İneceğine yakın yarım limon suyu gezdirilir.",
+      "description_en": "Cooked without tomato, with one onion, adding hot water. Half a finely chopped carrot is added. Fifteen minutes before removing from heat, one tablespoon of cleaned, washed rice is added. Drizzle the juice of half a lemon over it near the end."
+    }
+  ]
+}

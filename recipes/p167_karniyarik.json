@@ -1,0 +1,52 @@
+{
+  "page": 167,
+  "slug": "p167_karniyarik",
+  "name_tr": "KARNIYARIK",
+  "name_en": "Karnıyarık (Stuffed Eggplant)",
+  "ingredients_tr": [
+    "6-8 adet küçük düzgün patlıcan",
+    "250 gr. az yağlı kıyma",
+    "3 orta boy domates",
+    "2 orta boy soğan",
+    "3 adet sivri biber",
+    "8-10 dal maydanoz",
+    "1 çay kaşığı karabiber",
+    "1,5 su bardağı zeytinyağı",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Patlıcanların başı kesilir. Yıkanıp aralıklı soyulur. On beş dakika tuzlu suda bırakılır.",
+    "İnce doğranmış soğan, sivri biber, kıyma az ateşte, et bıraktığı suyu çekinceye kadar kavrulur.",
+    "Soyularak küçük doğranmış iki domates konur. Bir süre daha karıştırarak pişirilir. Kıyılmış maydanoz, karabiber, bir buçuk çay kaşığı tuz katılır. Ateşten alınır.",
+    "Tuzlu sudan alınan patlıcanlar çalkalanır. İki el arasında hafif sıkılıp kurulanır. Kızgın zeytinyağında açık renkte kızartılır.",
+    "Küçük bir tepsiye sıralanır. Orta kısımları boyuna bıçakla altı kesilmeyecek şekilde yarılır. İçine birer fiske şeker serpilir iç doldurulur. Üzerlerine yarım domates dilimleri yerleştirilir.",
+    "Bir su bardağı sıcak su, yarım çay kaşığı tuz konur hafif ateşte pişirilir."
+  ],
+  "ingredients_en": [
+    "6-8 small straight eggplants",
+    "250 gr. lean ground meat",
+    "3 medium tomatoes",
+    "2 medium onions",
+    "3 long green peppers",
+    "8-10 sprigs parsley",
+    "1 teaspoon black pepper",
+    "1,5 cups olive oil",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Cut off the tops of the eggplants. Wash and peel in stripes. Leave in salted water for fifteen minutes.",
+    "Sauté the finely chopped onion, long green peppers, and ground meat over low heat until the meat reabsorbs its released liquid.",
+    "Add two peeled, finely chopped tomatoes. Cook a while longer, stirring. Add chopped parsley, black pepper, and one and a half teaspoons of salt. Remove from heat.",
+    "Rinse the eggplants taken from the salted water. Squeeze gently between both hands and dry. Fry in hot olive oil until lightly colored.",
+    "Arrange in a small tray. Slit the middle lengthwise with a knife, without cutting through the bottom. Sprinkle a pinch of sugar inside each and fill with the stuffing. Place a half tomato slice on top of each.",
+    "Add one cup of hot water and half a teaspoon of salt, and cook over low heat."
+  ],
+  "variations": [
+    {
+      "name_tr": "PATLICAN MUSAKKA",
+      "name_en": "Eggplant Moussaka",
+      "description_tr": "Patlıcanlar alaca soyulur. Bir parmak kalınlığında dilimlenir. Yağda kızartılıp geniş bir kaba sıralanır. Üzerine karnıyarık için hazırlanan iç konarak pişirilir.",
+      "description_en": "Peel the eggplants in stripes. Slice a finger thick. Fry in oil and arrange in a wide dish. Put the stuffing prepared for karnıyarık on top and cook."
+    }
+  ]
+}

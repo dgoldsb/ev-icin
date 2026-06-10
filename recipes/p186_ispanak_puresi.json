@@ -1,0 +1,47 @@
+{
+  "page": 186,
+  "slug": "p186_ispanak_puresi",
+  "name_tr": "ISPANAK PÜRESİ",
+  "name_en": "Spinach Purée",
+  "ingredients_tr": [
+    "1 kg. ıspanak",
+    "1,5 kibrit kutusu büyüklüğünde tereyağı veya margarin",
+    "Yarım çorba kaşığı un",
+    "1 su bardağı süt",
+    "1 çay kaşığı karabiber",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Ispanak ayıklanır, yıkanır. Hafif ateşte kendi suyu ile haşlanır. İki avuç arasında sıkılarak fazla suyu akıtılır. İnce kıyılır.",
+    "Unla yağ hafif ateşte sararmadan, beyaz renk alıncaya kadar kavrulur.",
+    "Önce ıspanak, hemen arkasından süt konur. Karıştırarak bir iki dakika pişirilir. Karabiber, tuz ilave edilip ateşten alınır."
+  ],
+  "notes_tr": "GENEL BİLGİ: Yeşil yapraklı sebze satın alırken, yaprakları canlı ve gerginliğini kaybetmemiş, koyu yeşil renkli, yaprağı bol olanı seçilmeli.",
+  "ingredients_en": [
+    "1 kg. spinach",
+    "1,5 matchbox-sized pieces of butter or margarine",
+    "Half tablespoon flour",
+    "1 cup milk",
+    "1 teaspoon black pepper",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Trim and wash the spinach. Cook over low heat in its own juices. Squeeze out excess liquid between both hands. Chop finely.",
+    "Sauté the flour and fat over low heat without browning, until it turns white.",
+    "Add the spinach first, then the milk right after. Cook one or two minutes, stirring. Add black pepper and salt and remove from heat."
+  ],
+  "variations": [
+    {
+      "name_tr": "BEZELYE PÜRESİ",
+      "name_en": "Pea Purée",
+      "description_tr": "Konserve veya haşlanmış iç bezelye, püresten geçirildikten sonra aynı işlemler uygulanıp püresi yapılır.",
+      "description_en": "Canned or boiled peas are pressed through a sieve, then the same steps are applied to make the purée."
+    },
+    {
+      "name_tr": "YOĞURTLU ISPANAK PÜRESİ",
+      "name_en": "Spinach Purée with Yogurt",
+      "description_tr": "Dört beş diş dövülmüş sarmısak, bir su bardağı suyu alınmış koyu yoğurda katılır. Hazırlanan ıspanak püresine, bir çay kaşığı kırmızı biberle birlikte karıştırılır. Soğuk büfe için bir çeşit olur.",
+      "description_en": "Four or five crushed cloves of garlic are added to thick yogurt drained of one cup of whey. This is mixed into the prepared spinach purée along with one teaspoon of red pepper. It makes a cold-buffet item."
+    }
+  ]
+}

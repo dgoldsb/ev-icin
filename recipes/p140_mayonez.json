@@ -1,0 +1,52 @@
+{
+  "page": 140,
+  "slug": "p140_mayonez",
+  "name_tr": "MAYONEZ",
+  "name_en": "Mayonnaise",
+  "ingredients_tr": [
+    "1 su bardağı zeytinyağı",
+    "1 yumurta sarısı",
+    "1 çorba kaşığı sirke",
+    "2 çorba kaşığı limon suyu",
+    "1 çay kaşığı toz hardal",
+    "Yarım çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Çukur bir kâsede, yumurta sarısı birkaç saniye çarpılır.",
+    "Zeytinyağı damla damla akıtılırken telle aynı yönde hızlı ve sürekli çevrilerek karıştırılır.",
+    "Mayonez koyulaşıp tuttuğu görülünce, aynı şekilde çevirmeğe devam ederek zeytinyağı sicim gibi akıtılır.",
+    "Çok koyulaştıkça limon suyu ve sirke azar azar ilave edilip karıştırılır.",
+    "Zeytinyağı bitince tuz ve hardal konup kısa süre karıştırarak yedirilir."
+  ],
+  "notes_tr": "Not: Mikserin bir teli çıkarılır. Tek telle, aynı işlemlere uyularak, mikserle mayonez daha kolay hazırlanır. Mayonez ayçiçeği, susam, soya gibi diğer bitkisel sıvı yağlarla da yapılabilir.",
+  "ingredients_en": [
+    "1 cup olive oil",
+    "1 egg yolk",
+    "1 tablespoon vinegar",
+    "2 tablespoons lemon juice",
+    "1 teaspoon powdered mustard",
+    "Half teaspoon salt"
+  ],
+  "instructions_en": [
+    "In a deep bowl, whisk the egg yolk for a few seconds.",
+    "Drizzle in the olive oil drop by drop while whisking quickly and continuously in the same direction.",
+    "Once the mayonnaise thickens and holds, keep whisking the same way and pour the olive oil in a thin stream.",
+    "As it thickens further, add the lemon juice and vinegar little by little and mix.",
+    "When the oil is used up, add the salt and mustard and mix briefly to incorporate."
+  ],
+  "notes_en": "Note: Remove one beater from the mixer. With a single beater, following the same steps, mayonnaise is easier to make with a mixer. Mayonnaise can also be made with other liquid vegetable oils such as sunflower, sesame, or soybean.",
+  "variations": [
+    {
+      "name_tr": "BOZULAN MAYONEZİN DÜZELTİLMESİ: YÖNTEM 1",
+      "name_en": "Fixing Broken Mayonnaise: Method 1",
+      "description_tr": "Bir yumurta sarısı temiz bir kâseye konur. Yağ damla damla akıtılarak karıştırılıp tutturulur. Koyulaşan mayonez bir kahve fincanını aşınca, bozulan mayonezden yarımşar kaşık konup karıştırmağa aralıksız devam edilerek yedirilir.",
+      "description_en": "Put one egg yolk in a clean bowl. Drizzle in oil drop by drop, stirring until it holds. Once the thickened mayonnaise exceeds one coffee cup, add the broken mayonnaise half a spoon at a time, stirring without pause to incorporate."
+    },
+    {
+      "name_tr": "BOZULAN MAYONEZİN DÜZELTİLMESİ: YÖNTEM 2",
+      "name_en": "Fixing Broken Mayonnaise: Method 2",
+      "description_tr": "Yarım çorba kaşığı nişasta, yarım çay bardağı soğuk suda eritilip pişirilir. Bir kâseye konur. Soğuyunca zeytinyağı önce damla damla, sonra sicim gibi üzerine akıtılarak sürekli karıştırılır. Mayonez tutunca, bozulan mayonezden yarımşar kaşık konup karıştırarak yedirilir.",
+      "description_en": "Dissolve half a tablespoon of starch in half a tea glass of cold water and cook it. Put it in a bowl. Once cooled, pour olive oil over it — first drop by drop, then in a thin stream — stirring constantly. Once the mayonnaise holds, add the broken mayonnaise half a spoon at a time, stirring to incorporate."
+    }
+  ]
+}

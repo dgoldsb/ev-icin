@@ -1,0 +1,63 @@
+{
+  "page": 161,
+  "page_end": 162,
+  "slug": "p161_etli_kabak_dolmasi",
+  "name_tr": "ETLİ KABAK DOLMASI",
+  "name_en": "Meat-Stuffed Zucchini",
+  "ingredients_tr": [
+    "1 kg. orta kalınlıkta kabak",
+    "250 gr. az yağlı kıyma",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "1 tatlı kaşığı kuru nane",
+    "1 kahve fincanı pirinç",
+    "2 orta boy domates",
+    "1 orta boy soğan",
+    "6-7 dal maydanoz",
+    "6-7 dal dereotu",
+    "1 çay kaşığı karabiber",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Kabaklar yıkanıp kazınır. Başları kesilir. İki veya üçe bölünür. İçleri oyulup tuzlanır.",
+    "İnce doğranmış soğan, maydanoz, dereotu, ufalanmış kuru nane, rendelenmiş bir domates, ayıklanıp yıkanmış pirinç, yağın yarısı, karabiber, bir buçuk çay kaşığı tuz kıymaya katılarak yoğrulur.",
+    "Hazırlanan iç kabaklara doldurulur. Tencereye sıralanır. Üzerine rendelenmiş bir domates, kalan margarin, yarım çay kaşığı tuz, bir su bardağı su konur.",
+    "Suyu azaldıkça sıcak su ilave edilerek kabaklar yumuşayıncaya kadar hafif ateşte pişirilir.",
+    "İstenirse sarmısaklı yoğurtla servis yapılır."
+  ],
+  "notes_tr": [
+    "Not: Kabakların içinden, omlet veya mücver gibi yemekler yapılabilir.",
+    "GENEL BİLGİ: Kabak satın alırken körpe, gevşememiş, sararmamış olanı seçilmeli. Pırasa alırken orta kalınlıkta, düzgün, yeşil kısmı az olanı seçilmeli."
+  ],
+  "ingredients_en": [
+    "1 kg. medium-thick zucchini",
+    "250 gr. lean ground meat",
+    "2 matchbox-sized pieces of margarine",
+    "1 dessertspoon dried mint",
+    "1 coffee cup rice",
+    "2 medium tomatoes",
+    "1 medium onion",
+    "6-7 sprigs parsley",
+    "6-7 sprigs dill",
+    "1 teaspoon black pepper",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Wash and scrape the zucchini. Cut off the ends. Cut into two or three pieces. Hollow out the centers and salt them.",
+    "Knead the finely chopped onion, parsley, dill, crumbled dried mint, one grated tomato, the cleaned and washed rice, half the fat, black pepper, and one and a half teaspoons of salt into the ground meat.",
+    "Fill the zucchini with the prepared stuffing. Arrange in a pot. Add one grated tomato, the remaining margarine, half a teaspoon of salt, and one cup of water on top.",
+    "As the liquid reduces, add hot water and cook over low heat until the zucchini soften.",
+    "If desired, serve with garlic yogurt."
+  ],
+  "notes_en": [
+    "Note: Dishes such as omelets or mücver (fritters) can be made from the scooped-out zucchini centers.",
+    "GENERAL NOTE: When buying zucchini, choose ones that are tender, firm, and not yellowed. When buying leeks, choose ones of medium thickness, straight, with little green part."
+  ],
+  "variations": [
+    {
+      "name_tr": "ETLİ PIRASA DOLMASI",
+      "name_en": "Meat-Stuffed Leeks",
+      "description_tr": "Kalın pırasalar 5-6 cm. boyunda kesilir. Kat kat çıkarılır. Hazırlanan kabak dolması içi doldurulur. Pişince çarpılmış iki yumurta sarısı, bir limon suyu, yarım bardak su ile yapılan terbiye konur. Tencere sallanarak karıştırılır. Kaynamadan ateşten alınır.",
+      "description_en": "Cut thick leeks into 5-6 cm lengths. Separate them layer by layer. Fill with the prepared zucchini-dolma stuffing. Once cooked, add a sauce made from two beaten egg yolks, the juice of one lemon, and half a glass of water. Mix by swirling the pot. Remove from heat before it boils."
+    }
+  ]
+}

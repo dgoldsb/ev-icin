@@ -1,0 +1,61 @@
+{
+  "page": 142,
+  "page_end": 143,
+  "slug": "p142_mayonezli_balik",
+  "name_tr": "MAYONEZLİ BALIK",
+  "name_en": "Fish with Mayonnaise",
+  "ingredients_tr": [
+    "1 kg. kefal, levrek veya büyük balıklardan biri",
+    "1 çay kaşığı tane karabiber",
+    "Yarım çay kaşığı toz karabiber",
+    "1 adet kuru soğan",
+    "1-2 dal kereviz",
+    "1 küçük havuç",
+    "2 defne yaprağı",
+    "1 çorba kaşığı limon suyu",
+    "Yarım tertip rus salatası",
+    "4 çorba kaşığı mayonez",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Balık temizlenir, yıkanır. Bir tencereye sığabilecek büyüklükte parçalara kesilir.",
+    "Tane karabiber, limon suyu, defne yaprağı, iki çay kaşığı tuz, birkaç parçaya bölünmüş havuç, soğan, kereviz hazırlanan balıklarla kaynar suya atılır. Hafif ateşte balık haşlanır. Ateşten alınır.",
+    "Balık soğuyunca, etleri kılçıklarından ayrılıp küçük parçalara bölünür. Tuz, karabiber ekilir.",
+    "Rus salatası ile balık etleri karıştırılır. Servis tabağına balık şeklinde yerleştirilir.",
+    "İnce bir tabaka halinde bütün yüzeyi mayonezle kaplanır. Bıçağın ucuyla pul şekli verilir. İnce kesilmiş salatalık turşusu ile solungaçlar, havuçla ağız, bezelye tanesi ile gözler yapılabilir."
+  ],
+  "ingredients_en": [
+    "1 kg. grey mullet, sea bass, or one of the large fish",
+    "1 teaspoon whole black peppercorns",
+    "Half teaspoon ground black pepper",
+    "1 dry onion",
+    "1-2 stalks celery",
+    "1 small carrot",
+    "2 bay leaves",
+    "1 tablespoon lemon juice",
+    "Half batch Russian salad",
+    "4 tablespoons mayonnaise",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Clean and wash the fish. Cut into pieces that will fit in a pot.",
+    "Add the peppercorns, lemon juice, bay leaves, two teaspoons of salt, the carrot broken into a few pieces, the onion, and the celery to boiling water along with the prepared fish. Poach the fish over low heat. Remove from heat.",
+    "Once the fish has cooled, separate the flesh from the bones and break into small pieces. Season with salt and black pepper.",
+    "Mix the fish flesh with the Russian salad. Arrange on a serving plate in the shape of a fish.",
+    "Cover the entire surface with a thin layer of mayonnaise. Score a scale pattern with the tip of a knife. You can make gills from finely cut pickled cucumber, the mouth from carrot, and the eyes from peas."
+  ],
+  "variations": [
+    {
+      "name_tr": "MAYONEZLİ ET",
+      "name_en": "Meat with Mayonnaise",
+      "description_tr": "Balık eti yerine, haşlanıp küçük parçalara didiklenmiş tavuk eti ile yapılır.",
+      "description_en": "Made the same way using boiled chicken shredded into small pieces instead of fish."
+    },
+    {
+      "name_tr": "BALIK SALATASI",
+      "name_en": "Fish Salad",
+      "description_tr": "İnce kıyılmış üç dal kıvırcık salata tabağa yayılır. İki çorba kaşığı zeytinyağı, iki çorba kaşığı limon suyu, yarım çay kaşığı tuzla hazırlanan sos üzerine gezdirilir. Mayonezli balıktan artan haşlanmış balık eti didiklenerek salatanın üzerine konur. İnce kıyılmış üç dal kıvırcık, bir sivri biber, iki kaşık mayonezle karıştırılıp, balık etlerinin üzerine yayılır. İnce domates dilimleri ile süslenir.",
+      "description_en": "Spread three finely chopped sprigs of curly lettuce on a plate. Drizzle over a dressing made from two tablespoons olive oil, two tablespoons lemon juice, and half a teaspoon salt. Shred the leftover poached fish from the mayonnaise fish and place it on the salad. Mix three finely chopped sprigs of curly lettuce, one long green pepper, and two spoonfuls of mayonnaise, and spread over the fish. Garnish with thin tomato slices."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "page": 155,
+  "slug": "p155_midye_tava",
+  "name_tr": "MİDYE TAVA",
+  "name_en": "Fried Mussels",
+  "ingredients_tr": [
+    "40-50 adet iç midye",
+    "1,5 su bardağı kızartmalık sıvı yağ",
+    "1,5 su bardağı un",
+    "1 su bardağı bira",
+    "Yarım çay kaşığı karbonat",
+    "Yarım çay kaşığı karabiber",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Midyeler parçalanmadan kıl ve incileri temizlenip iyice yıkanır. Bir süzgeçe alınır. Süzüldükten sonra temiz bir bez üzerine sıralanarak fazla suları giderilir.",
+    "Bir su bardağı una, bira, tuz, karbonat karıştırılır. Undaki toplaşmalar giderilinceye kadar çarpılır.",
+    "Kalan una, karabiber katılır. Midyeler teker teker önce una sonra bira, un karışımına batırılıp kızgın yağda kızartılır.",
+    "Süzülerek yağdan çıkarılır. Kâğıt üzerine alınır. Sonra servis tabağına sıralanır. Maydanoz yaprakları ile süslenir."
+  ],
+  "notes_tr": [
+    "Not: Bir su bardağı un yerine, yarı yarıya mısır nişastası, un karışımı olursa midyeler daha kıtır olur.",
+    "GENEL BİLGİ: Konserve alırken kutusunun ezik olmamasına dikkat etmeli. Zedelenmiş veya katlanmış olan kutunun iç yüzeyindeki koruyucu madde bozulur. İçindeki yiyecek sağlığa zarar verecek şekilde etkilenir."
+  ],
+  "ingredients_en": [
+    "40-50 shelled mussels",
+    "1,5 cups frying oil",
+    "1,5 cups flour",
+    "1 cup beer",
+    "Half teaspoon baking soda",
+    "Half teaspoon black pepper",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Clean the hairs and pearls from the mussels without breaking them up, and wash thoroughly. Put in a colander. After draining, arrange on a clean cloth to remove excess moisture.",
+    "Mix one cup of flour with the beer, salt, and baking soda. Whisk until the lumps in the flour are gone.",
+    "Add the black pepper to the remaining flour. Dip the mussels one by one first in flour, then in the beer-flour batter, and fry in hot oil.",
+    "Lift out of the oil, draining. Place on paper. Then arrange on a serving plate. Garnish with parsley leaves."
+  ],
+  "notes_en": [
+    "Note: If you use a half-and-half mix of cornstarch and flour instead of one cup of flour, the mussels come out crisper.",
+    "GENERAL NOTE: When buying canned goods, take care that the can isn't dented. The protective layer inside a damaged or creased can spoils, and the food inside is affected in a way harmful to health."
+  ],
+  "variations": [
+    {
+      "name_tr": "MİDYE TAVASI İÇİN TARATOR",
+      "name_en": "Tarator for Fried Mussels",
+      "description_tr": "Bir kâsede, yarım su bardağı dövülmüş ceviz içi, iki dilim ufalanmış bayat ekmek içi, bir çay kaşığı kırmızı biber, yarım çay kaşığı tuz, bir su bardağı suyu az yoğurt karıştırılır. Midye tavasının yanında servis yapılır.",
+      "description_en": "In a bowl, mix half a cup of ground walnuts, two slices of crumbled stale bread, one teaspoon of red pepper, half a teaspoon of salt, and one cup of low-whey yogurt. Serve alongside the fried mussels."
+    }
+  ]
+}
