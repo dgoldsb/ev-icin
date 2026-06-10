@@ -23,6 +23,20 @@ No build step required — the site is plain HTML, CSS, and JS.
 
 The site is live at [https://dgoldsb.github.io/ev-icin/](https://dgoldsb.github.io/ev-icin/).
 
+## Adding pages from the book
+
+1. Photograph the page(s) and drop the files into `images/` (HEIC is fine,
+   AirDrop straight from the phone).
+2. In Claude Code, run `/digitize` — it picks up every photo not yet listed
+   in `images/manifest.json`, transcribes it from native-resolution crops,
+   cross-checks every quantity against an independent Apple Vision OCR pass
+   (`tools/ocr.py`), and writes the recipe JSON plus `index.json` entry.
+3. You are only asked about lines where the two readings disagree; everything
+   else is written without interruption.
+
+`tools/ocr.py` and `tools/crop.py` need the system Python with `pyobjc` and
+`Pillow` (both already present via pyenv); there is no build step.
+
 ## TODO
 
 - [ ] Favouriting recipes (store favourites in `localStorage`, show on index page)

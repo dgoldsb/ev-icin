@@ -19,6 +19,9 @@ A digital version of the Turkish classic household book "Ev İçin" (For the Hom
 - `style.css` — shared stylesheet
 - `recipes/` — one JSON file per recipe
 - `tips/` — household tips (lower priority, not yet started)
+- `images/` — page photos from the book; `images/manifest.json` tracks which photos are digitized
+- `tools/` — digitization helpers: `ocr.py` (Apple Vision OCR with line coordinates), `crop.py` (EXIF-aware native-resolution crops)
+- `docs/adr/` — architecture decision records
 
 ## Architecture
 
@@ -26,9 +29,10 @@ Content lives in JSON. Two HTML files handle all rendering via vanilla JS — no
 
 ## Recipes
 
-Recipes come from the Turkish book "Ev İçin". Each JSON file has:
-1. **`turkish`** — array of paragraphs, verbatim from the book, never altered
-2. **English fields** — `ingredients_en`, `instructions_en`, `notes_en` (optional), `variations` (optional)
+Recipes come from the Turkish book "Ev İçin". Each JSON file has parallel
+`_tr` and `_en` fields: `name`, `ingredients`, `instructions`, plus optional
+`notes` and `variations`. Turkish fields are verbatim from the book, never
+altered. Full schema and conventions live in `.claude/commands/add-recipe.md`.
 
 ### File naming
 
@@ -44,7 +48,21 @@ The book often prints ingredients in two columns. When reading from a photo, mer
 
 Use the book's notation verbatim. Fractions appear as `1,5` (comma decimal), not `1½` or `1.5`. Reproduce this exactly in both `_tr` and `_en` fields.
 
+## Digitization pipeline
+
+Photos of book pages go into `images/` (HEIC straight from the phone is
+fine). `/digitize` turns them into recipe JSONs: it reads native-resolution
+crops with vision, cross-checks every ingredient line and number against an
+independent Apple Vision OCR pass (`tools/ocr.py`), and only interrupts the
+user for lines where the two sources disagree. Never transcribe from a
+downscaled full-page view, and never accept a line on one source alone —
+these two rules are what keep hallucinated quantities out of the data.
+Rationale, validation results, and model requirements (run the parsing
+session on Fable 5 or Opus 4.7+ for high-resolution vision) are in
+`docs/adr/0001-digitization-pipeline.md`.
+
 ## Skills
 
-- `/add-recipe` — scaffold a new recipe page
+- `/digitize` — turn page photos in `images/` into recipe JSONs (photo → verified text → files)
+- `/add-recipe` — recipe conventions and scaffolding (used by `/digitize` for the file-writing half)
 - `/webdev` — web development guidance and conventions for this project
