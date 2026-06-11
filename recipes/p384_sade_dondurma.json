@@ -1,0 +1,38 @@
+{
+  "page": 384,
+  "slug": "p384_sade_dondurma",
+  "name_tr": "SADE DONDURMA",
+  "name_en": "Plain Ice Cream",
+  "ingredients_tr": [
+    "5 su bardağı süt",
+    "1 su bardağı toz şeker",
+    "1 çorba kaşığı un",
+    "3 yumurta sarısı",
+    "1 paket vanilya",
+    "1 tatlı kaşığı limon kabuğu rendesi"
+  ],
+  "instructions_tr": [
+    "Şeker, un, yumurta sarısı, limon kabuğu rendesi karıştırılır. Azar azar süt ilave edilir.",
+    "Ocağa konur. Karıştırarak iki-üç taşım kaynatılıp ateşten alınır. Vanilya katılır. Soğuyuncaya kadar arasıra karıştırılır.",
+    "Buz kalıplarına doldurulur. Buz dolabının buzluğuna konur.",
+    "Donmağa başlayınca sık sık çıkarılıp karıştırılır. Yine buzluğa konur.",
+    "Donma tamamlanınca buzluktan alınır. Kaşıkla kazıyarak kâselere konur."
+  ],
+  "notes_tr": "Not: Karışım ocaktan inince yarım su bardağı dövülmüş fındık veya yeşil fıstık ya da küçük parçalara bölünmüş bir miktar sütsüz çikolata katılabilir.",
+  "ingredients_en": [
+    "5 cups milk",
+    "1 cup granulated sugar",
+    "1 tablespoon flour",
+    "3 egg yolks",
+    "1 packet vanilla",
+    "1 dessertspoon grated lemon zest"
+  ],
+  "instructions_en": [
+    "Mix the sugar, flour, egg yolks, and grated lemon zest. Add the milk little by little.",
+    "Put on the stove. Boil for two or three rises, stirring, and take off the heat. Add the vanilla. Stir occasionally until cool.",
+    "Fill into ice molds. Put in the refrigerator's freezer.",
+    "When it starts to freeze, take it out often and stir. Return it to the freezer.",
+    "When fully frozen, take it out of the freezer. Scrape with a spoon into bowls."
+  ],
+  "notes_en": "Note: When the mixture comes off the stove, half a cup of crushed hazelnuts or pistachios, or some unsweetened chocolate broken into small pieces, can be added."
+}

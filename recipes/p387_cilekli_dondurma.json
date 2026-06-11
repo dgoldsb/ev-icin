@@ -1,0 +1,61 @@
+{
+  "page": 387,
+  "page_end": 388,
+  "slug": "p387_cilekli_dondurma",
+  "name_tr": "ÇİLEKLİ DONDURMA",
+  "name_en": "Strawberry Ice Cream",
+  "ingredients_tr": [
+    "500 gr. çilek",
+    "3 yumurta akı",
+    "1 su bardağı toz şeker",
+    "3 çorba kaşığı limon suyu"
+  ],
+  "instructions_tr": [
+    "Çilek aktarılarak üç-dört kere yıkanıp ayıklanır.",
+    "Süzgeçten ezerek geçirilir. Posasına iki su bardağı su konup tekrar süzgeçten geçirilir. Limon suyu katılır.",
+    "Yumurta akı, şekerle bir süre karıştırılır. Çilek suyu ilave edilir.",
+    "Buz kalıplarına konur. Buz dolabının buzluğuna kaldırılır. Donma süresince, sık sık çıkarılıp karıştırıldıktan sonra tekrar buzluğa konur.",
+    "Donma tamamlanınca dolaptan alınır. Kaşıkla kazınarak tabak veya kâselere konur."
+  ],
+  "notes_tr": [
+    "Not: Yukarıdaki ölçü ve işlemlere aynen uyularak vişne dondurması yapılır.",
+    "GENEL BİLGİ: İyi kavun ağır, güzel kokulu, olgundur. Dip tarafına elle basılınca orta yumuşaklıkta olup çok sert veya çok yumuşak olmaz. Kabuğu parlak olup tırnakla sıyrılınca kolayca çizilir. İyi karpuz vurulunca tok ses çıkarır. Sapı kolayca kopar."
+  ],
+  "ingredients_en": [
+    "500 gr. strawberries",
+    "3 egg whites",
+    "1 cup granulated sugar",
+    "3 tablespoons lemon juice"
+  ],
+  "instructions_en": [
+    "Wash the strawberries three or four times by transferring them and hull them.",
+    "Press them through a sieve. Add two cups of water to the pulp and pass it through the sieve again. Add the lemon juice.",
+    "Stir the egg whites with the sugar for a while. Add the strawberry juice.",
+    "Put into ice molds. Place in the refrigerator's freezer. During freezing, take it out and stir often, then return it to the freezer.",
+    "When fully frozen, take it out of the fridge. Scrape with a spoon into plates or bowls."
+  ],
+  "notes_en": [
+    "Note: Following the above measures and steps exactly, sour cherry ice cream is made.",
+    "GENERAL NOTE: A good melon is heavy, fragrant, and ripe. When pressed at the bottom by hand it is medium-soft, neither very hard nor very soft. Its skin is shiny and is easily scratched when scraped with a fingernail. A good watermelon makes a dull sound when tapped. Its stem breaks off easily."
+  ],
+  "variations": [
+    {
+      "name_tr": "ŞEFTALİ - KAYISI DONDURMASI",
+      "name_en": "Peach-Apricot Ice Cream",
+      "description_tr": "Çekirdekleri çıkarılan şeftali ve kayısıdan aynı ölçü ve işlemlere uyularak dondurma yapılır.",
+      "description_en": "Ice cream is made from pitted peaches and apricots following the same measures and steps."
+    },
+    {
+      "name_tr": "KAVUN DONDURMASI",
+      "name_en": "Melon Ice Cream",
+      "description_tr": "Bir kilo kavun, yarım su bardağı şeker, üç yumurta akı, dört çorba kaşığı limon suyu ezerek iyice karıştırılır. Buz kalıplarına konup aynı şekilde dondurulur.",
+      "description_en": "One kilo of melon, half a cup of sugar, three egg whites, and four tablespoons of lemon juice are mashed and mixed well. Put into ice molds and frozen the same way."
+    },
+    {
+      "name_tr": "MUZ DONDURMASI",
+      "name_en": "Banana Ice Cream",
+      "description_tr": "Altı muz, yarım su bardağı şeker, üç yumurta akı, yarım paket vanilya, üç çorba kaşığı limon suyu bir kâsede çatalla ezilerek karıştırılır. Buz kalıplarına konup aynı şekilde dondurulur.",
+      "description_en": "Six bananas, half a cup of sugar, three egg whites, half a packet of vanilla, and three tablespoons of lemon juice are mashed and mixed with a fork in a bowl. Put into ice molds and frozen the same way."
+    }
+  ]
+}

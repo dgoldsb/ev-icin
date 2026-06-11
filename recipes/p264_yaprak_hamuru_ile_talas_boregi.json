@@ -1,0 +1,51 @@
+{
+  "page": 264,
+  "page_end": 265,
+  "slug": "p264_yaprak_hamuru_ile_talas_boregi",
+  "name_tr": "YAPRAK HAMURU İLE TALAŞ BÖREĞİ",
+  "name_en": "Talaş Börek with Puff Pastry",
+  "ingredients_tr": [
+    "1 tertip yaprak hamuru",
+    "500 gr. küçük doğranmış kuşbaşı koyun eti",
+    "10 adet orta boy kuru soğan",
+    "8-10 dal maydanoz",
+    "1 çorba kaşığı salça",
+    "1 yumurta sarısı",
+    "1 çay kaşığı karabiber",
+    "1,5 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "İnce doğranmış bir soğan, yağ, et hafif ateşte et bıraktığı suyu çekinceye kadar kavrulur. Salça konup bir, iki çevrildikten sonra yarım bardak su ilave edilir.",
+    "Kalan soğanlar ince yarım halkalara doğranır. Pişmekte olan etin üzerine yayılır. Kapağı kapatılır. Çok hafif ateşte soğanlar iyice ezilip, et yumuşayıncaya kadar pişirilir. Kıyılmış maydanoz, karabiber, tuz konur.",
+    "Suyunu çekince ateşten alınır. Soğumağa bırakılır.",
+    "Yaprak hamuru son açışta altı üstü unlanarak 3 mm. kadar inceltilir. Bıçakla on eşit parçaya kesilir. Soğutulmuş iç kesilen parçaların ortasına pay edilir. Arası ıslatılarak karşılıklı iki kenar ortada iki parmak üst üste bindirilir. Açık kalan iki baş bastırılıp üste çevrilir.",
+    "Bağlantı yerleri alta gelecek şekilde ters çevrilip tepsiye aralıklı sıralanır. Üzerlerine bir çay kaşığı su ile sulandırılmış yumurta sarısı sürülür.",
+    "Önceden kızdırılmış çok sıcak fırında kapak açılmadan yarım saat pişirilir."
+  ],
+  "ingredients_en": [
+    "1 batch puff pastry dough",
+    "500 gr. mutton, cut into small cubes",
+    "10 medium onions",
+    "8-10 sprigs parsley",
+    "1 tablespoon tomato paste",
+    "1 egg yolk",
+    "1 teaspoon black pepper",
+    "1,5 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Sauté one finely chopped onion, the fat, and the meat over low heat until the meat absorbs the liquid it releases. Add the tomato paste, turn it once or twice, then add half a glass of water.",
+    "Cut the remaining onions into thin half-rings. Spread them over the cooking meat. Cover. Cook over very low heat until the onions break right down and the meat is tender. Add the chopped parsley, black pepper, and salt.",
+    "Once the liquid is absorbed, take off the heat. Leave to cool.",
+    "On its final rolling, flour the puff pastry dough top and bottom and thin to about 3 mm. Cut into ten equal pieces with a knife. Divide the cooled filling into the centers of the cut pieces. Moisten between them and overlap the two opposite edges two fingers in the middle. Press the two open ends and fold them over the top.",
+    "Turn them over so the seams face down and line up spaced apart on a tray. Brush the tops with egg yolk thinned with one teaspoon of water.",
+    "Bake in a preheated, very hot oven for half an hour without opening the door."
+  ],
+  "variations": [
+    {
+      "name_tr": "KOLAY TALAŞ BÖREĞİ",
+      "name_en": "Easy Talaş Börek",
+      "description_tr": "Bir ve ikinci yufkanın arası yağlanır. İki ve üçüncü yufkanın arasına ezilmiş yoğurt sürülerek üç hazır yufka üst üste konur. Talaş böreğinde olduğu gibi karelere veya ortadan ikiye kesilip üst üste konarak sekiz eşit üçgene bölünür. Talaş böreği içi konarak gevşek sarılır. Üzerine sulandırılmış yumurta sarısı sürülür. Sıcak fırında pişirilir.",
+      "description_en": "Grease between the first and second sheets of yufka. Spread mashed yogurt between the second and third sheets, and stack three ready sheets of yufka. As with talaş börek, cut into squares or cut in half and stack, then divide into eight equal triangles. Place the talaş börek filling and wrap loosely. Brush thinned egg yolk over the top. Bake in a hot oven."
+    }
+  ]
+}

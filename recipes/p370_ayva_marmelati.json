@@ -1,0 +1,47 @@
+{
+  "page": 370,
+  "page_end": 371,
+  "slug": "p370_ayva_marmelati",
+  "name_tr": "AYVA MARMELATI",
+  "name_en": "Quince Marmalade",
+  "ingredients_tr": [
+    "1 kg. ayva",
+    "3 su bardağı toz şeker",
+    "1 kahve fincanı limon suyu"
+  ],
+  "instructions_tr": [
+    "Ayvalar yıkanır, dilimlenir. Çekirdekleri çıkarılmadan, soyulmadan bir tencerede, üç su bardağı su ile ateşe konur. Kapağı kapatılır. Hafif ateşte yumuşayıncaya kadar haşlanır.",
+    "Kevgirden veya meyva püresinden geçirilip tencereye alınır.",
+    "Üzerine şeker, limon suyu konup hafif ateşte karıştırarak pişirilir.",
+    "Marmelat koyuluğu oluşunca ateşten alınır.",
+    "Sıcakken kavanoza konur. Soğuyunca alkole batırılmış bir kâğıt üzerine kapatılır. Kavanozun kapağı örtülür. Serin yerde saklanır."
+  ],
+  "notes_tr": [
+    "Not: Elma, armut, sert şeftali, erik gibi bütün sert meyvaların marmelatı yukardaki işlemlere uyularak hazırlanır. Yumuşak şeftali, kayısı, vişne gibi meyvalar ise haşlanmadan kevgirden geçirilip aynı işlemler uygulanarak marmelatları yapılır.",
+    "BESİN BİLGİSİ: Kurutulmuş meyvalar madensel tuzlar, özellikle demirden zengindirler. Bileşimlerinde bir miktar A vitamini bulunur. Satın alırken renkleri bozulmamış, temiz, kurt, küf bulunmayan, yumuşamamış olanı seçilmeli. Pişirilme sürelerini kısaltmak için akşamdan yıkanarak ıslatılan kuru meyvaların, pişirirken, ıslatma suyu dökülmezse besin kaybı olmaz."
+  ],
+  "ingredients_en": [
+    "1 kg. quinces",
+    "3 cups granulated sugar",
+    "1 coffee cup lemon juice"
+  ],
+  "instructions_en": [
+    "Wash the quinces and slice them. Without removing the seeds or peeling, put them in a pot with three cups of water on the heat. Cover. Parboil over low heat until soft.",
+    "Pass them through a sieve or fruit mill and put back in the pot.",
+    "Add the sugar and lemon juice and cook over low heat, stirring.",
+    "When it reaches marmalade consistency, take off the heat.",
+    "Put into a jar while hot. Once cool, cover with a paper soaked in alcohol. Close the jar lid. Store in a cool place."
+  ],
+  "variations": [
+    {
+      "name_tr": "KURUTULMUŞ MEYVALARIN MARMELATI",
+      "name_en": "Dried Fruit Marmalade",
+      "description_tr": "Kuru kayısı, erik gibi kuru meyvalar yıkanır. Akşamdan suda ıslatılıp ertesi gün az su ile hafif ateşte haşlanır. 500 gr. kuru meyvaya üç su bardağı şeker, bir kahve fincanı limon suyu kullanılarak ayva marmelatı gibi yapılır.",
+      "description_en": "Dried fruits like dried apricots and prunes are washed. They are soaked in water overnight and the next day parboiled over low heat with a little water. Using three cups of sugar and one coffee cup of lemon juice per 500 gr. of dried fruit, it is made like quince marmalade."
+    }
+  ],
+  "notes_en": [
+    "Note: Marmalade of all firm fruits like apple, pear, firm peach, and plum is prepared following the steps above. Soft fruits like soft peach, apricot, and sour cherry are passed through a sieve without parboiling and made into marmalade by the same steps.",
+    "NUTRITIONAL NOTE: Dried fruits are rich in mineral salts, especially iron. Their composition contains some vitamin A. When buying, choose those with unspoiled color, clean, free of worms and mold, and not gone soft. To shorten cooking times, dried fruits are washed and soaked overnight; if the soaking water is not thrown away during cooking, there is no nutrient loss."
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "page": 284,
+  "page_end": 285,
   "slug": "p284_krep_suzet",
   "name_tr": "KREP SÜZET",
   "name_en": "Crêpe Suzette",
@@ -20,7 +21,10 @@
     "Pişenler tabağa üst üste konur. Kızartma işlemi bitince her parçanın bir yüzüne ince bir tabaka marmelat sürülür. İki ya da dörde katlanır.",
     "Servis yaparken üzerine, vanilya katılmış pudra şekeri elenir."
   ],
-  "notes_tr": "Not: Krep süzet istenirse büyük tavada büyük olarak hazırlanır. Üzerine marmelat sürülüp rulo yapılır. İki ya da üç parçaya bölünerek servis yapılabilir.",
+  "notes_tr": [
+    "Not: Krep süzet istenirse büyük tavada büyük olarak hazırlanır. Üzerine marmelat sürülüp rulo yapılır. İki ya da üç parçaya bölünerek servis yapılabilir.",
+    "GENEL BİLGİ: Teflon tava içi boşken ateş üzerinde bırakılmamalı. Yapışan besin artıkları ıslatılarak yumuşatıldıktan sonra yumuşak bezle yıkanarak temizlenmeli."
+  ],
   "ingredients_en": [
     "1 cup flour",
     "4 eggs",
@@ -37,5 +41,16 @@
     "Grease a teflon pan if available, otherwise a normal small pan. Heat it a little. Put in enough of the prepared batter to make a 2 mm. thickness in the pan. Spread it over the pan by tilting. When one side is cooked, flip the other side.",
     "Stack the cooked crêpes on a plate. When the frying is done, brush a thin layer of marmalade on one side of each. Fold in two or in four.",
     "When serving, sift vanilla-mixed powdered sugar over the top."
+  ],
+  "notes_en": [
+    "GENERAL NOTE: A non-stick pan should not be left empty over the heat. Stuck-on food residue should be cleaned by soaking to soften it, then washing with a soft cloth."
+  ],
+  "variations": [
+    {
+      "name_tr": "TUZLU KREP SÜZET",
+      "name_en": "Savory Crêpe Suzette",
+      "description_tr": "Krep süzet hamuruna bir çay kaşığı tuz konup pişirilir. Arasına börek içlerinden herhangi biri konur. Katlanarak sıcak fırında yirmi dakika pişirilir. Sıcak sıcak servis yapılır.",
+      "description_en": "One teaspoon of salt is added to the crêpe suzette batter and it is cooked. Any of the börek fillings is placed inside. Folded, it is baked in a hot oven for twenty minutes. Served piping hot."
+    }
   ]
 }

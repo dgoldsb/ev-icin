@@ -1,0 +1,50 @@
+{
+  "page": 248,
+  "page_end": 249,
+  "slug": "p248_patlicanli_borek",
+  "name_tr": "PATLICANLI BÖREK",
+  "name_en": "Eggplant Börek",
+  "ingredients_tr": [
+    "4,5 su bardağı un",
+    "3 orta boy çekirdeksiz patlıcan",
+    "250 gr. yağsız kıyma",
+    "1 çay kaşığı karabiber",
+    "3-4 adet sivri biber",
+    "2 orta boy domates",
+    "2 orta boy kuru soğan",
+    "Tuz"
+  ],
+  "instructions_tr": [
+    "Kıyma, ince kıyılmış sivri biber, ince yarım halkalara doğranmış soğanla ateşe konur. Kıyma suyunu çekinceye kadar kavrulur.",
+    "Kabukları soyularak boyuna dilimlenip sonra şeritlere kesilmiş patlıcan, soyularak küçük doğranmış domates katılır. Kısık ateşte yarım saat kendi suyu ile pişirilir. Bir buçuk çay kaşığı tuz, karabiber konur. Suyunu çekince ateşten alınır.",
+    "Un, bir buçuk su bardağı su, iki çay kaşığı tuzla yumuşak bir hamur yapılıp özleştirilir. Yirmi dakika dinlendirilir.",
+    "Bir buçuk yumurta büyüklüğünde parçalar alınır. 3-4 mm. incelikte açılır. Yarısına soğutulmuş iç yayılır. Diğer yarısı üzerine katlanır. Kenarları elle bastırılarak yapıştırılır.",
+    "Saç, toprak tava veya teflon tavada çevrilerek her iki yüzü pişirilir."
+  ],
+  "notes_tr": "Not: Patlıcanlı iç hazır yufka böreklerinde iç olarak kullanılabilir.",
+  "ingredients_en": [
+    "4,5 cups flour",
+    "3 medium seedless eggplants",
+    "250 gr. lean ground meat",
+    "1 teaspoon black pepper",
+    "3-4 long green peppers",
+    "2 medium tomatoes",
+    "2 medium onions",
+    "Salt"
+  ],
+  "instructions_en": [
+    "Put the ground meat, finely chopped long peppers, and onion cut into thin half-rings on the heat. Sauté until the meat absorbs its liquid.",
+    "Add the eggplant — peeled, sliced lengthwise, then cut into strips — and the peeled, finely chopped tomato. Cook over low heat for half an hour in its own juices. Add one and a half teaspoons of salt and black pepper. Once the liquid is absorbed, take off the heat.",
+    "Make a soft dough with the flour, one and a half cups of water, and two teaspoons of salt, and knead it smooth. Let rest for twenty minutes.",
+    "Take pieces the size of one and a half eggs. Roll out to 3-4 mm. thickness. Spread the cooled filling over one half. Fold the other half over it. Press the edges together by hand to seal.",
+    "Cook both sides, turning, on a griddle, an earthenware pan, or a non-stick pan."
+  ],
+  "variations": [
+    {
+      "name_tr": "PIRASALI İÇ",
+      "name_en": "Leek Filling",
+      "description_tr": "Temizlenip küçük parçalara doğranmış 500 gr. pırasa, ince yarım halkalara doğranmış iki kuru soğan, iki kibrit kutusu büyüklüğünde margarin, bir çay kaşığı pul biber bir tencerede ateşe konur. Hafif ateşte kendi suyu ile iyice yumuşayıncaya kadar pişirilir. Bir çay kaşığı tuz konur. Suyunu çekince ateşten alınır. Pırasalı iç, genellikle hazır yufka böreklerinde kullanılır.",
+      "description_en": "500 gr. of leeks, cleaned and cut into small pieces, two onions cut into thin half-rings, two matchbox-sized pieces of margarine, and one teaspoon of red pepper flakes are put in a pot on the heat. They are cooked over low heat in their own juices until thoroughly soft. One teaspoon of salt is added. Once the liquid is absorbed, it is taken off the heat. Leek filling is generally used in ready yufka böreks."
+    }
+  ]
+}

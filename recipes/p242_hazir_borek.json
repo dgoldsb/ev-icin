@@ -1,0 +1,51 @@
+{
+  "page": 242,
+  "page_end": 243,
+  "slug": "p242_hazir_borek",
+  "name_tr": "HAZIR BÖREK",
+  "name_en": "Ready Yufka Börek",
+  "ingredients_tr": [
+    "3 adet yufka",
+    "Yarım su bardağı eritilmiş margarin",
+    "1 kibrit kutusu büyüklüğünde beyaz peynir",
+    "3 yumurta",
+    "3 orta boy haşlanmış patates",
+    "1 su bardağı süt",
+    "1 kahve fincanı yoğurt",
+    "1 çay kaşığı karabiber"
+  ],
+  "instructions_tr": [
+    "Çarpılmış iki bütün yumurta ve bir yumurta akı, eritilmiş margarin, süt, karabiber karışımına, püre haline getirilmiş peynir ve patates karıştırılır.",
+    "Bir bütün yufka yayılır. Hazırlanan harcın üçte biri üzerine sürülür. İkinci ve üçüncü yufkalar da üzerine yayılırken, harç pay edilerek üzerlerine sürülüp üçü üst üste konur.",
+    "Üçü birden bir kenarından yuvarlanarak gevşek sarılıp rulo yapılır. İki veya üç yerinden bıçakla kesilir. Bir tabak içinde buzluğa kaldırılarak dondurulur.",
+    "İstendiği zaman buzluktan alınır. Bir parmak kalınlığında dilimlere kesilir. Yağlanmış tepsiye sıralanır.",
+    "Yumurta sarısı, yoğurt çatalla çarpılarak karıştırılır. Dilimlerin üzerine sürülür.",
+    "Sıcak fırında kurutmadan yirmi beş dakika pişirilir. Sıcak sıcak servis yapılır."
+  ],
+  "ingredients_en": [
+    "3 sheets yufka (filo)",
+    "Half cup melted margarine",
+    "1 matchbox-sized piece of white cheese",
+    "3 eggs",
+    "3 medium boiled potatoes",
+    "1 cup milk",
+    "1 coffee cup yogurt",
+    "1 teaspoon black pepper"
+  ],
+  "instructions_en": [
+    "Mix mashed cheese and potatoes into a mixture of two whole eggs and one egg white (beaten), melted margarine, milk, and black pepper.",
+    "Spread out one whole sheet of yufka. Spread a third of the prepared filling over it. As the second and third sheets are spread on, the filling is divided and spread over them, and the three are stacked.",
+    "Roll all three up loosely from one edge into a roll. Cut in two or three places with a knife. Place on a plate and put in the freezer to freeze.",
+    "Take it out of the freezer when wanted. Cut into slices a finger thick. Line up on a greased tray.",
+    "Beat egg yolk and yogurt together with a fork and mix. Brush over the slices.",
+    "Bake in a hot oven for twenty-five minutes without drying them out. Serve piping hot."
+  ],
+  "variations": [
+    {
+      "name_tr": "KIYMALI YUFKA BÖREĞİ",
+      "name_en": "Ground-Meat Yufka Börek",
+      "description_tr": "İnce doğranmış bir soğan, 250 gr. yağsız kıyma ile suyunu çekinceye kadar kavrulur. Kıyılmış maydanoz, karabiber, tuz katılır. Dört kibrit kutusu büyüklüğünde margarin, bir su bardağı su ile kaynatılır. Dört yufka dörde bölünerek üst üste konur. Kaynamış yağlı su ile parçaların birer yüzü ıslatılır. İkiye katlanarak üçgen yapılan parçalara kıymalı iç konup gevşek sarılır. Üzerine yumurta sarısı sürülüp fırında kızartılır.",
+      "description_en": "One finely chopped onion is sautéed with 250 gr. of lean ground meat until the liquid is absorbed. Chopped parsley, black pepper, and salt are added. Four matchbox-sized pieces of margarine are boiled with one cup of water. Four sheets of yufka are quartered and stacked. One side of each piece is moistened with the boiled oily water. The meat filling is placed on the pieces folded in two into triangles, and they are loosely wrapped. Egg yolk is brushed over them and they are baked in the oven."
+    }
+  ]
+}

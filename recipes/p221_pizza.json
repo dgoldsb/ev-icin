@@ -1,5 +1,6 @@
 {
   "page": 221,
+  "page_end": 222,
   "slug": "p221_pizza",
   "name_tr": "PİZZA",
   "name_en": "Pizza",
@@ -52,5 +53,21 @@
     "Spread the pide dough half a centimeter thick on a greased tray. Spread the prepared sauce over it, cold.",
     "Scatter the olives, finely chopped sausage, and pickled cucumber over the sauce. Sprinkle with grated kashar cheese. Dot with pieces of butter and, if available, dil or çerkez cheese. Refrigerate.",
     "Near serving time, take it from the refrigerator and put it in a hot oven. Bake fifteen minutes in a hot oven. Serve hot."
+  ],
+  "notes_tr": "Not: Sosis yerine küçük doğranmış salam, sucuk, pastırma veya ançüez kullanılabildiği gibi haşlanmış mantar, kabak gibi sebzelerle de çeşitlendirilebilir.",
+  "notes_en": "Note: Instead of sausage, finely chopped salami, sucuk, pastrami, or anchovy can be used, and it can also be varied with boiled vegetables like mushrooms and zucchini.",
+  "variations": [
+    {
+      "name_tr": "PİZZA HAMURUNUN EVDE HAZIRLANMASI",
+      "name_en": "Making Pizza Dough at Home",
+      "description_tr": "Bir kahve fincanı ılık sütte eritilmiş bir çorba kaşığı bira mayası, iki çay kaşığı tuz, iki su bardağı ılık su, dört buçuk su bardağı un ile yumuşak bir hamur yapılır. Yoğrularak iyice özleştirilir. Ilık yerde iki misli oluncaya kadar mayalandırılır. Tekrar kısa süre yoğrulup yağlanmış tepsiye yayılır. Bir süre daha mayalandırılıp kullanılır.",
+      "description_en": "A soft dough is made with one tablespoon of brewer's yeast dissolved in one coffee cup of warm milk, two teaspoons of salt, two cups of warm water, and four and a half cups of flour. It is kneaded until very smooth. It is left to rise in a warm place until doubled. It is kneaded again briefly, spread on a greased tray, left to rise a while longer, and used."
+    },
+    {
+      "name_tr": "KOLAY PIZZA",
+      "name_en": "Easy Pizza",
+      "description_tr": "Bir parmak kalınlığında kesilmiş baston sandviç dilimleri üzerine pizza için hazırlanan sos ve diğerleri konarak fırında kısa süre pişirilir. Sıcak sıcak servis yapılır.",
+      "description_en": "The sauce and other toppings prepared for pizza are placed on slices of baton sandwich loaf cut a finger thick, and baked briefly in the oven. Served piping hot."
+    }
   ]
 }

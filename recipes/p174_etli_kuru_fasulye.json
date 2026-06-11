@@ -1,0 +1,52 @@
+{
+  "page": 174,
+  "slug": "p174_etli_kuru_fasulye",
+  "name_tr": "ETLİ KURU FASULYE",
+  "name_en": "Dried Beans with Meat",
+  "ingredients_tr": [
+    "2 su bardağı kuru fasulye",
+    "300 gr. kuşbaşı et",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "3 orta boy domates veya bir çorba kaşığı salça",
+    "2 orta boy soğan",
+    "2 adet kırmızı sivri biber",
+    "1 çay kaşığı şeker",
+    "3 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Fasulye ayıklanır, yıkanır, akşamdan ıslatılır.",
+    "Ertesi gün, üzerini geçecek kadar su ile ateşe konur. Yarı pişmiş olarak haşlanır, suyu süzülür.",
+    "Et, ince doğranmış soğan, yağ bir tencerede ateşe konur. Birkaç kere karıştırılıp kapak kapatılır. Ateşi kısılarak et bıraktığı suyu çekinceye kadar kavrulur.",
+    "Kabukları soyularak küçük doğranmış domates veya salça ilave edilir. Et yarı yumuşayıncaya kadar pişirilir.",
+    "Süzülmüş fasulye, sivri biber, şeker, üzerini geçecek kadar sıcak su konur. Hafif ateşte pişirilir.",
+    "İneceğine yakın tuz atılır."
+  ],
+  "notes_tr": "Not: Barbunya, nohut, börülce, yeşil mercimeğin etli yemeği aynı şekilde pişirilir. Mercimeğin haşlama suyu dökülmez.",
+  "ingredients_en": [
+    "2 cups dried beans",
+    "300 gr. cubed meat",
+    "2 matchbox-sized pieces of margarine",
+    "3 medium tomatoes or one tablespoon tomato paste",
+    "2 medium onions",
+    "2 red long peppers",
+    "1 teaspoon sugar",
+    "3 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Pick over and wash the beans and soak them overnight.",
+    "The next day, put them on the heat with enough water to cover. Parboil them half-done and drain.",
+    "Put the meat, finely chopped onion, and fat in a pot on the heat. Stir a few times and cover. Lower the heat and sauté the meat until it absorbs the liquid it releases.",
+    "Add the peeled, finely chopped tomato or tomato paste. Cook until the meat is half tender.",
+    "Add the drained beans, long peppers, sugar, and enough hot water to cover. Cook over low heat.",
+    "Add the salt near the end."
+  ],
+  "notes_en": "Note: The meaty dishes of borlotti beans, chickpeas, black-eyed peas, and green lentils are cooked the same way. The lentils' cooking water is not thrown away.",
+  "variations": [
+    {
+      "name_tr": "PASTIRMALI KURU FASULYE",
+      "name_en": "Dried Beans with Pastrami",
+      "description_tr": "Yukarıdaki ölçü ve işlemlere uyularak kuru fasulye etsiz olarak pişirilir. Ocaktan alınmasına on dakika kala, ortasından ikiye bölünmüş, biraz yağlı, 10-12 dilim pastırma ilave edilir.",
+      "description_en": "Following the above measures and steps, the dried beans are cooked without meat. Ten minutes before taking it off the stove, 10-12 slices of slightly fatty pastrami, halved, are added."
+    }
+  ]
+}

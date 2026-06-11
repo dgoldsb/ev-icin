@@ -5,19 +5,43 @@ resume after a context compaction. **Source of truth is `images/manifest.json`**
 (per-photo status) plus the files in `recipes/` and `index.json`. Nothing
 depends on conversation history.
 
-## Status as of p126–366
+## MAIN SEQUENCE COMPLETE (p56–392)
 
-- **Digitized:** pages 126–366 (plus the pre-existing 56–125). Through the
-  tart section and into the jam/marmalade section (kayısı/ayva/incir/çilek/ekşi
-  elma/greyfrut reçeli) — with a 3rd section-intro page "Reçel Marmelat... Kısa
-  Bilgiler". 232 index entries; all recipe files validate and every index entry
-  has a file.
-- **Next unprocessed photo:** IMG_8636 (≈ p367). ~56 photos remaining
-  (→ IMG_8659 main sequence, then reshoot batch IMG_8660–8695).
-- **Gaps/reshoots in the p336–362 stretch** (all in reshoot-needed.md): p336,
-  p348 (chestnut-cake head; tail on p349 deferred), p350, p351–352 (blurry
-  multi-component pasta), p358 (last cake recipe), p361 (jam, misframed), p362
-  (jam, blurry).
+- **The entire main photo run IMG_8396–8659 is processed.** The book ends at
+  p392 (bibliography, skipped as end matter). Digitized through the ice-cream
+  section and serving-ideas page. **249 index entries**; all recipe files
+  validate, every index entry has a file. 4 section-intro pages
+  (`kind:"section"`): KANEPELER, Kek/Pandispanya Bilgileri, Reçel/Marmelat
+  Bilgileri, Dondurmalarla Hazırlanan Hafif Tatlılar.
+
+## Remaining work
+
+1. **Reshoot pass — IMG_8660–8695 (35 photos, out of page order).** OCR each to
+   read its page number and fill the gaps listed in `reshoot-needed.md`
+   (p131–132, 159–160, 174, 180, 182, 194, 198, 204, 222, 240, 242, 248, 252,
+   264, 274, 278, 281–282, 285–286, 336, 348, 350, 351–352, 358, 361, 362, 369,
+   373, 376–377, 379, 381). Several "deferred tails" in reshoot-needed.md can be
+   joined to their now-reshot heads.
+2. **Completeness audit (user-requested).** After the reshoot pass, list every
+   page number present in `index.json`, find numeric gaps, and report any pages
+   still genuinely missing (stuck-together pages never photographed).
+
+## Reshoot batch page map (IMG_8660–8695 → page)
+
+8660→174 (Etli Kuru Fasulye) · 8661→180 (enginar tail) · 8662→198 (Fasulye
+Turşusu) · 8663→222 (börek tail) · 8664→240 (note) · 8665→264 + 8666→265
+(Yaprak Hamuru ile Talaş Böreği) · 8667→281 + 8668→282 (Güllaç) · 8669→283
+(milk-dessert tail) · 8670→285 + 8671→286 (Hoşmerim) · 8672→204 · 8673→236
+(dup of Su Böreği tail?) · 8674→242 (Hazır Börek) · 8675→248 + 8676→249
+(Patlıcanlı Börek / Pırasalı İç) · 8677→? (Kolay Oğeleme, blurry) · 8678→252
+(Çiğ Börek) · 8679→264 + 8680→265 (dup of 8665/8666) · 8681→275 (Revani tail)
+· 8682→336 · 8683→350 (Şuale Krem) · 8684→358 (Mozaik Pastası) · 8685→361 +
+8695→361 (Bal Kabağı Reçeli) · 8686→362 (Kayısı Reçeli) · 8687→372 (dup Ayva
+Jölesi) · 8688→373 (Kolay Meyva Jölesi) · 8689→376 (Kestane Şekerlemesi) ·
+8690→377 (Boza) · 8691→381 (Portakal Likörü) · 8692→380 (dup Mevsimlik Şurup)
+· 8693→315 (Halka).
+**Still NOT covered by reshoots → genuinely missing:** p131–132, p159–160,
+p182, p194, p278, p348/349 (chestnut cake), p351–352, p369, p379.
 - **Convention added (p319+):** filled-pastry recipes with separate dough/
   filling ingredient blocks store the book's labels as literal list entries
   (`"Hamurunun Ölçüleri:"` / `"İçinin Ölçüleri:"`, EN `"For the dough:"` /

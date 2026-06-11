@@ -1,0 +1,36 @@
+{
+  "page": 378,
+  "slug": "p378_limonata",
+  "name_tr": "LİMONATA",
+  "name_en": "Lemonade",
+  "ingredients_tr": [
+    "1 su bardağı su için:",
+    "2,5 çorba kaşığı limon suyu",
+    "1,5 çorba kaşığı toz şeker"
+  ],
+  "instructions_tr": [
+    "Limonlar yıkanır. Rendenin ince tarafından kabukları rendelenir.",
+    "Şeker katılıp ovularak bir süre bekletilir.",
+    "Ölçülü su konur. Şeker eriyinceye kadar karıştırılır.",
+    "Limon suyu ilave edilip süzülür. Buz dolabında soğutulur."
+  ],
+  "ingredients_en": [
+    "Per 1 cup of water:",
+    "2,5 tablespoons lemon juice",
+    "1,5 tablespoons granulated sugar"
+  ],
+  "instructions_en": [
+    "Wash the lemons. Grate their peels on the fine side of the grater.",
+    "Add the sugar, rub it in, and let stand for a while.",
+    "Add the measured water. Stir until the sugar dissolves.",
+    "Add the lemon juice and strain. Chill in the refrigerator."
+  ],
+  "variations": [
+    {
+      "name_tr": "PORTAKAL ŞURUBU",
+      "name_en": "Orangeade",
+      "description_tr": "Aynı işlemler uygulanır. Limon suyu miktarından daha fazla portakal suyu kullanılır. Ekşiliğini artırmak için limon suyu katılır.",
+      "description_en": "The same steps are applied. More orange juice is used than the amount of lemon juice. Lemon juice is added to increase the tartness."
+    }
+  ]
+}

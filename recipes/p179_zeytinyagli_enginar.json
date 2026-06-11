@@ -1,5 +1,6 @@
 {
   "page": 179,
+  "page_end": 180,
   "slug": "p179_zeytinyagli_enginar",
   "name_tr": "ZEYTİNYAĞLI ENGİNAR",
   "name_en": "Olive Oil Artichokes",
@@ -42,5 +43,15 @@
     "Put the cleaned pearl onions, the small-diced carrot, and the prepared artichokes in a pot. Add the olive oil, sugar, two teaspoons of salt, two tablespoons of lemon juice, and two cups of boiling water. Cook over low heat without opening the lid until they soften.",
     "Add the peas and the small-diced potatoes. Once the potatoes soften and the liquid is down to a quarter of the dish, remove from heat. Cool in the pot without opening the lid.",
     "Transfer the artichokes to a serving plate. Fill their centers with the cooked mixture from the pot. Sprinkle chopped dill over the top."
+  ],
+  "notes_tr": "Not: Enginarlar canlı, kök kısımları yeşil olmalı.",
+  "notes_en": "Note: The artichokes should be fresh, with green stem/root parts.",
+  "variations": [
+    {
+      "name_tr": "ZEYTİNYAĞLI İÇ BAKLALI ENGİNAR",
+      "name_en": "Olive Oil Artichokes with Fava Beans",
+      "description_tr": "Aynı işlemler uygulanarak temizlenip yarı pişirilmiş enginara, havuç, patates, bezelye yerine, dış ve iç kabuğu çıkarılarak ayıklanmış 500 gr. taze iç bakla konur. Aynı şekilde pişirilip servis tabağına alınır.",
+      "description_en": "Following the same steps, instead of carrot, potato, and peas, 500 gr. of fresh fava beans — shelled of both outer and inner skins — are added to the cleaned, half-cooked artichokes. It is cooked the same way and transferred to a serving plate."
+    }
   ]
 }

@@ -831,6 +831,15 @@
     ]
   },
   {
+    "page": 174,
+    "slug": "p174_etli_kuru_fasulye",
+    "name_tr": "ETLİ KURU FASULYE",
+    "name_en": "Dried Beans with Meat",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
     "page": 175,
     "slug": "p175_zeytinyagli_kuru_fasulye",
     "name_tr": "ZEYTİNYAĞLI KURU FASULYE",
@@ -860,6 +869,7 @@
   },
   {
     "page": 179,
+    "page_end": 180,
     "slug": "p179_zeytinyagli_enginar",
     "name_tr": "ZEYTİNYAĞLI ENGİNAR",
     "name_en": "Olive Oil Artichokes",
@@ -1004,6 +1014,15 @@
     ]
   },
   {
+    "page": 198,
+    "slug": "p198_fasulye_tursusu",
+    "name_tr": "FASULYE TURŞUSU",
+    "name_en": "Green Bean Pickle",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
     "page": 199,
     "slug": "p199_acele_ispanak_koku_tursusu",
     "name_tr": "ACELE ISPANAK KÖKÜ TURŞUSU",
@@ -1041,6 +1060,7 @@
   },
   {
     "page": 203,
+    "page_end": 204,
     "slug": "p203_cilbir",
     "name_tr": "ÇILBIR",
     "name_en": "Çılbır (Poached Eggs in Yogurt)",
@@ -1162,6 +1182,7 @@
   },
   {
     "page": 221,
+    "page_end": 222,
     "slug": "p221_pizza",
     "name_tr": "PİZZA",
     "name_en": "Pizza",
@@ -1344,6 +1365,7 @@
   },
   {
     "page": 239,
+    "page_end": 240,
     "slug": "p239_puf_boregi",
     "name_tr": "PUF BÖREĞİ",
     "name_en": "Puff Börek",
@@ -1356,6 +1378,16 @@
     "slug": "p241_kolay_puf_boregi",
     "name_tr": "KOLAY PUF BÖREĞİ",
     "name_en": "Easy Puff Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 242,
+    "page_end": 243,
+    "slug": "p242_hazir_borek",
+    "name_tr": "HAZIR BÖREK",
+    "name_en": "Ready Yufka Börek",
     "tags": [
       "vegetarian"
     ]
@@ -1397,6 +1429,16 @@
     ]
   },
   {
+    "page": 248,
+    "page_end": 249,
+    "slug": "p248_patlicanli_borek",
+    "name_tr": "PATLICANLI BÖREK",
+    "name_en": "Eggplant Börek",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
     "page": 250,
     "page_end": 251,
     "slug": "p250_gozleme",
@@ -1404,6 +1446,15 @@
     "name_en": "Gözleme",
     "tags": [
       "vegetarian"
+    ]
+  },
+  {
+    "page": 252,
+    "slug": "p252_cig_borek",
+    "name_tr": "ÇİĞ BÖREK",
+    "name_en": "Çiğ Börek",
+    "tags": [
+      "meat"
     ]
   },
   {
@@ -1487,6 +1538,16 @@
     "name_en": "Cheese Dilber Börek",
     "tags": [
       "vegetarian"
+    ]
+  },
+  {
+    "page": 264,
+    "page_end": 265,
+    "slug": "p264_yaprak_hamuru_ile_talas_boregi",
+    "name_tr": "YAPRAK HAMURU İLE TALAŞ BÖREĞİ",
+    "name_en": "Talaş Börek with Puff Pastry",
+    "tags": [
+      "meat"
     ]
   },
   {
@@ -1582,6 +1643,7 @@
   },
   {
     "page": 280,
+    "page_end": 281,
     "slug": "p280_asure",
     "name_tr": "AŞURE",
     "name_en": "Aşure",
@@ -1590,10 +1652,39 @@
     ]
   },
   {
+    "page": 282,
+    "page_end": 283,
+    "slug": "p282_gullac",
+    "name_tr": "GÜLLAÇ",
+    "name_en": "Güllaç",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
     "page": 284,
+    "page_end": 285,
     "slug": "p284_krep_suzet",
     "name_tr": "KREP SÜZET",
     "name_en": "Crêpe Suzette",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 286,
+    "slug": "p286_bayat_ekmek_tatlisi",
+    "name_tr": "BAYAT EKMEK TATLISI",
+    "name_en": "Stale Bread Dessert",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 286,
+    "slug": "p286_hosmerim",
+    "name_tr": "HOŞMERİM",
+    "name_en": "Hoşmerim",
     "tags": [
       "vegetarian"
     ]
@@ -2139,5 +2230,149 @@
     "tags": [
       "vegan"
     ]
+  },
+  {
+    "page": 368,
+    "slug": "p368_portakal_kabugu_receli",
+    "name_tr": "PORTAKAL KABUĞU REÇELİ",
+    "name_en": "Orange Peel Jam",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 370,
+    "page_end": 371,
+    "slug": "p370_ayva_marmelati",
+    "name_tr": "AYVA MARMELATI",
+    "name_en": "Quince Marmalade",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 372,
+    "slug": "p372_ayva_jolesi",
+    "name_tr": "AYVA JÖLESİ",
+    "name_en": "Quince Jelly",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 374,
+    "slug": "p374_fondan",
+    "name_tr": "FONDAN",
+    "name_en": "Fondant",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 375,
+    "slug": "p375_badem_ezmesi",
+    "name_tr": "BADEM EZMESİ",
+    "name_en": "Marzipan",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 375,
+    "slug": "p375_cikolatali_bonbon",
+    "name_tr": "ÇİKOLATALI BONBON",
+    "name_en": "Chocolate Bonbons",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 378,
+    "slug": "p378_limonata",
+    "name_tr": "LİMONATA",
+    "name_en": "Lemonade",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 380,
+    "slug": "p380_mevsimlik_suruplar",
+    "name_tr": "MEVSİMLİK ŞURUPLAR",
+    "name_en": "Seasonal Fruit Syrups",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 382,
+    "slug": "p382_visne_likoru",
+    "name_tr": "VİŞNE LİKÖRÜ",
+    "name_en": "Sour Cherry Liqueur",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 383,
+    "slug": "p383_kaymakli_dondurma",
+    "name_tr": "KAYMAKLI DONDURMA",
+    "name_en": "Kaymak Ice Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 384,
+    "slug": "p384_sade_dondurma",
+    "name_tr": "SADE DONDURMA",
+    "name_en": "Plain Ice Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 385,
+    "slug": "p385_frigo",
+    "name_tr": "FRIGO",
+    "name_en": "Frigo (Chocolate Ice Cream Bars)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 386,
+    "slug": "p386_limonlu_dondurma",
+    "name_tr": "LİMONLU DONDURMA",
+    "name_en": "Lemon Ice Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 387,
+    "page_end": 388,
+    "slug": "p387_cilekli_dondurma",
+    "name_tr": "ÇİLEKLİ DONDURMA",
+    "name_en": "Strawberry Ice Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 389,
+    "slug": "p389_krem_santiyeli_dondurma",
+    "name_tr": "KREM ŞANTİYELİ DONDURMA",
+    "name_en": "Whipped Cream Ice Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 390,
+    "slug": "p390_dondurmalarla_hafif_tatlilar",
+    "name_tr": "DONDURMALARLA HAZIRLANAN HAFİF TATLILAR",
+    "name_en": "Light Desserts Made with Ice Cream",
+    "kind": "section"
   }
 ]
