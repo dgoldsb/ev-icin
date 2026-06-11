@@ -1,0 +1,42 @@
+{
+  "page": 367,
+  "slug": "p367_portakal_receli",
+  "name_tr": "PORTAKAL REÇELİ",
+  "name_en": "Orange Jam",
+  "ingredients_tr": [
+    "5 adet kalın kabuklu iri yafa portakalı",
+    "6 su bardağı toz şeker",
+    "4 çorba kaşığı limon suyu"
+  ],
+  "instructions_tr": [
+    "Portakalların kabukları, rendenin ince tarafıyla parlaklıkları giderilinceye kadar rendelenir.",
+    "Yıkanıp üzerini geçecek kadar su ile ateşe konur. Birkaç taşım kaynatılır. Suyu süzülüp tekrar soğuk su ile ateşe konur.",
+    "Bu işlem üç kere tekrarlanır. Son suyu da süzülür.",
+    "Soğuyunca keskin bıçakla bir santim kalınlığında dilimlere kesilir. Dilimler de parçalanmadan dörde bölünür.",
+    "Tencereye bir kat kesilen portakal dilimleri, bir kat şeker konarak bir saat bekletilir.",
+    "Hafif ateşte kaynatılır. Reçel koyuluğu oluşunca limon suyu konur. Üç-dört taşım daha kaynatılıp ocaktan indirilir.",
+    "Üzerindeki köpük alınır. Sıcakken kavanoza konur."
+  ],
+  "ingredients_en": [
+    "5 large, thick-skinned Jaffa oranges",
+    "6 cups granulated sugar",
+    "4 tablespoons lemon juice"
+  ],
+  "instructions_en": [
+    "Grate the orange peels on the fine side of a grater until their shine is removed.",
+    "Wash them and put on the heat with enough water to cover. Boil for a few rises. Drain the water and put back on the heat with fresh cold water.",
+    "Repeat this three times. Drain the final water as well.",
+    "Once cool, cut into one-centimeter-thick slices with a sharp knife. Quarter the slices without breaking them apart.",
+    "Layer the cut orange slices and sugar in a pot, a layer of each, and let stand for one hour.",
+    "Boil over low heat. When it reaches jam consistency, add the lemon juice. Boil for three or four more rises and take off the stove.",
+    "Skim off the foam. Put into a jar while hot."
+  ],
+  "variations": [
+    {
+      "name_tr": "MANDALİNA REÇELİ",
+      "name_en": "Mandarin Jam",
+      "description_tr": "Mandalinaların kabukları soyulur. Dilimleri ikiye bölecek şekilde mandalina ortadan ikiye kesilir. Bir kat şeker, bir kat mandalina konarak portakal reçelinde olduğu gibi pişirilir.",
+      "description_en": "The mandarins are peeled. Each mandarin is cut in half crosswise so the segments are halved. A layer of sugar and a layer of mandarin are placed, and it is cooked as in the orange jam."
+    }
+  ]
+}

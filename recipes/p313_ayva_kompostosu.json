@@ -1,0 +1,38 @@
+{
+  "page": 313,
+  "slug": "p313_ayva_kompostosu",
+  "name_tr": "AYVA KOMPOSTOSU",
+  "name_en": "Quince Compote",
+  "ingredients_tr": [
+    "3 orta boy ayva",
+    "2 su bardağı toz şeker",
+    "2 çorba kaşığı limon suyu",
+    "1 çorba kaşığı limon kabuğu rendesi"
+  ],
+  "instructions_tr": [
+    "Ayvalar yıkanır. Kabukları soyulur. Dilimlenip talaş kısımları çıkarılır.",
+    "Ayva kabukları, çekirdekleri, limon kabuğu rendesi, beş su bardağı su ile hafif ateşte on beş dakika kaynatılır. Bir tencereye konan ayva dilimlerinin üzerine süzülür.",
+    "Tencerenin ağzı kapatılarak hafif ateşte ayvalar yumuşayıncaya kadar pişirilir.",
+    "Şeker, limon suyu konur. On dakika daha kaynatılıp ateşten alınır."
+  ],
+  "ingredients_en": [
+    "3 medium quinces",
+    "2 cups granulated sugar",
+    "2 tablespoons lemon juice",
+    "1 tablespoon grated lemon zest"
+  ],
+  "instructions_en": [
+    "Wash the quinces. Peel them. Slice them and remove the cores.",
+    "Boil the quince peels, seeds, and grated lemon zest with five cups of water over low heat for fifteen minutes. Strain it over the quince slices placed in a pot.",
+    "Cover the pot and cook over low heat until the quinces soften.",
+    "Add the sugar and lemon juice. Boil for ten more minutes and take off the heat."
+  ],
+  "variations": [
+    {
+      "name_tr": "ELMA KOMPOSTOSU",
+      "name_en": "Apple Compote",
+      "description_tr": "Altı elmanın talaş kısımları oyacakla çıkarılır. Bütün olarak soyulup, haşlanır. İstenirse çubuk tarçın, iki-üç karanfil konur. Aynı şekilde pişirilir.",
+      "description_en": "The cores of six apples are removed with a corer. They are peeled whole and parboiled. If desired, a cinnamon stick and two or three cloves are added. It is cooked the same way."
+    }
+  ]
+}

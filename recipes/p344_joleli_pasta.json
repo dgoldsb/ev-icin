@@ -1,0 +1,53 @@
+{
+  "page": 344,
+  "page_end": 345,
+  "slug": "p344_joleli_pasta",
+  "name_tr": "JÖLELİ PASTA",
+  "name_en": "Jelly Cake",
+  "ingredients_tr": [
+    "1 adet kakaosuz hazırlanmış büyük pastanın pandispanyası",
+    "1 tertip kakaosuz hazırlanmış büyük pastanın pasta kremi",
+    "Bir miktar ayıklanıp temizlenmiş veya dilimlenmiş meyva (Çilek, şeftali, muz, portakal v.b)",
+    "1 paket kullanılan meyvanın jölesi",
+    "Yarım su bardağı hindistan cevizi rendesi veya kıyılmış fındık"
+  ],
+  "instructions_tr": [
+    "Çikolatalı büyük pastanın pandispanya ve pasta kremi kakaosuz olarak aynen hazırlanır.",
+    "Enine üçe kesilip büyük pastada olduğu gibi şekerli likörlü su ile ıslatılır. Aralarına pasta kremi sürülerek üçü üst üste konur.",
+    "Üzerine yarım santim incelikte pasta kremi sürülür. Kullanılacak meyva dilimleri veya taneleri kremanın üzerine sıralanır.",
+    "Pandispanyanın piştiği kalıp yıkanıp temizlenir.",
+    "Kullanılan meyvanın jölesi, kutusundaki tariften yarım su bardağı eksik su ile eritilir. Temizlenmiş ıslak pandispanya kalıbına istenilen miktar jöleden konur. Buz dolabında yarı dondurulur.",
+    "Hazırlanan meyvalı pastanın üzerine yarı donmuş jöle kalıbı ters çevrilerek kapatılır. Kalıba hafif bastırarak meyvaların üzerine yerleştirilir.",
+    "Jölenin sertleşmesi için kırk beş dakika bekletilir.",
+    "Kalıbın üzerinden ve yanlarından çok kısa süre ısıtılmış ütü geçirilir. Kalıp çıkarılır.",
+    "Pastanın kenarlarına pasta kremi sürülür. Hindistan cevizi rendesi veya kıyılmış fındık yapıştırılır."
+  ],
+  "notes_tr": "Not: Meyvalı jöleli pastalara, ara kremi ve üzeri için pasta kremi yerine krem şanti, yağlı krem gibi beyaz kremler kullanılabilir.",
+  "ingredients_en": [
+    "1 sponge of the large cake, made without cocoa",
+    "1 batch of the large cake's cake cream, made without cocoa",
+    "Some cleaned and trimmed or sliced fruit (strawberry, peach, banana, orange, etc.)",
+    "1 packet of jelly of the fruit used",
+    "Half cup grated coconut or chopped hazelnuts"
+  ],
+  "instructions_en": [
+    "The sponge and cake cream of the large chocolate cake are made exactly the same but without cocoa.",
+    "It is cut crosswise into three and moistened, as with the large cake, with sweetened, liqueured water. Cake cream is spread between them and the three layers are stacked.",
+    "Spread cake cream half a centimeter thick over the top. Arrange the fruit slices or pieces to be used over the cream.",
+    "The pan in which the sponge was baked is washed and cleaned.",
+    "The jelly of the fruit used is dissolved with half a cup less water than the recipe on its box. Pour the desired amount of jelly into the cleaned, wet sponge pan. Half-set it in the refrigerator.",
+    "Turn the pan of half-set jelly over and place it onto the prepared fruit cake. Pressing the pan lightly, settle it over the fruit.",
+    "Let it stand forty-five minutes for the jelly to set firm.",
+    "Run a briefly heated iron over the top and sides of the pan. Remove the pan.",
+    "Spread cake cream around the sides of the cake. Press on grated coconut or chopped hazelnuts."
+  ],
+  "notes_en": "Note: For fruit jelly cakes, white creams like whipped cream or buttercream can be used for the filling and top instead of cake cream.",
+  "variations": [
+    {
+      "name_tr": "MEYVALI PASTA",
+      "name_en": "Fruit Cake (Layered)",
+      "description_tr": "Çikolatalı büyük pastanın pandispanya ve pasta kremi kakaosuz olarak hazırlanır. Pandispanya enine üçe kesilir. Şekerli likörlü su ile nemlendirilir. Her kata pasta kremi sürülüp meyvalar sıralanarak parçalar üst üste konur. Üstüne ve yanlarına pasta kremi sürülür. Kıyılmış fındık, yeşil fıstık veya hindistan cevizi rendesi ile kaplanır. Ya da içine konan meyva dilimleri, taneleri yapıştırılır.",
+      "description_en": "The sponge and cake cream of the large chocolate cake are made without cocoa. The sponge is cut crosswise into three. It is moistened with sweetened, liqueured water. Cake cream is spread on each layer, fruit is arranged, and the layers are stacked. Cake cream is spread over the top and sides. It is coated with chopped hazelnuts, pistachios, or grated coconut. Or the same fruit slices and pieces put inside are pressed on."
+    }
+  ]
+}

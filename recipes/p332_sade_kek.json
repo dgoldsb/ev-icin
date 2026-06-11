@@ -1,0 +1,60 @@
+{
+  "page": 332,
+  "page_end": 333,
+  "slug": "p332_sade_kek",
+  "name_tr": "SADE KEK",
+  "name_en": "Plain Cake",
+  "ingredients_tr": [
+    "5 yumurta",
+    "Yarım su bardağından bir parmak fazla toz şeker",
+    "1 su bardağı un",
+    "Yarım paket vanilya",
+    "2 çorba kaşığı limon suyu",
+    "1 tatlı kaşığı limon kabuğu rendesi"
+  ],
+  "instructions_tr": [
+    "Fırın yakılır. Kalıp yağlanır, unlanır.",
+    "Alüminyum olmayan bir kapta yumurtalar, şeker, limon kabuğu rendesi çarpılarak koyu boza kıvamına getirilir.",
+    "Limon suyu konur. Bir dakika daha çarpılır.",
+    "Vanilya katılarak elenmiş un ilave edilir. Büyük bir kaşıkla alt üst edilip, unun kısa sürede karışması sağlanır.",
+    "Kalıbın dörtte üçüne kadar doldurulur. Orta ısılı fırında, ilk otuz dakika kapak açılmadan, elli dakika pişirilir. Fırın söndürülür. İçini çekmesi için bir süre daha beklenir.",
+    "Fırından alınır. Ilınınca kekin kenarları bıçak ucu ile kalıptan kurtarılıp çıkarılır. Üzerine pudra şekeri elenir."
+  ],
+  "notes_tr": "Not: \"Kek ve pandispanya yapımı ile ilgili kısa bilgiler\" başlıklı yazı okunduktan sonra kek yapımına geçilmeli.",
+  "ingredients_en": [
+    "5 eggs",
+    "Half a cup plus a finger's width of granulated sugar",
+    "1 cup flour",
+    "Half packet vanilla",
+    "2 tablespoons lemon juice",
+    "1 dessertspoon grated lemon zest"
+  ],
+  "instructions_en": [
+    "Turn on the oven. Grease and flour the pan.",
+    "In a non-aluminum container, beat the eggs, sugar, and grated lemon zest to the consistency of thick boza.",
+    "Add the lemon juice. Beat for one more minute.",
+    "Add the vanilla and the sifted flour. Fold with a large spoon so the flour combines quickly.",
+    "Fill the pan up to three-quarters. Bake in a medium oven for fifty minutes, without opening the door for the first thirty minutes. Turn off the oven. Wait a while longer so the inside sets.",
+    "Take out of the oven. When lukewarm, loosen the edges of the cake from the pan with a knife tip and turn it out. Sift powdered sugar over it."
+  ],
+  "variations": [
+    {
+      "name_tr": "İKİ RENKLİ KEK",
+      "name_en": "Two-Color Cake",
+      "description_tr": "Un miktarı bir çorba kaşığı azaltılarak sade kek hamuru hazırlanır. Karışımın yarısı kalıba boşaltılır. Kalan yarısına bir buçuk çorba kaşığı kakao elenip karıştırılır. Kalıba gezdirerek dökülür. Aynı şekilde pişirilir.",
+      "description_en": "Plain cake batter is prepared with the flour reduced by one tablespoon. Half of the mixture is poured into the pan. Into the remaining half, one and a half tablespoons of sifted cocoa is mixed. It is drizzled into the pan. It is baked the same way."
+    },
+    {
+      "name_tr": "ÜZÜMLÜ KEK",
+      "name_en": "Raisin Cake",
+      "description_tr": "Sade kek hazırlanır. Un karıştırıldıktan sonra ayıklanmış, iki çorba kaşığı çekirdeksiz kuru üzüm katılır. Kalıba konup aynı şekilde pişirilir.",
+      "description_en": "Plain cake is prepared. After the flour is folded in, two tablespoons of picked-over seedless raisins are added. It is put in the pan and baked the same way."
+    },
+    {
+      "name_tr": "CEVİZLİ KEK",
+      "name_en": "Walnut Cake",
+      "description_tr": "Un miktarı bir kahve fincanı azaltılıp yerine bir kahve fincanı çekilmiş ceviz veya fındık konur. Diğer ölçü ve işlemler sade kekin aynı uygulanır.",
+      "description_en": "The flour is reduced by one coffee cup and one coffee cup of ground walnuts or hazelnuts is added in its place. The other measures and steps are applied the same as for plain cake."
+    }
+  ]
+}

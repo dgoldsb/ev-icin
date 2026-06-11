@@ -1,0 +1,54 @@
+{
+  "page": 337,
+  "slug": "p337_kolay_kek",
+  "name_tr": "KOLAY KEK",
+  "name_en": "Easy Cake",
+  "ingredients_tr": [
+    "2 su bardağı un",
+    "Yarım su bardağı süt",
+    "Yarım su bardağı eritilmiş margarin",
+    "1 su bardağı toz şeker",
+    "3 yumurta",
+    "2 çay kaşığı kabartma tozu",
+    "1 tatlı kaşığı limon kabuğu rendesi",
+    "Yarım paket vanilya"
+  ],
+  "instructions_tr": [
+    "Fırın yakılır. Kek kalıbı yağlanır, unlanır.",
+    "Bir kâseye kırılan yumurtalara, şeker, limon kabuğu rendesi, katılır. Şeker eriyinceye kadar çarpılır. Eritilmiş yağ, süt karıştırılır. Kabartma tozu, vanilya katılarak elenmiş un, ilave edilir.",
+    "Hazırlanan kalıba dökülür. Orta ısılı fırında bir saat pişirilir.",
+    "Fırın söndürülür. On beş dakika içini çekmesi için fırında bırakılır."
+  ],
+  "notes_tr": "Not: Süt yerine yoğurt kullanılabilir.",
+  "ingredients_en": [
+    "2 cups flour",
+    "Half cup milk",
+    "Half cup melted margarine",
+    "1 cup granulated sugar",
+    "3 eggs",
+    "2 teaspoons baking powder",
+    "1 dessertspoon grated lemon zest",
+    "Half packet vanilla"
+  ],
+  "instructions_en": [
+    "Turn on the oven. Grease and flour a cake pan.",
+    "Add the sugar and grated lemon zest to the eggs cracked into a bowl. Beat until the sugar dissolves. Stir in the melted fat and milk. Add the baking powder, vanilla, and sifted flour.",
+    "Pour into the prepared pan. Bake in a medium oven for one hour.",
+    "Turn off the oven. Leave it in the oven for fifteen minutes so the inside sets."
+  ],
+  "notes_en": "Note: Yogurt can be used instead of milk.",
+  "variations": [
+    {
+      "name_tr": "TARÇINLI KEK",
+      "name_en": "Cinnamon Cake",
+      "description_tr": "Un miktarı yarım su bardağı azaltılıp, yerine yarım su bardağı ceviz, bir paket tarçın ilave edilerek yapılır.",
+      "description_en": "Made by reducing the flour by half a cup and adding half a cup of walnuts and one packet of cinnamon in its place."
+    },
+    {
+      "name_tr": "BADEMLİ KEK",
+      "name_en": "Almond Cake",
+      "description_tr": "Un miktarı yarım su bardağı eksiltilip, yerine yarım su bardağı çekilmiş badem veya fındık katılarak değişik lezzette kolay kekler yapılabilir.",
+      "description_en": "Easy cakes of different flavors can be made by reducing the flour by half a cup and adding half a cup of ground almonds or hazelnuts in its place."
+    }
+  ]
+}

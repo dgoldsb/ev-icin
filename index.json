@@ -1673,5 +1673,471 @@
     "tags": [
       "vegetarian"
     ]
+  },
+  {
+    "page": 299,
+    "slug": "p299_keskul",
+    "name_tr": "KEŞKÜL",
+    "name_en": "Keşkül",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 299,
+    "slug": "p299_yalanci_tavuk_gogsu",
+    "name_tr": "YALANCI TAVUK GÖĞSÜ",
+    "name_en": "Mock Tavuk Göğsü",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 300,
+    "page_end": 301,
+    "slug": "p300_hanim_gobegi",
+    "name_tr": "HANIM GÖBEĞİ",
+    "name_en": "Hanım Göbeği",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 302,
+    "slug": "p302_tulumba_tatlisi",
+    "name_tr": "TULUMBA TATLISI",
+    "name_en": "Tulumba Tatlısı",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 303,
+    "slug": "p303_lokma",
+    "name_tr": "LOKMA",
+    "name_en": "Lokma",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 304,
+    "slug": "p304_kolay_tatli",
+    "name_tr": "KOLAY TATLI",
+    "name_en": "Easy Dessert",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 305,
+    "slug": "p305_gevrek_tatli",
+    "name_tr": "GEVREK TATLI",
+    "name_en": "Crisp Sweet",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 306,
+    "slug": "p306_krem_santi",
+    "name_tr": "KREM ŞANTİ",
+    "name_en": "Whipped Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 307,
+    "slug": "p307_krem_santi_taklidi",
+    "name_tr": "KREM ŞANTİ TAKLİTİ",
+    "name_en": "Imitation Whipped Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 308,
+    "page_end": 309,
+    "slug": "p308_meyva_salatasi",
+    "name_tr": "MEYVA SALATASI",
+    "name_en": "Fruit Salad",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 310,
+    "page_end": 311,
+    "slug": "p310_baharli_elma",
+    "name_tr": "BAHARLI ELMA",
+    "name_en": "Spiced Apple",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 312,
+    "slug": "p312_portakalli_pelte",
+    "name_tr": "PORTAKALLI PELTE",
+    "name_en": "Orange Jelly",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 313,
+    "slug": "p313_ayva_kompostosu",
+    "name_tr": "AYVA KOMPOSTOSU",
+    "name_en": "Quince Compote",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 313,
+    "slug": "p313_cilek_kompostosu",
+    "name_tr": "ÇİLEK KOMPOSTOSU",
+    "name_en": "Strawberry Compote",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 314,
+    "slug": "p314_peynirli_biskuvi",
+    "name_tr": "PEYNİRLİ BİSKÜVİ",
+    "name_en": "Cheese Biscuit",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 314,
+    "slug": "p314_tuzlu_cubuk",
+    "name_tr": "TUZLU ÇUBUK",
+    "name_en": "Salty Sticks",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 316,
+    "slug": "p316_anasonlu_simit",
+    "name_tr": "ANASONLU SİMİT",
+    "name_en": "Aniseed Simit",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 317,
+    "slug": "p317_yagli_simit",
+    "name_tr": "YAĞLI SİMİT",
+    "name_en": "Buttery Simit",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 318,
+    "slug": "p318_findikli_sable",
+    "name_tr": "FINDIKLI SABLE",
+    "name_en": "Hazelnut Sablé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 319,
+    "page_end": 320,
+    "slug": "p319_elmali_ay",
+    "name_tr": "ELMALI AY",
+    "name_en": "Apple Crescents",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 321,
+    "page_end": 322,
+    "slug": "p321_cevizli_ay",
+    "name_tr": "CEVİZLİ AY",
+    "name_en": "Walnut Crescents",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 323,
+    "slug": "p323_vanilyali_ay",
+    "name_tr": "VANİLYALI AY",
+    "name_en": "Vanilla Crescents",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 324,
+    "slug": "p324_ev_kurabiyesi",
+    "name_tr": "EV KURABİYESİ",
+    "name_en": "Home-Style Cookies",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 325,
+    "slug": "p325_un_kurabiyesi",
+    "name_tr": "UN KURABİYESİ",
+    "name_en": "Flour Cookies",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 326,
+    "slug": "p326_aci_badem_kurabiyesi",
+    "name_tr": "ACI BADEM KURABİYESİ",
+    "name_en": "Bitter Almond Macaroons",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 327,
+    "slug": "p327_kedi_dili",
+    "name_tr": "KEDİ DİLİ",
+    "name_en": "Kedi Dili (Ladyfingers)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 328,
+    "slug": "p328_savayer_biskuvisi",
+    "name_tr": "SAVAYER BİSKÜVİSİ",
+    "name_en": "Savoiardi Biscuits",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 329,
+    "slug": "p329_beze",
+    "name_tr": "BEZE",
+    "name_en": "Meringue",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 330,
+    "slug": "p330_tombul_pasta",
+    "name_tr": "TOMBUL PASTA",
+    "name_en": "Tombul Pasta (Punçiki)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 331,
+    "slug": "p331_kek_pandispanya_bilgileri",
+    "name_tr": "KEK VE PANDİSPANYA YAPIMI İLE İLGİLİ KISA BİLGİLER",
+    "name_en": "Short Notes on Making Cakes and Sponge Cakes",
+    "kind": "section"
+  },
+  {
+    "page": 332,
+    "page_end": 333,
+    "slug": "p332_sade_kek",
+    "name_tr": "SADE KEK",
+    "name_en": "Plain Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 334,
+    "slug": "p334_portakalli_pandispanya",
+    "name_tr": "PORTAKALLI PANDİSPANYA",
+    "name_en": "Orange Sponge Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 335,
+    "slug": "p335_yagli_kek",
+    "name_tr": "YAĞLI KEK",
+    "name_en": "Rich Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 337,
+    "slug": "p337_kolay_kek",
+    "name_tr": "KOLAY KEK",
+    "name_en": "Easy Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 338,
+    "slug": "p338_duduklu_tencerede_gazozlu_kek",
+    "name_tr": "DÜDÜKLÜ TENCEREDE GAZOZLU KEK",
+    "name_en": "Fizzy-Drink Cake in a Pressure Cooker",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 339,
+    "slug": "p339_mayali_kek",
+    "name_tr": "MAYALI KEK",
+    "name_en": "Yeast Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 340,
+    "slug": "p340_peynirli_kek",
+    "name_tr": "PEYNİRLİ KEK",
+    "name_en": "Cheese Cake (Savory)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 341,
+    "page_end": 343,
+    "slug": "p341_cikolatali_buyuk_pasta",
+    "name_tr": "ÇİKOLATALI BÜYÜK PASTA",
+    "name_en": "Large Chocolate Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 344,
+    "page_end": 345,
+    "slug": "p344_joleli_pasta",
+    "name_tr": "JÖLELİ PASTA",
+    "name_en": "Jelly Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 346,
+    "page_end": 347,
+    "slug": "p346_rulo_pasta",
+    "name_tr": "RULO PASTA",
+    "name_en": "Roll Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 352,
+    "page_end": 353,
+    "slug": "p352_kremali_milfoy",
+    "name_tr": "KREMALI MİLFÖY",
+    "name_en": "Cream Mille-feuille",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 354,
+    "page_end": 355,
+    "slug": "p354_meyvali_tart",
+    "name_tr": "MEYVALI TART",
+    "name_en": "Fruit Tart",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 356,
+    "slug": "p356_elmali_tart",
+    "name_tr": "ELMALI TART",
+    "name_en": "Apple Tart",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 357,
+    "slug": "p357_uc_renkli_pasta",
+    "name_tr": "ÜÇ RENKLİ PASTA",
+    "name_en": "Three-Color Molded Pudding",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 359,
+    "slug": "p359_recel_marmelat_bilgileri",
+    "name_tr": "REÇEL MARMELAT YAPIMI İLE İLGİLİ KISA BİLGİLER",
+    "name_en": "Short Notes on Making Jam and Marmalade",
+    "kind": "section"
+  },
+  {
+    "page": 360,
+    "slug": "p360_kayisi_receli",
+    "name_tr": "KAYISI REÇELİ",
+    "name_en": "Apricot Jam (Using Lime Water)",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 363,
+    "slug": "p363_ayva_receli",
+    "name_tr": "AYVA REÇELİ",
+    "name_en": "Quince Jam",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 364,
+    "slug": "p364_cilek_receli",
+    "name_tr": "ÇİLEK REÇELİ",
+    "name_en": "Strawberry Jam",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 365,
+    "slug": "p365_eksi_elma_receli",
+    "name_tr": "EKŞİ ELMA REÇELİ",
+    "name_en": "Sour Apple Jam",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 366,
+    "slug": "p366_greyfrut_receli",
+    "name_tr": "GREYFRUT REÇELİ",
+    "name_en": "Grapefruit Jam",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 367,
+    "slug": "p367_portakal_receli",
+    "name_tr": "PORTAKAL REÇELİ",
+    "name_en": "Orange Jam",
+    "tags": [
+      "vegan"
+    ]
   }
 ]

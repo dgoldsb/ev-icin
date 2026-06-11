@@ -1,0 +1,36 @@
+{
+  "page": 307,
+  "slug": "p307_krem_santi_taklidi",
+  "name_tr": "KREM ŞANTİ TAKLİTİ",
+  "name_en": "Imitation Whipped Cream",
+  "ingredients_tr": [
+    "4 yumurta akı",
+    "1 su bardağı toz şeker",
+    "Yarım paket vanilya",
+    "1 fiske tuz"
+  ],
+  "instructions_tr": [
+    "Şeker bir bardak su ile ateşe konur. Eriyinceye kadar karıştırılır. Kaynatılarak koyulaştırılır. Bir kâsedeki soğuk suya birkaç damla damlatılır. Dağılmayıp lokum kıvamında ele geliyorsa, ateşi kaynatmayacak kadar kısılarak ocak üzerinde bırakılır.",
+    "Yumurta akları bir fiske tuzla sürekli ve hızlı çarpılarak katı kar haline getirilir. Vanilya katılır.",
+    "Çarpılmış aklar hızla karıştırılırken, koyu şurup kaynar halde akıtılır. Şurup aklara yedirildikten sonra karıştırılmamalı, sulanır."
+  ],
+  "ingredients_en": [
+    "4 egg whites",
+    "1 cup granulated sugar",
+    "Half packet vanilla",
+    "1 pinch salt"
+  ],
+  "instructions_en": [
+    "Put the sugar on the heat with one cup of water. Stir until dissolved. Boil to thicken it. Drip a few drops into a bowl of cold water. If it holds together and feels like Turkish delight to the touch, lower the heat just enough that it doesn't boil and leave it on the stove.",
+    "Beat the egg whites with a pinch of salt, continuously and quickly, into a stiff snow. Add the vanilla.",
+    "Stirring the beaten whites quickly, pour in the thick syrup while boiling hot. After the syrup is worked into the whites, it should not be stirred, or it becomes watery."
+  ],
+  "variations": [
+    {
+      "name_tr": "YAĞLI KREM ŞANTİ",
+      "name_en": "Buttercream-Style Şanti",
+      "description_tr": "Dört kibrit kutusu büyüklüğünde yumuşatılmış margarin bir kâsede karıştırılarak beyazlatılır. Yarım tertip soğumuş krem şanti taklidi kaşık kaşık yağa katılıp yedirilir. Pasta ve tatlıları süslemede kullanılır.",
+      "description_en": "Four matchbox-sized pieces of softened margarine are stirred in a bowl until pale. Half a batch of cooled imitation whipped cream is added to the fat spoonful by spoonful and worked in. It is used to decorate cakes and desserts."
+    }
+  ]
+}

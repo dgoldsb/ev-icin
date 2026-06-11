@@ -38,6 +38,11 @@ interpolated from legible neighbors and may be off by one.
   (holds the tail of the TUZLU KREP SÜZET variation — see Deferred
   continuations); p286 was skipped entirely (sequence jumps p285→p287,
   `IMG_8555` Krem Karamel). Sits between p284 (Krep Süzet) and p287.
+- **p348 — head of a chestnut (kestane) cake** — skipped (sequence jumps p347
+  Rulo Pasta → p349, `IMG_8617`). p349 holds only the legible tail (steps
+  5–11, a Mont-Blanc-style chestnut-purée dome over sponge with mock whipped
+  cream and marzipan winter decorations); its title/ingredients/steps 1–4 are
+  on the missing p348.
 
 ## Motion-blurred — illegible (zero OCR)
 
@@ -84,11 +89,28 @@ interpolated from legible neighbors and may be off by one.
   > Üzeri kıyılmış yeşil fıstık, hindistan cevizi rendesi veya çilek, kiraz, nar gibi mevsim meyvaları ile süslenebilir.
   > GENEL BİLGİ: Pastörize edilsin veya edilmesin, süt hiçbir zaman oda sıcaklığında bırakılmamalı. Buz dolabında, pastörize edilen süt en fazla üç gün, kaynatılmış süt ise iki gün dayanır.
 
+- **p349 (`IMG_8617`)** — tail (steps 5–11) of a chestnut (kestane) cake whose
+  head is on the un-photographed **p348**. Verbatim tail:
+  > 5 — Kestanelerin dış kabukları soyulur. On beş dakika haşlanır. Ateşten alınıp üzerine soğuk su konur. Kestaneler suyun içinden alınarak iç kabukları da ıslakken soyulur.
+  > 6 — Tekrar bir su bardağı su ile ateşe konur. Ağzı kapalı kapta hafif ateşte yumuşayıncaya kadar pişirilir.
+  > 7 — Ezilecek duruma gelince kapak açılıp varsa kalan suyu buharlaştırılır. Ateşten alınır. Ezilerek püre yapılır. Pudra şekeri, vanilya karıştırılır.
+  > 8 — Tabağa konan pandispanyanın üzerine, makarna süzgecinden kaşıkla ezerek kubbe şeklinde geçirilir.
+  > 9 — Yumurta akları hızla çarpılarak kabartılır. Şeker, vanilya katılır. Bir süre daha hızlı ve sürekli çarpılarak katı kar haline getirilir.
+  > 10 — Ucuna tırtıklı huni takılmış krema pompasına doldurulur. Kestane püresinin üzerine sıkılarak bütün yüzü kaplanır.
+  > 11 — İstenirse üzerine meyva şekerlemeleri, yeşil fıstıkla çamlar, kayak evleri, kayakçılar yapılarak pasta süslenir.
+
 - **p284→p285: TUZLU KREP SÜZET variation** — a variation of KREP SÜZET
   (`recipes/p284_krep_suzet.json`) whose head is legible on p284 but whose
   tail runs onto the blurry, illegible **p285** (`IMG_8554`). Add it as a
   `variations` entry to p284 once p285 is reshot. Legible head (p284, cut off):
   > Krep süzet hamuruna bir çay kaşığı tuz konup pişirilir. Arasına börek içlerinden herhangi biri konur. Katla[nır…]
+
+- **p369 — PORTAKAL MARMELADI (`IMG_8638`)** — motion-blurred. Title and
+  ingredient quantities (orange count, sugar amount) are NOT verifiable, but
+  the steps are mostly legible. Best-effort UNVERIFIED reading for reassembly
+  once reshot:
+  > Ölçüler: [N] adet kalın kabuklu yafa portakalının kabukları · 1 kahve fincanı limon suyu · Toz şeker (step 3: meyva püresiyle aynı ölçüde).
+  > 1 — [Kabuklar] yumuşayıncaya kadar su ile ateşe konur. 2 — Üzerine su konur. Sık sık suyu değiştirilerek üç gün suda bekletilir. Suyu süzülür, makineden çekilir. 3 — Makineden alınan püre bardakla ölçülür. Üzerine aynı ölçüde şeker konur. Limon suyu katılır. 4 — Karıştırarak hafif ateşte bir süre pişirilir. Marmelat koyuluğu oluşunca ateşten alınır. Sıcakken kavanoza konur. Soğuyunca ağzı kapatılarak serin yerde saklanır.
 
 ## Motion-blurred — near-illegible (1–5 garbled lines)
 

@@ -1,0 +1,75 @@
+{
+  "page": 354,
+  "page_end": 355,
+  "slug": "p354_meyvali_tart",
+  "name_tr": "MEYVALI TART",
+  "name_en": "Fruit Tart",
+  "ingredients_tr": [
+    "Pasta Kreminin Ölçüleri:",
+    "1,5 çorba kaşığı un",
+    "2,5 çorba kaşığı toz şeker",
+    "1 yumurta",
+    "1,5 su bardağı süt",
+    "1 çay kaşığı limon kabuğu rendesi",
+    "1 kibrit kutusu büyüklüğünde margarin",
+    "Yarım paket vanilya",
+    "Hamurunun Ölçüleri:",
+    "2 su bardağı un",
+    "2 çorba kaşığı yoğurt",
+    "5 kibrit kutusu büyüklüğünde margarin (160 gr.)",
+    "2 çorba kaşığı pudra şekeri",
+    "1 tatlı kaşığı limon kabuğu rendesi",
+    "1 çay kaşığı kabartma tozu",
+    "Yarım paket vanilya"
+  ],
+  "instructions_tr": [
+    "Yumurta, şeker, un, limon kabuğu rendesi karıştırılır. Azar azar süt ilave edilir. Hafif ateşte karıştırarak pişirilir. İki-üç taşım kaynatılıp ateşten alınır. Yağ, vanilya konur. Karıştırarak yedirilir.",
+    "Kabartma tozu, vanilya katılarak elenmiş una, yağ, limon kabuğu rendesi konup iki elle iyice ovalanıp ufalanır. Yoğurt, pudra şekeri konur. Tellendirildikten sonra kısa süre yoğrulur.",
+    "Yuvarlak bir kalıp veya tepsinin çapından, dört parmak daha büyük olarak hamur açılır. Kalıba yerleştirilir. Kenarları iki parmak kalıbın kenarlarına döndürülür.",
+    "Orta ısılı fırında açık pembe renkte pişirilir. Fırından alınır.",
+    "Ilınınca kalıptan çıkarılır. Üzerine hazırlanmış soğuk pasta kremi sürülür.",
+    "Yıkanıp ayıklanmış, özelliğine göre dilimlenip veya bütün olarak hazırlanmış mevsim meyvaları, pasta kreminin üzerine sıralanır. Kararmaması için üzerlerine pasta fırçası ile limon suyu sürülür.",
+    "İstenirse meyvaların aralarına, çevresine krem şanti veya krem şanti taklidi, şekilli olarak sıkılır."
+  ],
+  "ingredients_en": [
+    "For the cake cream:",
+    "1,5 tablespoons flour",
+    "2,5 tablespoons granulated sugar",
+    "1 egg",
+    "1,5 cups milk",
+    "1 teaspoon grated lemon zest",
+    "1 matchbox-sized piece of margarine",
+    "Half packet vanilla",
+    "For the dough:",
+    "2 cups flour",
+    "2 tablespoons yogurt",
+    "5 matchbox-sized pieces of margarine (160 gr.)",
+    "2 tablespoons powdered sugar",
+    "1 dessertspoon grated lemon zest",
+    "1 teaspoon baking powder",
+    "Half packet vanilla"
+  ],
+  "instructions_en": [
+    "Mix the egg, sugar, flour, and grated lemon zest. Add the milk little by little. Cook over low heat, stirring. Boil for two or three rises and take off the heat. Add the fat and vanilla. Stir them in.",
+    "Rub the sifted flour with baking powder and vanilla, the fat, and grated lemon zest together well with both hands until crumbly. Add the yogurt and powdered sugar. Once it forms strands, knead briefly.",
+    "Roll the dough out four fingers larger than the diameter of a round pan or tray. Lay it in the pan. Fold two fingers of the edges over the rim of the pan.",
+    "Bake in a medium oven to a light pink color. Take out of the oven.",
+    "When lukewarm, turn out of the pan. Spread the prepared cold cake cream over it.",
+    "Arrange seasonal fruit — washed, trimmed, and prepared sliced or whole according to its character — over the cake cream. To keep them from darkening, brush lemon juice over them with a pastry brush.",
+    "If desired, pipe whipped cream or imitation whipped cream decoratively between and around the fruit."
+  ],
+  "variations": [
+    {
+      "name_tr": "JÖLELİ TART",
+      "name_en": "Jelly Tart",
+      "description_tr": "Tart hamuru hazırlanıp pişirilir. Yarım paket jöle, tarifindeki su miktarından bir kahve fincanı az su ile hazırlanır. Tart hamurunun piştiği ıslak kalıba konup yarı dondurulur. Pişen tartın üzerine pasta kremi sürülür, meyvalar sıralanır. Yarı donmuş jöle meyvaların üzerine ters çevrilerek oturtulur. Yarım saat dondurulur. Üzerinden ve yanlarından kısa süre sıcak ütü geçirilerek kalıp çıkarılır.",
+      "description_en": "Tart dough is prepared and baked. Half a packet of jelly is made with one coffee cup less water than its recipe. It is poured into the wet pan in which the tart was baked and half-set. Cake cream is spread over the baked tart and fruit is arranged. The half-set jelly is turned over and settled onto the fruit. It is set for half an hour. A hot iron is run briefly over the top and sides and the pan is removed."
+    },
+    {
+      "name_tr": "HİNDİSTAN CEVİZLİ TART",
+      "name_en": "Coconut Tart",
+      "description_tr": "Tart hamuru hazırlanır. Kalıba yerleştirilir. Üzerine ince elma dilimleri sıralanır. Yarım su bardağı pudra şekeri, yarım su bardağı hindistan cevizi rendesi, iki yumurta akı, yarım çorba kaşığı un karıştırılır. Elmaların üzerine yayılır. Orta ısılı fırında açık pembe renkte pişirilir.",
+      "description_en": "Tart dough is prepared and laid in the pan. Thin apple slices are arranged over it. Half a cup of powdered sugar, half a cup of grated coconut, two egg whites, and half a tablespoon of flour are mixed. It is spread over the apples. It is baked in a medium oven to a light pink color."
+    }
+  ]
+}

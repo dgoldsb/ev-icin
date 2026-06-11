@@ -1,0 +1,46 @@
+{
+  "page": 312,
+  "slug": "p312_portakalli_pelte",
+  "name_tr": "PORTAKALLI PELTE",
+  "name_en": "Orange Jelly",
+  "ingredients_tr": [
+    "2 su bardağı portakal suyu",
+    "2 su bardağı toz şeker",
+    "Yarım su bardağından biraz az patates nişastası",
+    "Yarım portakalın kabuğu"
+  ],
+  "instructions_tr": [
+    "İnce dilimlenmiş portakal kabuğu haşlanır. Suyu süzülüp ince kıyılır.",
+    "Nişasta, bir su bardağı suda ezilir. Portakal suyu katılır.",
+    "Şeker, kıyılmış portakal kabuğu, dört su bardağı su bir tencerede ateşe konur. Şeker eriyinceye kadar karıştırılır. Kaynayınca, ezilmiş nişasta, portakal suyu karışımı karıştırarak ilave edilir.",
+    "İki taşım kaynatılıp ateşten alınır. Sıcakken kâselere boşaltılır."
+  ],
+  "notes_tr": [
+    "Vişne, çilek, nar gibi meyvaların suları yedi bardağa tamamlanır. Diğer ölçü ve işlemler aynen uygulanarak pelteleri hazırlanabilir. İstenirse içine meyvaların tanelerinden katılabilir.",
+    "BESİN BİLGİSİ: Nişasta protein, vitamin, madensel tuzlardan yoksun saf karbonhidrattır. İyi nişasta ince, yumuşak, içinde yabancı madde bulunmayan, nemlenmemiş, acımsı veya ekşimsi olmayan nişastadır."
+  ],
+  "ingredients_en": [
+    "2 cups orange juice",
+    "2 cups granulated sugar",
+    "A little less than half a cup of potato starch",
+    "The peel of half an orange"
+  ],
+  "instructions_en": [
+    "Boil the thinly sliced orange peel. Drain it and chop it finely.",
+    "Dissolve the starch in one cup of water. Add the orange juice.",
+    "Put the sugar, the chopped orange peel, and four cups of water in a pot on the heat. Stir until the sugar dissolves. Once boiling, add the dissolved starch and orange juice mixture, stirring.",
+    "Boil for two rises and take off the heat. While hot, pour into bowls."
+  ],
+  "notes_en": [
+    "The juices of fruits like sour cherry, strawberry, and pomegranate are topped up to seven cups. Their jellies can be made by following the same measures and steps. If desired, some of the fruits' seeds/pieces can be added into it.",
+    "NUTRITIONAL NOTE: Starch is pure carbohydrate, lacking protein, vitamins, and mineral salts. Good starch is fine, soft, free of foreign matter, not damp, and not bitter or sour."
+  ],
+  "variations": [
+    {
+      "name_tr": "LİMONLU PELTE",
+      "name_en": "Lemon Jelly",
+      "description_tr": "Portakal suyu yerine, dört limon suyu kullanılarak, toplam su miktarı yedi bardağa tamamlanır. Aynı işlemlere uyularak limonlu pelte hazırlanır. İçine haşlanarak kıyılmış yarım limon kabuğu konur.",
+      "description_en": "Instead of orange juice, the juice of four lemons is used, and the total liquid is topped up to seven cups. Following the same steps, lemon jelly is made. Half a lemon peel, boiled and chopped, is added into it."
+    }
+  ]
+}

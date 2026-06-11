@@ -1,0 +1,56 @@
+{
+  "page": 329,
+  "slug": "p329_beze",
+  "name_tr": "BEZE",
+  "name_en": "Meringue",
+  "ingredients_tr": [
+    "4 yumurta",
+    "1,5 su bardağı toz şeker",
+    "Yarım paket vanilya",
+    "1 çay kaşığı limon kabuğu rendesi",
+    "1 fiske tuz"
+  ],
+  "instructions_tr": [
+    "Yumurta akları, limon kabuğu rendesi, tuz hızlı ve sürekli, dört-beş dakika çarpılarak katı kar haline getirilir.",
+    "Şeker, vanilya katılır. Beş-altı dakika daha çarpmağa aralıksız ve aynı hızla devam edilir.",
+    "Krema pompasına doldurulur. Kağıt yayılmış tepsiye, koni şeklinde aralıklı sıkılır. Ya da kaşıkla konur.",
+    "Hafif ısılı fırında, fırının kapağı açılmadan bir saat pişirilir. İyice kuruyunca fırından alınır.",
+    "Soğuduktan sonra kâğıttan çıkarılır."
+  ],
+  "notes_tr": "Not: Yemek yaparken kalan yumurta akları, beze olarak değerlendirilmek istenirse, bir yumurta için, bir buçuk kahve fincanı toz şeker, pratik ölçü olarak kullanılabilir.",
+  "ingredients_en": [
+    "4 eggs",
+    "1,5 cups granulated sugar",
+    "Half packet vanilla",
+    "1 teaspoon grated lemon zest",
+    "1 pinch salt"
+  ],
+  "instructions_en": [
+    "Beat the egg whites, grated lemon zest, and salt fast and continuously for four or five minutes into a stiff snow.",
+    "Add the sugar and vanilla. Continue beating without stopping at the same speed for five or six more minutes.",
+    "Fill a piping bag. Pipe cone shapes, spaced apart, onto a paper-lined tray. Or spoon them on.",
+    "Bake in a low oven, without opening the oven door, for one hour. Take out of the oven once thoroughly dry.",
+    "Remove from the paper after cooling."
+  ],
+  "notes_en": "Note: If you want to use up egg whites left over from cooking as meringue, one and a half coffee cups of granulated sugar per egg can be used as a practical measure.",
+  "variations": [
+    {
+      "name_tr": "CEVİZLİ BEZE",
+      "name_en": "Walnut Meringue",
+      "description_tr": "Çarpılmış yumurta akı, şeker karışımına, yarım su bardağı parçalara bölünmüş veya makineden çekilmiş ceviz katılır. Kısa süre karıştırılır.",
+      "description_en": "Half a cup of walnuts, broken into pieces or machine-ground, is added to the beaten egg white and sugar mixture. It is mixed briefly."
+    },
+    {
+      "name_tr": "ÇİKOLATALI BEZE",
+      "name_en": "Chocolate Meringue",
+      "description_tr": "Çarpılmış yumurta akı, şeker karışımına, su buharında eritilmiş bir miktar sütsüz çikolata veya elenmiş kakao katılır. Kısa süre karıştırılır. Aynı şekilde pişirilir.",
+      "description_en": "Some unsweetened chocolate melted over steam, or sifted cocoa, is added to the beaten egg white and sugar mixture. It is mixed briefly. It is baked the same way."
+    },
+    {
+      "name_tr": "HİNDİSTAN CEVİZLİ BEZE (KOKO)",
+      "name_en": "Coconut Meringue",
+      "description_tr": "Kabartılan ak ve şeker karışımına, bir su bardağından biraz az hindistan cevizi rendesi, yarım çorba kaşığı nişasta konur. Kısa süre karıştırılır. Aynı şekilde pişirilir.",
+      "description_en": "A little less than one cup of grated coconut and half a tablespoon of starch are added to the whipped white and sugar mixture. It is mixed briefly. It is baked the same way."
+    }
+  ]
+}

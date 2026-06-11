@@ -1,0 +1,81 @@
+{
+  "page": 346,
+  "page_end": 347,
+  "slug": "p346_rulo_pasta",
+  "name_tr": "RULO PASTA",
+  "name_en": "Roll Cake",
+  "ingredients_tr": [
+    "Pasta Kreminin Ölçüleri:",
+    "Yarım su bardağı un",
+    "Yarım su bardağı şeker",
+    "2,5 su bardağı süt",
+    "1 yumurta",
+    "1 çay kaşığı limon kabuğu rendesi",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "Yarım paket vanilya",
+    "Pandispanyanın Ölçüleri:",
+    "6 yumurta",
+    "1 su bardağı un",
+    "Yarım su bardağı şeker",
+    "2 çorba kaşığı limon suyu",
+    "1 tatlı kaşığı limon kabuğu rendesi",
+    "Yarım paket vanilya"
+  ],
+  "instructions_tr": [
+    "Yumurta, limon kabuğu rendesi, un, şeker, karıştırılır. Azar azar süt ilave edilir. Hafif ateşte karıştırarak pişirilir. İki-üç taşım kaynatılıp ateşten alınır. Yağ, vanilya konup karıştırarak yedirilir.",
+    "Fırın yakılır. Fırın tepsisine yağlanmış parşömen kâğıdı yayılır.",
+    "Yumurtalar, şeker, limon kabuğu rendesi çarpılarak koyu boza kıvamına getirilir. Limon suyu konur. Bir dakika daha çarpılır.",
+    "Vanilya katılarak elenmiş un ilave edilir. Büyük bir kaşıkla alt üst edilip unun kısa sürede karışması sağlanır.",
+    "Tepsiye yayılır. Sıcak fırında on beş dakika pişirilir. Altı üstü pembeleşmiş olarak fırından alınır.",
+    "Kâğıdı ile tepsiden çıkarılır. Uzun kenarı üzerine bir kere kâğıdı ile sarılıp açılır.",
+    "Yüzeyine soğumuş pasta kremi sürülür. Uzun kenarı boyunca kıvrılarak kağıdından ayrılıp sarılır. İki ucundan birer dilim kesilerek düzeltilir. Üzerine vanilya katılmış pudra şekeri elenir."
+  ],
+  "notes_tr": "Not: Rulonun sertleşmeyip sarılabilmesi için sıcak fırında, kısa sürede pişirilmeli. Her şey önceden hazırlanıp fırından çıkan rulo, vakit geçirmeden hemen sarılmalı.",
+  "ingredients_en": [
+    "For the cake cream:",
+    "Half cup flour",
+    "Half cup sugar",
+    "2,5 cups milk",
+    "1 egg",
+    "1 teaspoon grated lemon zest",
+    "2 matchbox-sized pieces of margarine",
+    "Half packet vanilla",
+    "For the sponge:",
+    "6 eggs",
+    "1 cup flour",
+    "Half cup sugar",
+    "2 tablespoons lemon juice",
+    "1 dessertspoon grated lemon zest",
+    "Half packet vanilla"
+  ],
+  "instructions_en": [
+    "Mix the egg, grated lemon zest, flour, and sugar. Add the milk little by little. Cook over low heat, stirring. Boil for two or three rises and take off the heat. Add the fat and vanilla and stir them in.",
+    "Turn on the oven. Lay greased parchment paper on an oven tray.",
+    "Beat the eggs, sugar, and grated lemon zest to the consistency of thick boza. Add the lemon juice. Beat for one more minute.",
+    "Add the vanilla and the sifted flour. Fold with a large spoon so the flour combines quickly.",
+    "Spread on the tray. Bake in a hot oven for fifteen minutes. Take it out of the oven with the top and bottom turned pink.",
+    "Lift it from the tray with its paper. Roll it up once along the long edge with its paper and unroll it.",
+    "Spread the cooled cake cream over its surface. Roll it up along the long edge, separating it from its paper as you go. Trim a slice off each end to neaten it. Sift vanilla-mixed powdered sugar over it."
+  ],
+  "notes_en": "Note: So the roll doesn't firm up and can be rolled, it should be baked quickly in a hot oven. Everything should be prepared ahead, and the roll should be rolled immediately when it comes out of the oven without losing time.",
+  "variations": [
+    {
+      "name_tr": "FINDIKLI MUZLU RULO",
+      "name_en": "Hazelnut Banana Roll",
+      "description_tr": "Rulonun hamuruna yarım su bardağı çekilmiş fındık katılır. Sarılırken kenarına üç-dört muz sıralanır. Üzerine pasta kremi sürülüp kıyılmış fındık yapıştırılır.",
+      "description_en": "Half a cup of ground hazelnuts is added to the roll batter. When rolling, three or four bananas are lined up along the edge. Cake cream is spread over it and chopped hazelnuts are pressed on."
+    },
+    {
+      "name_tr": "ÇİKOLATALI RULO",
+      "name_en": "Chocolate Roll",
+      "description_tr": "Rulonun hamuruna ve pasta kremine ikişer çorba kaşığı elenmiş kakao konur. Üzerine kremasından sürülüp rendenin kalın tarafından sütsüz çikolata rendelenir.",
+      "description_en": "Two tablespoons each of sifted cocoa are added to the roll batter and the cake cream. Some of its cream is spread over the top and unsweetened chocolate is grated over it on the coarse side of the grater."
+    },
+    {
+      "name_tr": "BEYAZ RULO",
+      "name_en": "White Roll",
+      "description_tr": "Rulo pastanın hamuruna, yarım su bardağı çekilmiş fındık katılır. Arasına, pasta kremi yerine, krem şanti veya yağlı beyaz krem sürülür. Muz konur. Üzerine kullanılan beyaz kremden sürülüp hindistan cevizi rendesi serpilir.",
+      "description_en": "Half a cup of ground hazelnuts is added to the roll batter. Instead of cake cream, whipped cream or white buttercream is spread inside. Banana is placed in. Some of the white cream used is spread over the top and grated coconut is sprinkled on."
+    }
+  ]
+}

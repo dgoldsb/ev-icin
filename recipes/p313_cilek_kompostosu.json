@@ -1,0 +1,30 @@
+{
+  "page": 313,
+  "slug": "p313_cilek_kompostosu",
+  "name_tr": "ÇİLEK KOMPOSTOSU",
+  "name_en": "Strawberry Compote",
+  "ingredients_tr": [
+    "500 gr. çilek",
+    "1 su bardağı toz şeker"
+  ],
+  "instructions_tr": [
+    "Şeker, üç su bardağı su ile ateşe konur. Eriyinceye kadar karıştırılır. Birkaç taşım kaynatılır. İstenirse limon suyu konur.",
+    "Yıkanıp ayıklanmış çilekler katılır. Kaynama derecesine kadar ısıtılıp, kaynamadan ateşten alınır."
+  ],
+  "ingredients_en": [
+    "500 gr. strawberries",
+    "1 cup granulated sugar"
+  ],
+  "instructions_en": [
+    "Put the sugar on the heat with three cups of water. Stir until dissolved. Boil for a few rises. If desired, add lemon juice.",
+    "Add the washed and hulled strawberries. Heat to the boiling point and take off the heat before it boils."
+  ],
+  "variations": [
+    {
+      "name_tr": "VİŞNE KOMPOSTOSU",
+      "name_en": "Sour Cherry Compote",
+      "description_tr": "Aynı ölçü ve işlemlere uyularak yapılır. Ancak vişne konunca bir taşım kaynatıldıktan sonra ocaktan alınır.",
+      "description_en": "Made by following the same measures and steps. However, once the sour cherries are added, it is taken off the stove after boiling for one rise."
+    }
+  ]
+}

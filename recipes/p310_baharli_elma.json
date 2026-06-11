@@ -1,0 +1,61 @@
+{
+  "page": 310,
+  "page_end": 311,
+  "slug": "p310_baharli_elma",
+  "name_tr": "BAHARLI ELMA",
+  "name_en": "Spiced Apple",
+  "ingredients_tr": [
+    "8 adet orta boy elma",
+    "3 yumurta akı",
+    "Yarım su bardağı dövülmüş fındık veya badem",
+    "1 su bardağı toz şeker",
+    "Yarım paket vanilya",
+    "1 çorba kaşığı çekirdeksiz kuru üzüm",
+    "1 çay kaşığı tarçın",
+    "1 çay kaşığı yenibahar",
+    "1 çorba kaşığı kıyılmış yeşil fıstık"
+  ],
+  "instructions_tr": [
+    "Elmalar yıkanır. Oyacakla talaş kısımları çıkarılıp soyulur.",
+    "Bir bardak su ve şekerle ağzı kapalı bir tencerede ateşe konur. Hafif ateşte yumuşayıncaya kadar pişirilir.",
+    "Kapağı açılıp şurup koyulaşıncaya kadar kaynatılır. Ocaktan alınır. Elmalar şuruptan çıkarılır. Bir tepsiye aralıklı sıralanır. Üzerlerine vanilya serpilir.",
+    "Badem veya fındık, üzüm, yenibahar, tarçın, iki çorba kaşığı şeker karıştırılır. Elmaların ortalarındaki boşluğa doldurulur.",
+    "Yumurta akları çarpılarak katı kar haline getirilir. Elmalardan arta kalan koyulaştırılmış şurup kaynar halde aklara katılır. Hızla karıştırarak kısa sürede yedirilir.",
+    "Hazırlanan ak, krema pompası ile sıkılarak veya kaşıkla elmaların üst kısmını kaplayacak şekilde konur. Üstüne yeşil fıstık serpilir.",
+    "Hafif ısılı fırında üzeri pembeleşinceye kadar pişirilir."
+  ],
+  "ingredients_en": [
+    "8 medium apples",
+    "3 egg whites",
+    "Half cup crushed hazelnuts or almonds",
+    "1 cup granulated sugar",
+    "Half packet vanilla",
+    "1 tablespoon seedless raisins",
+    "1 teaspoon cinnamon",
+    "1 teaspoon allspice",
+    "1 tablespoon chopped pistachios"
+  ],
+  "instructions_en": [
+    "Wash the apples. Remove the cores with a corer and peel them.",
+    "Put them on the heat in a covered pot with one cup of water and the sugar. Cook over low heat until soft.",
+    "Uncover and boil until the syrup thickens. Take off the stove. Lift the apples out of the syrup. Line them up spaced apart on a tray. Sprinkle vanilla over them.",
+    "Mix the almonds or hazelnuts, raisins, allspice, cinnamon, and two tablespoons of sugar. Fill the hollows in the centers of the apples.",
+    "Beat the egg whites into a stiff snow. Add the thickened syrup left from the apples, boiling hot, to the whites. Stir quickly to work it in over a short time.",
+    "Apply the prepared meringue with a piping bag or a spoon so it covers the top of the apples. Sprinkle pistachios over them.",
+    "Bake in a low oven until the tops turn pink."
+  ],
+  "variations": [
+    {
+      "name_tr": "FIRINDA ELMA",
+      "name_en": "Baked Apple in Pastry",
+      "description_tr": "Elmalar, yukarıdaki gibi hazırlanıp içleri doldurulur. Katmerli hamurlardan biri tuzsuz hazırlanır. 3 mm incelikte açılır. Elmaları saracak büyüklükte yuvarlaklar kesilir. Elmalar içine konup uçları üstten toplanarak kapatılır. Kapatılan kısım alta çevrilerek tepsiye sıralanır. Orta ısılı fırında pembe renkte pişirilir. Fırından çıkınca elmaların koyulaştırılmış şurubu kaşıkla üzerlerine dökülür.",
+      "description_en": "The apples are prepared and filled as above. One of the layered pastry doughs is made unsalted. It is rolled out to 3 mm. thickness. Rounds large enough to wrap the apples are cut. The apples are placed inside and the ends are gathered and closed at the top. The sealed part is turned to the bottom and they are lined up on a tray. They are baked to a pink color in a medium oven. When out of the oven, the apples' thickened syrup is spooned over them."
+    },
+    {
+      "name_tr": "KAYMAKLI ELMA",
+      "name_en": "Apple with Kaymak",
+      "description_tr": "Elmalar aynen hazırlanıp pişirilir. Ortalarındaki boşluğa kaymak doldurulur. Üzerlerine elmaların koyulaştırılmış şurubundan birer kaşık dökülür.",
+      "description_en": "The apples are prepared and cooked just the same. The hollows in their centers are filled with kaymak. A spoonful each of the apples' thickened syrup is poured over them."
+    }
+  ]
+}

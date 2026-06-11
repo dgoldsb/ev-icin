@@ -1,0 +1,49 @@
+{
+  "page": 300,
+  "page_end": 301,
+  "slug": "p300_hanim_gobegi",
+  "name_tr": "HANIM GÖBEĞİ",
+  "name_en": "Hanım Göbeği",
+  "ingredients_tr": [
+    "2 su bardağı un",
+    "3 kibrit kutusu büyüklüğünde margarin (100 gr.)",
+    "Yarım çay kaşığından az tuz",
+    "4 yumurta",
+    "2 su bardağı sıvı yağ",
+    "3 su bardağı toz şeker",
+    "1 çorba kaşığı limon suyu"
+  ],
+  "instructions_tr": [
+    "Şeker, üç su bardağı su ile ateşe konur. Eriyinceye kadar karıştırılır. Kaynayınca üzerinde biriken köpük alınır. Limon suyu konur. Bir süre kaynadıktan sonra içine batırılıp çıkarılan kaşıktan akan son bir-iki damla biraz uzuyorsa, ateşten alınıp soğumağa bırakılır.",
+    "Margarin, iki su bardağı su, tuz alüminyum olmayan bir tencerede ateşe konur. Kaynayınca ateşi kısılıp elenmiş un birden ilave edilerek hızla karıştırılır. Hafif ateşte karıştırarak üç-dört dakika pişirilir. Ateşten alınır.",
+    "Soğuyunca yumurtalar teker teker kırılıp yoğrulur.",
+    "Bir buçuk ceviz büyüklüğünde parçalar alınır. Yağlanmış iki avuç arasında yuvarlanıp yassıltılır. Yağlanmış parmakla ortasına delik açılır.",
+    "Soğuk zeytinyağına aralıklı konur. Orta ısıdaki ateşte sertleşip, hamurlar yağın yüzeyine çıkıncaya kadar tava hafif sallanır. Diğer yüzleri çevrilir. Ateş kısılarak altı üstü pembe renkte kızartılır. Kâğıt üzerine çıkarılır.",
+    "Sıcakken soğuk şuruba atılır. Şurubu çekince servis tabağına alınır. İstenirse üzerine kıyılmış yeşil fıstık serpilir."
+  ],
+  "ingredients_en": [
+    "2 cups flour",
+    "3 matchbox-sized pieces of margarine (100 gr.)",
+    "Less than half a teaspoon of salt",
+    "4 eggs",
+    "2 cups liquid oil",
+    "3 cups granulated sugar",
+    "1 tablespoon lemon juice"
+  ],
+  "instructions_en": [
+    "Put the sugar on the heat with three cups of water. Stir until dissolved. Once boiling, skim off the foam that collects on top. Add the lemon juice. After it has boiled for a while, if the last drop or two falling from a spoon dipped in and lifted out stretches a little, remove from the heat and leave to cool.",
+    "Put the margarine, two cups of water, and salt on the heat in a non-aluminum pot. Once boiling, lower the heat, add the sifted flour all at once, and stir quickly. Cook over low heat, stirring, for three or four minutes. Take off the heat.",
+    "Once cool, crack in the eggs one by one and knead.",
+    "Take pieces the size of one and a half walnuts. Roll and flatten between two greased palms. Make a hole in the center with a greased finger.",
+    "Place them, spaced apart, into cold olive oil. Over medium heat, gently shake the pan until they firm up and the dough rises to the surface of the oil. Turn the other sides. Lower the heat and fry top and bottom to a pink color. Lift out onto paper.",
+    "While hot, drop into cold syrup. Once they have absorbed the syrup, transfer to a serving plate. If desired, sprinkle chopped pistachios over the top."
+  ],
+  "variations": [
+    {
+      "name_tr": "BADEMLİ HURMA TATLISI",
+      "name_en": "Almond Date-Shaped Sweet",
+      "description_tr": "Hanım göbeği hamuruna, kaynar suda bırakılarak kabukları soyulup, makineden çekilmiş yarım su bardağı badem içi katılır. Yarım ceviz büyüklüğünde parçalar alınarak yağlanmış iki avuç arasında yuvarlanır. Rende veya çatal üzerine bastırarak bir santim inceltilir. Hurma şeklinde yuvarlanır. Sıvı yağda pembe renkte kızartılıp soğuk şuruba atılır.",
+      "description_en": "Half a cup of almonds — soaked in boiling water, peeled, and machine-ground — is mixed into the hanım göbeği dough. Pieces the size of half a walnut are taken and rolled between two greased palms. Pressed onto a grater or fork and thinned to one centimeter. Rolled into a date shape. Fried in liquid oil to a pink color and dropped into cold syrup."
+    }
+  ]
+}

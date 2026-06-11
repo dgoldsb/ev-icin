@@ -5,16 +5,24 @@ resume after a context compaction. **Source of truth is `images/manifest.json`**
 (per-photo status) plus the files in `recipes/` and `index.json`. Nothing
 depends on conversation history.
 
-## Status as of p126–298
+## Status as of p126–366
 
-- **Digitized:** pages 126–298 (plus the pre-existing 56–125). Through the
-  canapés, pasta/makarna, mantı, börek, çörek/pide, and deep into the dessert
-  section (baklava, kadayıf, helva, aşure, krem karamel, puding, süfle, krem
-  bavaruva, sofra kremi, sütlaç, muhallebi + kazandibi). 182 index entries;
-  all recipe files validate and every index entry has a file.
-- **Next unprocessed photo:** IMG_8568 (a new recipe whose ingredients begin
-  at the top edge of p298). ~118 photos remaining (→ IMG_8659 main sequence,
-  then reshoot batch IMG_8660–8695).
+- **Digitized:** pages 126–366 (plus the pre-existing 56–125). Through the
+  tart section and into the jam/marmalade section (kayısı/ayva/incir/çilek/ekşi
+  elma/greyfrut reçeli) — with a 3rd section-intro page "Reçel Marmelat... Kısa
+  Bilgiler". 232 index entries; all recipe files validate and every index entry
+  has a file.
+- **Next unprocessed photo:** IMG_8636 (≈ p367). ~56 photos remaining
+  (→ IMG_8659 main sequence, then reshoot batch IMG_8660–8695).
+- **Gaps/reshoots in the p336–362 stretch** (all in reshoot-needed.md): p336,
+  p348 (chestnut-cake head; tail on p349 deferred), p350, p351–352 (blurry
+  multi-component pasta), p358 (last cake recipe), p361 (jam, misframed), p362
+  (jam, blurry).
+- **Convention added (p319+):** filled-pastry recipes with separate dough/
+  filling ingredient blocks store the book's labels as literal list entries
+  (`"Hamurunun Ölçüleri:"` / `"İçinin Ölçüleri:"`, EN `"For the dough:"` /
+  `"For the filling:"`) inside the flat `ingredients_*` array. See
+  p319_elmali_ay, p321_cevizli_ay.
 - **Dessert-section gaps found (all in `reshoot-needed.md`):** p278, p281–282,
   p285–286 not captured; p274 (Revani) blurry/deferred; several deferred tails
   (p243, p249, p265, p275, p283) and one deferred variation (Tuzlu Krep Süzet).
