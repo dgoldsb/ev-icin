@@ -1,0 +1,44 @@
+{
+  "page": 271,
+  "slug": "p271_tel_kadayif",
+  "name_tr": "TEL KADAYIF",
+  "name_en": "Tel Kadayıf",
+  "ingredients_tr": [
+    "1 kg. tel kadayıf",
+    "1 su bardağı eritilmiş margarin",
+    "1,5 su bardağı dövülmüş ceviz içi",
+    "5 su bardağı toz şeker",
+    "2 çorba kaşığı limon suyu"
+  ],
+  "instructions_tr": [
+    "Şeker, beş su bardağı su ile ateşe konur. Eriyinceye kadar karıştırılır. Kaynayınca köpüğü alınıp limon suyu katılır. Bir süre kaynadıktan sonra içine batırılıp çıkarılan kaşıktan akan son bir-iki damla biraz uzuyorsa, ateşten alınıp soğumağa bırakılır.",
+    "Kadayıfın içindeki kalınlıklar ayıklanır. Fırına girecek tepside yağla kadayıf alt üst edilip ovularak yağ kadayıfa içirilir.",
+    "Yağlanan kadayıfın yarısı başka kaba alınır. Kalanı tepsiye yayılır. Düzeltilip elle bastırılır. Dövülmüş ceviz içi serpiştirilir. Ayrılan kadayıf cevizin üzerine yayılır. O da düzeltilip elle bastırılır.",
+    "Orta ısılı fırında altı üstü pembeleşinceye kadar pişirilir.",
+    "Fırından çıkarılan sıcak kadayıfın üzerine, soğutulmuş şurup gezdirerek dökülür. Tepsinin üzerine kapak kapatılır. Soğuyunca dilimlenir."
+  ],
+  "notes_tr": "Not: Kadayıfın yumuşak olması isteniyorsa fırından çıkınca üzerine bir bardak kaynar su serpilir. Kapak kapatılarak on dakika bekletilip sonra şurubu dökülür.",
+  "ingredients_en": [
+    "1 kg. tel kadayıf (shredded pastry)",
+    "1 cup melted margarine",
+    "1,5 cups crushed walnuts",
+    "5 cups granulated sugar",
+    "2 tablespoons lemon juice"
+  ],
+  "instructions_en": [
+    "Put the sugar on the heat with five cups of water. Stir until dissolved. Once boiling, skim off the foam and add the lemon juice. After it has boiled for a while, if the last drop or two falling from a spoon dipped in and lifted out stretches a little, remove from the heat and leave to cool.",
+    "Pick out the thick clumps in the kadayıf. In the oven tray to be used, turn the kadayıf over with the fat and rub it so the fat soaks into the kadayıf.",
+    "Take half of the greased kadayıf into another dish. Spread the rest in the tray. Smooth it and press by hand. Scatter over the crushed walnuts. Spread the reserved kadayıf over the walnuts. Smooth and press that by hand too.",
+    "Bake in a medium oven until the top and bottom turn pink.",
+    "Drizzle the cooled syrup over the hot kadayıf taken from the oven. Cover the tray with a lid. Slice once cool."
+  ],
+  "notes_en": "Note: If you want the kadayıf to be soft, sprinkle a glass of boiling water over it when it comes out of the oven. Cover, let stand ten minutes, then pour on the syrup.",
+  "variations": [
+    {
+      "name_tr": "KADAYIF DOLMASI",
+      "name_en": "Stuffed Kadayıf",
+      "description_tr": "Kadayıftan bir yumurta büyüklüğünde alınıp masa üzerine bir parmak kalınlıkta yayılır. İçine dövülmüş ceviz konur. Kenarları toplanıp sıkıca sarılır. Çarpılmış yumurtaya batırılıp, kızdırılmış margarinde kızartılır.",
+      "description_en": "An egg-sized amount of kadayıf is taken and spread a finger thick on the table. Crushed walnuts are placed inside. The edges are gathered and wrapped tightly. It is dipped in beaten egg and fried in hot margarine."
+    }
+  ]
+}

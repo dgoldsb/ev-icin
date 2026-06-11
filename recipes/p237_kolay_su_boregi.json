@@ -1,0 +1,57 @@
+{
+  "page": 237,
+  "page_end": 238,
+  "slug": "p237_kolay_su_boregi",
+  "name_tr": "KOLAY SU BÖREĞİ",
+  "name_en": "Easy Su Böreği",
+  "ingredients_tr": [
+    "6 adet yufka",
+    "1 su bardağından bir parmak az eritilmiş margarin",
+    "3 yumurta",
+    "2,5 su bardağı süt",
+    "4 kibrit kutusu büyüklüğünde beyaz peynir",
+    "8-10 dal maydanoz yaprağı",
+    "1 çay kaşığı karabiber",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Yumurtaların akı kayboluncaya kadar çatalla çarpılır. Süt, yağın yarıdan biraz fazlası, karabiber, tuz konup karıştırılır.",
+    "Küçük parçalara didiklenmiş dört yufka katılır. Buz dolabında yirmi dakika bekletilir.",
+    "Kalan yağın yarısı ile tepsi yağlanır. Yufkanın biri tepsiye yayılır.",
+    "Buz dolabından alınan yufkalı karışımın yarısı, tepsideki yufkanın üzerine yayılır.",
+    "Ezilmiş peynir, kıyılmış maydanozla hazırlanan iç serpiştirilir. Kalan karışım yayılıp, bütün yufka üzerine açılır. Üzeri kalan yağla yağlanır.",
+    "Orta ısılı fırında altı üstü kızarıncaya kadar pişirilir."
+  ],
+  "ingredients_en": [
+    "6 sheets yufka (filo)",
+    "1 cup less a finger's width of melted margarine",
+    "3 eggs",
+    "2,5 cups milk",
+    "4 matchbox-sized pieces of white cheese",
+    "8-10 sprigs parsley leaves",
+    "1 teaspoon black pepper",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Beat the eggs with a fork until the whites disappear. Add the milk, a little over half of the fat, the black pepper, and salt and mix.",
+    "Stir in four sheets of yufka torn into small pieces. Let stand in the refrigerator for twenty minutes.",
+    "Grease a tray with half of the remaining fat. Spread one sheet of yufka in the tray.",
+    "Spread half of the yufka mixture taken from the refrigerator over the sheet in the tray.",
+    "Sprinkle on a filling made of mashed cheese and chopped parsley. Spread the rest of the mixture and lay it out over the whole sheet. Grease the top with the remaining fat.",
+    "Bake in a medium oven until the top and bottom are browned."
+  ],
+  "variations": [
+    {
+      "name_tr": "YUFKA SÜFLESİ",
+      "name_en": "Yufka Soufflé",
+      "description_tr": "Çatalla çarpılmış iki yumurtaya, iki su bardağı süt, yarım su bardağı eritilmiş margarin, yarım su bardağı rendelenmiş kaşar peyniri, bir çay kaşığı karabiber, bir çay kaşığı tuz katılır. Ateşe dayanıklı cam bir kaba küçük parçalara bölünmüş dört yufka üzerine bastırmadan gevşek olarak konur. Hazırlanan karışım üzerine kaşıkla gezdirilir. Kaşar peyniri rendelenir. Fırında, üzeri pembeleşinceye kadar pişirilir.",
+      "description_en": "To two fork-beaten eggs are added two cups of milk, half a cup of melted margarine, half a cup of grated kashar cheese, one teaspoon of black pepper, and one teaspoon of salt. Four sheets of yufka broken into small pieces are placed loosely, without pressing, into a heatproof glass dish. The prepared mixture is spooned over them. Kashar cheese is grated over. It is baked until the top turns pink."
+    },
+    {
+      "name_tr": "BAYAT EKMEK SÜFLESİ",
+      "name_en": "Stale Bread Soufflé",
+      "description_tr": "Yufka yerine, ince dilimlenerek kızartılmış bayat ekmek kullanılır. Yufka süflesindeki ölçü ve işlemler aynen uygulanır. Üzerine ince kıyılmış dereotu, varsa kıyılmış sosis, salam serpiştirilir.",
+      "description_en": "Instead of yufka, stale bread thinly sliced and toasted is used. The same measures and steps as in the yufka soufflé are applied. Finely chopped dill and, if available, chopped sausage and salami are sprinkled over the top."
+    }
+  ]
+}

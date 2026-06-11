@@ -5,13 +5,48 @@ resume after a context compaction. **Source of truth is `images/manifest.json`**
 (per-photo status) plus the files in `recipes/` and `index.json`. Nothing
 depends on conversation history.
 
-## Status as of p126–221
+## Status as of p126–298
 
-- **Digitized this run:** pages 126–221 (plus the pre-existing 56–125).
-- **Flag rate:** zero — every ingredient line cross-checked clean against
-  `tools/ocr.py`. No data is guessed.
-- All output committed to `recipes/*.json` + `index.json`; every processed
-  photo marked `status: "done"` in `images/manifest.json`.
+- **Digitized:** pages 126–298 (plus the pre-existing 56–125). Through the
+  canapés, pasta/makarna, mantı, börek, çörek/pide, and deep into the dessert
+  section (baklava, kadayıf, helva, aşure, krem karamel, puding, süfle, krem
+  bavaruva, sofra kremi, sütlaç, muhallebi + kazandibi). 182 index entries;
+  all recipe files validate and every index entry has a file.
+- **Next unprocessed photo:** IMG_8568 (a new recipe whose ingredients begin
+  at the top edge of p298). ~118 photos remaining (→ IMG_8659 main sequence,
+  then reshoot batch IMG_8660–8695).
+- **Dessert-section gaps found (all in `reshoot-needed.md`):** p278, p281–282,
+  p285–286 not captured; p274 (Revani) blurry/deferred; several deferred tails
+  (p243, p249, p265, p275, p283) and one deferred variation (Tuzlu Krep Süzet).
+- Every ingredient line cross-checked against `tools/ocr.py`; quantities
+  re-cropped at native resolution wherever OCR was incomplete. No data guessed.
+- All output in `recipes/*.json` + `index.json`; every processed photo marked
+  in `images/manifest.json`.
+
+### New conventions added this run (p223+)
+- **Section-intro pages** (e.g. KANEPELER): own entry with `"kind":"section"`
+  and `body_tr`/`body_en` paragraph arrays. `recipe.html` renders these as
+  title + paragraphs (no Malzemeler/İşlemler); `index.html` styles them with
+  `.toc-section`. They carry no `tags`, so they only show under the "All"
+  filter.
+- **Prose recipes with no ingredient block** (canapés): `ingredients_*` is `[]`
+  and the whole paragraph goes in `instructions_*`. `recipe.html` hides the
+  empty Ingredients heading.
+
+### New gaps found this run (need reshoot / not photographed)
+- **p240** (`IMG_8509`) — blurry, illegible.
+- **p242** (`IMG_8511`) — blurry; its tail on legible **p243** (`IMG_8512`) is
+  saved under "Deferred continuations" in `docs/reshoot-needed.md`.
+- **p248** — PIRASALI İÇ head never photographed (stuck pages); its tail on
+  legible **p249** (`IMG_8518`) is saved under "Deferred continuations".
+  `IMG_8517` is a blurry duplicate of p249 (skipped).
+- **p252** (`IMG_8521`) — full recipe page (likely ÇİĞ BÖREK), blurry/illegible.
+- **p264** (`IMG_8533`) — blurry/illegible; head of a yaprak-hamuru börek
+  (references Talaş böreği). Its tail on legible **p265** (`IMG_8534`) is saved
+  under "Deferred continuations".
+
+All deferred tails and new gaps are detailed in `docs/reshoot-needed.md`.
+The reshoot batch `IMG_8660–8695` (not yet processed) should fill these.
 
 ## How to resume
 

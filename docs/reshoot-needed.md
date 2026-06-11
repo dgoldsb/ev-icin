@@ -22,6 +22,22 @@ interpolated from legible neighbors and may be off by one.
 - **p194 — a turşu (pickle) recipe** — `IMG_8462` is motion-blurred and
   illegible. Sits between p193 (Domates Biber Turşusu) and p195 (Lahana
   Turşusu).
+- **p248 — head of PIRASALI İÇ (leek börek filling)** — never photographed
+  (stuck pages). p249 (`IMG_8518`, clean) holds only the recipe's *tail*; its
+  title, ingredient list, and early steps are on the missing p248. Sits
+  between p247 (Sarıyer Böreği) and p250.
+- **p278** — never photographed (stuck pages). The photo sequence jumps from
+  p277 (`IMG_8546`, İrmik Helvası, complete) straight to p279 (`IMG_8547`,
+  Kabak Tatlısı, starts fresh at top). Whatever recipe(s) sit on p278 are
+  missing entirely.
+- **p281–282 — head of a milk dessert** — not captured (`IMG_8550` misframed
+  onto the table). p283 (`IMG_8552`, clean) holds only the tail (a garnish
+  line) + a milk-storage GENEL BİLGİ; the title/ingredients/early steps are
+  on the missing p281–282. Sits between p280 (Aşure) and p284.
+- **p285–286** — not captured. p285 (`IMG_8554`) is severely blurry/dark
+  (holds the tail of the TUZLU KREP SÜZET variation — see Deferred
+  continuations); p286 was skipped entirely (sequence jumps p285→p287,
+  `IMG_8555` Krem Karamel). Sits between p284 (Krep Süzet) and p287.
 
 ## Motion-blurred — illegible (zero OCR)
 
@@ -43,6 +59,37 @@ interpolated from legible neighbors and may be off by one.
 | IMG_8646 | candy/syrup section | IMG_8645 → IMG_8649 |
 | IMG_8648 | candy/syrup section | IMG_8645 → IMG_8649 |
 
+## Motion-blurred — quantities unverifiable (whole recipe, reshoot)
+
+- **p274 — REVANİ** (`IMG_8543`, title prints blurry as REKANİ/REVANİ;
+  semolina dessert). The page is uniformly motion-blurred — instructions are
+  mostly readable but the ingredient quantities cannot be cross-verified
+  (OCR garbled; e.g. the ingredient list seems to read "3,5 su bardağı toz
+  şeker" while step 1 reads "üç su bardağı şeker"). **Not transcribed** to
+  avoid guessing quantities. Best-effort UNVERIFIED reading for reassembly
+  once reshot:
+  > Ölçüler: Yarım su bardağı ince irmik · Yarım su bardağı un · 6 yumurta ·
+  > Yarım paket vanilya · 1 tatlı kaşığı limon kabuğu rendesi · 3,5(?) su
+  > bardağı toz şeker · 3(?) çorba kaşığı limon suyu. Steps: sugar+4 cups
+  > water boiled to syrup with a little lemon juice; eggs beaten ~10 min to
+  > ribbon, lemon juice added; sifted flour+semolina+vanilla folded in;
+  > poured into greased+floured mold or high-rimmed tray; baked ~1 hr medium
+  > oven without opening; turned out / syruped; syrup drawn in over low heat.
+  > p275 (`IMG_8544`, legible tail): "8 — Soğuduktan sonra dilimlere kesilir."
+  > + GENEL BİLGİ: "Bütün yumurta veya yumurta akları alüminyum kaplarda
+  > çarpılırsa rengi bozulur, kirlenir."
+
+- **p283 (`IMG_8552`)** — tail of a milk dessert whose head is on the
+  un-captured **p281–282**. Verbatim tail + note:
+  > Üzeri kıyılmış yeşil fıstık, hindistan cevizi rendesi veya çilek, kiraz, nar gibi mevsim meyvaları ile süslenebilir.
+  > GENEL BİLGİ: Pastörize edilsin veya edilmesin, süt hiçbir zaman oda sıcaklığında bırakılmamalı. Buz dolabında, pastörize edilen süt en fazla üç gün, kaynatılmış süt ise iki gün dayanır.
+
+- **p284→p285: TUZLU KREP SÜZET variation** — a variation of KREP SÜZET
+  (`recipes/p284_krep_suzet.json`) whose head is legible on p284 but whose
+  tail runs onto the blurry, illegible **p285** (`IMG_8554`). Add it as a
+  `variations` entry to p284 once p285 is reshot. Legible head (p284, cut off):
+  > Krep süzet hamuruna bir çay kaşığı tuz konup pişirilir. Arasına börek içlerinden herhangi biri konur. Katla[nır…]
+
 ## Motion-blurred — near-illegible (1–5 garbled lines)
 
 | Photo | Approx. page | Between |
@@ -59,3 +106,23 @@ interpolated from legible neighbors and may be off by one.
 
 Tracked in `images/manifest.json` as `status: "reshoot"` (blurry) and
 `status: "flagged"` (p133, awaiting p131–132).
+
+## Deferred continuations (legible tail, head awaiting reshoot)
+
+Pages that are clearly readable but only contain the *end* of a recipe whose
+title/ingredients/early steps fall on a blurry page still awaiting reshoot.
+The transcribed tail is preserved here so nothing is lost; assemble the full
+recipe once the head page is reshot.
+
+- **p243 (`IMG_8512`)** — tail of the recipe on **p242** (`IMG_8511`, blurry,
+  awaiting reshoot). It's a kıymalı (meat-filled) yufka börek. Verbatim tail:
+  > Dört kibrit kutusu büyüklüğünde margarin, bir su bardağı su ile kaynatılır. Dört yufka dörde bölünerek üst üste konur. Kaynamış yağlı su ile parçaların birer yüzü ıslatılır. İkiye katlanarak üçgen yapılan parçalara kıymalı iç konup gevşek sarılır. Üzerine yumurta sarısı sürülüp fırında kızartılır.
+
+- **p249 (`IMG_8518`)** — tail of **PIRASALI İÇ** (leek börek filling), whose
+  head is on the un-photographed **p248**. Verbatim tail:
+  > [kibrit ku]tusu büyüklüğünde margarin, bir çay kaşığı pul biber bir tencerede ateşe konur. Hafif ateşte kendi suyu ile iyice yumuşayıncaya kadar pişirilir. Bir çay kaşığı tuz konur. Suyunu çekince ateşten alınır. Pırasalı iç, genellikle hazır yufka böreklerinde kullanılır.
+
+- **p265 (`IMG_8534`)** — tail of a yaprak-hamuru börek (references Talaş
+  böreği), whose title/ingredients/early steps are on the blurry, illegible
+  **p264** (`IMG_8533`). Verbatim tail:
+  > üste konur. Talaş böreğinde olduğu gibi karelere veya ortadan ikiye kesilip üst üste konarak sekiz eşit üçgene bölünür. Talaş böreği içi konarak gevşek sarılır. Üzerine sulandırılmış yumurta sarısı sürülür. Sıcak fırında pişirilir.

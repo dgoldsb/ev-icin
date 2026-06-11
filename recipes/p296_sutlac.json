@@ -1,0 +1,42 @@
+{
+  "page": 296,
+  "slug": "p296_sutlac",
+  "name_tr": "SÜTLAÇ",
+  "name_en": "Rice Pudding",
+  "ingredients_tr": [
+    "5 su bardağı süt",
+    "1,5 su bardağı şeker",
+    "Yarım su bardağı pirinç",
+    "1 çorba kaşığı pirinç unu veya un",
+    "1 paket vanilya"
+  ],
+  "instructions_tr": [
+    "Ayıklanıp yıkanmış pirinç, bir buçuk su bardağı su ile ateşe konur. Kaynayınca ateşi kısılır. Hafif ateşte suyunu çekinceye kadar pişirilir.",
+    "Şeker, dört buçuk bardak süt pirince ilave edilir. Beş-altı dakika kaynatılır.",
+    "Pirinç unu veya un, ayrılan yarım bardak soğuk sütte eritilir. Gerekiyorsa tel süzgeçten süzülür. Karıştırarak sütlaca katılır.",
+    "Üç-dört dakika daha kaynatılıp ateşten alınır. Vanilya konur. Sıcakken kâselere boşaltılır."
+  ],
+  "notes_tr": "BESİN BİLGİSİ: Süt uzun süre yüksek ısıda şekerli olarak pişirilirse, özellikle tencereye yakın yerlerde kahve rengine dönüşür. Bu işlem sütün protein değerini düşürür. Bu nedenle uzun süre kaynatılarak hazırlanan sütlü tatlıların şekeri, tatlı ocaktan alınacağına yakın konulmalı.",
+  "ingredients_en": [
+    "5 cups milk",
+    "1,5 cups sugar",
+    "Half cup rice",
+    "1 tablespoon rice flour or flour",
+    "1 packet vanilla"
+  ],
+  "instructions_en": [
+    "Put the cleaned, washed rice on the heat with one and a half cups of water. Once boiling, lower the heat. Cook over low heat until the water is absorbed.",
+    "Add the sugar and four and a half cups of milk to the rice. Boil for five or six minutes.",
+    "Dissolve the rice flour or flour in the reserved half cup of cold milk. Strain through a wire sieve if needed. Stir it into the pudding.",
+    "Boil three or four minutes more and take off the heat. Add the vanilla. While hot, pour into bowls."
+  ],
+  "notes_en": "NUTRITIONAL NOTE: If milk is cooked sweetened at high heat for a long time, it turns brown, especially near the sides of the pot. This lowers the protein value of the milk. For this reason, the sugar for milk desserts made with long boiling should be added near the time the dessert is taken off the stove.",
+  "variations": [
+    {
+      "name_tr": "FIRINLANMIŞ SÜTLAÇ",
+      "name_en": "Baked Rice Pudding",
+      "description_tr": "Sütlaca pirinç unu ile birlikte çarpılmış iki yumurta sarısı ilave edilir. Ateşe dayanıklı kâselerde, içinde iki parmak su bulunan fırın tepsisine sıralanır. Fırının ısısı üstten verilir. Üzerleri hafif kızarınca çıkarılır.",
+      "description_en": "Two egg yolks beaten together with the rice flour are added to the pudding. It is arranged in heatproof bowls on an oven tray holding two fingers of water. The oven heat is applied from the top. They are taken out once their tops are lightly browned."
+    }
+  ]
+}

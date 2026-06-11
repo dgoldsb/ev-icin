@@ -1,0 +1,40 @@
+{
+  "page": 279,
+  "slug": "p279_kabak_tatlisi",
+  "name_tr": "KABAK TATLISI",
+  "name_en": "Pumpkin Dessert",
+  "ingredients_tr": [
+    "2 kilo bal kabağı",
+    "2,5 su bardağı toz şeker",
+    "1 su bardağı dövülmüş ceviz içi",
+    "3-4 karanfil"
+  ],
+  "instructions_tr": [
+    "Kabak birkaç parçaya bölünür. Kabukları soyulur. Çekirdeğin bulunduğu lifli yumuşak kısım bıçakla alınıp yıkanır. Bir buçuk parmak kalınlığında dilimlere kesilir.",
+    "Bir tencereye sıralanır. Üzerine şeker yayılır. Karanfiller serpilir. Kenarından iki çorba kaşığı su ilave edilir.",
+    "Tencerenin kapağı kapatılır. Çok hafif yanan ocağa konur. Kabak suyunu bırakmağa başlayınca ateşi biraz artırılarak kaynatılır.",
+    "Kabak yumuşayınca kapağı açılır. Bir süre daha kaynatılarak fazla suyu uçurulur. Yaklaşık bir buçuk su bardağı şurup kalınca ateşten alınır. Soğumağa bırakılır.",
+    "Servis yapılırken üzerine dövülmüş ceviz serpilir."
+  ],
+  "ingredients_en": [
+    "2 kilos pumpkin",
+    "2,5 cups granulated sugar",
+    "1 cup crushed walnuts",
+    "3-4 cloves"
+  ],
+  "instructions_en": [
+    "Cut the pumpkin into a few pieces. Peel off the skin. Cut away the fibrous, soft part with the seeds using a knife and wash it. Cut into slices a finger and a half thick.",
+    "Lay the slices in a pot. Spread the sugar over them. Scatter on the cloves. Add two tablespoons of water from the side.",
+    "Cover the pot. Place over a very low flame. Once the pumpkin starts to give up its liquid, raise the heat a little and boil.",
+    "When the pumpkin is soft, uncover. Boil a while longer to drive off the excess liquid. When about one and a half cups of syrup remain, take off the heat. Leave to cool.",
+    "When serving, sprinkle crushed walnuts over the top."
+  ],
+  "variations": [
+    {
+      "name_tr": "KABAK PASTASI",
+      "name_en": "Pumpkin Cake",
+      "description_tr": "İstenilen miktar kabak tatlısı hazırlanır. Kalıp olabilecek porselen veya cam kaba, kabak tatlısının suyuna batırılmış kedi dili sıralanır. Üzerine bir sıra kabak konup, dövülmüş ceviz veya fındık serpilir. Kabak bitinceye kadar işlem tekrarlanarak kat kat yayılır. En üste kabak sıralanıp bir gün buz dolabında bekletilir. Servis yapılacağı zaman istenirse krem şanti veya krem şanti taklidi ile süslenir.",
+      "description_en": "Pumpkin dessert is prepared in the desired amount. In a porcelain or glass dish that can serve as a mold, ladyfinger biscuits dipped in the syrup of the pumpkin dessert are arranged. A row of pumpkin is placed over them and crushed walnuts or hazelnuts are sprinkled on. The process is repeated, spread in layers, until the pumpkin runs out. Pumpkin is arranged on the very top and it is kept in the refrigerator for a day. When serving, it can be decorated, if desired, with whipped cream or imitation whipped cream."
+    }
+  ]
+}

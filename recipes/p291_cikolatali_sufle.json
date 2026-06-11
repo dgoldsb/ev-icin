@@ -1,0 +1,63 @@
+{
+  "page": 291,
+  "page_end": 292,
+  "slug": "p291_cikolatali_sufle",
+  "name_tr": "ÇİKOLATALI SÜFLE",
+  "name_en": "Chocolate Soufflé",
+  "ingredients_tr": [
+    "2 yumurta",
+    "2 su bardağı süt",
+    "2,5 çorba kaşığı un",
+    "1 çorba kaşığı kakao",
+    "50 gr. sütsüz çikolata",
+    "2 kibrit kutusu büyüklüğünde margarin",
+    "Yarım su bardağı toz şeker",
+    "1 kahve fincanı pudra şekeri",
+    "Yarım paket vanilya"
+  ],
+  "instructions_tr": [
+    "Ateşe dayanıklı büyükçe bir kap, yumuşatılmış margarinle bolca yağlanır. Tel süzgeçten elenerek pudra şekeri serpilir.",
+    "Bir tencerede un, kakao, toz şeker karıştırılır. Azar azar süt ilave edilip ezilir. Ateşe konur. Karıştıra karıştıra iki-üç taşım kaynatılır.",
+    "Ocaktan alınır. Sıcakken yağ, parçalara bölünmüş çikolata ilave edilip karıştırılır. Soğuyunca yumurta sarıları konup karıştırarak yedirilir. Vanilya katılır.",
+    "Yumurta akları bir fiske tuzla çarpılarak katı kar haline getirilir.",
+    "Pişen kremaya katılır. Alt üst edilerek kısa sürede karıştırılır.",
+    "Hazırlanan cam kaba konur. Fırın tepsisi içinde, orta sıcaklıktaki fırında, elli dakika, kapağı sık açılmadan pişirilir.",
+    "Kabarmış ve kızarmış olarak çıkarılır. Üzerine pudra şekeri elenir. Kaşıkla alınarak sıcak sıcak servis yapılır. İstenirse üzerine soğuk süt veya süt kreması konur."
+  ],
+  "notes_tr": "Not: Kakao konmayıp sadece 100 gr. sütsüz çikolata ile ya da çikolatasız, üç çorba kaşığı kakao veya kahve ile hazırlanabilir.",
+  "ingredients_en": [
+    "2 eggs",
+    "2 cups milk",
+    "2,5 tablespoons flour",
+    "1 tablespoon cocoa",
+    "50 gr. unsweetened chocolate",
+    "2 matchbox-sized pieces of margarine",
+    "Half cup granulated sugar",
+    "1 coffee cup powdered sugar",
+    "Half packet vanilla"
+  ],
+  "instructions_en": [
+    "Grease a largish heatproof dish generously with softened margarine. Sprinkle with powdered sugar sifted through a wire strainer.",
+    "In a pot, mix the flour, cocoa, and granulated sugar. Add the milk little by little and mash smooth. Put on the heat. Boil for two or three rises, stirring constantly.",
+    "Take off the stove. While hot, add the fat and the chocolate broken into pieces and stir. Once cool, add the egg yolks and mix them in. Add the vanilla.",
+    "Beat the egg whites with a pinch of salt into a stiff snow.",
+    "Fold into the cooked cream. Fold quickly to combine.",
+    "Put into the prepared glass dish. Bake in the oven tray, in a medium oven, for fifty minutes, without opening the door often.",
+    "Take it out puffed and browned. Sift powdered sugar over the top. Serve piping hot, spooned out. If desired, cold milk or cream is poured over it."
+  ],
+  "notes_en": "Note: It can be made with only 100 gr. of unsweetened chocolate instead of the cocoa, or without chocolate, using three tablespoons of cocoa or coffee.",
+  "variations": [
+    {
+      "name_tr": "BEYAZ SÜFLE",
+      "name_en": "White Soufflé",
+      "description_tr": "Çikolata ve kakaosuz bir paket vanilya ile hazırlanır.",
+      "description_en": "Made without chocolate or cocoa, with one packet of vanilla."
+    },
+    {
+      "name_tr": "MEYVALI SÜFLE",
+      "name_en": "Fruit Soufflé",
+      "description_tr": "Elma, ayva gibi sert meyvalar iki çorba kaşığı şekerle pişirilir. Susuz olarak püre yapılır. Çikolata ve kakao yerine bir su bardağı meyva püresi, çarpılmış yumurta akı ile birlikte konur.",
+      "description_en": "Firm fruits like apple and quince are cooked with two tablespoons of sugar. Pureed without water. Instead of the chocolate and cocoa, one cup of fruit puree is added together with the beaten egg white."
+    }
+  ]
+}

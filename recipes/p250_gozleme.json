@@ -1,0 +1,50 @@
+{
+  "page": 250,
+  "page_end": 251,
+  "slug": "p250_gozleme",
+  "name_tr": "GÖZLEME",
+  "name_en": "Gözleme",
+  "ingredients_tr": [
+    "4 su bardağı un",
+    "2 çorba kaşığı yoğurt",
+    "Yarım su bardağı eritilmiş margarin",
+    "2 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Ezilmiş yoğurt, tuz, bir su bardağı su karıştırılır. Elenmiş un katılarak orta yumuşaklıkta bir hamur yapılır. Yoğrularak iyice özleştirilir. İki parçaya bölünüp yumak yapılır. Nemli bez altında yirmi dakika dinlendirilir.",
+    "Her parça unlanarak ince açılır. Yüzeyi yağlanır. Bir kenarından üç parmak katlanıp bütün yufka kıvrılarak üzerine sarılır.",
+    "Yaklaşık dört parmak genişlik kazanan sarılmış yufka, karelere kesilir. Un serpilmiş bir kaba sıralanır. Kapağı kapatılır.",
+    "Parçalar teker teker unlanıp yirmi santimlik karelere açılır.",
+    "Yağlanmış teflon tavada her iki yüzü çevrilerek pişirilir.",
+    "Bir kaba üst üste sıralanır. Yumuşak kalması için ağzı kapatılır."
+  ],
+  "notes_tr": "Not: Elektrikli veya elektriksiz saç, toprak tavada yağsız olarak da pişirilebilir.",
+  "ingredients_en": [
+    "4 cups flour",
+    "2 tablespoons yogurt",
+    "Half cup melted margarine",
+    "2 teaspoons salt"
+  ],
+  "instructions_en": [
+    "Mix the mashed yogurt, salt, and one cup of water. Add the sifted flour and make a medium-soft dough. Knead until very smooth. Divide into two pieces and shape into balls. Let rest under a damp cloth for twenty minutes.",
+    "Flour each piece and roll out thin. Grease the surface. Fold three fingers from one edge and roll the whole sheet up onto itself.",
+    "Cut the rolled sheet, now about four fingers wide, into squares. Line them up in a flour-dusted container. Cover it.",
+    "Flour the pieces one by one and roll out into twenty-centimeter squares.",
+    "Cook both sides, turning, in a greased non-stick pan.",
+    "Stack them in a container. Cover to keep them soft."
+  ],
+  "variations": [
+    {
+      "name_tr": "İÇLİ GÖZLEME",
+      "name_en": "Filled Gözleme",
+      "description_tr": "İnce doğranmış yeşil soğan, ince kıyılmış maydanoz, dereotu, ezilmiş peynire karıştırılır. Gözlemeler dikdörtgen şeklinde açılır. Yarısına iç serpiştirilir. Kenarlarına su sürülür. Diğer yarısı üzerine kapatılıp pişirilir.",
+      "description_en": "Finely chopped spring onion, finely chopped parsley, and dill are mixed into mashed cheese. The gözleme are rolled out into rectangles. The filling is sprinkled over one half. The edges are moistened with water. The other half is folded over and it is cooked."
+    },
+    {
+      "name_tr": "KOLAY GÖZLEME",
+      "name_en": "Easy Gözleme",
+      "description_tr": "Hazır yufka ikiye bölünür. Bir yüzü yağlanır. Düz kenarın iki ucu ortada birleşecek şekilde katlanır. Alttaki yuvarlak kenar da yukarı katlanarak yağlı yüzü kapatılıp dikdörtgen şekline sokulur. Yarısına peynirli veya çiğ börek için hazırlanan kıymalı iç konur. Kenarları su ile ıslatılır. Diğer yarısı üzerine kapatılır. Yağlanmış teflon tavada alt üst edilerek pişirilir.",
+      "description_en": "A ready sheet of yufka is divided in two. One side is greased. The two ends of the straight edge are folded to meet in the middle. The rounded bottom edge is folded up as well, covering the greased side, and it is brought into a rectangular shape. Cheese filling, or the meat filling prepared for raw börek, is placed on one half. The edges are moistened with water. The other half is folded over. It is cooked in a greased non-stick pan, turning it over."
+    }
+  ]
+}

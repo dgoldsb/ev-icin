@@ -1,0 +1,49 @@
+{
+  "page": 297,
+  "page_end": 298,
+  "slug": "p297_muhallebi",
+  "name_tr": "MUHALLEBİ",
+  "name_en": "Muhallebi",
+  "ingredients_tr": [
+    "5 su bardağı süt",
+    "1 su bardağından biraz fazla toz şeker",
+    "Yarım paket vanilya",
+    "Yarım su bardağı pirinç unu",
+    "1 çay kaşığı limon kabuğu rendesi"
+  ],
+  "instructions_tr": [
+    "Pirinç unu, şeker, limon kabuğu rendesi önce bir bardak soğuk sütle ezilir. Kalan süt konup karıştırılır.",
+    "Ateş üzerinde kaynayıncaya kadar karıştırılır. Sekiz-on dakika hafif ateşte kaynatılır. Ocaktan alınır. Vanilya katılır. Sıcakken kâselere konur."
+  ],
+  "ingredients_en": [
+    "5 cups milk",
+    "A little more than 1 cup granulated sugar",
+    "Half packet vanilla",
+    "Half cup rice flour",
+    "1 teaspoon grated lemon zest"
+  ],
+  "instructions_en": [
+    "First mash the rice flour, sugar, and grated lemon zest with one cup of cold milk. Add the remaining milk and stir.",
+    "Stir over the heat until it boils. Boil over low heat for eight to ten minutes. Take off the stove. Add the vanilla. While hot, pour into bowls."
+  ],
+  "variations": [
+    {
+      "name_tr": "TEZ PİŞTİ",
+      "name_en": "Tez Pişti",
+      "description_tr": "Bir tertip muhallebi hazırlanır. İki kepçesi bir kaba ayrılır. Kalanı ateşe dayanıklı kâselere konur. Ayrılan iki kepçe muhallebiye önce çatalla çarpılmış iki yumurta sarısı sonra çarpılarak katı kar haline getirilmiş iki yumurta akı karıştırılır. Muhallebi konmuş kâselerin üzerine yumurtalı muhallebi pay edilir. Kâseler içinde iki parmak su bulunan tepsi içinde, ısısı üstten verilen fırına konur. Üzerleri pembeleşince çıkarılır.",
+      "description_en": "A batch of muhallebi is prepared. Two ladlefuls are set aside in a bowl. The rest is put into heatproof bowls. Into the two reserved ladlefuls are mixed first two fork-beaten egg yolks, then two egg whites beaten into a stiff snow. The egg-enriched muhallebi is divided over the bowls of muhallebi. The bowls are placed in an oven heated from the top, on a tray holding two fingers of water. They are taken out once their tops turn pink."
+    },
+    {
+      "name_tr": "SAKIZLI MUHALLEBİ",
+      "name_en": "Mastic Muhallebi",
+      "description_tr": "Muhallebi ateşe konurken, tülbentle çıkın yapılmış bir tatlı kaşığı damla sakızı ilave edilir. Pişince sakız içinden alınır. Kâselere konur. İstenirse üzerine dövülmüş yeşil fıstık serpilir.",
+      "description_en": "As the muhallebi goes on the heat, one dessertspoon of mastic tied in a muslin bundle is added. Once cooked, the mastic is removed from it. It is poured into bowls. If desired, crushed pistachios are sprinkled on top."
+    },
+    {
+      "name_tr": "KAZAN DİBİ",
+      "name_en": "Kazandibi",
+      "description_tr": "Yağlanmış tepsiye, tel süzgeçten elenerek ince bir tabaka pudra şekeri ekilir. Pirinç unu iki çorba kaşığı artırılarak katı bir muhallebi hazırlanır. Sıcak sıcak tepsiye yayılır. Hafif yanan havagazı alevinde, tepsi gezdirilerek altı kızartılır. Ocaktan alınınca tepsinin alt kısmı hemen soğuk suya daldırılıp bir-iki dakika bekletilir. Soğuyunca dilimlenir. Dibi kazınarak kaldırılan dilimlerin yanık yeri üste gelecek şekilde ikiye katlanır.",
+      "description_en": "A thin layer of powdered sugar, sifted through a wire strainer, is dusted onto a greased tray. A firm muhallebi is prepared using two extra tablespoons of rice flour. It is spread on the tray while hot. Moving the tray over a low gas flame, its bottom is browned. When taken off the stove, the underside of the tray is immediately dipped into cold water and held there for a minute or two. Once cool, it is sliced. The slices, lifted by scraping the bottom, are folded in two so the browned side faces up."
+    }
+  ]
+}

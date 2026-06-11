@@ -1,0 +1,42 @@
+{
+  "page": 263,
+  "slug": "p263_peynirli_dilber_boregi",
+  "name_tr": "PEYNİRLİ DİLBER BÖREĞİ",
+  "name_en": "Cheese Dilber Börek",
+  "ingredients_tr": [
+    "1 tertip yaprak hamuru",
+    "4 kibrit kutusu büyüklüğünde beyaz peynir",
+    "2-3 dal maydanoz yaprağı",
+    "2-3 dal dereotu",
+    "1 yumurta"
+  ],
+  "instructions_tr": [
+    "Ezilmiş peynire bir yumurta akı, kıyılmış maydanoz, dereotu konup karıştırılır.",
+    "Yaprak hamuru son açışta altı üstü unlanarak 3-4 mm. kadar inceltilir. Bir kenarına ikişer parmak ara ile küçük kümeler halinde iç sıralanır. Kenar ve aralarına su sürülüp, kenar içlerin üzerine iki parmak genişliğinde katlanır.",
+    "Keskin kenarlı yuvarlak kalıpla yarım daire veya bıçakla dikdörtgen şeklinde kesilir.",
+    "Tepsiye aralıklı sıralanır. Üzerlerine bir çay kaşığı su ile sulandırılmış yumurta sarısı sürülür.",
+    "Önceden kızdırılmış çok sıcak fırında, kapak açılmadan yirmi beş dakika pişirilir."
+  ],
+  "ingredients_en": [
+    "1 batch puff pastry dough",
+    "4 matchbox-sized pieces of white cheese",
+    "2-3 sprigs parsley leaves",
+    "2-3 sprigs dill",
+    "1 egg"
+  ],
+  "instructions_en": [
+    "Add one egg white and chopped parsley and dill to the mashed cheese and mix.",
+    "On its final rolling, flour the puff pastry dough top and bottom and thin it to about 3-4 mm. Along one edge, line up the filling in small mounds two fingers apart. Brush water on the edge and between them, and fold a two-finger width of the edge over the filling.",
+    "Cut into half-circles with a sharp-edged round cutter, or into rectangles with a knife.",
+    "Line up spaced apart on a tray. Brush the tops with egg yolk thinned with one teaspoon of water.",
+    "Bake in a preheated, very hot oven for twenty-five minutes without opening the door."
+  ],
+  "variations": [
+    {
+      "name_tr": "ISPANAKLI İÇ",
+      "name_en": "Spinach Filling",
+      "description_tr": "İnce yarım halkalara doğranmış iki kuru soğan, bir buçuk kahve fincanı zeytinyağı ile sararmadan kavrulur. Ayıklanarak yıkanıp doğranmış 500 gr. ıspanak, on beş adet yeşil soğan, bir demet maydanoz, bir demet dereotu ilave edilir. Kapak kapatılarak hafif ateşte kendi suyu ile pişirilir. Bir çay kaşığı tuz, bir çay kaşığı karabiber konur. Suyunu çekince ateşten alınır. Ispanaklı iç, yaprak hamuru, diğer börek hamurları, hazır yufka ile hazırlanan böreklere iç olarak kullanılabilir.",
+      "description_en": "Two onions cut into thin half-rings are sautéed in one and a half coffee cups of olive oil without browning. Then 500 gr. of cleaned, washed, and chopped spinach, fifteen spring onions, one bunch of parsley, and one bunch of dill are added. Covered, it is cooked over low heat in its own juices. One teaspoon of salt and one teaspoon of black pepper are added. Once the liquid is absorbed, it is removed from the heat. The spinach filling can be used as a filling in böreks made with puff pastry dough, other börek doughs, or ready yufka."
+    }
+  ]
+}

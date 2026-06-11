@@ -1,5 +1,6 @@
 {
   "page": 231,
+  "page_end": 232,
   "slug": "p231_kolay_manti",
   "name_tr": "KOLAY MANTI",
   "name_en": "Easy Mantı",
@@ -22,7 +23,10 @@
     "Üzerine et suyu gezdirerek dökülür. Kapağı kapatılır. Hafif ateşte on dakika demlendirilir. Kapağı açılır. Biraz soğuyunca sarmısaklı yoğurt kaşık kaşık üzerine yayılır.",
     "Kalan yağ kızdırılır. Kırmızı biber katılarak üzerine gezdirilir."
   ],
-  "notes_tr": "BESİN BİLGİSİ: Tereyağında nem oranı yüksek olduğundan, oda sıcaklığında, tuzsuz olarak bekletilirse çabuk bozulur.",
+  "notes_tr": [
+    "BESİN BİLGİSİ: Tereyağında nem oranı yüksek olduğundan, oda sıcaklığında, tuzsuz olarak bekletilirse çabuk bozulur. Tereyağı eritilerek suyu uçurulur. 100 gr. yağ için 5 gr. tuz kullanılarak tuzlanır, yemeklik sadeyağ elde edilir. Böylece uzun zaman bozulmadan saklanabilir.",
+    "Bir-iki haftadan fazla buz dolabında saklanması gereken tereyağı, kullanılacak miktarlar ayrılarak buzlukta saklanmalı. İhtiyaç duyuldukça teker teker çıkarılıp taze olarak kullanılmalı."
+  ],
   "ingredients_en": [
     "1 packet large-grain macaroni",
     "300 gr. lean ground meat",
@@ -42,5 +46,8 @@
     "Drizzle the meat broth over it. Cover. Let it steep over low heat for ten minutes. Uncover. Once it has cooled a little, spread the garlic yogurt over it spoonful by spoonful.",
     "Heat the remaining fat. Add the red pepper and drizzle it over the top."
   ],
-  "notes_en": "NUTRITIONAL NOTE: Because butter has a high moisture content, it spoils quickly if left unsalted at room temperature."
+  "notes_en": [
+    "NUTRITIONAL NOTE: Because butter has a high moisture content, it spoils quickly if left unsalted at room temperature. Butter is clarified by melting it and driving off its water. Salted using 5 gr. of salt per 100 gr. of fat, it yields cooking ghee. This way it can be stored a long time without spoiling.",
+    "Butter that needs to be kept in the refrigerator for more than a week or two should be stored in the freezer in separated portions to be used. As needed, the portions should be taken out one by one and used fresh."
+  ]
 }

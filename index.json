@@ -1304,11 +1304,374 @@
   },
   {
     "page": 231,
+    "page_end": 232,
     "slug": "p231_kolay_manti",
     "name_tr": "KOLAY MANTI",
     "name_en": "Easy Mantı",
     "tags": [
       "meat"
+    ]
+  },
+  {
+    "page": 233,
+    "page_end": 234,
+    "slug": "p233_manti",
+    "name_tr": "MANTI",
+    "name_en": "Mantı",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 235,
+    "page_end": 236,
+    "slug": "p235_su_boregi",
+    "name_tr": "SU BÖREĞİ",
+    "name_en": "Su Böreği",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 237,
+    "page_end": 238,
+    "slug": "p237_kolay_su_boregi",
+    "name_tr": "KOLAY SU BÖREĞİ",
+    "name_en": "Easy Su Böreği",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 239,
+    "slug": "p239_puf_boregi",
+    "name_tr": "PUF BÖREĞİ",
+    "name_en": "Puff Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 241,
+    "slug": "p241_kolay_puf_boregi",
+    "name_tr": "KOLAY PUF BÖREĞİ",
+    "name_en": "Easy Puff Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 244,
+    "slug": "p244_peynirli_tepsi_boregi",
+    "name_tr": "PEYNİRLİ TEPSİ BÖREĞİ",
+    "name_en": "Cheese Tray Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 245,
+    "slug": "p245_kabakli_yufka_boregi",
+    "name_tr": "KABAKLI YUFKA BÖREĞİ",
+    "name_en": "Zucchini Yufka Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 246,
+    "slug": "p246_soslu_yufka_boregi",
+    "name_tr": "SOSLU YUFKA BÖREĞİ",
+    "name_en": "Saucy Yufka Börek",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 247,
+    "slug": "p247_sariyer_boregi",
+    "name_tr": "SARIYER BÖREĞİ",
+    "name_en": "Sarıyer Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 250,
+    "page_end": 251,
+    "slug": "p250_gozleme",
+    "name_tr": "GÖZLEME",
+    "name_en": "Gözleme",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 253,
+    "slug": "p253_lahmacun",
+    "name_tr": "LAHMACUN",
+    "name_en": "Lahmacun",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "page": 254,
+    "slug": "p254_pogaca",
+    "name_tr": "POĞAÇA",
+    "name_en": "Poğaça",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 255,
+    "page_end": 256,
+    "slug": "p255_paskalya_coregi",
+    "name_tr": "PASKALYA ÇÖREĞİ",
+    "name_en": "Paskalya Çöreği",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 257,
+    "slug": "p257_peynirli_paskalya_coregi",
+    "name_tr": "PEYNİRLİ PASKALYA ÇÖREĞİ",
+    "name_en": "Cheese Paskalya Çöreği",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 258,
+    "slug": "p258_cevizli_corek",
+    "name_tr": "CEVİZLİ ÇÖREK",
+    "name_en": "Walnut Çörek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 259,
+    "slug": "p259_peynirli_pide",
+    "name_tr": "PEYNİRLİ PİDE",
+    "name_en": "Cheese Pide",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 260,
+    "slug": "p260_katmerli_borek",
+    "name_tr": "KATMERLİ BÖREK",
+    "name_en": "Layered Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 261,
+    "page_end": 262,
+    "slug": "p261_yaprak_hamuru",
+    "name_tr": "YAPRAK HAMURU",
+    "name_en": "Puff Pastry Dough",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 263,
+    "slug": "p263_peynirli_dilber_boregi",
+    "name_tr": "PEYNİRLİ DİLBER BÖREĞİ",
+    "name_en": "Cheese Dilber Börek",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 266,
+    "slug": "p266_yaprak_hamuru_ile_cubuk_boregi",
+    "name_tr": "YAPRAK HAMURU İLE ÇUBUK BÖREĞİ",
+    "name_en": "Stick Börek with Puff Pastry",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 267,
+    "slug": "p267_yaprak_hamuru_ile_nemse_baklavasi",
+    "name_tr": "YAPRAK HAMURU İLE NEMSE BAKLAVASI",
+    "name_en": "Viennese Baklava with Puff Pastry",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 268,
+    "page_end": 269,
+    "slug": "p268_baklava",
+    "name_tr": "BAKLAVA",
+    "name_en": "Baklava",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 270,
+    "slug": "p270_sekerpare",
+    "name_tr": "ŞEKERPARE",
+    "name_en": "Şekerpare",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 271,
+    "slug": "p271_tel_kadayif",
+    "name_tr": "TEL KADAYIF",
+    "name_en": "Tel Kadayıf",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 272,
+    "slug": "p272_ekmek_kadayifi",
+    "name_tr": "EKMEK KADAYIFI",
+    "name_en": "Ekmek Kadayıfı",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 273,
+    "slug": "p273_yassi_kadayif",
+    "name_tr": "YASSI KADAYIF",
+    "name_en": "Yassı Kadayıf",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 276,
+    "slug": "p276_yogurt_tatlisi",
+    "name_tr": "YOĞURT TATLISI",
+    "name_en": "Yogurt Dessert",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 277,
+    "slug": "p277_irmik_helvasi",
+    "name_tr": "İRMİK HELVASI",
+    "name_en": "Semolina Halva",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 279,
+    "slug": "p279_kabak_tatlisi",
+    "name_tr": "KABAK TATLISI",
+    "name_en": "Pumpkin Dessert",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 280,
+    "slug": "p280_asure",
+    "name_tr": "AŞURE",
+    "name_en": "Aşure",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 284,
+    "slug": "p284_krep_suzet",
+    "name_tr": "KREP SÜZET",
+    "name_en": "Crêpe Suzette",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 287,
+    "slug": "p287_krem_karamel",
+    "name_tr": "KREM KARAMEL",
+    "name_en": "Crème Caramel",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 288,
+    "slug": "p288_cikolatali_salca",
+    "name_tr": "ÇİKOLATALI SALÇA",
+    "name_en": "Chocolate Sauce",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 289,
+    "page_end": 290,
+    "slug": "p289_puding",
+    "name_tr": "PUDİNG",
+    "name_en": "Pudding",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 291,
+    "page_end": 292,
+    "slug": "p291_cikolatali_sufle",
+    "name_tr": "ÇİKOLATALI SÜFLE",
+    "name_en": "Chocolate Soufflé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 293,
+    "page_end": 294,
+    "slug": "p293_krem_bavaruva",
+    "name_tr": "KREM BAVARUVA",
+    "name_en": "Crème Bavaroise",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 295,
+    "slug": "p295_sofra_kremi",
+    "name_tr": "SOFRA KREMİ",
+    "name_en": "Table Cream",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 296,
+    "slug": "p296_sutlac",
+    "name_tr": "SÜTLAÇ",
+    "name_en": "Rice Pudding",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 297,
+    "page_end": 298,
+    "slug": "p297_muhallebi",
+    "name_tr": "MUHALLEBİ",
+    "name_en": "Muhallebi",
+    "tags": [
+      "vegetarian"
     ]
   }
 ]

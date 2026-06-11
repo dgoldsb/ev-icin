@@ -1,0 +1,57 @@
+{
+  "page": 268,
+  "page_end": 269,
+  "slug": "p268_baklava",
+  "name_tr": "BAKLAVA",
+  "name_en": "Baklava",
+  "ingredients_tr": [
+    "6 su bardağı un",
+    "1 su bardağı nişasta",
+    "Yarım su bardağı süt",
+    "2 yumurta",
+    "3 çorba kaşığı zeytinyağı",
+    "2 paket margarin (500 gr.)",
+    "1 su bardağı dövülmüş ceviz veya badem içi",
+    "5 su bardağı toz şeker",
+    "1 limon",
+    "1 çay kaşığı tuz"
+  ],
+  "instructions_tr": [
+    "Şeker, beş su bardağı su ile ateşe konur. Eriyinceye kadar karıştırılır. Kaynayınca köpüğü alınır. Bir buçuk çorba kaşığı limon suyu katılır. Bir süre kaynadıktan sonra, içine batırılıp çıkarılan kaşıktan akan son bir-iki damla biraz uzuyorsa, ateşten alınıp soğumağa bırakılır.",
+    "Genişçe bir kaba yumurtalar kırılır. Akla sarısı karışıncaya kadar çarpılır. Süt, zeytinyağı, bir çorba kaşığı limon suyu, tuz, yarım su bardağı su ilave edilip karıştırılır. Elenmiş un katılarak katı bir hamur yapılır. İyice özleştirilir.",
+    "Hamur silindir şeklinde uzatılarak yirmi eşit parçaya kesilir. Yuvarlanıp bir kaba sıralanır. Üzerine nemli bez örtülerek bir saat dinlendirilir.",
+    "Her yumağın altı üstü bolca nişastalanarak kırk santim çapında açılır. Kırk santim çapında kenarlı bir tepsiye yayılır. Onuncu yufkanın üzerine dövülmüş ceviz veya badem serpilir. Kalan on yufka da üzerine yayılır.",
+    "Keskin bir bıçakla küçük dilimlere kesilir. Eritilmiş margarin üzerine kaşık kaşık gezdirerek dökülür.",
+    "Orta ısıdaki fırında hafif pembe renkte pişirilir.",
+    "Fırından çıkınca hemen üzerine soğuk şurup gezdirilir."
+  ],
+  "ingredients_en": [
+    "6 cups flour",
+    "1 cup starch",
+    "Half cup milk",
+    "2 eggs",
+    "3 tablespoons olive oil",
+    "2 packets margarine (500 gr.)",
+    "1 cup crushed walnuts or almonds",
+    "5 cups granulated sugar",
+    "1 lemon",
+    "1 teaspoon salt"
+  ],
+  "instructions_en": [
+    "Put the sugar on the heat with five cups of water. Stir until dissolved. Once boiling, skim off the foam. Add one and a half tablespoons of lemon juice. After it has boiled for a while, if the last drop or two falling from a spoon dipped in and lifted out stretches a little, remove from the heat and leave to cool.",
+    "Crack the eggs into a wide bowl. Beat until white and yolk are blended. Add the milk, olive oil, one tablespoon of lemon juice, salt, and half a cup of water and mix. Add the sifted flour and make a stiff dough. Knead until very smooth.",
+    "Stretch the dough into a cylinder and cut into twenty equal pieces. Roll them into balls and line up in a container. Cover with a damp cloth and let rest for one hour.",
+    "Dust each ball generously with starch top and bottom and roll out to forty centimeters in diameter. Spread it in a rimmed tray forty centimeters across. Over the tenth sheet, scatter the crushed walnuts or almonds. Spread the remaining ten sheets on top.",
+    "Cut into small diamonds with a sharp knife. Drizzle melted margarine over it spoonful by spoonful.",
+    "Bake in a medium oven to a light pink color.",
+    "When out of the oven, immediately drizzle cold syrup over it."
+  ],
+  "variations": [
+    {
+      "name_tr": "KAT KAT İÇLİ BAKLAVA",
+      "name_en": "Layered Filled Baklava",
+      "description_tr": "Bir yufka yağlanıp, bir yufkanın üzerine makinadan çekilmiş ceviz veya badem serpilerek, yirmi yufka üst üste yayılır. En üste konan yufka da yağlanıp dilimlenerek pişirilir. Üzerine soğuk şurup dökülür.",
+      "description_en": "One sheet of yufka is greased, machine-ground walnuts or almonds are scattered over the next sheet, and twenty sheets are spread one on top of another. The topmost sheet is also greased, then it is sliced and baked. Cold syrup is poured over it."
+    }
+  ]
+}

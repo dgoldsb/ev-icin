@@ -1,0 +1,49 @@
+{
+  "page": 288,
+  "slug": "p288_cikolatali_salca",
+  "name_tr": "ÇİKOLATALI SALÇA",
+  "name_en": "Chocolate Sauce",
+  "ingredients_tr": [
+    "120 gr. sütsüz çikolata veya üç çorba kaşığı kakao",
+    "1 su bardağı toz şeker",
+    "1 çorba kaşığından biraz az un",
+    "2 yumurta sarısı",
+    "2,5 su bardağı süt veya su",
+    "2 çorba kaşığı meyva likörü",
+    "Yarım paket vanilya"
+  ],
+  "instructions_tr": [
+    "Şeker, yumurta sarıları, un, kakao veya küçük doğranmış çikolata bir tencerede karıştırılır. Biraz ölçülü su veya sütle ezilir. Su veya sütün kalanı konur.",
+    "Orta ısılı ateşte sürekli karıştırarak iki-üç taşım kaynatılır.",
+    "Ocaktan alınır. Kaymak tutmaması için soğuyuncaya kadar arasıra karıştırılır. Likör, vanilya ilave edilir."
+  ],
+  "notes_tr": "Not: Salça kakao ile hazırlanırsa, su yerine süt tercih edilmeli.",
+  "ingredients_en": [
+    "120 gr. unsweetened chocolate, or three tablespoons cocoa",
+    "1 cup granulated sugar",
+    "A little less than 1 tablespoon flour",
+    "2 egg yolks",
+    "2,5 cups milk or water",
+    "2 tablespoons fruit liqueur",
+    "Half packet vanilla"
+  ],
+  "instructions_en": [
+    "Mix the sugar, egg yolks, flour, and cocoa or finely chopped chocolate in a pot. Mash with a measured amount of water or milk. Add the rest of the water or milk.",
+    "Boil over medium heat for two or three rises, stirring constantly.",
+    "Take off the stove. Stir occasionally until cool so a skin does not form. Add the liqueur and vanilla."
+  ],
+  "variations": [
+    {
+      "name_tr": "SUP ANGLEZ",
+      "name_en": "Soupe Anglaise (Trifle)",
+      "description_tr": "Küçük parçalara kesilmiş savayer bisküvisi veya kek, birer kişilik kâselere konur. Şekerli su ile ıslatılır. Üzerine çikolatalı salça dökülür. Kıyılmış yeşil fıstık, krem şanti veya krem şanti taklidi ile süslenir.",
+      "description_en": "Savoiardi biscuits or cake cut into small pieces are placed in individual bowls. They are moistened with sweetened water. Chocolate sauce is poured over them. Garnished with chopped pistachios and whipped cream or imitation whipped cream."
+    },
+    {
+      "name_tr": "PROFİTROL",
+      "name_en": "Profiteroles",
+      "description_tr": "Şuale krem hazırlanır. Servis tabağına yerleştirilir. Üzerine çikolatalı salça dökülür. Kıyılmış yeşil fıstık serpilir.",
+      "description_en": "Cream puffs (choux à la crème) are prepared. They are arranged on a serving plate. Chocolate sauce is poured over them. Chopped pistachios are sprinkled on top."
+    }
+  ]
+}

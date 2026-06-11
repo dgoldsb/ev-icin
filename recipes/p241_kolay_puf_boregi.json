@@ -1,0 +1,45 @@
+{
+  "page": 241,
+  "slug": "p241_kolay_puf_boregi",
+  "name_tr": "KOLAY PUF BÖREĞİ",
+  "name_en": "Easy Puff Börek",
+  "ingredients_tr": [
+    "2 adet yufka",
+    "3 kibrit kutusu büyüklüğünde beyaz peynir",
+    "1 yumurta",
+    "1 su bardağı kızartmalık sıvı yağ",
+    "Yarım çay kaşığı karabiber",
+    "Yarım demet dereotu"
+  ],
+  "instructions_tr": [
+    "Çatalla ezilmiş peynire, yumurta, karabiber, ince kıyılmış dereotu konup karıştırılır.",
+    "Yufkalar 5 cm. en, 15 cm. boyunda parçalara kesilir.",
+    "Kesilen parçaların bir ucuna hazırlanan içten küçük bir küme konur. Kenarı üçgen şeklinde peynirin üzerine katlanır. Yine üçgen şeklinde döndürülerek, muska şeklinde börekler hazırlanır.",
+    "Börekler bir kasedeki soğuk suya daldırılıp çıkarılır. Suyunu çekince, kızdırılmış yağa atılarak kızartılır.",
+    "Önce kâğıt yayılmış tepsiye, sonra servis tabağına alınır. Sıcak sıcak servis yapılır."
+  ],
+  "notes_tr": "Not: Peynirli iç yerine kıymalı iç veya kıyılmış sosis, pastırma, salam kullanılabilir.",
+  "ingredients_en": [
+    "2 sheets yufka (filo)",
+    "3 matchbox-sized pieces of white cheese",
+    "1 egg",
+    "1 cup liquid frying oil",
+    "Half teaspoon black pepper",
+    "Half bunch dill"
+  ],
+  "instructions_en": [
+    "Add the egg, black pepper, and finely chopped dill to the fork-mashed cheese and mix.",
+    "Cut the yufka into pieces 5 cm. wide and 15 cm. long.",
+    "Place a small mound of the prepared filling on one end of each cut piece. Fold the edge over the cheese into a triangle. Continue turning in triangles to make the böreks into amulet (muska) shapes.",
+    "Dip the böreks into a bowl of cold water and lift them out. Once they have absorbed the water, drop them into hot oil and fry.",
+    "Lift first onto a paper-lined tray, then onto a serving plate. Serve piping hot."
+  ],
+  "variations": [
+    {
+      "name_tr": "ELMALI MUSKA",
+      "name_en": "Apple Muska",
+      "description_tr": "İki elma rendesi, yarım su bardağı dövülmüş ceviz içi, iki çorba kaşığı çekirdeksiz kuru üzüm, bir çorba kaşığı toz şeker, iki çay kaşığı tarçın ile iç hazırlanır. Diğer ölçü ve işlemler aynen uygulanarak muska şekli verilir. Suya batırmadan kızgın yağda kızartılır. Kâğıt üzerine çıkarılır. Sonra pudra şekerine bulanır.",
+      "description_en": "A filling is made from two grated apples, half a cup of crushed walnuts, two tablespoons of seedless raisins, one tablespoon of caster sugar, and two teaspoons of cinnamon. The same measures and steps are applied to shape them into muska. Without dipping in water, they are fried in hot oil. Lifted out onto paper. Then rolled in powdered sugar."
+    }
+  ]
+}
