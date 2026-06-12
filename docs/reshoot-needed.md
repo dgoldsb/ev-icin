@@ -1,78 +1,53 @@
 # Re-shoot needed
 
-Photos that the digitization pipeline could not use, plus pages missing from
-the batch entirely. Re-photograph these (portrait, page filling the frame,
+Pages the digitization pipeline could not use, plus pages missing from the
+batches entirely. Re-photograph these (portrait, page filling the frame,
 steady — the failures below are all motion blur) and drop them back into
 `images/`; `/digitize` will pick them up. Filenames can be anything new.
 
-Generated 2026-06-10 from batch IMG_8396–8659. Page estimates are
-interpolated from legible neighbors and may be off by one.
+Updated 2026-06-13. Everything photographed so far is processed; the items
+below are the only gaps left in the book's recipe span (p56–p392).
 
-## Missing pages (not photographed at all)
+## Pages to (re)photograph — 16 pages
 
+- **p72–73** — between p71 (Köfteli Un Çorbası) and p74 (Tarhana Çorbası).
+  Never legibly captured.
 - **p131–132** — inside the sauce section, between p130 (Etler İçin Sos) and
-  p133 (Salatalar İçin Sos). p133 (`IMG_8401`) is on hold until these exist.
-- **p159–160** — between p158 (Zeytinyağlı Biber Dolması) and p161 (Etli Kabak
-  Dolması). Only blurry strays were shot here: `IMG_8427` (illegible) and
-  `IMG_8428` (a blurry duplicate of p161, which was re-shot cleanly as
-  `IMG_8429`). The actual p159–160 recipes are not legibly captured.
-- **p182 — Etli Kereviz Dolması** — `IMG_8450` is motion-blurred and
-  illegible (title readable, body not). Sits between p181 (Zeytinyağlı
-  Kereviz) and p183 (İmambayıldı).
-- **p194 — a turşu (pickle) recipe** — `IMG_8462` is motion-blurred and
-  illegible. Sits between p193 (Domates Biber Turşusu) and p195 (Lahana
-  Turşusu).
-- **p248 — head of PIRASALI İÇ (leek börek filling)** — never photographed
-  (stuck pages). p249 (`IMG_8518`, clean) holds only the recipe's *tail*; its
-  title, ingredient list, and early steps are on the missing p248. Sits
-  between p247 (Sarıyer Böreği) and p250.
-- **p278** — never photographed (stuck pages). The photo sequence jumps from
-  p277 (`IMG_8546`, İrmik Helvası, complete) straight to p279 (`IMG_8547`,
-  Kabak Tatlısı, starts fresh at top). Whatever recipe(s) sit on p278 are
-  missing entirely.
-- **p281–282 — head of a milk dessert** — not captured (`IMG_8550` misframed
-  onto the table). p283 (`IMG_8552`, clean) holds only the tail (a garnish
-  line) + a milk-storage GENEL BİLGİ; the title/ingredients/early steps are
-  on the missing p281–282. Sits between p280 (Aşure) and p284.
-- **p285–286** — not captured. p285 (`IMG_8554`) is severely blurry/dark
-  (holds the tail of the TUZLU KREP SÜZET variation — see Deferred
-  continuations); p286 was skipped entirely (sequence jumps p285→p287,
-  `IMG_8555` Krem Karamel). Sits between p284 (Krep Süzet) and p287.
-- **p348 — head of a chestnut (kestane) cake** — skipped (sequence jumps p347
-  Rulo Pasta → p349, `IMG_8617`). p349 holds only the legible tail (steps
-  5–11, a Mont-Blanc-style chestnut-purée dome over sponge with mock whipped
-  cream and marzipan winter decorations); its title/ingredients/steps 1–4 are
-  on the missing p348.
+  p133 (Salatalar İçin Sos). p133 is already photographed (`IMG_8401`,
+  flagged) and will be digitized as soon as these two arrive.
+- **p159–160** — between p158 (Zeytinyağlı Biber Dolması) and p161 (Etli
+  Kabak Dolması). Only blurry strays exist (`IMG_8427`).
+- **p182 — Etli Kereviz Dolması** — `IMG_8450` blurry; between p181 and p183.
+- **p194 — a turşu (pickle) recipe** — `IMG_8462` blurry; between p193 and
+  p195.
+- **p216** — between p215 (Kebaplı Pilav) and p217 (Hamsili Pilav). Never
+  legibly captured.
+- **p274 — REVANİ** — `IMG_8543` uniformly blurred; quantities unverifiable.
+  Its p275 tail is legible and saved below.
+- **p278** — never photographed (stuck pages); sequence jumps p277 (İrmik
+  Helvası) → p279 (Kabak Tatlısı). Unknown recipe(s).
+- **p348 — head of a chestnut (kestane) cake** — never photographed. The p349
+  tail (steps 5–11) is legible (`IMG_8617`, flagged) and saved below; only
+  p348 needs shooting.
+- **p351 — multi-component pasta (Pasta Kremi + Pandispanya blocks)** —
+  `IMG_8619`/`IMG_8620` blurry; between p350 (Şuale Krem) and p352 (Kremalı
+  Milföy, which is clean and complete).
+- **p369 — PORTAKAL MARMELADI** — `IMG_8638` blurry; quantities
+  unverifiable. Best-effort step reading saved below.
+- **p379** — between p378 (Limonata) and p380 (Mevsimlik Şuruplar). Never
+  legibly captured.
 
-## Motion-blurred — illegible (zero OCR)
+Tracked in `images/manifest.json` as `status: "reshoot"` (blurry photos) and
+`status: "flagged"` (legible photos waiting on a missing companion page:
+`IMG_8401` p133, `IMG_8544` p275, `IMG_8617` p349).
 
-| Photo | Approx. page | Between |
-|---|---|---|
-| IMG_8442 | ~174 | IMG_8441 (p173) → IMG_8443 (p175) |
-| IMG_8448 | ~180 | IMG_8447 (p179) → IMG_8449 (p181) |
-| IMG_8466 | ~198 | IMG_8465 (p197) → IMG_8467 (p199) |
-| IMG_8491 | ~222 | IMG_8490 (p221) → IMG_8492 (p223) |
-| IMG_8509 | ~240 | IMG_8508 (p239) → IMG_8510 (p241) |
-| IMG_8533 | ~264–265 | IMG_8532 (p263) → IMG_8535 (p266) |
-| IMG_8550 | ~281–283 | IMG_8549 (p280) → IMG_8553 (p284) |
-| IMG_8554 | ~285–286 | IMG_8553 (p284) → IMG_8555 (p287) |
-| IMG_8605 | dessert/cake section | IMG_8604 → IMG_8607 |
-| IMG_8618 | cake section | IMG_8615 → IMG_8619 |
-| IMG_8627 | cake/jam section | IMG_8623 → IMG_8629 |
-| IMG_8631 | jam section | IMG_8629 → IMG_8632 |
-| IMG_8642 | jam/marmalade section | IMG_8632 → IMG_8643 |
-| IMG_8646 | candy/syrup section | IMG_8645 → IMG_8649 |
-| IMG_8648 | candy/syrup section | IMG_8645 → IMG_8649 |
+## Salvaged text awaiting reassembly
 
-## Motion-blurred — quantities unverifiable (whole recipe, reshoot)
+Verbatim or best-effort readings preserved so nothing is lost; assemble the
+full recipe once the missing head page is shot.
 
-- **p274 — REVANİ** (`IMG_8543`, title prints blurry as REKANİ/REVANİ;
-  semolina dessert). The page is uniformly motion-blurred — instructions are
-  mostly readable but the ingredient quantities cannot be cross-verified
-  (OCR garbled; e.g. the ingredient list seems to read "3,5 su bardağı toz
-  şeker" while step 1 reads "üç su bardağı şeker"). **Not transcribed** to
-  avoid guessing quantities. Best-effort UNVERIFIED reading for reassembly
-  once reshot:
+- **p274 REVANİ — UNVERIFIED best-effort reading** (do not transcribe into a
+  recipe file without the reshoot):
   > Ölçüler: Yarım su bardağı ince irmik · Yarım su bardağı un · 6 yumurta ·
   > Yarım paket vanilya · 1 tatlı kaşığı limon kabuğu rendesi · 3,5(?) su
   > bardağı toz şeker · 3(?) çorba kaşığı limon suyu. Steps: sugar+4 cups
@@ -84,13 +59,8 @@ interpolated from legible neighbors and may be off by one.
   > + GENEL BİLGİ: "Bütün yumurta veya yumurta akları alüminyum kaplarda
   > çarpılırsa rengi bozulur, kirlenir."
 
-- **p283 (`IMG_8552`)** — tail of a milk dessert whose head is on the
-  un-captured **p281–282**. Verbatim tail + note:
-  > Üzeri kıyılmış yeşil fıstık, hindistan cevizi rendesi veya çilek, kiraz, nar gibi mevsim meyvaları ile süslenebilir.
-  > GENEL BİLGİ: Pastörize edilsin veya edilmesin, süt hiçbir zaman oda sıcaklığında bırakılmamalı. Buz dolabında, pastörize edilen süt en fazla üç gün, kaynatılmış süt ise iki gün dayanır.
-
-- **p349 (`IMG_8617`)** — tail (steps 5–11) of a chestnut (kestane) cake whose
-  head is on the un-photographed **p348**. Verbatim tail:
+- **p349 (`IMG_8617`)** — tail (steps 5–11) of the chestnut cake whose head
+  is on the un-photographed **p348**. Verbatim tail:
   > 5 — Kestanelerin dış kabukları soyulur. On beş dakika haşlanır. Ateşten alınıp üzerine soğuk su konur. Kestaneler suyun içinden alınarak iç kabukları da ıslakken soyulur.
   > 6 — Tekrar bir su bardağı su ile ateşe konur. Ağzı kapalı kapta hafif ateşte yumuşayıncaya kadar pişirilir.
   > 7 — Ezilecek duruma gelince kapak açılıp varsa kalan suyu buharlaştırılır. Ateşten alınır. Ezilerek püre yapılır. Pudra şekeri, vanilya karıştırılır.
@@ -99,52 +69,12 @@ interpolated from legible neighbors and may be off by one.
   > 10 — Ucuna tırtıklı huni takılmış krema pompasına doldurulur. Kestane püresinin üzerine sıkılarak bütün yüzü kaplanır.
   > 11 — İstenirse üzerine meyva şekerlemeleri, yeşil fıstıkla çamlar, kayak evleri, kayakçılar yapılarak pasta süslenir.
 
-- **p284→p285: TUZLU KREP SÜZET variation** — a variation of KREP SÜZET
-  (`recipes/p284_krep_suzet.json`) whose head is legible on p284 but whose
-  tail runs onto the blurry, illegible **p285** (`IMG_8554`). Add it as a
-  `variations` entry to p284 once p285 is reshot. Legible head (p284, cut off):
-  > Krep süzet hamuruna bir çay kaşığı tuz konup pişirilir. Arasına börek içlerinden herhangi biri konur. Katla[nır…]
-
-- **p369 — PORTAKAL MARMELADI (`IMG_8638`)** — motion-blurred. Title and
-  ingredient quantities (orange count, sugar amount) are NOT verifiable, but
-  the steps are mostly legible. Best-effort UNVERIFIED reading for reassembly
-  once reshot:
+- **p369 PORTAKAL MARMELADI — UNVERIFIED best-effort reading**:
   > Ölçüler: [N] adet kalın kabuklu yafa portakalının kabukları · 1 kahve fincanı limon suyu · Toz şeker (step 3: meyva püresiyle aynı ölçüde).
   > 1 — [Kabuklar] yumuşayıncaya kadar su ile ateşe konur. 2 — Üzerine su konur. Sık sık suyu değiştirilerek üç gün suda bekletilir. Suyu süzülür, makineden çekilir. 3 — Makineden alınan püre bardakla ölçülür. Üzerine aynı ölçüde şeker konur. Limon suyu katılır. 4 — Karıştırarak hafif ateşte bir süre pişirilir. Marmelat koyuluğu oluşunca ateşten alınır. Sıcakken kavanoza konur. Soğuyunca ağzı kapatılarak serin yerde saklanır.
 
-## Motion-blurred — near-illegible (1–5 garbled lines)
+## Resolved since 2026-06-10
 
-| Photo | Approx. page | Between |
-|---|---|---|
-| IMG_8472 | ~204 | IMG_8471 (p203) → IMG_8473 (p205) |
-| IMG_8505 | ~236 | IMG_8504 (p235) → IMG_8506 (p237) |
-| IMG_8511 | ~242 | IMG_8510 (p241) → IMG_8513 |
-| IMG_8517 | ~248–249 | IMG_8516 (p247) → IMG_8519 (p250) |
-| IMG_8521 | ~251–252 | IMG_8519 (p250) → IMG_8522 (p253) |
-| IMG_8534 | ~264–265 | IMG_8532 (p263) → IMG_8535 (p266) |
-| IMG_8544 | ~275 | IMG_8543 (p274) → IMG_8545 (p276) |
-| IMG_8584 | cake/cookie section | IMG_8579 → IMG_8585 |
-| IMG_8630 | jam section | IMG_8629 → IMG_8632 |
-
-Tracked in `images/manifest.json` as `status: "reshoot"` (blurry) and
-`status: "flagged"` (p133, awaiting p131–132).
-
-## Deferred continuations (legible tail, head awaiting reshoot)
-
-Pages that are clearly readable but only contain the *end* of a recipe whose
-title/ingredients/early steps fall on a blurry page still awaiting reshoot.
-The transcribed tail is preserved here so nothing is lost; assemble the full
-recipe once the head page is reshot.
-
-- **p243 (`IMG_8512`)** — tail of the recipe on **p242** (`IMG_8511`, blurry,
-  awaiting reshoot). It's a kıymalı (meat-filled) yufka börek. Verbatim tail:
-  > Dört kibrit kutusu büyüklüğünde margarin, bir su bardağı su ile kaynatılır. Dört yufka dörde bölünerek üst üste konur. Kaynamış yağlı su ile parçaların birer yüzü ıslatılır. İkiye katlanarak üçgen yapılan parçalara kıymalı iç konup gevşek sarılır. Üzerine yumurta sarısı sürülüp fırında kızartılır.
-
-- **p249 (`IMG_8518`)** — tail of **PIRASALI İÇ** (leek börek filling), whose
-  head is on the un-photographed **p248**. Verbatim tail:
-  > [kibrit ku]tusu büyüklüğünde margarin, bir çay kaşığı pul biber bir tencerede ateşe konur. Hafif ateşte kendi suyu ile iyice yumuşayıncaya kadar pişirilir. Bir çay kaşığı tuz konur. Suyunu çekince ateşten alınır. Pırasalı iç, genellikle hazır yufka böreklerinde kullanılır.
-
-- **p265 (`IMG_8534`)** — tail of a yaprak-hamuru börek (references Talaş
-  böreği), whose title/ingredients/early steps are on the blurry, illegible
-  **p264** (`IMG_8533`). Verbatim tail:
-  > üste konur. Talaş böreğinde olduğu gibi karelere veya ortadan ikiye kesilip üst üste konarak sekiz eşit üçgene bölünür. Talaş böreği içi konarak gevşek sarılır. Üzerine sulandırılmış yumurta sarısı sürülür. Sıcak fırında pişirilir.
+p240, p242–243, p248–249, p252, p264–265, p281–283, p285–286, p315, p336,
+p350, p358, p373, p376–377, p381 — all filled by the reshoot batches
+(IMG_8660–8692). Details are in `images/manifest.json` and git history.

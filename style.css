@@ -510,6 +510,23 @@ a {
   background: var(--magenta);
 }
 
+/* Group headers inside multi-component ingredient lists ("Pandispanyanın Ölçüleri:") */
+
+.ingredients-card li.ingredient-group {
+  column-span: all;
+  font-weight: bold;
+  padding-left: 0;
+  margin-top: 0.8rem;
+}
+
+.ingredients-card li.ingredient-group:first-child {
+  margin-top: 0;
+}
+
+.ingredients-card li.ingredient-group::before {
+  content: none;
+}
+
 /* Numbered steps */
 
 .steps {
@@ -533,12 +550,26 @@ a {
   color: var(--blue-dark);
 }
 
+/* Notes — one panel for all of a recipe's notes */
+
+.notes-card {
+  background: #f7f7f7;
+  border-radius: 8px;
+  padding: 1rem 1.3rem 1.1rem;
+  margin: 2rem 0 0;
+}
+
+.notes-card h2 {
+  margin-top: 0;
+}
+
 .recipe-note {
-  border-left: 3px solid var(--blue);
-  padding: 0.1rem 0 0.1rem 1rem;
-  margin: 1.5rem 0;
-  font-style: italic;
-  color: #555;
+  margin: 0 0 0.8rem;
+  color: #3c3c3c;
+}
+
+.recipe-note:last-child {
+  margin-bottom: 0;
 }
 
 .recipe-content h3 {

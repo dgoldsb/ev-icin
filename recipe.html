@@ -41,10 +41,10 @@
     document.documentElement.lang = lang;
 
     const STRINGS = lang === 'tr'
-      ? { back: '← Tarifler', ingredients: 'Malzemeler', instructions: 'İşlemler',
+      ? { back: '← Tarifler', ingredients: 'Malzemeler', instructions: 'İşlemler', notes: 'Notlar',
           variation: 'Çeşit', page: 's.', inBook: 'Kitapta', prev: 'Önceki', next: 'Sonraki',
           notFound: 'Tarif bulunamadı', loadError: 'Bu tarif yüklenemedi.' }
-      : { back: '← Recipes', ingredients: 'Ingredients', instructions: 'Instructions',
+      : { back: '← Recipes', ingredients: 'Ingredients', instructions: 'Instructions', notes: 'Notes',
           variation: 'Variation', page: 'p.', inBook: 'In the book', prev: 'Previous', next: 'Next',
           notFound: 'Recipe not found', loadError: 'Could not load this recipe.' };
 
@@ -113,11 +113,16 @@
       const hasIngredients = Array.isArray(ingredients) && ingredients.length > 0;
       let html = '<section class="recipe-content">';
       if (hasIngredients) {
+        // Lines ending with ":" are group headers for multi-component
+        // recipes (e.g. "Pandispanyanın Ölçüleri:"), not ingredients.
+        const item = i => i.trim().endsWith(':')
+          ? `<li class="ingredient-group">${i}</li>`
+          : `<li>${i}</li>`;
         html += `
           <div class="ingredients-card">
             <h2>${STRINGS.ingredients}</h2>
             <ul>
-              ${ingredients.map(i => `<li>${i}</li>`).join('\n              ')}
+              ${ingredients.map(item).join('\n              ')}
             </ul>
           </div>`;
       }
@@ -129,7 +134,13 @@
 
       if (notes) {
         const notesArr = Array.isArray(notes) ? notes : [notes];
-        html += notesArr.map(n => `\n          <p class="recipe-note">${n}</p>`).join('');
+        // Bold a short leading label like "Not:" / "GENEL BİLGİ:" / "NUTRITIONAL NOTE:"
+        const label = n => n.replace(/^([^:.]{1,30}:)\s*/, '<strong>$1</strong> ');
+        html += `
+          <div class="notes-card">
+            <h2>${STRINGS.notes}</h2>
+            ${notesArr.map(n => `<p class="recipe-note">${label(n)}</p>`).join('\n            ')}
+          </div>`;
       }
 
       if (r.variations && r.variations.length > 0) {
