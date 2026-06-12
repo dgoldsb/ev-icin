@@ -1,0 +1,50 @@
+{
+  "page": 381,
+  "slug": "p381_portakal_likoru",
+  "name_tr": "PORTAKAL LİKÖRÜ",
+  "name_en": "Orange Liqueur",
+  "ingredients_tr": [
+    "Yarım litre 90 derecelik alkol",
+    "2 su bardağı toz şeker",
+    "4 adet ince kabuklu portakal",
+    "2 çorba kaşığı limon suyu"
+  ],
+  "instructions_tr": [
+    "Portakallar yıkanır. Dörde bölünerek kavanoza yerleştirilir. Üzerine alkol konup ağzı sıkıca kapatılır. On beş gün açmadan bekletilir. Portakallar süzülerek içinden alınır.",
+    "Şeker, iki su bardağı su ile ateşe konur. Eriyinceye kadar karıştırılır. Orta koyulukta bir şurup yapılır. İneceğine yakın limon suyu katılır.",
+    "Şurup soğuyunca alkol ilave edilir. Bir kere karıştırılır.",
+    "İçine pamuk yerleştirilmiş huniden şişesine süzülür. Şişenin ağzı sıkı kapatılarak serin yerde saklanır."
+  ],
+  "ingredients_en": [
+    "Half a liter of 90-degree alcohol",
+    "2 cups granulated sugar",
+    "4 thin-skinned oranges",
+    "2 tablespoons lemon juice"
+  ],
+  "instructions_en": [
+    "Wash the oranges. Cut them into quarters and place in a jar. Pour the alcohol over them and close the lid tightly. Let stand for fifteen days without opening. Strain out the oranges.",
+    "Put the sugar on the heat with two cups of water. Stir until dissolved. Make a syrup of medium thickness. Just before taking it off the heat, add the lemon juice.",
+    "Once the syrup has cooled, add the alcohol. Stir once.",
+    "Strain it into its bottle through a funnel fitted with cotton. Close the bottle tightly and store in a cool place."
+  ],
+  "variations": [
+    {
+      "name_tr": "MUZ LİKÖRÜ",
+      "name_en": "Banana Liqueur",
+      "description_tr": "Yarım kilo muzun kabukları soyulur. Bütün olarak kavanoza yerleştirilir. Üzerine yarım litre alkol konup bir hafta bekletilir. Diğer ölçü ve işlemler portakal liköründe olduğu gibi uygulanır.",
+      "description_en": "Peel half a kilo of bananas. Place them whole in a jar. Pour half a liter of alcohol over them and let stand for one week. Apply the other measures and steps as for the orange liqueur."
+    },
+    {
+      "name_tr": "KAHVE LİKÖRÜ",
+      "name_en": "Coffee Liqueur",
+      "description_tr": "100 gr. çekirdek kahve koyu renkte kavrulur. Sıcak sıcak kavanoza konur. Hemen üzerine yarım litre alkol konup ağzı kapatılır. Diğer ölçü ve işlemler portakal likörünün aynıdır.",
+      "description_en": "Roast 100 gr. of coffee beans until dark. Put them in the jar while piping hot. Immediately pour half a liter of alcohol over them and close the lid. The other measures and steps are the same as for the orange liqueur."
+    },
+    {
+      "name_tr": "NANE LİKÖRÜ",
+      "name_en": "Mint Liqueur",
+      "description_tr": "Bir demet taze nane yıkanıp yaprakları alınır. Alkolde yirmi dört saat bekletilir. Diğer ölçü ve işlemler portakal liköründe olduğu gibi uygulanır.",
+      "description_en": "Wash a bunch of fresh mint and pick off the leaves. Steep them in the alcohol for twenty-four hours. Apply the other measures and steps as for the orange liqueur."
+    }
+  ]
+}

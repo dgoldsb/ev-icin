@@ -1098,20 +1098,20 @@
   },
   {
     "page": 209,
-    "slug": "p209_evde_yogurt_yapmak",
-    "name_tr": "EVDE YOĞURT YAPMAK",
-    "name_en": "Making Yogurt at Home",
-    "tags": [
-      "vegetarian"
-    ]
-  },
-  {
-    "page": 209,
     "slug": "p209_makarna_ve_omletler_icin_sos",
     "name_tr": "MAKARNA VE OMLETLER İÇİN SOS",
     "name_en": "Sauce for Pasta and Omelets",
     "tags": [
       "vegan"
+    ]
+  },
+  {
+    "page": 209,
+    "slug": "p209_evde_yogurt_yapmak",
+    "name_tr": "EVDE YOĞURT YAPMAK",
+    "name_en": "Making Yogurt at Home",
+    "tags": [
+      "vegetarian"
     ]
   },
   {
@@ -1192,6 +1192,22 @@
   },
   {
     "page": 223,
+    "slug": "p223_kanepeler",
+    "name_tr": "KANEPELER",
+    "name_en": "Canapés",
+    "kind": "section"
+  },
+  {
+    "page": 223,
+    "slug": "p223_zeytin_ezmeli_kanepe",
+    "name_tr": "ZEYTİN EZMELİ KANEPE",
+    "name_en": "Olive Paste Canapé",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "page": 223,
     "slug": "p223_ancuezli_kanepe",
     "name_tr": "ANÇÜEZLİ KANEPE",
     "name_en": "Anchovy Canapé",
@@ -1209,28 +1225,12 @@
     ]
   },
   {
-    "page": 223,
-    "slug": "p223_kanepeler",
-    "name_tr": "KANEPELER",
-    "name_en": "Canapés",
-    "kind": "section"
-  },
-  {
-    "page": 223,
-    "slug": "p223_zeytin_ezmeli_kanepe",
-    "name_tr": "ZEYTİN EZMELİ KANEPE",
-    "name_en": "Olive Paste Canapé",
+    "page": 224,
+    "slug": "p224_mayonezli_kanepe",
+    "name_tr": "MAYONEZLİ KANEPE",
+    "name_en": "Mayonnaise Canapé",
     "tags": [
       "vegetarian"
-    ]
-  },
-  {
-    "page": 224,
-    "slug": "p224_cesitli_malzeme_ile_kanepe",
-    "name_tr": "ÇEŞİTLİ MALZEME İLE KANEPE",
-    "name_en": "Canapé with Assorted Toppings",
-    "tags": [
-      "meat"
     ]
   },
   {
@@ -1244,11 +1244,11 @@
   },
   {
     "page": 224,
-    "slug": "p224_mayonezli_kanepe",
-    "name_tr": "MAYONEZLİ KANEPE",
-    "name_en": "Mayonnaise Canapé",
+    "slug": "p224_cesitli_malzeme_ile_kanepe",
+    "name_tr": "ÇEŞİTLİ MALZEME İLE KANEPE",
+    "name_en": "Canapé with Assorted Toppings",
     "tags": [
-      "vegetarian"
+      "meat"
     ]
   },
   {
@@ -1673,18 +1673,18 @@
   },
   {
     "page": 286,
-    "slug": "p286_bayat_ekmek_tatlisi",
-    "name_tr": "BAYAT EKMEK TATLISI",
-    "name_en": "Stale Bread Dessert",
+    "slug": "p286_hosmerim",
+    "name_tr": "HOŞMERİM",
+    "name_en": "Hoşmerim",
     "tags": [
       "vegetarian"
     ]
   },
   {
     "page": 286,
-    "slug": "p286_hosmerim",
-    "name_tr": "HOŞMERİM",
-    "name_en": "Hoşmerim",
+    "slug": "p286_bayat_ekmek_tatlisi",
+    "name_tr": "BAYAT EKMEK TATLISI",
+    "name_en": "Stale Bread Dessert",
     "tags": [
       "vegetarian"
     ]
@@ -2298,12 +2298,30 @@
     ]
   },
   {
+    "page": 373,
+    "slug": "p373_kolay_meyva_jolesi",
+    "name_tr": "KOLAY MEYVA JÖLESİ",
+    "name_en": "Easy Fruit Jelly",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
     "page": 374,
     "slug": "p374_fondan",
     "name_tr": "FONDAN",
     "name_en": "Fondant",
     "tags": [
       "vegan"
+    ]
+  },
+  {
+    "page": 375,
+    "slug": "p375_cikolatali_bonbon",
+    "name_tr": "ÇİKOLATALI BONBON",
+    "name_en": "Chocolate Bonbons",
+    "tags": [
+      "vegetarian"
     ]
   },
   {
@@ -2316,12 +2334,21 @@
     ]
   },
   {
-    "page": 375,
-    "slug": "p375_cikolatali_bonbon",
-    "name_tr": "ÇİKOLATALI BONBON",
-    "name_en": "Chocolate Bonbons",
+    "page": 376,
+    "slug": "p376_kestane_sekerlemesi",
+    "name_tr": "KESTANE ŞEKERLEMESİ",
+    "name_en": "Candied Chestnuts",
     "tags": [
-      "vegetarian"
+      "vegan"
+    ]
+  },
+  {
+    "page": 377,
+    "slug": "p377_boza",
+    "name_tr": "BOZA",
+    "name_en": "Boza",
+    "tags": [
+      "vegan"
     ]
   },
   {
@@ -2338,6 +2365,15 @@
     "slug": "p380_mevsimlik_suruplar",
     "name_tr": "MEVSİMLİK ŞURUPLAR",
     "name_en": "Seasonal Fruit Syrups",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 381,
+    "slug": "p381_portakal_likoru",
+    "name_tr": "PORTAKAL LİKÖRÜ",
+    "name_en": "Orange Liqueur",
     "tags": [
       "vegan"
     ]
