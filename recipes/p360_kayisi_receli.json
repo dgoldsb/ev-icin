@@ -1,5 +1,6 @@
 {
   "page": 360,
+  "page_end": 361,
   "slug": "p360_kayisi_receli",
   "name_tr": "KAYISI REÇELİ",
   "name_en": "Apricot Jam (Using Lime Water)",
@@ -32,5 +33,13 @@
     "Boil over low heat until it reaches jam consistency. Near the end, add the lemon juice. Boil for five more minutes. Take off the heat.",
     "Skim off the foam. Put into a jar while hot. Close the lid once cool. Store in a cool place."
   ],
-  "notes_en": "Note: Lime water keeps soft fruit firm and prevents it from falling apart."
+  "notes_en": "Note: Lime water keeps soft fruit firm and prevents it from falling apart.",
+  "variations": [
+    {
+      "name_tr": "BAL KABAĞI REÇELİ",
+      "name_en": "Pumpkin Jam",
+      "description_tr": "Şurubuna bir portakal suyu, beş altı karanfil atılıp yukarıdaki işlemler aynen uygulanarak yapılır. İstenirse ocaktan alınacağına on dakika kala, ortadan ikiye bölünerek birkaç saat suda bırakılıp iç kabukları soyulmuş beş altı adet ceviz konur.",
+      "description_en": "Made by adding one orange's juice and five or six cloves to its syrup and following the steps above exactly. If desired, ten minutes before taking it off the stove, five or six walnuts — halved, soaked in water for a few hours, and inner-skinned — are added."
+    }
+  ]
 }

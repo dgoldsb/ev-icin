@@ -1913,6 +1913,15 @@
     ]
   },
   {
+    "page": 315,
+    "slug": "p315_halka",
+    "name_tr": "HALKA",
+    "name_en": "Halka (Ring Cookies)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
     "page": 316,
     "slug": "p316_anasonlu_simit",
     "name_tr": "ANASONLU SİMİT",
@@ -2059,6 +2068,7 @@
   },
   {
     "page": 335,
+    "page_end": 336,
     "slug": "p335_yagli_kek",
     "name_tr": "YAĞLI KEK",
     "name_en": "Rich Cake",
@@ -2133,6 +2143,15 @@
     ]
   },
   {
+    "page": 350,
+    "slug": "p350_suale_krem",
+    "name_tr": "ŞUALE KREM",
+    "name_en": "Cream Puffs (Choux à la Crème)",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
     "page": 352,
     "page_end": 353,
     "slug": "p352_kremali_milfoy",
@@ -2171,6 +2190,15 @@
     ]
   },
   {
+    "page": 358,
+    "slug": "p358_mozaik_pastasi",
+    "name_tr": "MOZAİK PASTASI",
+    "name_en": "Mosaic Biscuit Cake",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
     "page": 359,
     "slug": "p359_recel_marmelat_bilgileri",
     "name_tr": "REÇEL MARMELAT YAPIMI İLE İLGİLİ KISA BİLGİLER",
@@ -2179,9 +2207,19 @@
   },
   {
     "page": 360,
+    "page_end": 361,
     "slug": "p360_kayisi_receli",
     "name_tr": "KAYISI REÇELİ",
     "name_en": "Apricot Jam (Using Lime Water)",
+    "tags": [
+      "vegan"
+    ]
+  },
+  {
+    "page": 362,
+    "slug": "p362_kayisi_receli",
+    "name_tr": "KAYISI REÇELİ",
+    "name_en": "Apricot Jam",
     "tags": [
       "vegan"
     ]

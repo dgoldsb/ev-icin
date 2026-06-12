@@ -1,5 +1,6 @@
 {
   "page": 335,
+  "page_end": 336,
   "slug": "p335_yagli_kek",
   "name_tr": "YAĞLI KEK",
   "name_en": "Rich Cake",
@@ -25,7 +26,8 @@
   ],
   "notes_tr": [
     "Not: Bu kek için uzun kek kalıbı tercih edilir.",
-    "İyi yapılmış yağlı kek ortasından çatlar."
+    "İyi yapılmış yağlı kek ortasından çatlar.",
+    "GENEL BİLGİ: Yumurta akını sarısından ayırmak zor gelirse, yumurtadan küçük bir delik açılır. Akı buradan akıtılır. İçinde kalan sarısı kırılarak başka kaba alınır. Ya da yumurta huniye kırılır. Akı huninin altına konan tabağa akar. Sarısı top halinde huninin içinde kalır."
   ],
   "ingredients_en": [
     "A finger's width less than 1,5 cups flour",
@@ -49,6 +51,7 @@
   ],
   "notes_en": [
     "Note: A long loaf pan is preferred for this cake.",
-    "A well-made rich cake cracks down the middle."
+    "A well-made rich cake cracks down the middle.",
+    "GENERAL NOTE: If separating the egg white from the yolk is difficult, make a small hole in the egg. Let the white run out through it. Crack the yolk remaining inside into another container. Or crack the egg into a funnel. The white runs into a plate placed under the funnel. The yolk stays as a ball inside the funnel."
   ]
 }
