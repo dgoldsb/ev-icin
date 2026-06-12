@@ -27,7 +27,7 @@
   ],
   "instructions_en": [
     "Clean and wash the rice and soak in warm water for one hour.",
-    "In a pot, sauté the fat and the drained rice over medium heat for about five minutes — turning the rice from the edge of the pot inward with a slotted spoon, without breaking the grains and without letting them brown.",
+    "In a pot, sauté the butter and the drained rice over medium heat for about five minutes, turning the rice from the edge of the pot inward with a slotted spoon, without breaking the grains and without letting them brown.",
     "Add the measured boiling water. Add salt. Stir once and cover.",
     "Cook one minute on high, four minutes on medium, and four minutes on low heat.",
     "Remove from heat, stir once, and cover.",
@@ -39,13 +39,13 @@
       "name_tr": "ŞEHRİYELİ PİLAV",
       "name_en": "Pilaf with Vermicelli",
       "description_tr": "Sade pilavın pirinci konmadan, iki çorba kaşığı arpa veya tel şehriye yağla pembeleştirilir. Diğer işlemler aynen uygulanır.",
-      "description_en": "Before adding the rice for plain pilaf, two tablespoons of orzo or thread vermicelli are browned in the fat. The other steps are applied the same way."
+      "description_en": "Before adding the rice for plain pilaf, two tablespoons of orzo or thread vermicelli are browned in the butter. The other steps are applied the same way."
     },
     {
       "name_tr": "BEZELYELİ PİLAV",
       "name_en": "Pilaf with Peas",
       "description_tr": "Sade pilava, haşlanmış veya haşlanıp yarım kaşık tereyağı ile sote yapılmış, bir su bardağı bezelye karıştırılır.",
-      "description_en": "One cup of peas — boiled, or boiled and then sautéed with half a spoon of butter — is mixed into the plain pilaf."
+      "description_en": "One cup of peas (boiled, or boiled and then sautéed with half a spoon of butter) is mixed into the plain pilaf."
     }
   ]
 }
