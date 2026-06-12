@@ -3,20 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#faf6ec">
+  <meta name="theme-color" content="#1f97ba">
   <title>Ev İçin</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="band">Pratik Bilgiler / Yemekler</div>
   <div class="wrap">
     <header class="masthead">
-      <p class="masthead-author">Nemide Toğrul</p>
-      <h1 class="masthead-title">Ev İçin</h1>
-      <p><span class="masthead-band" id="masthead-band">Pratik Bilgiler / Yemekler</span></p>
-      <hr class="masthead-rule">
+      <img src="images/cover.png" alt="Ev İçin — kitap kapağı" class="cover-thumb" width="88" height="132">
+      <div>
+        <h1>Ev İçin</h1>
+        <p class="masthead-author">Nemide Toğrul</p>
+      </div>
     </header>
   </div>
 
@@ -65,7 +64,6 @@
 
     const STRINGS = {
       tr: {
-        band: 'Pratik Bilgiler / Yemekler',
         searchPlaceholder: 'Tarif ara…',
         searchLabel: 'Tarif ara',
         clearLabel: 'Aramayı temizle',
@@ -76,7 +74,6 @@
         loadError: 'Tarif listesi yüklenemedi.',
       },
       en: {
-        band: 'Practical Tips / Recipes',
         searchPlaceholder: 'Search recipes…',
         searchLabel: 'Search recipes',
         clearLabel: 'Clear search',
@@ -183,7 +180,6 @@
       document.getElementById('btn-tr').setAttribute('aria-pressed', lang === 'tr');
       document.getElementById('btn-en').setAttribute('aria-pressed', lang === 'en');
 
-      document.getElementById('masthead-band').textContent = t.band;
       const input = document.getElementById('search');
       input.placeholder = t.searchPlaceholder;
       input.setAttribute('aria-label', t.searchLabel);
