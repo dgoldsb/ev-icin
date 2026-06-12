@@ -3,38 +3,90 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#faf6ec">
   <title>Ev İçin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <img src="images/cover.png" alt="Ev İçin — Nemide Toğrul" class="cover">
-  </header>
-  <main>
-    <nav class="toc">
-      <div class="toc-controls">
-        <div class="lang-switcher">
+  <div class="wrap">
+    <header class="masthead">
+      <p class="masthead-author">Nemide Toğrul</p>
+      <h1 class="masthead-title">Ev İçin</h1>
+      <p><span class="masthead-band" id="masthead-band">Pratik Bilgiler / Yemekler</span></p>
+      <hr class="masthead-rule">
+    </header>
+  </div>
+
+  <div class="toolbar">
+    <div class="toolbar-inner">
+      <div class="search-row">
+        <div class="search-box" role="search">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+          </svg>
+          <input type="search" id="search" autocomplete="off" placeholder="Tarif ara…" aria-label="Tarif ara">
+          <button type="button" id="search-clear" class="search-clear" aria-label="Aramayı temizle">×</button>
+        </div>
+        <div class="lang-switch" role="group" aria-label="Dil / Language">
           <button id="btn-tr" class="lang-btn active" aria-pressed="true">TR</button>
           <button id="btn-en" class="lang-btn" aria-pressed="false">EN</button>
         </div>
-        <div class="diet-filters" role="group" aria-label="Diet filter">
-          <button class="filter-btn active" data-filter="all">Tümü</button>
-          <button class="filter-btn" data-filter="meat">Et</button>
-          <button class="filter-btn" data-filter="fish">Balık</button>
-          <button class="filter-btn" data-filter="vegetarian">Vejetaryen</button>
-          <button class="filter-btn" data-filter="vegan">Vegan</button>
-        </div>
       </div>
-      <h2 id="toc-heading">Tarifler</h2>
-      <ul id="recipe-list">
-        <li class="loading">Loading…</li>
-      </ul>
-    </nav>
-  </main>
+      <div class="filter-row" role="group" aria-label="Yemek türü">
+        <button class="filter-btn active" data-filter="all">Tümü</button>
+        <button class="filter-btn" data-filter="meat">Et</button>
+        <button class="filter-btn" data-filter="fish">Balık</button>
+        <button class="filter-btn" data-filter="vegetarian">Vejetaryen</button>
+        <button class="filter-btn" data-filter="vegan">Vegan</button>
+      </div>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <main>
+      <nav class="toc" aria-labelledby="result-count">
+        <ol id="recipe-list">
+          <li class="loading">Yükleniyor… / Loading…</li>
+        </ol>
+      </nav>
+    </main>
+  </div>
+
   <script>
     let allRecipes = [];
     let currentLang = 'tr';
     let currentFilter = 'all';
+    let currentQuery = '';
+
+    const STRINGS = {
+      tr: {
+        band: 'Pratik Bilgiler / Yemekler',
+        searchPlaceholder: 'Tarif ara…',
+        searchLabel: 'Tarif ara',
+        clearLabel: 'Aramayı temizle',
+        filterGroup: 'Yemek türü',
+        count: n => n === 1 ? '1 tarif' : `${n} tarif`,
+        empty: 'Aradığınız tarif bulunamadı.',
+        reset: 'Aramayı temizle',
+        loadError: 'Tarif listesi yüklenemedi.',
+      },
+      en: {
+        band: 'Practical Tips / Recipes',
+        searchPlaceholder: 'Search recipes…',
+        searchLabel: 'Search recipes',
+        clearLabel: 'Clear search',
+        filterGroup: 'Type of dish',
+        count: n => n === 1 ? '1 recipe' : `${n} recipes`,
+        empty: 'No recipes match your search.',
+        reset: 'Clear search',
+        loadError: 'Could not load the recipe list.',
+      },
+    };
 
     const filterLabels = {
       all:         { tr: 'Tümü',       en: 'All' },
@@ -48,39 +100,97 @@
       currentLang = localStorage.getItem('evicin-lang') || 'tr';
     } catch (e) {}
 
-    function render() {
-      const heading = document.getElementById('toc-heading');
-      heading.textContent = currentLang === 'tr' ? 'Tarifler' : 'Recipes';
+    // Fold Turkish diacritics so "corba" finds "ÇORBASI" and vice versa.
+    function fold(s) {
+      return (s || '')
+        .toLocaleLowerCase('tr')
+        .replace(/ı/g, 'i')
+        .replace(/ş/g, 's')
+        .replace(/ğ/g, 'g')
+        .replace(/ç/g, 'c')
+        .replace(/ö/g, 'o')
+        .replace(/ü/g, 'u')
+        .normalize('NFD')
+        .replace(/[̀-ͯ]/g, '');
+    }
 
-      const visible = currentFilter === 'all'
-        ? allRecipes
-        : allRecipes.filter(r => (r.tags || []).includes(currentFilter));
+    function matchesQuery(r) {
+      if (!currentQuery) return true;
+      const q = fold(currentQuery);
+      return fold(r.name_tr).includes(q) || fold(r.name_en).includes(q);
+    }
+
+    function matchesFilter(r) {
+      return currentFilter === 'all' || (r.tags || []).includes(currentFilter);
+    }
+
+    function pageLabel(r) {
+      return r.page_end ? `${r.page}–${r.page_end}` : `${r.page}`;
+    }
+
+    function displayName(r) {
+      return currentLang === 'tr' ? r.name_tr : r.name_en;
+    }
+
+    function render() {
+      const t = STRINGS[currentLang];
+      const visible = allRecipes.filter(r => matchesQuery(r) && matchesFilter(r));
+      const recipeCount = visible.filter(r => r.kind !== 'section').length;
+      document.getElementById('result-count').textContent = t.count(recipeCount);
 
       const list = document.getElementById('recipe-list');
-      if (visible.length === 0) {
-        list.innerHTML = '<li class="toc-empty">No recipes found for this filter.</li>';
+      if (recipeCount === 0) {
+        list.innerHTML = `
+          <li class="toc-empty">
+            <p>${t.empty}</p>
+            <button type="button" class="btn-reset" id="btn-reset">${t.reset}</button>
+          </li>`;
+        document.getElementById('btn-reset').addEventListener('click', resetFilters);
         return;
       }
+
       list.innerHTML = visible.map(r => `
         <li${r.kind === 'section' ? ' class="toc-section"' : ''}>
           <a href="recipe.html?id=${r.slug}">
-            <span>${currentLang === 'tr' ? r.name_tr : r.name_en.toUpperCase()}</span>
-            <span class="page-num">p. ${r.page}</span>
+            <span class="recipe-name">${displayName(r)}</span>
+            <span class="leader" aria-hidden="true"></span>
+            <span class="page-num">${currentLang === 'tr' ? 's.' : 'p.'} ${pageLabel(r)}</span>
           </a>
         </li>
       `).join('');
     }
 
+    function resetFilters() {
+      currentQuery = '';
+      currentFilter = 'all';
+      const input = document.getElementById('search');
+      input.value = '';
+      document.getElementById('search-clear').classList.remove('visible');
+      document.querySelectorAll('.filter-btn').forEach(b =>
+        b.classList.toggle('active', b.dataset.filter === 'all'));
+      render();
+      input.focus();
+    }
+
     function setLang(lang) {
       currentLang = lang;
       try { localStorage.setItem('evicin-lang', lang); } catch (e) {}
+      document.documentElement.lang = lang;
+      const t = STRINGS[lang];
+
       document.getElementById('btn-tr').classList.toggle('active', lang === 'tr');
       document.getElementById('btn-en').classList.toggle('active', lang === 'en');
       document.getElementById('btn-tr').setAttribute('aria-pressed', lang === 'tr');
       document.getElementById('btn-en').setAttribute('aria-pressed', lang === 'en');
+
+      document.getElementById('masthead-band').textContent = t.band;
+      const input = document.getElementById('search');
+      input.placeholder = t.searchPlaceholder;
+      input.setAttribute('aria-label', t.searchLabel);
+      document.getElementById('search-clear').setAttribute('aria-label', t.clearLabel);
+      document.querySelector('.filter-row').setAttribute('aria-label', t.filterGroup);
       document.querySelectorAll('.filter-btn').forEach(btn => {
-        const key = btn.dataset.filter;
-        btn.textContent = filterLabels[key][lang];
+        btn.textContent = filterLabels[btn.dataset.filter][lang];
       });
       render();
     }
@@ -88,7 +198,7 @@
     document.getElementById('btn-tr').addEventListener('click', () => setLang('tr'));
     document.getElementById('btn-en').addEventListener('click', () => setLang('en'));
 
-    document.querySelector('.diet-filters').addEventListener('click', e => {
+    document.querySelector('.filter-row').addEventListener('click', e => {
       const btn = e.target.closest('.filter-btn');
       if (!btn) return;
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -97,7 +207,24 @@
       render();
     });
 
-    // Apply persisted language to button state before fetch
+    const searchInput = document.getElementById('search');
+    const searchClear = document.getElementById('search-clear');
+
+    searchInput.addEventListener('input', () => {
+      currentQuery = searchInput.value.trim();
+      searchClear.classList.toggle('visible', currentQuery.length > 0);
+      render();
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      currentQuery = '';
+      searchClear.classList.remove('visible');
+      render();
+      searchInput.focus();
+    });
+
+    // Apply persisted language to controls before fetch
     setLang(currentLang);
 
     fetch('index.json')
@@ -108,7 +235,7 @@
       })
       .catch(() => {
         document.getElementById('recipe-list').innerHTML =
-          '<li class="error">Could not load recipe list.</li>';
+          `<li class="error">${STRINGS[currentLang].loadError}</li>`;
       });
   </script>
 </body>

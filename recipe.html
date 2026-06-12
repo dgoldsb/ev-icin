@@ -3,18 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#faf6ec">
   <title>Ev İçin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <nav class="page-nav" id="page-nav" aria-label="Recipe navigation"></nav>
-    <div class="header-row">
-      <h1 id="title">…</h1>
-      <a id="lang-toggle" class="lang-toggle"></a>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="back-link" href="index.html" id="back-link">← Tarifler</a>
+      <span class="topbar-spacer"></span>
+      <nav class="page-nav" id="page-nav" aria-label="Recipe navigation" style="display: contents;"></nav>
+      <div class="lang-switch" role="group" aria-label="Dil / Language" id="lang-switch"></div>
     </div>
   </header>
-  <main id="content"></main>
+  <div class="wrap">
+    <h1 class="recipe-title" id="title">…</h1>
+    <p class="recipe-meta" id="meta"></p>
+    <main id="content"></main>
+    <div class="ornament" aria-hidden="true">❧</div>
+    <nav class="bottom-nav" id="bottom-nav" aria-label="Previous and next recipe"></nav>
+  </div>
   <script>
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
@@ -29,9 +40,19 @@
 
     document.documentElement.lang = lang;
 
-    function toggleURL() {
+    const STRINGS = lang === 'tr'
+      ? { back: '← Tarifler', ingredients: 'Malzemeler', instructions: 'İşlemler',
+          variation: 'Çeşit', page: 's.', inBook: 'Kitapta', prev: 'Önceki', next: 'Sonraki',
+          notFound: 'Tarif bulunamadı', loadError: 'Bu tarif yüklenemedi.' }
+      : { back: '← Recipes', ingredients: 'Ingredients', instructions: 'Instructions',
+          variation: 'Variation', page: 'p.', inBook: 'In the book', prev: 'Previous', next: 'Next',
+          notFound: 'Recipe not found', loadError: 'Could not load this recipe.' };
+
+    document.getElementById('back-link').textContent = STRINGS.back;
+
+    function langURL(targetLang) {
       const next = new URLSearchParams(window.location.search);
-      next.set('lang', lang === 'tr' ? 'en' : 'tr');
+      next.set('lang', targetLang);
       return `?${next.toString()}`;
     }
 
@@ -42,8 +63,17 @@
       return `?${next.toString()}`;
     }
 
+    function pageLabel(r) {
+      return r.page_end ? `${r.page}–${r.page_end}` : `${r.page}`;
+    }
+
+    // Language switch is two links so it works as plain navigation
+    document.getElementById('lang-switch').innerHTML = `
+      <a class="lang-btn${lang === 'tr' ? ' active' : ''}" href="${langURL('tr')}" ${lang === 'tr' ? 'aria-current="true"' : ''}>TR</a>
+      <a class="lang-btn${lang === 'en' ? ' active' : ''}" href="${langURL('en')}" ${lang === 'en' ? 'aria-current="true"' : ''}>EN</a>`;
+
     if (!id) {
-      document.getElementById('title').textContent = 'Recipe not found';
+      document.getElementById('title').textContent = STRINGS.notFound;
     } else {
       Promise.all([
         fetch(`recipes/${id}.json`).then(r => { if (!r.ok) throw new Error(); return r.json(); }),
@@ -54,8 +84,8 @@
           renderNav(index);
         })
         .catch(() => {
-          document.getElementById('title').textContent = 'Recipe not found';
-          document.getElementById('content').innerHTML = '<p>Could not load this recipe.</p>';
+          document.getElementById('title').textContent = STRINGS.notFound;
+          document.getElementById('content').innerHTML = `<p>${STRINGS.loadError}</p>`;
         });
     }
 
@@ -66,11 +96,9 @@
       const notes = r[`notes${suffix}`];
 
       document.title = `${name} — Ev İçin`;
-      document.getElementById('title').textContent = lang === 'en' ? name.toUpperCase() : name;
-
-      const toggle = document.getElementById('lang-toggle');
-      toggle.href = toggleURL();
-      toggle.textContent = lang === 'tr' ? 'English' : 'Türkçe';
+      document.getElementById('title').textContent = name;
+      document.getElementById('meta').textContent =
+        `${STRINGS.inBook}: ${STRINGS.page} ${pageLabel(r)}`;
 
       // Section-intro pages carry no recipe scaffolding — just a title and body paragraphs.
       if (r.kind === 'section') {
@@ -78,32 +106,26 @@
         document.getElementById('content').innerHTML = `
         <section class="recipe-content section-intro">
           ${body.map(p => `<p>${p}</p>`).join('\n          ')}
-        </section>
-        <p class="page-source">p. ${r.page}</p>`;
+        </section>`;
         return;
       }
 
-      const headings = lang === 'tr'
-        ? { ingredients: 'Malzemeler', instructions: 'İşlemler', note: 'Not', variation: 'Çeşit' }
-        : { ingredients: 'Ingredients', instructions: 'Instructions', note: 'Note', variation: 'Variation' };
-
       const hasIngredients = Array.isArray(ingredients) && ingredients.length > 0;
-      let html = `
-        <section class="recipe-content">`;
+      let html = '<section class="recipe-content">';
       if (hasIngredients) {
         html += `
-          <h2>${headings.ingredients}</h2>
-          <ul>
-            ${ingredients.map(i => `<li>${i}</li>`).join('\n            ')}
-          </ul>
-`;
+          <div class="ingredients-card">
+            <h2>${STRINGS.ingredients}</h2>
+            <ul>
+              ${ingredients.map(i => `<li>${i}</li>`).join('\n              ')}
+            </ul>
+          </div>`;
       }
       html += `
-          <h2>${headings.instructions}</h2>
-          <ol>
-            ${instructions.map(s => `<li>${s}</li>`).join('\n            ')}
-          </ol>
-      `;
+          <h2 class="steps-heading">${STRINGS.instructions}</h2>
+          <ol class="steps">
+            ${instructions.map(s => `<li><span>${s}</span></li>`).join('\n            ')}
+          </ol>`;
 
       if (notes) {
         const notesArr = Array.isArray(notes) ? notes : [notes];
@@ -115,14 +137,12 @@
           const vname = v[`name${suffix}`];
           const vdesc = v[`description${suffix}`];
           html += `
-          <h3>${headings.variation}: ${vname}</h3>
+          <h3>${STRINGS.variation}: ${vname}</h3>
           <p>${vdesc}</p>`;
         });
       }
 
-      html += `\n        </section>
-        <p class="page-source">p. ${r.page}</p>`;
-
+      html += '\n        </section>';
       document.getElementById('content').innerHTML = html;
     }
 
@@ -130,17 +150,29 @@
       const i = index.findIndex(r => r.slug === id);
       const prev = index[i - 1] ?? null;
       const next = index[i + 1] ?? null;
+      const name = r => lang === 'tr' ? r.name_tr : r.name_en;
 
-      const prevLink = prev
-        ? `<a class="page-nav-arrow" href="${recipeURL(prev.slug)}" title="p. ${prev.page}">←</a>`
-        : `<span class="page-nav-arrow page-nav-disabled">←</span>`;
+      document.getElementById('page-nav').innerHTML = `
+        ${prev
+          ? `<a class="nav-btn" href="${recipeURL(prev.slug)}" aria-label="${STRINGS.prev}: ${name(prev)}">←</a>`
+          : '<span class="nav-btn disabled" aria-hidden="true">←</span>'}
+        ${next
+          ? `<a class="nav-btn" href="${recipeURL(next.slug)}" aria-label="${STRINGS.next}: ${name(next)}">→</a>`
+          : '<span class="nav-btn disabled" aria-hidden="true">→</span>'}`;
 
-      const nextLink = next
-        ? `<a class="page-nav-arrow" href="${recipeURL(next.slug)}" title="p. ${next.page}">→</a>`
-        : `<span class="page-nav-arrow page-nav-disabled">→</span>`;
-
-      document.getElementById('page-nav').innerHTML =
-        `${prevLink}<a class="page-nav-index" href="index.html">Ev İçin</a>${nextLink}`;
+      document.getElementById('bottom-nav').innerHTML = `
+        ${prev
+          ? `<a class="bnav bnav-prev" href="${recipeURL(prev.slug)}">
+               <span class="bnav-label">← ${STRINGS.prev}</span>
+               <span class="bnav-name">${name(prev)}</span>
+             </a>`
+          : '<span class="bnav bnav-empty"></span>'}
+        ${next
+          ? `<a class="bnav bnav-next" href="${recipeURL(next.slug)}">
+               <span class="bnav-label">${STRINGS.next} →</span>
+               <span class="bnav-name">${name(next)}</span>
+             </a>`
+          : '<span class="bnav bnav-empty"></span>'}`;
     }
   </script>
 </body>
